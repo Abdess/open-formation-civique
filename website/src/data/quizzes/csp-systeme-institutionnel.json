@@ -1,556 +1,923 @@
 {
   "id": "csp-systeme-institutionnel",
   "title": "CSP - Système institutionnel et politique",
+  "titleEn": "CSP - Institutional and Political System",
   "description": "Quiz officiel CSP (Contrat de Séjour Pluriannuel) – Système institutionnel et politique. Questions officielles de l'examen de connaissance.",
+  "descriptionEn": "Official CSP quiz (Contrat de Séjour Pluriannuel - Multi-Year Residence Contract) – Institutional and Political System. Official exam questions.",
   "questions": [
     {
       "id": "csp-si-q1",
       "question": "Quel est le rôle de l'autorité judiciaire ?",
+      "questionEn": "What is the role of the judicial authority?",
       "options": [
         "Diriger l'armée et la diplomatie",
         "Nommer les ministres du Gouvernement",
         "Contrôler l'application des lois et sanctionner leur non-respect",
         "Voter les lois à l'Assemblée nationale"
       ],
+      "optionsEn": [
+        "Lead the army and diplomacy",
+        "Appoint government ministers",
+        "Monitor the application of laws and punish those who break them",
+        "Vote on laws at the National Assembly"
+      ],
       "correctAnswer": 2,
-      "explanation": "L'autorité judiciaire, exercée par les juges et magistrats, a pour mission de contrôler l'application des lois, de trancher les litiges et de sanctionner les infractions."
+      "explanation": "L'autorité judiciaire, exercée par les juges et magistrats, a pour mission de contrôler l'application des lois, de trancher les litiges et de sanctionner les infractions.",
+      "explanationEn": "The judicial authority, exercised by judges and magistrates, is responsible for monitoring the application of laws, settling disputes, and punishing offences."
     },
     {
       "id": "csp-si-q2",
       "question": "Quel pouvoir détient un juge ? Le pouvoir :",
+      "questionEn": "What power does a judge hold? The power to:",
       "options": [
         "Législatif",
         "Absolu",
         "Judiciaire",
         "Exécutif"
       ],
+      "optionsEn": [
+        "Legislative (make laws)",
+        "Absolute (unlimited power)",
+        "Judicial (apply laws and deliver justice)",
+        "Executive (enforce laws)"
+      ],
       "correctAnswer": 2,
-      "explanation": "Dans le principe de séparation des pouvoirs, les juges exercent le pouvoir judiciaire (appliquer la loi et rendre la justice), distinct du législatif (voter la loi) et de l'exécutif (faire respecter la loi)."
+      "explanation": "Dans le principe de séparation des pouvoirs, les juges exercent le pouvoir judiciaire (appliquer la loi et rendre la justice), distinct du législatif (voter la loi) et de l'exécutif (faire respecter la loi).",
+      "explanationEn": "In the principle of separation of powers, judges hold judicial power (applying the law and delivering justice), which is separate from legislative power (voting on laws) and executive power (enforcing laws)."
     },
     {
       "id": "csp-si-q3",
       "question": "L'autorité judiciaire est exercée par :",
+      "questionEn": "The judicial authority is exercised by:",
       "options": [
         "Le Président de la République",
         "Les députés et les sénateurs",
         "Les juges et les magistrats",
         "Les préfets et les maires"
       ],
+      "optionsEn": [
+        "The President of the Republic",
+        "The members of parliament (deputies and senators)",
+        "The judges and magistrates",
+        "The préfets (regional officials) and mayors"
+      ],
       "correctAnswer": 2,
-      "explanation": "L'autorité judiciaire est confiée à des juges et des magistrats indépendants, qui sont recrutés par concours et non choisis par le pouvoir politique."
+      "explanation": "L'autorité judiciaire est confiée à des juges et des magistrats indépendants, qui sont recrutés par concours et non choisis par le pouvoir politique.",
+      "explanationEn": "The judicial authority is entrusted to independent judges and magistrates, who are recruited through competitive exams and not chosen by politicians."
     },
     {
       "id": "csp-si-q4",
       "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+      "questionEn": "What happens if a minister does not follow the law?",
       "options": [
         "Il ne peut pas être jugé car il fait partie du Gouvernement",
         "Il peut être sanctionné comme tout citoyen",
         "Il décide lui-même de sa sanction",
         "Il est protégé par le Président de la République"
       ],
+      "optionsEn": [
+        "He cannot be judged because he is part of the Government",
+        "He can be punished like any citizen",
+        "He decides his own punishment",
+        "He is protected by the President of the Republic"
+      ],
       "correctAnswer": 1,
-      "explanation": "Dans un État de droit, la loi est la même pour tous. Un ministre n'est pas au-dessus des lois et peut être sanctionné par la justice s'il ne la respecte pas."
+      "explanation": "Dans un État de droit, la loi est la même pour tous. Un ministre n'est pas au-dessus des lois et peut être sanctionné par la justice s'il ne la respecte pas.",
+      "explanationEn": "In a state governed by law, the law is the same for everyone. A minister is not above the law and can be punished by the courts if he does not follow it."
     },
     {
       "id": "csp-si-q5",
       "question": "Qui est élu lors des élections législatives ?",
+      "questionEn": "Who is elected in legislative elections?",
       "options": [
         "Les députés",
         "Les maires",
         "Les sénateurs",
         "Le Président de la République"
       ],
+      "optionsEn": [
+        "The deputies (members of the National Assembly)",
+        "The mayors",
+        "The senators",
+        "The President of the Republic"
+      ],
       "correctAnswer": 0,
-      "explanation": "Les élections législatives permettent aux citoyens d'élire les députés qui siègent à l'Assemblée nationale pour voter les lois."
+      "explanation": "Les élections législatives permettent aux citoyens d'élire les députés qui siègent à l'Assemblée nationale pour voter les lois.",
+      "explanationEn": "Legislative elections allow citizens to elect deputies who sit in the National Assembly (Assemblée nationale) to vote on laws."
     },
     {
       "id": "csp-si-q6",
-      "question": "Combien de députés composent l’Assemblée nationale ?",
+      "question": "Combien de députés composent l'Assemblée nationale ?",
+      "questionEn": "How many deputies make up the National Assembly?",
       "options": [
         "577 députés",
         "348 députés",
         "81 députés",
         "101 députés"
       ],
+      "optionsEn": [
+        "577 deputies",
+        "348 deputies",
+        "81 deputies",
+        "101 deputies"
+      ],
       "correctAnswer": 0,
-      "explanation": "L'Assemblée nationale est composée de 577 députés élus au suffrage universel direct pour un mandat de 5 ans."
+      "explanation": "L'Assemblée nationale est composée de 577 députés élus au suffrage universel direct pour un mandat de 5 ans.",
+      "explanationEn": "The National Assembly is made up of 577 deputies elected by direct universal vote for a 5-year term."
     },
     {
       "id": "csp-si-q7",
       "question": "Quel est le rôle du Parlement ?",
+      "questionEn": "What is the role of Parliament?",
       "options": [
         "Il nomme les préfets dans les départements",
         "Il vote la loi et contrôle l'action du Gouvernement",
         "Il dirige l'armée et la diplomatie",
         "Il rend la justice et sanctionne les infractions"
       ],
+      "optionsEn": [
+        "It appoints préfets in the departments",
+        "It votes on laws and oversees the actions of the Government",
+        "It leads the army and diplomacy",
+        "It delivers justice and punishes offences"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le Parlement (composé de l'Assemblée nationale et du Sénat) détient le pouvoir législatif : il propose, discute et vote les lois. Il a aussi pour mission de contrôler l'action du Gouvernement."
+      "explanation": "Le Parlement (composé de l'Assemblée nationale et du Sénat) détient le pouvoir législatif : il propose, discute et vote les lois. Il a aussi pour mission de contrôler l'action du Gouvernement.",
+      "explanationEn": "Parliament (made up of the National Assembly and the Senate) holds legislative power: it proposes, discusses, and votes on laws. It is also responsible for overseeing the actions of the Government."
     },
     {
       "id": "csp-si-q8",
       "question": "Quel est le régime politique de la France aujourd'hui ?",
+      "questionEn": "What is the political system of France today?",
       "options": [
         "Une république démocratique",
         "Un empire parlementaire",
         "Une dictature militaire",
         "Une monarchie constitutionnelle"
       ],
+      "optionsEn": [
+        "A democratic republic",
+        "A parliamentary empire",
+        "A military dictatorship",
+        "A constitutional monarchy"
+      ],
       "correctAnswer": 0,
-      "explanation": "La France est une République (le pouvoir n'est pas héréditaire) et une démocratie (le pouvoir vient du peuple qui élit ses représentants au suffrage universel)."
+      "explanation": "La France est une République (le pouvoir n'est pas héréditaire) et une démocratie (le pouvoir vient du peuple qui élit ses représentants au suffrage universel).",
+      "explanationEn": "France is a Republic (power is not inherited) and a democracy (power comes from the people who elect their representatives by universal vote)."
     },
     {
       "id": "csp-si-q9",
       "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+      "questionEn": "How many countries are members of the European Union as of 1 January 2025?",
       "options": [
         "28 États",
         "15 États",
         "50 États",
         "27 États"
       ],
+      "optionsEn": [
+        "28 countries",
+        "15 countries",
+        "50 countries",
+        "27 countries"
+      ],
       "correctAnswer": 3,
-      "explanation": "L'Union européenne compte 27 États membres depuis le départ du Royaume-Uni (Brexit) en 2020. La Croatie était le dernier pays à avoir rejoint l'UE en 2013."
+      "explanation": "L'Union européenne compte 27 États membres depuis le départ du Royaume-Uni (Brexit) en 2020. La Croatie était le dernier pays à avoir rejoint l'UE en 2013.",
+      "explanationEn": "The European Union has 27 member countries since the United Kingdom left (Brexit) in 2020. Croatia was the last country to join the EU in 2013."
     },
     {
       "id": "csp-si-q10",
       "question": "Quel État n'est pas membre de l'Union européenne ?",
+      "questionEn": "Which country is NOT a member of the European Union?",
       "options": [
         "Le Royaume-Uni",
         "L'Allemagne",
         "La Pologne",
         "L'Italie"
       ],
+      "optionsEn": [
+        "The United Kingdom",
+        "Germany",
+        "Poland",
+        "Italy"
+      ],
       "correctAnswer": 0,
-      "explanation": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020 (Brexit). L'Allemagne, l'Italie et la Pologne sont toujours des États membres."
+      "explanation": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020 (Brexit). L'Allemagne, l'Italie et la Pologne sont toujours des États membres.",
+      "explanationEn": "The United Kingdom left the European Union on 31 January 2020 (Brexit). Germany, Italy, and Poland are still member countries."
     },
     {
       "id": "csp-si-q11",
       "question": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+      "questionEn": "What condition is required to vote in European elections?",
       "options": [
         "Parler couramment trois langues européennes",
         "Avoir un casier judiciaire vierge depuis 10 ans",
         "Avoir la nationalité d'un pays membre de l'UE et être inscrit sur les listes électorales",
         "Être propriétaire d'un logement en France"
       ],
+      "optionsEn": [
+        "To speak three European languages fluently",
+        "To have had a clean criminal record for 10 years",
+        "To have the nationality of an EU member country and be registered on the electoral roll",
+        "To own property in France"
+      ],
       "correctAnswer": 2,
-      "explanation": "Pour voter, il faut avoir la nationalité d'un pays de l'UE, avoir au moins 18 ans, jouir de ses droits civils et politiques, et être inscrit sur les listes électorales."
+      "explanation": "Pour voter, il faut avoir la nationalité d'un pays de l'UE, avoir au moins 18 ans, jouir de ses droits civils et politiques, et être inscrit sur les listes électorales.",
+      "explanationEn": "To vote, you must have the nationality of an EU country, be at least 18 years old, have your civil and political rights, and be registered on the electoral roll."
     },
     {
       "id": "csp-si-q12",
       "question": "À quelle fréquence les élections européennes sont-elles organisées ?",
+      "questionEn": "How often are European elections held?",
       "options": [
         "Tous les 10 ans",
         "Tous les 5 ans",
         "Tous les 3 ans",
         "Tous les 6 ans"
       ],
+      "optionsEn": [
+        "Every 10 years",
+        "Every 5 years",
+        "Every 3 years",
+        "Every 6 years"
+      ],
       "correctAnswer": 1,
-      "explanation": "Les élections européennes ont lieu tous les 5 ans pour élire les députés qui siègent au Parlement européen."
+      "explanation": "Les élections européennes ont lieu tous les 5 ans pour élire les députés qui siègent au Parlement européen.",
+      "explanationEn": "European elections take place every 5 years to elect the members who sit in the European Parliament."
     },
     {
       "id": "csp-si-q13",
       "question": "Quel pays est un pays fondateur de l'Union européenne ?",
+      "questionEn": "Which country is a founding member of the European Union?",
       "options": [
         "L'Espagne",
         "L'Italie",
         "La Pologne",
         "Le Royaume-Uni"
       ],
+      "optionsEn": [
+        "Spain",
+        "Italy",
+        "Poland",
+        "The United Kingdom"
+      ],
       "correctAnswer": 1,
-      "explanation": "L'Italie fait partie des 6 pays fondateurs de la CEE en 1957 (traité de Rome), avec la France, l'Allemagne, la Belgique, le Luxembourg et les Pays-Bas."
+      "explanation": "L'Italie fait partie des 6 pays fondateurs de la CEE en 1957 (traité de Rome), avec la France, l'Allemagne, la Belgique, le Luxembourg et les Pays-Bas.",
+      "explanationEn": "Italy is one of the 6 founding countries of the EEC in 1957 (Treaty of Rome), along with France, Germany, Belgium, Luxembourg, and the Netherlands."
     },
     {
       "id": "csp-si-q14",
       "question": "Quelle est la monnaie utilisée en France ?",
+      "questionEn": "What is the currency used in France?",
       "options": [
         "La Livre sterling",
         "L'Euro",
         "Le Dollar",
         "Le Franc"
       ],
+      "optionsEn": [
+        "The British Pound",
+        "The Euro",
+        "The Dollar",
+        "The Franc"
+      ],
       "correctAnswer": 1,
-      "explanation": "La France utilise l'Euro, qui est la monnaie unique partagée par la majorité des pays de l'Union européenne."
+      "explanation": "La France utilise l'Euro, qui est la monnaie unique partagée par la majorité des pays de l'Union européenne.",
+      "explanationEn": "France uses the Euro, which is the single currency shared by most European Union countries."
     },
     {
       "id": "csp-si-q15",
       "question": "Qui élit les députés européens ?",
+      "questionEn": "Who elects the European members of parliament?",
       "options": [
         "Le Président de la République",
         "Les citoyens des pays de l'Union européenne",
         "Les députés de l'Assemblée nationale",
         "Les maires et les conseillers régionaux"
       ],
+      "optionsEn": [
+        "The President of the Republic",
+        "The citizens of European Union countries",
+        "The deputies of the National Assembly",
+        "The mayors and regional councillors"
+      ],
       "correctAnswer": 1,
-      "explanation": "Les députés européens sont élus au suffrage universel direct tous les 5 ans par les citoyens et citoyennes des pays membres de l'Union européenne."
+      "explanation": "Les députés européens sont élus au suffrage universel direct tous les 5 ans par les citoyens et citoyennes des pays membres de l'Union européenne.",
+      "explanationEn": "European members of parliament are elected by direct universal vote every 5 years by the citizens of the European Union member countries."
     },
     {
       "id": "csp-si-q16",
       "question": "Quand célèbre-t-on la journée de l'Europe ?",
+      "questionEn": "When is Europe Day celebrated?",
       "options": [
         "Le 11 novembre",
         "Le 8 mai",
         "Le 9 mai",
         "Le 14 juillet"
       ],
+      "optionsEn": [
+        "11 November",
+        "8 May",
+        "9 May",
+        "14 July"
+      ],
       "correctAnswer": 2,
-      "explanation": "La Journée de l'Europe est célébrée le 9 mai. Elle fait partie des symboles de l'Union européenne avec le drapeau et l'hymne."
+      "explanation": "La Journée de l'Europe est célébrée le 9 mai. Elle fait partie des symboles de l'Union européenne avec le drapeau et l'hymne.",
+      "explanationEn": "Europe Day is celebrated on 9 May. It is one of the symbols of the European Union, along with the flag and the anthem."
     },
     {
       "id": "csp-si-q17",
       "question": "Quand sont élus les sénateurs ?",
+      "questionEn": "When are senators elected?",
       "options": [
         "Tous les 6 ans (renouvellement complet)",
         "Tous les 3 ans (renouvellement par moitié)",
         "Tous les ans",
         "Tous les 5 ans (en même temps que les députés)"
       ],
+      "optionsEn": [
+        "Every 6 years (full renewal)",
+        "Every 3 years (half renewed at a time)",
+        "Every year",
+        "Every 5 years (at the same time as deputies)"
+      ],
       "correctAnswer": 1,
-      "explanation": "Les sénateurs sont élus pour un mandat de 6 ans, mais le Sénat se renouvelle par moitié tous les 3 ans lors des élections sénatoriales."
+      "explanation": "Les sénateurs sont élus pour un mandat de 6 ans, mais le Sénat se renouvelle par moitié tous les 3 ans lors des élections sénatoriales.",
+      "explanationEn": "Senators are elected for a 6-year term, but the Senate is renewed by half every 3 years during senatorial elections."
     },
     {
       "id": "csp-si-q18",
       "question": "Qui est élu lors des élections municipales ?",
+      "questionEn": "Who is elected in municipal elections?",
       "options": [
         "Les conseillers municipaux",
         "Le préfet",
         "Les députés",
         "Les conseillers régionaux"
       ],
+      "optionsEn": [
+        "The municipal councillors",
+        "The préfet (regional official)",
+        "The deputies",
+        "The regional councillors"
+      ],
       "correctAnswer": 0,
-      "explanation": "Les élections municipales permettent d'élire les conseillers municipaux pour 6 ans. Ce sont eux qui éliront ensuite le maire."
+      "explanation": "Les élections municipales permettent d'élire les conseillers municipaux pour 6 ans. Ce sont eux qui éliront ensuite le maire.",
+      "explanationEn": "Municipal elections allow citizens to elect municipal councillors for 6 years. These councillors then elect the mayor."
     },
     {
       "id": "csp-si-q19",
       "question": "Qui est élu lors des élections présidentielles ?",
+      "questionEn": "Who is elected in presidential elections?",
       "options": [
         "Les sénateurs",
         "Les présidents de région",
         "Le Premier ministre",
         "Le président de la République"
       ],
+      "optionsEn": [
+        "The senators",
+        "The regional presidents",
+        "The Prime Minister",
+        "The President of the Republic"
+      ],
       "correctAnswer": 3,
-      "explanation": "L'élection présidentielle permet aux citoyens d'élire directement le président de la République au suffrage universel."
+      "explanation": "L'élection présidentielle permet aux citoyens d'élire directement le président de la République au suffrage universel.",
+      "explanationEn": "The presidential election allows citizens to directly elect the President of the Republic by universal vote."
     },
     {
       "id": "csp-si-q20",
       "question": "À partir de quel âge a-t-on le droit de voter ?",
+      "questionEn": "From what age can you vote?",
       "options": [
         "18 ans",
         "16 ans",
         "25 ans",
         "21 ans"
       ],
+      "optionsEn": [
+        "18 years old",
+        "16 years old",
+        "25 years old",
+        "21 years old"
+      ],
       "correctAnswer": 0,
-      "explanation": "En France, il faut être majeur, c'est-à-dire avoir 18 ans révolus, pour avoir le droit de voter."
+      "explanation": "En France, il faut être majeur, c'est-à-dire avoir 18 ans révolus, pour avoir le droit de voter.",
+      "explanationEn": "In France, you must be an adult, meaning 18 years old, to have the right to vote."
     },
     {
       "id": "csp-si-q21",
       "question": "Pour combien de temps est élu le président de la République française ?",
+      "questionEn": "For how long is the President of the French Republic elected?",
       "options": [
         "5 ans",
         "7 ans",
         "10 ans",
         "4 ans"
       ],
+      "optionsEn": [
+        "5 years",
+        "7 years",
+        "10 years",
+        "4 years"
+      ],
       "correctAnswer": 0,
-      "explanation": "Le mandat du président de la République dure 5 ans. On appelle cette période un quinquennat."
+      "explanation": "Le mandat du président de la République dure 5 ans. On appelle cette période un quinquennat.",
+      "explanationEn": "The President's term lasts 5 years. This period is called a quinquennat."
     },
     {
       "id": "csp-si-q22",
       "question": "Pour combien de temps sont élus les députés ?",
+      "questionEn": "For how long are deputies elected?",
       "options": [
         "5 ans",
         "3 ans",
         "6 ans",
         "4 ans"
       ],
+      "optionsEn": [
+        "5 years",
+        "3 years",
+        "6 years",
+        "4 years"
+      ],
       "correctAnswer": 0,
-      "explanation": "Les députés, qui siègent à l'Assemblée nationale, sont élus pour un mandat de 5 ans lors des élections législatives."
+      "explanation": "Les députés, qui siègent à l'Assemblée nationale, sont élus pour un mandat de 5 ans lors des élections législatives.",
+      "explanationEn": "Deputies, who sit in the National Assembly, are elected for a 5-year term during legislative elections."
     },
     {
       "id": "csp-si-q23",
       "question": "Quel est le rôle des députés ?",
+      "questionEn": "What is the role of the deputies?",
       "options": [
         "Juger les personnes qui ne respectent pas la loi",
         "Diriger l'armée et nommer les ministres",
         "Voter les lois et contrôler l'action du Gouvernement",
         "Gérer les écoles maternelles et primaires"
       ],
+      "optionsEn": [
+        "Judge people who do not follow the law",
+        "Lead the army and appoint ministers",
+        "Vote on laws and oversee the actions of the Government",
+        "Manage nursery and primary schools"
+      ],
       "correctAnswer": 2,
-      "explanation": "Les députés siègent à l'Assemblée nationale (pouvoir législatif). Leur rôle principal est de proposer, négocier et voter la loi, ainsi que de contrôler le Gouvernement."
+      "explanation": "Les députés siègent à l'Assemblée nationale (pouvoir législatif). Leur rôle principal est de proposer, négocier et voter la loi, ainsi que de contrôler le Gouvernement.",
+      "explanationEn": "Deputies sit in the National Assembly (legislative power). Their main role is to propose, negotiate, and vote on laws, and to oversee the Government."
     },
     {
       "id": "csp-si-q24",
       "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+      "questionEn": "The separation of powers is a fundamental principle. What are the three powers?",
       "options": [
         "Le pouvoir législatif, le pouvoir exécutif et le pouvoir judiciaire",
         "Le pouvoir présidentiel, le pouvoir ministériel et le pouvoir local",
         "Le pouvoir politique, le pouvoir médiatique et le pouvoir économique"
       ],
+      "optionsEn": [
+        "Legislative power, executive power, and judicial power",
+        "Presidential power, ministerial power, and local power",
+        "Political power, media power, and economic power"
+      ],
       "correctAnswer": 0,
-      "explanation": "La séparation des pouvoirs garantit la démocratie en répartissant les rôles : le législatif vote la loi, l'exécutif l'applique, et le judiciaire sanctionne son non-respect."
+      "explanation": "La séparation des pouvoirs garantit la démocratie en répartissant les rôles : le législatif vote la loi, l'exécutif l'applique, et le judiciaire sanctionne son non-respect.",
+      "explanationEn": "The separation of powers guarantees democracy by dividing roles: the legislative branch votes on laws, the executive branch applies them, and the judicial branch punishes those who break them."
     },
     {
       "id": "csp-si-q25",
       "question": "Qui possède le pouvoir législatif ?",
+      "questionEn": "Who holds legislative power?",
       "options": [
         "Le Parlement (l'Assemblée nationale et le Sénat)",
         "Le Président de la République et le Gouvernement",
         "Les juges et les magistrats",
         "Le Conseil constitutionnel"
       ],
+      "optionsEn": [
+        "Parliament (the National Assembly and the Senate)",
+        "The President of the Republic and the Government",
+        "The judges and magistrates",
+        "The Constitutional Council"
+      ],
       "correctAnswer": 0,
-      "explanation": "Le pouvoir législatif est exercé par le Parlement, qui est composé de deux chambres : l'Assemblée nationale (les députés) et le Sénat (les sénateurs)."
+      "explanation": "Le pouvoir législatif est exercé par le Parlement, qui est composé de deux chambres : l'Assemblée nationale (les députés) et le Sénat (les sénateurs).",
+      "explanationEn": "Legislative power is held by Parliament, which has two chambers: the National Assembly (Assemblée nationale - the deputies) and the Senate (Sénat - the senators)."
     },
     {
       "id": "csp-si-q26",
       "question": "Qui sanctionne l'auteur d'un vol ?",
+      "questionEn": "Who punishes someone who commits theft?",
       "options": [
         "Le Président de la République",
         "Le maire de la commune",
         "L'autorité judiciaire (les juges)",
         "Le député"
       ],
+      "optionsEn": [
+        "The President of the Republic",
+        "The mayor of the town",
+        "The judicial authority (the judges)",
+        "The deputy"
+      ],
       "correctAnswer": 2,
-      "explanation": "C'est l'autorité judiciaire qui applique les lois et sanctionne les infractions. Pour un vol, c'est la justice pénale qui intervient."
+      "explanation": "C'est l'autorité judiciaire qui applique les lois et sanctionne les infractions. Pour un vol, c'est la justice pénale qui intervient.",
+      "explanationEn": "It is the judicial authority that applies the laws and punishes offences. For theft, the criminal justice system handles the case."
     },
     {
       "id": "csp-si-q27",
       "question": "Qui élit les députés ?",
+      "questionEn": "Who elects the deputies?",
       "options": [
         "Les sénateurs",
         "Les grands électeurs (maires, conseillers régionaux, etc.)",
         "Les citoyens français au suffrage universel direct",
         "Le Président de la République"
       ],
+      "optionsEn": [
+        "The senators",
+        "The grand electors (mayors, regional councillors, etc.)",
+        "French citizens by direct universal vote",
+        "The President of the Republic"
+      ],
       "correctAnswer": 2,
-      "explanation": "Les 577 députés de l'Assemblée nationale sont élus directement par les citoyens français lors des élections législatives."
+      "explanation": "Les 577 députés de l'Assemblée nationale sont élus directement par les citoyens français lors des élections législatives.",
+      "explanationEn": "The 577 deputies of the National Assembly are directly elected by French citizens during legislative elections."
     },
     {
       "id": "csp-si-q28",
       "question": "Qui vote les lois ?",
+      "questionEn": "Who votes on laws?",
       "options": [
         "Le Conseil constitutionnel",
         "Le Parlement (l'Assemblée nationale et le Sénat)",
         "Les citoyens par référendum pour chaque loi",
         "Le Gouvernement seul"
       ],
+      "optionsEn": [
+        "The Constitutional Council",
+        "Parliament (the National Assembly and the Senate)",
+        "The citizens by referendum for each law",
+        "The Government alone"
+      ],
       "correctAnswer": 1,
-      "explanation": "C'est le rôle du pouvoir législatif : l'Assemblée nationale et le Sénat discutent, amendent et votent les textes de loi."
+      "explanation": "C'est le rôle du pouvoir législatif : l'Assemblée nationale et le Sénat discutent, amendent et votent les textes de loi.",
+      "explanationEn": "This is the role of the legislative power: the National Assembly and the Senate discuss, amend, and vote on bills."
     },
     {
       "id": "csp-si-q29",
       "question": "Qui nomme le Premier ministre ?",
+      "questionEn": "Who appoints the Prime Minister?",
       "options": [
         "Les citoyens, directement par vote",
         "Le Conseil constitutionnel",
         "Le président de la République",
         "Le président de l'Assemblée nationale"
       ],
+      "optionsEn": [
+        "The citizens, directly by vote",
+        "The Constitutional Council",
+        "The President of the Republic",
+        "The president of the National Assembly"
+      ],
       "correctAnswer": 2,
-      "explanation": "C'est le président de la République qui nomme le Premier ministre. Il choisit généralement une personne issue de la majorité politique à l'Assemblée nationale."
+      "explanation": "C'est le président de la République qui nomme le Premier ministre. Il choisit généralement une personne issue de la majorité politique à l'Assemblée nationale.",
+      "explanationEn": "It is the President of the Republic who appoints the Prime Minister. He usually chooses someone from the political majority in the National Assembly."
     },
     {
       "id": "csp-si-q30",
       "question": "Le Parlement est composé :",
+      "questionEn": "Parliament is made up of:",
       "options": [
         "Uniquement de l'Assemblée nationale",
         "De l'Assemblée nationale et des conseils régionaux",
         "De l'Assemblée nationale et du Sénat",
         "Du président de la République et du Gouvernement"
       ],
+      "optionsEn": [
+        "Only the National Assembly",
+        "The National Assembly and the regional councils",
+        "The National Assembly and the Senate",
+        "The President of the Republic and the Government"
+      ],
       "correctAnswer": 2,
-      "explanation": "Le pouvoir législatif est exercé par le Parlement, qui est composé de deux chambres : l'Assemblée nationale (les députés) et le Sénat (les sénateurs)."
+      "explanation": "Le pouvoir législatif est exercé par le Parlement, qui est composé de deux chambres : l'Assemblée nationale (les députés) et le Sénat (les sénateurs).",
+      "explanationEn": "Legislative power is held by Parliament, which has two chambers: the National Assembly (the deputies) and the Senate (the senators)."
     },
     {
       "id": "csp-si-q31",
       "question": "Qu'est-ce que le pouvoir exécutif ? Le pouvoir :",
+      "questionEn": "What is executive power? The power to:",
       "options": [
         "De sanctionner les infractions",
         "D'appliquer la loi",
         "De voter la loi",
         "De rendre la justice"
       ],
+      "optionsEn": [
+        "Punish offences",
+        "Apply the law",
+        "Vote on laws",
+        "Deliver justice"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le pouvoir exécutif (le président de la République et le Gouvernement) est chargé d'appliquer et de faire respecter les lois votées par le pouvoir législatif."
+      "explanation": "Le pouvoir exécutif (le président de la République et le Gouvernement) est chargé d'appliquer et de faire respecter les lois votées par le pouvoir législatif.",
+      "explanationEn": "Executive power (the President of the Republic and the Government) is responsible for applying and enforcing the laws voted by the legislative power."
     },
     {
       "id": "csp-si-q32",
       "question": "Les dirigeants sont élus par les citoyens dans :",
+      "questionEn": "Leaders are elected by citizens in:",
       "options": [
         "Une démocratie",
         "Une dictature",
         "Une monarchie absolue"
       ],
+      "optionsEn": [
+        "A democracy",
+        "A dictatorship",
+        "An absolute monarchy"
+      ],
       "correctAnswer": 0,
-      "explanation": "La démocratie est le régime politique où le pouvoir appartient au peuple, qui choisit ses représentants par le vote (suffrage universel)."
+      "explanation": "La démocratie est le régime politique où le pouvoir appartient au peuple, qui choisit ses représentants par le vote (suffrage universel).",
+      "explanationEn": "Democracy is the political system where power belongs to the people, who choose their representatives through voting (universal suffrage)."
     },
     {
       "id": "csp-si-q33",
       "question": "A-t-on le droit de ne pas respecter une loi ?",
+      "questionEn": "Do you have the right not to follow a law?",
       "options": [
         "Oui, si personne ne nous voit",
         "Non, la loi s'impose à tous",
         "Oui, si on est un élu politique",
         "Oui, si on n'est pas d'accord avec elle"
       ],
+      "optionsEn": [
+        "Yes, if nobody sees you",
+        "No, the law applies to everyone",
+        "Yes, if you are an elected politician",
+        "Yes, if you disagree with it"
+      ],
       "correctAnswer": 1,
-      "explanation": "Dans un État de droit, nul n'est au-dessus des lois. Le respect de la loi est obligatoire pour garantir la vie en société et l'égalité de tous."
+      "explanation": "Dans un État de droit, nul n'est au-dessus des lois. Le respect de la loi est obligatoire pour garantir la vie en société et l'égalité de tous.",
+      "explanationEn": "In a state governed by law, no one is above the law. Respecting the law is mandatory to ensure life in society and equality for all."
     },
     {
       "id": "csp-si-q34",
       "question": "Qui doit respecter la loi ?",
+      "questionEn": "Who must follow the law?",
       "options": [
         "Seulement les citoyens",
         "Tout le monde, y compris l'État et les élus",
         "Uniquement les personnes majeures",
         "Tout le monde, sauf le président de la République"
       ],
+      "optionsEn": [
+        "Only citizens",
+        "Everyone, including the State and elected officials",
+        "Only adults",
+        "Everyone, except the President of the Republic"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le principe de l'État de droit signifie que la loi est la même pour tous : les citoyens, les étrangers, les entreprises, mais aussi l'État et les autorités politiques."
+      "explanation": "Le principe de l'État de droit signifie que la loi est la même pour tous : les citoyens, les étrangers, les entreprises, mais aussi l'État et les autorités politiques.",
+      "explanationEn": "The principle of the rule of law means that the law is the same for everyone: citizens, foreigners, businesses, and also the State and political authorities."
     },
     {
       "id": "csp-si-q35",
       "question": "Qui réside au palais de l'Élysée ?",
+      "questionEn": "Who lives in the Palais de l'Élysée (Élysée Palace)?",
       "options": [
         "Le président du Sénat",
         "Le président de la République",
         "Le Premier ministre",
         "Le président de l'Assemblée nationale"
       ],
+      "optionsEn": [
+        "The president of the Senate",
+        "The President of the Republic",
+        "The Prime Minister",
+        "The president of the National Assembly"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le président de la République, qui est le chef de l'État et des armées, réside au Palais de l'Élysée. Le Premier ministre réside à l'hôtel de Matignon."
+      "explanation": "Le président de la République, qui est le chef de l'État et des armées, réside au Palais de l'Élysée. Le Premier ministre réside à l'hôtel de Matignon.",
+      "explanationEn": "The President of the Republic, who is the head of State and head of the armed forces, lives at the Élysée Palace. The Prime Minister lives at the Hôtel de Matignon."
     },
     {
       "id": "csp-si-q36",
       "question": "Combien y a-t-il de départements en France ?",
+      "questionEn": "How many departments are there in France?",
       "options": [
         "96",
         "35 000",
         "101",
         "18"
       ],
+      "optionsEn": [
+        "96",
+        "35,000",
+        "101",
+        "18"
+      ],
       "correctAnswer": 2,
-      "explanation": "Il y a 101 départements en France (96 en métropole et 5 en Outre-mer). Il ne faut pas confondre avec les 18 régions."
+      "explanation": "Il y a 101 départements en France (96 en métropole et 5 en Outre-mer). Il ne faut pas confondre avec les 18 régions.",
+      "explanationEn": "There are 101 departments in France (96 in mainland France and 5 overseas). Do not confuse this with the 18 regions."
     },
     {
       "id": "csp-si-q37",
       "question": "Qui représente l'État dans un département ?",
+      "questionEn": "Who represents the State in a department?",
       "options": [
         "Le député",
         "Le préfet",
         "Le président du conseil départemental",
         "Le maire"
       ],
+      "optionsEn": [
+        "The deputy",
+        "The préfet (regional government representative)",
+        "The president of the departmental council",
+        "The mayor"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le préfet est le représentant de l'État dans le département. Il est nommé par le président de la République et dirige les services de l'État (police, délivrance des titres...)."
+      "explanation": "Le préfet est le représentant de l'État dans le département. Il est nommé par le président de la République et dirige les services de l'État (police, délivrance des titres...).",
+      "explanationEn": "The préfet is the representative of the State in the department. He is appointed by the President of the Republic and manages State services (police, issuing permits, etc.)."
     },
     {
       "id": "csp-si-q38",
       "question": "Qui dirige la commune ?",
+      "questionEn": "Who leads the commune (town/municipality)?",
       "options": [
         "Le député",
         "Le président de la région",
         "Le maire et le conseil municipal",
         "Le préfet"
       ],
+      "optionsEn": [
+        "The deputy",
+        "The regional president",
+        "The mayor and the municipal council",
+        "The préfet"
+      ],
       "correctAnswer": 2,
-      "explanation": "La commune est une collectivité territoriale dirigée par des personnes élues : le maire et les conseillers municipaux."
+      "explanation": "La commune est une collectivité territoriale dirigée par des personnes élues : le maire et les conseillers municipaux.",
+      "explanationEn": "The commune (town) is a local authority led by elected people: the mayor and the municipal councillors."
     },
     {
       "id": "csp-si-q39",
       "question": "Est-ce que le président de la République a tous les pouvoirs ?",
+      "questionEn": "Does the President of the Republic have all the powers?",
       "options": [
         "Oui, car il est le chef de l'État",
         "Non, car il y a une séparation des pouvoirs (législatif, exécutif, judiciaire)",
         "Oui, mais il doit demander l'autorisation au Premier ministre"
       ],
+      "optionsEn": [
+        "Yes, because he is the head of State",
+        "No, because there is a separation of powers (legislative, executive, judicial)",
+        "Yes, but he must ask the Prime Minister for permission"
+      ],
       "correctAnswer": 1,
-      "explanation": "Non, la France est un État de droit basé sur la séparation des pouvoirs. Le Président détient le pouvoir exécutif, mais il ne détient ni le pouvoir législatif (le Parlement), ni le pouvoir judiciaire (les juges)."
+      "explanation": "Non, la France est un État de droit basé sur la séparation des pouvoirs. Le Président détient le pouvoir exécutif, mais il ne détient ni le pouvoir législatif (le Parlement), ni le pouvoir judiciaire (les juges).",
+      "explanationEn": "No, France is a state governed by law based on the separation of powers. The President holds executive power, but he does not hold legislative power (Parliament) or judicial power (the judges)."
     },
     {
       "id": "csp-si-q40",
       "question": "Qui est le préfet ?",
+      "questionEn": "Who is the préfet?",
       "options": [
         "Le chef de l'armée française",
         "Un élu local choisi par les habitants",
         "Le représentant de l'État dans le département",
         "Le chef des juges du département"
       ],
+      "optionsEn": [
+        "The head of the French army",
+        "A local official chosen by residents",
+        "The representative of the State in the department",
+        "The head of the department's judges"
+      ],
       "correctAnswer": 2,
-      "explanation": "Le préfet représente l'État dans le département. Il n'est pas élu, mais nommé. Il veille au respect des lois, à la sécurité et dirige les services administratifs de l'État."
+      "explanation": "Le préfet représente l'État dans le département. Il n'est pas élu, mais nommé. Il veille au respect des lois, à la sécurité et dirige les services administratifs de l'État.",
+      "explanationEn": "The préfet represents the State in the department. He is not elected, but appointed. He ensures laws are followed, maintains security, and manages the State's administrative services."
     },
     {
       "id": "csp-si-q41",
       "question": "Pour combien de temps sont élus les sénateurs ?",
+      "questionEn": "For how long are senators elected?",
       "options": [
         "Pour 5 ans",
         "Pour 6 ans",
         "Pour 7 ans",
         "Pour 3 ans"
       ],
+      "optionsEn": [
+        "For 5 years",
+        "For 6 years",
+        "For 7 years",
+        "For 3 years"
+      ],
       "correctAnswer": 1,
-      "explanation": "Les sénateurs sont élus pour une durée de 6 ans. Ils sont élus au suffrage universel indirect par les grands électeurs."
+      "explanation": "Les sénateurs sont élus pour une durée de 6 ans. Ils sont élus au suffrage universel indirect par les grands électeurs.",
+      "explanationEn": "Senators are elected for a 6-year term. They are elected by indirect universal vote through grand electors (mayors, councillors, etc.)."
     },
     {
       "id": "csp-si-q42",
       "question": "Qui possède le pouvoir exécutif ?",
+      "questionEn": "Who holds executive power?",
       "options": [
         "Les juges et les magistrats",
         "L'Assemblée nationale et le Sénat",
         "Le président de la République et le Gouvernement",
         "Le Conseil constitutionnel"
       ],
+      "optionsEn": [
+        "The judges and magistrates",
+        "The National Assembly and the Senate",
+        "The President of the Republic and the Government",
+        "The Constitutional Council"
+      ],
       "correctAnswer": 2,
-      "explanation": "Le pouvoir exécutif est exercé par le président de la République (chef de l'État) et le Gouvernement (Premier ministre et ministres), qui appliquent les lois."
+      "explanation": "Le pouvoir exécutif est exercé par le président de la République (chef de l'État) et le Gouvernement (Premier ministre et ministres), qui appliquent les lois.",
+      "explanationEn": "Executive power is held by the President of the Republic (head of State) and the Government (Prime Minister and ministers), who apply the laws."
     },
     {
       "id": "csp-si-q43",
       "question": "Quelle condition est nécessaire pour voter aux élections ?",
+      "questionEn": "What condition is required to vote in elections?",
       "options": [
         "Payer des impôts sur le revenu",
         "Avoir un emploi stable",
         "Être marié ou pacsé",
         "Être inscrit sur les listes électorales"
       ],
+      "optionsEn": [
+        "Paying income tax",
+        "Having a stable job",
+        "Being married or in a civil partnership",
+        "Being registered on the electoral roll"
+      ],
       "correctAnswer": 3,
-      "explanation": "L'inscription sur les listes électorales est obligatoire pour pouvoir voter. Il faut aussi être majeur et jouir de ses droits civils et politiques."
+      "explanation": "L'inscription sur les listes électorales est obligatoire pour pouvoir voter. Il faut aussi être majeur et jouir de ses droits civils et politiques.",
+      "explanationEn": "Registration on the electoral roll is required to be able to vote. You must also be an adult and have your civil and political rights."
     },
     {
       "id": "csp-si-q44",
       "question": "Qui peut voter aux élections en France ?",
+      "questionEn": "Who can vote in elections in France?",
       "options": [
         "Les citoyens français majeurs jouissant de leurs droits civils",
         "Uniquement les personnes qui paient des impôts",
         "Tous les résidents en France, quelle que soit leur nationalité",
         "Les citoyens français à partir de 16 ans"
       ],
+      "optionsEn": [
+        "French citizens who are adults and have their civil rights",
+        "Only people who pay taxes",
+        "All residents in France, regardless of nationality",
+        "French citizens from the age of 16"
+      ],
       "correctAnswer": 0,
-      "explanation": "Le droit de vote est accordé aux citoyens de nationalité française, majeurs (18 ans) et jouissant de leurs droits civils. Les citoyens de l'UE peuvent aussi voter aux élections municipales et européennes."
+      "explanation": "Le droit de vote est accordé aux citoyens de nationalité française, majeurs (18 ans) et jouissant de leurs droits civils. Les citoyens de l'UE peuvent aussi voter aux élections municipales et européennes.",
+      "explanationEn": "The right to vote is given to citizens of French nationality who are adults (18 years old) and have their civil rights. EU citizens can also vote in municipal and European elections."
     },
     {
       "id": "csp-si-q45",
       "question": "Que signifie « suffrage universel » ?",
+      "questionEn": "What does 'suffrage universel' (universal suffrage) mean?",
       "options": [
         "Le droit de vote est accordé à tous les citoyens sans distinction",
         "Le vote est obligatoire pour tout le monde sous peine d'amende",
         "Le droit de vote est réservé aux hommes",
         "Le droit de vote dépend de la richesse et des impôts payés"
       ],
+      "optionsEn": [
+        "The right to vote is given to all citizens without distinction",
+        "Voting is compulsory for everyone under penalty of a fine",
+        "The right to vote is reserved for men",
+        "The right to vote depends on wealth and taxes paid"
+      ],
       "correctAnswer": 0,
-      "explanation": "Le suffrage universel signifie que tous les citoyens majeurs peuvent voter sans distinction de sexe, d'origine, de religion ou d'idéaux politiques."
+      "explanation": "Le suffrage universel signifie que tous les citoyens majeurs peuvent voter sans distinction de sexe, d'origine, de religion ou d'idéaux politiques.",
+      "explanationEn": "Universal suffrage means that all adult citizens can vote without distinction of gender, origin, religion, or political beliefs."
     },
     {
       "id": "csp-si-q46",
       "question": "Concernant les partis politiques, quelle proposition est correcte ?",
+      "questionEn": "Regarding political parties, which statement is correct?",
       "options": [
         "Il est obligatoire d'adhérer à un parti politique pour voter",
         "Les médias doivent donner la parole uniquement au parti du Gouvernement",
         "Il n'y a qu'un seul parti politique autorisé en France",
         "La pluralité des partis garantit la liberté d'expression des opinions"
       ],
+      "optionsEn": [
+        "You must join a political party to vote",
+        "The media must only give a voice to the Government's party",
+        "There is only one political party allowed in France",
+        "Having multiple parties guarantees freedom of expression of opinions"
+      ],
       "correctAnswer": 3,
-      "explanation": "La pluralité des partis politiques est un principe fondamental de la démocratie française qui permet l'expression de différentes opinions politiques."
+      "explanation": "La pluralité des partis politiques est un principe fondamental de la démocratie française qui permet l'expression de différentes opinions politiques.",
+      "explanationEn": "Having multiple political parties is a fundamental principle of French democracy that allows the expression of different political opinions."
     }
   ]
 }

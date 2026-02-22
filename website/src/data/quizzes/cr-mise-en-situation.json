@@ -1,547 +1,909 @@
 {
   "id": "cr-mise-en-situation",
   "title": "CR - Mise en situation",
+  "titleEn": "CR - Real-Life Situations",
   "description": "Questions pratiques de la Carte de Résident : mises en situation concrètes de la vie quotidienne en France",
+  "descriptionEn": "Practical questions for the Carte de Résident (Resident Card): real-life situations of daily life in France",
   "questions": [
     {
       "id": "cr-mes-q1",
       "question": "Vous habitez en France depuis 5 ans et souhaitez demander la nationalité française. Quelle est la première condition à remplir ?",
+      "questionEn": "You have lived in France for 5 years and want to apply for French nationality. What is the first condition to meet?",
       "options": [
         "Avoir un salaire supérieur à 3 000 € par mois",
         "Justifier d'une résidence habituelle en France et d'une connaissance suffisante de la langue française (niveau B1 minimum)",
         "Être marié avec un citoyen français",
         "Avoir un diplôme français"
       ],
+      "optionsEn": [
+        "Have a salary above 3,000 euros per month",
+        "Prove that you live regularly in France and have a sufficient knowledge of French (B1 level minimum)",
+        "Be married to a French citizen",
+        "Have a French diploma"
+      ],
       "correctAnswer": 1,
-      "explanation": "La naturalisation nécessite notamment une résidence habituelle et régulière en France, une connaissance suffisante de la langue française (niveau B1 oral et écrit) et une connaissance des droits et devoirs du citoyen ainsi que de l'histoire et de la culture françaises."
+      "explanation": "La naturalisation nécessite notamment une résidence habituelle et régulière en France, une connaissance suffisante de la langue française (niveau B1 oral et écrit) et une connaissance des droits et devoirs du citoyen ainsi que de l'histoire et de la culture françaises.",
+      "explanationEn": "Naturalization requires regular residence in France, sufficient knowledge of French (B1 level in speaking and writing), and knowledge of citizens' rights and duties as well as French history and culture."
     },
     {
       "id": "cr-mes-q2",
       "question": "Votre voisin organise une fête bruyante tous les week-ends jusqu'à 3h du matin. Vous avez déjà essayé de lui parler sans succès. Que pouvez-vous faire ?",
+      "questionEn": "Your neighbor has a loud party every weekend until 3 AM. You already tried talking to him without success. What can you do?",
       "options": [
         "Organiser vous aussi des fêtes bruyantes",
         "Faire constater les nuisances sonores par la police municipale et engager une procédure pour tapage nocturne",
         "Couper son électricité",
         "Rien, chacun fait ce qu'il veut chez soi"
       ],
+      "optionsEn": [
+        "Have your own loud parties too",
+        "Have the municipal police record the noise disturbance and start a procedure for nighttime noise offense",
+        "Cut off his electricity",
+        "Nothing, everyone can do what they want at home"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le tapage nocturne (entre 22h et 7h) est une contravention passible d'une amende de 68 €. Après tentative de médiation, vous pouvez appeler la police municipale ou nationale pour faire constater les nuisances. Vous pouvez aussi saisir un conciliateur de justice."
+      "explanation": "Le tapage nocturne (entre 22h et 7h) est une contravention passible d'une amende de 68 €. Après tentative de médiation, vous pouvez appeler la police municipale ou nationale pour faire constater les nuisances. Vous pouvez aussi saisir un conciliateur de justice.",
+      "explanationEn": "Nighttime noise (between 10 PM and 7 AM) is an offense with a fine of 68 euros. After trying to mediate, you can call the municipal or national police to record the disturbance. You can also contact a justice mediator."
     },
     {
       "id": "cr-mes-q3",
       "question": "Vous êtes témoin de violences conjugales chez vos voisins. Que devez-vous faire ?",
+      "questionEn": "You witness domestic violence at your neighbors' home. What should you do?",
       "options": [
         "Ne pas intervenir, c'est leur vie privée",
         "Appeler le 17 (police) ou le 3919 (numéro d'aide aux victimes de violences conjugales)",
         "En parler aux autres voisins et attendre",
         "Glisser un mot sous la porte"
       ],
+      "optionsEn": [
+        "Do not get involved, it is their private life",
+        "Call 17 (police) or 3919 (helpline for victims of domestic violence)",
+        "Talk to other neighbors and wait",
+        "Slide a note under the door"
+      ],
       "correctAnswer": 1,
-      "explanation": "Les violences conjugales sont un délit grave en France. Le 17 (police) permet une intervention rapide. Le 3919 est le numéro national d'aide aux victimes de violences conjugales. La non-dénonciation de mauvais traitements peut être punie par la loi."
+      "explanation": "Les violences conjugales sont un délit grave en France. Le 17 (police) permet une intervention rapide. Le 3919 est le numéro national d'aide aux victimes de violences conjugales. La non-dénonciation de mauvais traitements peut être punie par la loi.",
+      "explanationEn": "Domestic violence is a serious offense in France. Call 17 (police) for quick help. 3919 is the national helpline for domestic violence victims. Not reporting abuse can be punished by law."
     },
     {
       "id": "cr-mes-q4",
       "question": "Vous avez un litige avec un artisan qui a mal réalisé des travaux chez vous. Avant d'aller en justice, quelle démarche est recommandée ?",
+      "questionEn": "You have a dispute with a tradesman who did a bad job at your home. Before going to court, what step is recommended?",
       "options": [
         "Publier un avis négatif sur internet",
         "Envoyer une mise en demeure par lettre recommandée, puis tenter une médiation ou conciliation",
         "Refuser de le payer sans le prévenir",
         "Appeler la police"
       ],
+      "optionsEn": [
+        "Post a negative review on the internet",
+        "Send a formal demand letter by registered mail, then try mediation or conciliation",
+        "Refuse to pay without telling him",
+        "Call the police"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas de litige avec un professionnel, la première étape est la mise en demeure par lettre recommandée avec accusé de réception. Ensuite, vous pouvez recourir à un médiateur de la consommation (gratuit) ou un conciliateur de justice avant de saisir le tribunal."
+      "explanation": "En cas de litige avec un professionnel, la première étape est la mise en demeure par lettre recommandée avec accusé de réception. Ensuite, vous pouvez recourir à un médiateur de la consommation (gratuit) ou un conciliateur de justice avant de saisir le tribunal.",
+      "explanationEn": "In a dispute with a professional, the first step is a formal demand letter by registered mail. Then you can use a consumer mediator (free) or a justice conciliator before going to court."
     },
     {
       "id": "cr-mes-q5",
       "question": "Votre entreprise prévoit des élections pour les représentants du personnel. Pouvez-vous voter en tant que salarié étranger ?",
+      "questionEn": "Your company is holding elections for staff representatives. Can you vote as a foreign employee?",
       "options": [
         "Non, seuls les Français peuvent voter",
         "Oui, tous les salariés de l'entreprise peuvent voter aux élections professionnelles, quelle que soit leur nationalité",
         "Oui, mais uniquement si vous avez un CDI",
         "Non, il faut être syndiqué"
       ],
+      "optionsEn": [
+        "No, only French people can vote",
+        "Yes, all employees can vote in professional elections, regardless of nationality",
+        "Yes, but only if you have a permanent contract (CDI)",
+        "No, you must be a union member"
+      ],
       "correctAnswer": 1,
-      "explanation": "Tous les salariés ayant au moins 3 mois d'ancienneté dans l'entreprise peuvent voter aux élections professionnelles (CSE), sans condition de nationalité. Le droit de participer à la vie de l'entreprise est garanti à tous les salariés."
+      "explanation": "Tous les salariés ayant au moins 3 mois d'ancienneté dans l'entreprise peuvent voter aux élections professionnelles (CSE), sans condition de nationalité. Le droit de participer à la vie de l'entreprise est garanti à tous les salariés.",
+      "explanationEn": "All employees with at least 3 months of service can vote in professional elections (CSE), regardless of nationality. The right to participate in company life is guaranteed to all employees."
     },
     {
       "id": "cr-mes-q6",
       "question": "Vous souhaitez scolariser votre enfant handicapé. L'école du quartier refuse de l'inscrire. Est-ce légal ?",
+      "questionEn": "You want to enroll your disabled child in school. The local school refuses to register him. Is this legal?",
       "options": [
         "Oui, si l'école n'a pas les moyens de l'accueillir",
         "Non, tout enfant handicapé a le droit d'être inscrit dans l'école de son quartier (loi du 11 février 2005)",
         "Oui, les enfants handicapés doivent aller dans des écoles spécialisées",
         "Cela dépend du type de handicap"
       ],
+      "optionsEn": [
+        "Yes, if the school does not have the resources to welcome him",
+        "No, every disabled child has the right to be enrolled in their local school (law of 11 February 2005)",
+        "Yes, disabled children must go to special schools",
+        "It depends on the type of disability"
+      ],
       "correctAnswer": 1,
-      "explanation": "La loi du 11 février 2005 garantit le droit à la scolarisation de tout enfant handicapé dans l'école la plus proche de son domicile. L'école doit mettre en place les aménagements nécessaires. Un Projet Personnalisé de Scolarisation (PPS) est établi avec la MDPH."
+      "explanation": "La loi du 11 février 2005 garantit le droit à la scolarisation de tout enfant handicapé dans l'école la plus proche de son domicile. L'école doit mettre en place les aménagements nécessaires. Un Projet Personnalisé de Scolarisation (PPS) est établi avec la MDPH.",
+      "explanationEn": "The law of 11 February 2005 guarantees the right of every disabled child to attend the school closest to their home. The school must provide necessary accommodations. A Personalized Schooling Plan (PPS) is set up with the MDPH (Disability Services)."
     },
     {
       "id": "cr-mes-q7",
       "question": "Vous recevez une lettre de la CAF vous informant d'un trop-perçu d'allocations. Que devez-vous faire ?",
+      "questionEn": "You receive a letter from the CAF (Family Allowances Office) telling you that you were overpaid. What should you do?",
       "options": [
         "Ignorer le courrier",
         "Contester systématiquement, la CAF se trompe toujours",
         "Vérifier le calcul, et si c'est justifié, rembourser ou demander un échéancier. Si vous contestez, faire un recours dans les délais",
         "Changer d'adresse pour ne plus recevoir de courrier"
       ],
+      "optionsEn": [
+        "Ignore the letter",
+        "Always contest it, the CAF always makes mistakes",
+        "Check the calculation, and if it is justified, repay or ask for a payment plan. If you disagree, file an appeal within the deadline",
+        "Change your address to stop receiving mail"
+      ],
       "correctAnswer": 2,
-      "explanation": "En cas de trop-perçu notifié par la CAF, vérifiez d'abord le calcul. Si la demande est justifiée, vous pouvez rembourser ou demander un échéancier de remboursement. Si vous contestez, vous disposez de 2 mois pour faire un recours auprès de la commission de recours amiable."
+      "explanation": "En cas de trop-perçu notifié par la CAF, vérifiez d'abord le calcul. Si la demande est justifiée, vous pouvez rembourser ou demander un échéancier de remboursement. Si vous contestez, vous disposez de 2 mois pour faire un recours auprès de la commission de recours amiable.",
+      "explanationEn": "If the CAF tells you about an overpayment, first check the calculation. If it is correct, you can repay or ask for a payment plan. If you disagree, you have 2 months to file an appeal."
     },
     {
       "id": "cr-mes-q8",
       "question": "Vous êtes propriétaire de votre logement et vous souhaitez le louer. Quelles obligations avez-vous ?",
+      "questionEn": "You own a property and want to rent it out. What are your obligations?",
       "options": [
         "Aucune, vous êtes libre de faire ce que vous voulez",
         "Fournir un logement décent, réaliser les diagnostics obligatoires (DPE, plomb, etc.) et rédiger un bail conforme à la loi",
         "Juste mettre une annonce et encaisser le loyer",
         "Uniquement déclarer les revenus locatifs"
       ],
+      "optionsEn": [
+        "None, you are free to do what you want",
+        "Provide a decent home, complete the required inspections (energy performance, lead, etc.) and write a lease that follows the law",
+        "Just post an advertisement and collect the rent",
+        "Only declare the rental income"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, un propriétaire bailleur doit fournir un logement décent (surface minimale, installations conformes), réaliser les diagnostics obligatoires (DPE, plomb, amiante, etc.), rédiger un bail conforme à la loi et respecter l'encadrement des loyers dans les zones concernées."
+      "explanation": "En France, un propriétaire bailleur doit fournir un logement décent (surface minimale, installations conformes), réaliser les diagnostics obligatoires (DPE, plomb, amiante, etc.), rédiger un bail conforme à la loi et respecter l'encadrement des loyers dans les zones concernées.",
+      "explanationEn": "In France, a landlord must provide a decent home (minimum size, proper facilities), complete required inspections (energy, lead, asbestos, etc.), write a legal lease, and follow rent control rules in certain areas."
     },
     {
       "id": "cr-mes-q9",
       "question": "Vous souhaitez créer votre entreprise en France. Quelle structure est la plus simple pour débuter une activité seul ?",
+      "questionEn": "You want to start a business in France. What is the simplest structure to start on your own?",
       "options": [
         "Une société anonyme (SA)",
         "Le statut de micro-entrepreneur (auto-entrepreneur)",
         "Une association loi 1901",
         "Un groupement d'intérêt économique"
       ],
+      "optionsEn": [
+        "A public limited company (SA)",
+        "Micro-entrepreneur (auto-entrepreneur) status",
+        "A non-profit association (loi 1901)",
+        "An economic interest group"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le statut de micro-entrepreneur (anciennement auto-entrepreneur) est la forme la plus simple et rapide pour créer une activité en France. L'inscription se fait en ligne, la comptabilité est simplifiée et les charges sociales sont calculées sur le chiffre d'affaires réel."
+      "explanation": "Le statut de micro-entrepreneur (anciennement auto-entrepreneur) est la forme la plus simple et rapide pour créer une activité en France. L'inscription se fait en ligne, la comptabilité est simplifiée et les charges sociales sont calculées sur le chiffre d'affaires réel.",
+      "explanationEn": "Micro-entrepreneur (formerly auto-entrepreneur) status is the simplest and fastest way to start a business in France. Registration is done online, accounting is simplified, and social charges are based on actual revenue."
     },
     {
       "id": "cr-mes-q10",
       "question": "Votre enfant de 14 ans souhaite travailler pendant les vacances d'été. Est-ce possible ?",
+      "questionEn": "Your 14-year-old child wants to work during the summer holidays. Is this possible?",
       "options": [
         "Oui, sans aucune restriction",
         "Oui, à partir de 14 ans avec l'autorisation des parents, pour des travaux légers, pendant les vacances scolaires uniquement",
         "Non, le travail est interdit avant 18 ans",
         "Oui, à condition qu'il travaille moins de 2 heures par jour"
       ],
+      "optionsEn": [
+        "Yes, without any restrictions",
+        "Yes, from age 14 with parental permission, for light work, during school holidays only",
+        "No, work is prohibited before age 18",
+        "Yes, as long as they work less than 2 hours per day"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, le travail est possible à partir de 14 ans pendant les vacances scolaires (d'au moins 14 jours), avec l'accord des parents et de l'inspection du travail. Il est limité à des travaux légers, 7 heures par jour maximum, et interdit de nuit."
+      "explanation": "En France, le travail est possible à partir de 14 ans pendant les vacances scolaires (d'au moins 14 jours), avec l'accord des parents et de l'inspection du travail. Il est limité à des travaux légers, 7 heures par jour maximum, et interdit de nuit.",
+      "explanationEn": "In France, work is possible from age 14 during school holidays (at least 14 days long), with parental and labor inspection approval. It is limited to light work, 7 hours per day maximum, and not at night."
     },
     {
       "id": "cr-mes-q11",
       "question": "Vous êtes convoqué comme témoin dans un procès au tribunal. Pouvez-vous refuser d'y aller ?",
+      "questionEn": "You are called as a witness in a court trial. Can you refuse to go?",
       "options": [
         "Oui, témoigner est un choix personnel",
         "Non, le témoignage est une obligation civique. Un refus peut être sanctionné d'une amende",
         "Oui, si vous ne connaissez pas la personne accusée",
         "Oui, si vous avez peur de représailles"
       ],
+      "optionsEn": [
+        "Yes, testifying is a personal choice",
+        "No, testifying is a civic obligation. Refusing can result in a fine",
+        "Yes, if you do not know the accused person",
+        "Yes, if you are afraid of retaliation"
+      ],
       "correctAnswer": 1,
-      "explanation": "Lorsque vous êtes convoqué comme témoin par un tribunal, vous êtes tenu de vous présenter et de prêter serment de dire la vérité. Un refus de témoigner est passible d'une amende de 3 750 €. Le faux témoignage est un délit pénal."
+      "explanation": "Lorsque vous êtes convoqué comme témoin par un tribunal, vous êtes tenu de vous présenter et de prêter serment de dire la vérité. Un refus de témoigner est passible d'une amende de 3 750 €. Le faux témoignage est un délit pénal.",
+      "explanationEn": "When you are called as a witness by a court, you must appear and swear to tell the truth. Refusing to testify can result in a 3,750 euro fine. Giving false testimony is a criminal offense."
     },
     {
       "id": "cr-mes-q12",
       "question": "Votre commune organise une consultation citoyenne sur un projet d'aménagement. En tant que résident étranger, pouvez-vous y participer ?",
+      "questionEn": "Your municipality organizes a public consultation on a development project. As a foreign resident, can you participate?",
       "options": [
         "Non, seuls les citoyens français peuvent participer",
         "Oui, les consultations citoyennes sont ouvertes à tous les habitants de la commune",
         "Oui, mais votre avis ne sera pas pris en compte",
         "Non, il faut être inscrit sur les listes électorales"
       ],
+      "optionsEn": [
+        "No, only French citizens can participate",
+        "Yes, public consultations are open to all residents of the municipality",
+        "Yes, but your opinion will not be taken into account",
+        "No, you must be registered on the electoral list"
+      ],
       "correctAnswer": 1,
-      "explanation": "Les consultations citoyennes locales (conseils de quartier, enquêtes publiques, budgets participatifs) sont généralement ouvertes à tous les habitants, quelle que soit leur nationalité. C'est une forme de participation à la vie locale accessible à tous."
+      "explanation": "Les consultations citoyennes locales (conseils de quartier, enquêtes publiques, budgets participatifs) sont généralement ouvertes à tous les habitants, quelle que soit leur nationalité. C'est une forme de participation à la vie locale accessible à tous.",
+      "explanationEn": "Local public consultations (neighborhood councils, public surveys, participatory budgets) are generally open to all residents, regardless of nationality. This is a way to participate in local life that is accessible to everyone."
     },
     {
       "id": "cr-mes-q13",
       "question": "Vous souhaitez acheter un appartement en France. Pouvez-vous le faire en tant qu'étranger résident ?",
+      "questionEn": "You want to buy an apartment in France. Can you do this as a foreign resident?",
       "options": [
         "Non, seuls les Français peuvent acheter un bien immobilier",
         "Oui, toute personne, française ou étrangère, peut acheter un bien immobilier en France",
         "Oui, mais uniquement avec un prêt bancaire français",
         "Oui, mais seulement après 10 ans de résidence"
       ],
+      "optionsEn": [
+        "No, only French people can buy property",
+        "Yes, any person, French or foreign, can buy property in France",
+        "Yes, but only with a French bank loan",
+        "Yes, but only after 10 years of residence"
+      ],
       "correctAnswer": 1,
-      "explanation": "Il n'y a aucune restriction de nationalité pour l'achat immobilier en France. Toute personne, résidente ou non, peut acquérir un bien. L'achat doit être formalisé par un acte notarié. Vous pouvez également contracter un prêt immobilier auprès d'une banque française."
+      "explanation": "Il n'y a aucune restriction de nationalité pour l'achat immobilier en France. Toute personne, résidente ou non, peut acquérir un bien. L'achat doit être formalisé par un acte notarié. Vous pouvez également contracter un prêt immobilier auprès d'une banque française.",
+      "explanationEn": "There are no nationality restrictions for buying property in France. Any person, resident or not, can buy property. The purchase must be completed with a notary. You can also get a mortgage from a French bank."
     },
     {
       "id": "cr-mes-q14",
       "question": "Votre médecin traitant vous prescrit un médicament mais vous préférez un traitement alternatif. Que pouvez-vous faire ?",
+      "questionEn": "Your doctor prescribes a medicine but you prefer an alternative treatment. What can you do?",
       "options": [
         "Vous devez obligatoirement suivre la prescription du médecin",
         "Vous êtes libre de refuser un traitement, mais le médecin doit vous informer des risques. Le consentement éclairé est un droit fondamental",
         "Vous changez de médecin sans rien dire",
         "Vous prenez les deux traitements en même temps"
       ],
+      "optionsEn": [
+        "You must follow the doctor's prescription",
+        "You are free to refuse a treatment, but the doctor must inform you of the risks. Informed consent is a fundamental right",
+        "You change doctors without saying anything",
+        "You take both treatments at the same time"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le consentement libre et éclairé du patient est un principe fondamental du droit de la santé en France (article L1111-4 du Code de la santé publique). Vous avez le droit de refuser un traitement après avoir été informé des conséquences. Discutez-en avec votre médecin."
+      "explanation": "Le consentement libre et éclairé du patient est un principe fondamental du droit de la santé en France (article L1111-4 du Code de la santé publique). Vous avez le droit de refuser un traitement après avoir été informé des conséquences. Discutez-en avec votre médecin.",
+      "explanationEn": "The patient's free and informed consent is a fundamental principle of health law in France. You have the right to refuse a treatment after being informed of the consequences. Discuss it with your doctor."
     },
     {
       "id": "cr-mes-q15",
       "question": "Vous constatez qu'un produit alimentaire acheté en supermarché est périmé. Que pouvez-vous faire ?",
+      "questionEn": "You notice that a food product you bought at the supermarket is expired. What can you do?",
       "options": [
         "Rien, c'est votre faute de ne pas avoir vérifié",
         "Rapporter le produit au magasin pour un échange ou un remboursement, et signaler le problème à la DGCCRF si nécessaire",
         "Jeter le produit et ne plus retourner dans ce magasin",
         "Appeler la police"
       ],
+      "optionsEn": [
+        "Nothing, it is your fault for not checking",
+        "Return the product to the store for an exchange or refund, and report the issue to the DGCCRF (consumer protection agency) if needed",
+        "Throw away the product and never go back to that store",
+        "Call the police"
+      ],
       "correctAnswer": 1,
-      "explanation": "La vente de produits périmés est interdite en France. Vous pouvez rapporter le produit au magasin qui doit vous échanger ou rembourser. En cas de problème récurrent, signalez-le à la DGCCRF (Direction Générale de la Concurrence, Consommation et Répression des Fraudes) via SignalConso."
+      "explanation": "La vente de produits périmés est interdite en France. Vous pouvez rapporter le produit au magasin qui doit vous échanger ou rembourser. En cas de problème récurrent, signalez-le à la DGCCRF (Direction Générale de la Concurrence, Consommation et Répression des Fraudes) via SignalConso.",
+      "explanationEn": "Selling expired products is illegal in France. You can return the product to the store for an exchange or refund. If the problem keeps happening, report it to the DGCCRF (consumer protection agency) through SignalConso."
     },
     {
       "id": "cr-mes-q16",
       "question": "Vous recevez un avis d'imposition avec un montant que vous estimez trop élevé. Que pouvez-vous faire ?",
+      "questionEn": "You receive a tax notice with an amount you think is too high. What can you do?",
       "options": [
         "Ne pas payer en attendant que ça se résolve",
         "Faire une réclamation auprès de votre centre des finances publiques dans le délai légal",
         "Ignorer l'avis et ne rien faire",
         "Payer et ne jamais contester"
       ],
+      "optionsEn": [
+        "Not pay and wait for it to be resolved",
+        "File a complaint with your local tax office within the legal deadline",
+        "Ignore the notice and do nothing",
+        "Pay and never contest"
+      ],
       "correctAnswer": 1,
-      "explanation": "Si vous contestez votre imposition, vous pouvez faire une réclamation auprès de votre centre des finances publiques. Le délai est généralement jusqu'au 31 décembre de la 2e année suivant la mise en recouvrement. Vous devez payer l'impôt contesté, mais pouvez demander un sursis de paiement."
+      "explanation": "Si vous contestez votre imposition, vous pouvez faire une réclamation auprès de votre centre des finances publiques. Le délai est généralement jusqu'au 31 décembre de la 2e année suivant la mise en recouvrement. Vous devez payer l'impôt contesté, mais pouvez demander un sursis de paiement.",
+      "explanationEn": "If you disagree with your tax amount, you can file a complaint at your local tax office. The deadline is usually until 31 December of the 2nd year after the tax notice. You must still pay, but you can ask for a payment delay."
     },
     {
       "id": "cr-mes-q17",
       "question": "Vous êtes victime d'une erreur médicale à l'hôpital. Quels sont vos recours ?",
+      "questionEn": "You are the victim of a medical error at the hospital. What are your options?",
       "options": [
         "Vous n'avez aucun recours contre un hôpital public",
         "Vous pouvez demander votre dossier médical, saisir la Commission de Conciliation et d'Indemnisation (CCI) ou engager une procédure judiciaire",
         "Vous pouvez uniquement écrire au directeur de l'hôpital",
         "Vous devez attendre 5 ans avant de pouvoir agir"
       ],
+      "optionsEn": [
+        "You have no options against a public hospital",
+        "You can request your medical file, contact the Conciliation and Compensation Commission (CCI), or start legal proceedings",
+        "You can only write to the hospital director",
+        "You must wait 5 years before taking action"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas d'erreur médicale, vous avez le droit d'accéder à votre dossier médical. Vous pouvez saisir la CCI (procédure gratuite) pour obtenir une indemnisation, ou engager une procédure judiciaire. Le délai de prescription est de 10 ans à compter de la consolidation du dommage."
+      "explanation": "En cas d'erreur médicale, vous avez le droit d'accéder à votre dossier médical. Vous pouvez saisir la CCI (procédure gratuite) pour obtenir une indemnisation, ou engager une procédure judiciaire. Le délai de prescription est de 10 ans à compter de la consolidation du dommage.",
+      "explanationEn": "In case of a medical error, you have the right to access your medical file. You can contact the CCI (a free process) to get compensation, or start legal proceedings. The time limit is 10 years from when the damage is stabilized."
     },
     {
       "id": "cr-mes-q18",
       "question": "Votre enfant majeur (19 ans) vit encore chez vous et ne travaille pas. Êtes-vous obligé de continuer à le nourrir et l'héberger ?",
+      "questionEn": "Your adult child (19 years old) still lives with you and does not work. Are you required to continue feeding and housing them?",
       "options": [
         "Non, à 18 ans il est autonome",
         "Oui, l'obligation alimentaire des parents envers leurs enfants persiste tant que l'enfant ne peut pas subvenir à ses besoins, même après sa majorité",
         "Oui, mais uniquement jusqu'à 21 ans",
         "Non, sauf s'il est étudiant"
       ],
+      "optionsEn": [
+        "No, at 18 they are independent",
+        "Yes, parents' duty to support their children continues as long as the child cannot provide for themselves, even after turning 18",
+        "Yes, but only until age 21",
+        "No, unless they are a student"
+      ],
       "correctAnswer": 1,
-      "explanation": "L'obligation alimentaire des parents envers leurs enfants ne s'arrête pas à la majorité (article 371-2 du Code civil). Elle persiste tant que l'enfant ne peut pas subvenir seul à ses besoins (études, recherche d'emploi, maladie). Cette obligation peut être réduite en justice si elle est disproportionnée."
+      "explanation": "L'obligation alimentaire des parents envers leurs enfants ne s'arrête pas à la majorité (article 371-2 du Code civil). Elle persiste tant que l'enfant ne peut pas subvenir seul à ses besoins (études, recherche d'emploi, maladie). Cette obligation peut être réduite en justice si elle est disproportionnée.",
+      "explanationEn": "Parents' duty to support their children does not stop at age 18 (Civil Code, article 371-2). It continues as long as the child cannot support themselves (studies, job search, illness). This duty can be reduced by a court if it is too much."
     },
     {
       "id": "cr-mes-q19",
       "question": "Vous souhaitez parrainer un membre de votre famille pour qu'il vienne en France dans le cadre du regroupement familial. Quelles conditions devez-vous remplir ?",
+      "questionEn": "You want to sponsor a family member to come to France through family reunification. What conditions must you meet?",
       "options": [
         "Aucune condition particulière",
         "Résider en France depuis au moins 18 mois, disposer de ressources stables et suffisantes et d'un logement adapté",
         "Être de nationalité française uniquement",
         "Avoir un emploi en CDI obligatoirement"
       ],
+      "optionsEn": [
+        "No special conditions",
+        "Have lived in France for at least 18 months, have stable and sufficient income, and have suitable housing",
+        "Be of French nationality only",
+        "Must have a permanent job (CDI)"
+      ],
       "correctAnswer": 1,
-      "explanation": "Pour le regroupement familial, le demandeur doit résider régulièrement en France depuis au moins 18 mois, disposer de ressources stables et suffisantes (au moins le SMIC) et d'un logement considéré comme normal pour la famille. La demande se fait auprès de l'OFII."
+      "explanation": "Pour le regroupement familial, le demandeur doit résider régulièrement en France depuis au moins 18 mois, disposer de ressources stables et suffisantes (au moins le SMIC) et d'un logement considéré comme normal pour la famille. La demande se fait auprès de l'OFII.",
+      "explanationEn": "For family reunification, you must have lived legally in France for at least 18 months, have stable and sufficient income (at least the minimum wage, SMIC), and have suitable housing for the family. The application is made through the OFII."
     },
     {
       "id": "cr-mes-q20",
       "question": "Votre propriétaire augmente votre loyer de 20% sans justification. Est-ce légal ?",
+      "questionEn": "Your landlord raises your rent by 20% without justification. Is this legal?",
       "options": [
         "Oui, le propriétaire fixe librement le loyer",
         "Non, l'augmentation du loyer est encadrée par la loi : elle ne peut dépasser l'indice de référence des loyers (IRL) sauf travaux importants",
         "Oui, une fois par an",
         "Oui, si le loyer était bas au départ"
       ],
+      "optionsEn": [
+        "Yes, the landlord sets the rent freely",
+        "No, rent increases are regulated by law: they cannot exceed the rent reference index (IRL) except for major renovations",
+        "Yes, once a year",
+        "Yes, if the rent was low to start with"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, la révision annuelle du loyer est encadrée par l'Indice de Référence des Loyers (IRL) publié par l'INSEE. Le propriétaire ne peut pas augmenter le loyer librement. Dans les zones tendues, un encadrement des loyers supplémentaire peut s'appliquer."
+      "explanation": "En France, la révision annuelle du loyer est encadrée par l'Indice de Référence des Loyers (IRL) publié par l'INSEE. Le propriétaire ne peut pas augmenter le loyer librement. Dans les zones tendues, un encadrement des loyers supplémentaire peut s'appliquer.",
+      "explanationEn": "In France, the annual rent increase is regulated by the Rent Reference Index (IRL) published by INSEE. The landlord cannot freely raise the rent. In high-demand areas, additional rent controls may apply."
     },
     {
       "id": "cr-mes-q21",
       "question": "Vous souhaitez faire reconnaître votre diplôme étranger en France. Quelle est la démarche ?",
+      "questionEn": "You want to have your foreign diploma recognized in France. What is the process?",
       "options": [
         "Votre diplôme est automatiquement reconnu",
         "Demander une attestation de comparabilité auprès de France Éducation International (ENIC-NARIC)",
         "Repasser tous les examens en France",
         "Traduire votre diplôme et le faire signer par un notaire"
       ],
+      "optionsEn": [
+        "Your diploma is automatically recognized",
+        "Request a comparability certificate from France Éducation International (ENIC-NARIC)",
+        "Retake all exams in France",
+        "Translate your diploma and have it signed by a notary"
+      ],
       "correctAnswer": 1,
-      "explanation": "Pour faire reconnaître un diplôme étranger en France, vous devez demander une attestation de comparabilité auprès du centre ENIC-NARIC France (France Éducation International). Cette attestation indique le niveau français équivalent. Pour certaines professions réglementées, des démarches supplémentaires sont nécessaires."
+      "explanation": "Pour faire reconnaître un diplôme étranger en France, vous devez demander une attestation de comparabilité auprès du centre ENIC-NARIC France (France Éducation International). Cette attestation indique le niveau français équivalent. Pour certaines professions réglementées, des démarches supplémentaires sont nécessaires.",
+      "explanationEn": "To have a foreign diploma recognized in France, you must request a comparability certificate from the ENIC-NARIC center (France Éducation International). This certificate shows the equivalent French level. For some regulated professions, additional steps are needed."
     },
     {
       "id": "cr-mes-q22",
       "question": "Un couple marié se sépare. Le père veut emmener les enfants vivre dans un autre pays sans l'accord de la mère. Est-ce légal ?",
+      "questionEn": "A married couple separates. The father wants to take the children to live in another country without the mother's agreement. Is this legal?",
       "options": [
         "Oui, le père a le droit de décider où vivent ses enfants",
         "Non, l'un des parents ne peut pas déplacer les enfants à l'étranger sans l'accord de l'autre parent ou une décision de justice. C'est un enlèvement parental",
         "Oui, si les enfants sont d'accord",
         "Oui, pendant les vacances scolaires"
       ],
+      "optionsEn": [
+        "Yes, the father has the right to decide where his children live",
+        "No, one parent cannot move the children abroad without the other parent's agreement or a court decision. This is parental kidnapping",
+        "Yes, if the children agree",
+        "Yes, during school holidays"
+      ],
       "correctAnswer": 1,
-      "explanation": "Déplacer un enfant à l'étranger sans l'accord de l'autre parent titulaire de l'autorité parentale constitue un enlèvement parental, puni de 1 an d'emprisonnement (article 227-7 du Code pénal). L'autorité parentale est exercée conjointement par les deux parents."
+      "explanation": "Déplacer un enfant à l'étranger sans l'accord de l'autre parent titulaire de l'autorité parentale constitue un enlèvement parental, puni de 1 an d'emprisonnement (article 227-7 du Code pénal). L'autorité parentale est exercée conjointement par les deux parents.",
+      "explanationEn": "Moving a child abroad without the agreement of the other parent who shares parental authority is parental kidnapping, punished by 1 year in prison. Parental authority is shared by both parents."
     },
     {
       "id": "cr-mes-q23",
       "question": "Vous souhaitez aider votre communauté en devenant bénévole. Où pouvez-vous vous renseigner ?",
+      "questionEn": "You want to help your community by volunteering. Where can you find information?",
       "options": [
         "Il faut être invité par une association",
         "Contacter des associations locales, la mairie, ou utiliser des plateformes comme JeVeuxAider.gouv.fr",
         "Le bénévolat n'existe pas en France",
         "Seuls les retraités peuvent être bénévoles"
       ],
+      "optionsEn": [
+        "You need to be invited by an association",
+        "Contact local associations, the town hall, or use platforms like JeVeuxAider.gouv.fr",
+        "Volunteering does not exist in France",
+        "Only retired people can volunteer"
+      ],
       "correctAnswer": 1,
-      "explanation": "La France compte plus d'un million d'associations. Toute personne peut devenir bénévole, quelle que soit sa nationalité. Vous pouvez vous renseigner auprès de la mairie, des maisons des associations, ou sur JeVeuxAider.gouv.fr, la plateforme nationale du bénévolat."
+      "explanation": "La France compte plus d'un million d'associations. Toute personne peut devenir bénévole, quelle que soit sa nationalité. Vous pouvez vous renseigner auprès de la mairie, des maisons des associations, ou sur JeVeuxAider.gouv.fr, la plateforme nationale du bénévolat.",
+      "explanationEn": "France has more than one million associations. Anyone can volunteer, regardless of nationality. You can get information at the town hall, association centers, or on JeVeuxAider.gouv.fr, the national volunteering platform."
     },
     {
       "id": "cr-mes-q24",
       "question": "Votre employeur vous interdit de parler votre langue maternelle pendant la pause déjeuner avec des collègues. A-t-il le droit ?",
+      "questionEn": "Your employer forbids you from speaking your native language during the lunch break with colleagues. Does he have the right?",
       "options": [
         "Oui, le français est obligatoire partout sur le lieu de travail",
         "Non, l'employeur peut imposer le français pour les communications professionnelles, mais pas pendant les temps de pause",
         "Oui, c'est dans le règlement intérieur",
         "Non, il n'a aucun droit sur les langues parlées"
       ],
+      "optionsEn": [
+        "Yes, French is mandatory everywhere at the workplace",
+        "No, the employer can require French for professional communications, but not during break times",
+        "Yes, it is in the internal rules",
+        "No, he has no right over the languages spoken"
+      ],
       "correctAnswer": 1,
-      "explanation": "L'employeur peut exiger l'usage du français pour les documents de travail et les communications professionnelles (article L1321-6 du Code du travail). En revanche, pendant les temps de pause, les salariés sont libres de parler la langue de leur choix. Interdire une langue en dehors du temps de travail peut constituer une discrimination."
+      "explanation": "L'employeur peut exiger l'usage du français pour les documents de travail et les communications professionnelles (article L1321-6 du Code du travail). En revanche, pendant les temps de pause, les salariés sont libres de parler la langue de leur choix. Interdire une langue en dehors du temps de travail peut constituer une discrimination.",
+      "explanationEn": "The employer can require French for work documents and professional communications. However, during break times, employees are free to speak the language of their choice. Banning a language outside of work time can be discrimination."
     },
     {
       "id": "cr-mes-q25",
       "question": "Vous découvrez que votre assurance habitation ne couvre pas les dégâts causés par une inondation. Que devez-vous savoir ?",
+      "questionEn": "You discover that your home insurance does not cover flood damage. What should you know?",
       "options": [
         "Les catastrophes naturelles ne sont jamais couvertes",
         "La garantie catastrophes naturelles est obligatoirement incluse dans tous les contrats d'assurance habitation en France, après publication d'un arrêté de catastrophe naturelle",
         "Vous devez souscrire une assurance spéciale inondation",
         "Seul l'État indemnise les victimes d'inondation"
       ],
+      "optionsEn": [
+        "Natural disasters are never covered",
+        "Natural disaster coverage is required in all home insurance contracts in France, after a natural disaster decree is published",
+        "You must take out special flood insurance",
+        "Only the State compensates flood victims"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, la garantie catastrophes naturelles est obligatoirement incluse dans tous les contrats d'assurance habitation (loi du 13 juillet 1982). Elle est activée par un arrêté interministériel reconnaissant l'état de catastrophe naturelle. La franchise est réglementée par l'État."
+      "explanation": "En France, la garantie catastrophes naturelles est obligatoirement incluse dans tous les contrats d'assurance habitation (loi du 13 juillet 1982). Elle est activée par un arrêté interministériel reconnaissant l'état de catastrophe naturelle. La franchise est réglementée par l'État.",
+      "explanationEn": "In France, natural disaster coverage is required in all home insurance contracts (law of 13 July 1982). It is activated by a government decree recognizing the natural disaster. The deductible is regulated by the State."
     },
     {
       "id": "cr-mes-q26",
       "question": "Vous recevez un appel vous informant que vous avez gagné un voyage gratuit et qu'il faut donner votre numéro de carte bancaire. Que faites-vous ?",
+      "questionEn": "You receive a call telling you that you won a free trip and you need to give your bank card number. What do you do?",
       "options": [
         "Vous donnez vos informations pour recevoir le cadeau",
         "Vous raccrochez car c'est une arnaque, et vous signalez le numéro sur le site 33700.fr ou Bloctel",
         "Vous demandez des précisions par curiosité",
         "Vous donnez un faux numéro de carte"
       ],
+      "optionsEn": [
+        "You give your information to receive the gift",
+        "You hang up because it is a scam, and you report the number on 33700.fr or Bloctel",
+        "You ask for more details out of curiosity",
+        "You give a fake card number"
+      ],
       "correctAnswer": 1,
-      "explanation": "Il s'agit d'une arnaque courante. Ne communiquez jamais vos coordonnées bancaires par téléphone. Vous pouvez signaler ces numéros sur 33700.fr (lutte contre les spams téléphoniques) et vous inscrire sur Bloctel pour limiter le démarchage téléphonique."
+      "explanation": "Il s'agit d'une arnaque courante. Ne communiquez jamais vos coordonnées bancaires par téléphone. Vous pouvez signaler ces numéros sur 33700.fr (lutte contre les spams téléphoniques) et vous inscrire sur Bloctel pour limiter le démarchage téléphonique.",
+      "explanationEn": "This is a common scam. Never share your bank details over the phone. You can report these numbers on 33700.fr (anti-spam) and register on Bloctel to reduce unwanted calls."
     },
     {
       "id": "cr-mes-q27",
       "question": "Vous conduisez et commettez un excès de vitesse. Vous recevez un PV avec retrait de points. Comment fonctionne le permis à points ?",
+      "questionEn": "You are driving and commit a speeding offense. You receive a ticket with points deducted. How does the points-based license work?",
       "options": [
         "Le permis a un nombre illimité de points",
         "Le permis comporte 12 points (6 pour les nouveaux conducteurs). Les infractions entraînent des retraits de points. À 0 point, le permis est annulé",
         "On ne peut perdre qu'un seul point par infraction",
         "Les points sont automatiquement réattribués chaque année"
       ],
+      "optionsEn": [
+        "The license has unlimited points",
+        "The license has 12 points (6 for new drivers). Offenses result in point deductions. At 0 points, the license is cancelled",
+        "You can only lose one point per offense",
+        "Points are automatically restored every year"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le permis de conduire français est un permis à points (12 points, ou 6 pour les permis probatoires). Les infractions entraînent des retraits de 1 à 6 points selon la gravité. Les points se récupèrent après un délai sans infraction ou en effectuant un stage de sensibilisation."
+      "explanation": "Le permis de conduire français est un permis à points (12 points, ou 6 pour les permis probatoires). Les infractions entraînent des retraits de 1 à 6 points selon la gravité. Les points se récupèrent après un délai sans infraction ou en effectuant un stage de sensibilisation.",
+      "explanationEn": "The French driving license is a points-based system (12 points, or 6 for new drivers). Offenses result in losing 1 to 6 points depending on severity. Points are restored after a period without offenses or by attending an awareness course."
     },
     {
       "id": "cr-mes-q28",
       "question": "Vous travaillez depuis 2 ans dans la même entreprise en CDI. Vous souhaitez suivre une formation pour évoluer. Quels dispositifs existent ?",
+      "questionEn": "You have worked for 2 years at the same company on a permanent contract. You want to take training to advance. What options exist?",
       "options": [
         "Aucun, c'est à vous de payer votre formation",
         "Le Compte Personnel de Formation (CPF), accessible à tous les salariés, permet de financer des formations certifiantes",
         "Seul l'employeur décide de vos formations",
         "Les formations sont réservées aux cadres"
       ],
+      "optionsEn": [
+        "None, you must pay for your own training",
+        "The Personal Training Account (CPF), available to all employees, helps fund certified training courses",
+        "Only the employer decides your training",
+        "Training is only for managers"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le Compte Personnel de Formation (CPF) est un droit individuel ouvert à tous les salariés. Il est alimenté chaque année (500 € par an, plafonné à 5 000 €) et utilisable sur moncompteformation.gouv.fr. Vous pouvez également mobiliser le plan de développement des compétences de votre entreprise."
+      "explanation": "Le Compte Personnel de Formation (CPF) est un droit individuel ouvert à tous les salariés. Il est alimenté chaque année (500 € par an, plafonné à 5 000 €) et utilisable sur moncompteformation.gouv.fr. Vous pouvez également mobiliser le plan de développement des compétences de votre entreprise.",
+      "explanationEn": "The Personal Training Account (CPF) is an individual right for all employees. It receives 500 euros per year (up to 5,000 euros) and can be used on moncompteformation.gouv.fr. You can also use your company's skills development plan."
     },
     {
       "id": "cr-mes-q29",
       "question": "Votre père âgé vit seul et a du mal à s'occuper de lui-même. Quelles aides existent ?",
+      "questionEn": "Your elderly father lives alone and has difficulty taking care of himself. What help is available?",
       "options": [
         "Aucune aide publique n'existe pour les personnes âgées",
         "L'APA (Allocation Personnalisée d'Autonomie) permet de financer l'aide à domicile ou l'hébergement en EHPAD",
         "Seuls les enfants doivent s'en occuper",
         "Il doit aller obligatoirement en maison de retraite"
       ],
+      "optionsEn": [
+        "No public help exists for elderly people",
+        "The APA (Personalized Autonomy Allowance) helps fund home care or nursing home accommodation",
+        "Only the children must take care of him",
+        "He must go to a retirement home"
+      ],
       "correctAnswer": 1,
-      "explanation": "L'APA (Allocation Personnalisée d'Autonomie) est une aide versée par le département aux personnes de 60 ans et plus en perte d'autonomie. Elle finance l'aide à domicile (ménage, repas, aide à la toilette) ou contribue aux frais d'hébergement en établissement. La demande se fait auprès du conseil départemental."
+      "explanation": "L'APA (Allocation Personnalisée d'Autonomie) est une aide versée par le département aux personnes de 60 ans et plus en perte d'autonomie. Elle finance l'aide à domicile (ménage, repas, aide à la toilette) ou contribue aux frais d'hébergement en établissement. La demande se fait auprès du conseil départemental.",
+      "explanationEn": "The APA (Personalized Autonomy Allowance) is a benefit paid by the département to people aged 60 and over who are losing their independence. It funds home help (cleaning, meals, personal care) or contributes to nursing home costs. You apply through the département council."
     },
     {
       "id": "cr-mes-q30",
       "question": "Vous êtes en désaccord avec une décision administrative (refus de titre de séjour, allocation refusée, etc.). Quels recours avez-vous ?",
+      "questionEn": "You disagree with an administrative decision (residence permit refused, benefit denied, etc.). What options do you have?",
       "options": [
         "Aucun, les décisions administratives sont définitives",
         "Vous pouvez faire un recours gracieux auprès de l'administration, un recours hiérarchique, puis un recours devant le tribunal administratif",
         "Vous ne pouvez contester qu'en écrivant au président de la République",
         "Seul un avocat peut contester une décision administrative"
       ],
+      "optionsEn": [
+        "None, administrative decisions are final",
+        "You can file a gracious appeal with the administration, a hierarchical appeal, then an appeal before the administrative court",
+        "You can only contest by writing to the President of the Republic",
+        "Only a lawyer can contest an administrative decision"
+      ],
       "correctAnswer": 1,
-      "explanation": "Toute décision administrative peut être contestée. Vous pouvez d'abord tenter un recours gracieux (auprès de l'auteur de la décision) ou hiérarchique (auprès du supérieur). En cas d'échec, vous pouvez saisir le tribunal administratif dans un délai de 2 mois. L'aide juridictionnelle peut couvrir les frais."
+      "explanation": "Toute décision administrative peut être contestée. Vous pouvez d'abord tenter un recours gracieux (auprès de l'auteur de la décision) ou hiérarchique (auprès du supérieur). En cas d'échec, vous pouvez saisir le tribunal administratif dans un délai de 2 mois. L'aide juridictionnelle peut couvrir les frais.",
+      "explanationEn": "Any administrative decision can be contested. You can first try a gracious appeal (to the person who made the decision) or a hierarchical appeal (to their supervisor). If that fails, you can go to the administrative court within 2 months. Legal aid can cover the costs."
     },
     {
       "id": "cr-mes-q31",
       "question": "Votre fille de 17 ans veut se marier. Est-ce possible en France ?",
+      "questionEn": "Your 17-year-old daughter wants to get married. Is this possible in France?",
       "options": [
         "Oui, si les parents sont d'accord",
         "Non, le mariage est interdit avant 18 ans en France, sans exception",
         "Oui, avec une autorisation du juge",
         "Oui, à partir de 16 ans"
       ],
+      "optionsEn": [
+        "Yes, if the parents agree",
+        "No, marriage is forbidden before age 18 in France, with no exceptions",
+        "Yes, with a judge's authorization",
+        "Yes, from the age of 16"
+      ],
       "correctAnswer": 1,
-      "explanation": "Depuis la loi du 5 mars 2007, renforcée en 2024, le mariage est interdit avant 18 ans en France, sans possibilité de dérogation. Cette loi vise à protéger les mineurs contre les mariages forcés. Toute personne souhaitant se marier doit être majeure."
+      "explanation": "Depuis la loi du 5 mars 2007, renforcée en 2024, le mariage est interdit avant 18 ans en France, sans possibilité de dérogation. Cette loi vise à protéger les mineurs contre les mariages forcés. Toute personne souhaitant se marier doit être majeure.",
+      "explanationEn": "Since the law of 5 March 2007, strengthened in 2024, marriage is forbidden before age 18 in France, with no exceptions. This law protects minors from forced marriages. Anyone who wants to get married must be 18 or older."
     },
     {
       "id": "cr-mes-q32",
       "question": "Vous vivez en couple sans être mariés et vous avez un enfant ensemble. Quels sont vos droits ?",
+      "questionEn": "You live as a couple without being married and you have a child together. What are your rights?",
       "options": [
         "Vous n'avez aucun droit sans être mariés",
         "Les deux parents ont les mêmes droits et devoirs envers l'enfant, que le couple soit marié ou non",
         "Seule la mère a des droits sur l'enfant",
         "Il faut se marier pour que le père ait des droits"
       ],
+      "optionsEn": [
+        "You have no rights without being married",
+        "Both parents have the same rights and duties toward the child, whether the couple is married or not",
+        "Only the mother has rights over the child",
+        "The father must marry to have rights"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, les parents non mariés ont les mêmes droits et obligations envers leurs enfants que les parents mariés, à condition que la filiation soit établie (reconnaissance par le père). L'autorité parentale est exercée conjointement."
+      "explanation": "En France, les parents non mariés ont les mêmes droits et obligations envers leurs enfants que les parents mariés, à condition que la filiation soit établie (reconnaissance par le père). L'autorité parentale est exercée conjointement.",
+      "explanationEn": "In France, unmarried parents have the same rights and duties toward their children as married parents, as long as paternity is established (the father recognizes the child). Parental authority is shared."
     },
     {
       "id": "cr-mes-q33",
       "question": "Vous organisez un barbecue sur le balcon de votre appartement et vos voisins se plaignent de la fumée. Que dit la loi ?",
+      "questionEn": "You have a barbecue on the balcony of your apartment and your neighbors complain about the smoke. What does the law say?",
       "options": [
         "Vous êtes libre de faire un barbecue chez vous",
         "Le règlement de copropriété peut interdire les barbecues sur les balcons. De plus, les nuisances (fumée, odeurs) peuvent constituer un trouble de voisinage",
         "Les barbecues sont interdits en France",
         "Seuls les barbecues électriques sont autorisés partout"
       ],
+      "optionsEn": [
+        "You are free to have a barbecue at home",
+        "The building rules may ban barbecues on balconies. Also, disturbances (smoke, smells) can be considered a neighborhood nuisance",
+        "Barbecues are banned in France",
+        "Only electric barbecues are allowed everywhere"
+      ],
       "correctAnswer": 1,
-      "explanation": "La réglementation des barbecues dépend du règlement de copropriété et des arrêtés municipaux. Les fumées et odeurs excessives peuvent constituer un trouble anormal de voisinage. Vérifiez le règlement de votre copropriété et les règles de votre commune avant d'organiser un barbecue."
+      "explanation": "La réglementation des barbecues dépend du règlement de copropriété et des arrêtés municipaux. Les fumées et odeurs excessives peuvent constituer un trouble anormal de voisinage. Vérifiez le règlement de votre copropriété et les règles de votre commune avant d'organiser un barbecue.",
+      "explanationEn": "Barbecue rules depend on the building regulations and local by-laws. Excessive smoke and smells can be considered an abnormal neighborhood disturbance. Check your building rules and local regulations before having a barbecue."
     },
     {
       "id": "cr-mes-q34",
       "question": "Vous souhaitez obtenir un logement social en France. Quelle est la démarche ?",
+      "questionEn": "You want to get social housing in France. What is the process?",
       "options": [
         "Contacter directement le maire",
         "Faire une demande de logement social en ligne ou en mairie et obtenir un numéro unique d'enregistrement",
         "Seuls les Français peuvent demander un logement social",
         "Il faut être inscrit depuis 10 ans"
       ],
+      "optionsEn": [
+        "Contact the mayor directly",
+        "Apply for social housing online or at the town hall and get a unique registration number",
+        "Only French people can apply for social housing",
+        "You must have been registered for 10 years"
+      ],
       "correctAnswer": 1,
-      "explanation": "Toute personne résidant légalement en France peut demander un logement social, quelle que soit sa nationalité. La demande se fait en ligne (demande-logement-social.gouv.fr) ou en mairie. Vous recevez un numéro unique d'enregistrement. L'attente varie selon les zones."
+      "explanation": "Toute personne résidant légalement en France peut demander un logement social, quelle que soit sa nationalité. La demande se fait en ligne (demande-logement-social.gouv.fr) ou en mairie. Vous recevez un numéro unique d'enregistrement. L'attente varie selon les zones.",
+      "explanationEn": "Anyone living legally in France can apply for social housing, regardless of nationality. You apply online (demande-logement-social.gouv.fr) or at the town hall. You receive a unique registration number. The waiting time varies by area."
     },
     {
       "id": "cr-mes-q35",
       "question": "Votre employeur vous impose de travailler un jour férié. Avez-vous droit à une compensation ?",
+      "questionEn": "Your employer requires you to work on a public holiday. Are you entitled to compensation?",
       "options": [
         "Non, les jours fériés ne sont pas obligatoirement chômés sauf le 1er mai",
         "Oui, le travail un jour férié donne toujours droit à un salaire double",
         "Non, les jours fériés n'existent pas pour les étrangers",
         "Oui, mais uniquement si vous travaillez dans le secteur public"
       ],
+      "optionsEn": [
+        "No, public holidays are not required days off except for 1 May",
+        "Yes, working on a public holiday always means double pay",
+        "No, public holidays do not apply to foreigners",
+        "Yes, but only if you work in the public sector"
+      ],
       "correctAnswer": 0,
-      "explanation": "En France, seul le 1er mai est un jour férié obligatoirement chômé et payé double s'il est travaillé. Les autres jours fériés sont chômés ou non selon la convention collective et les usages de l'entreprise. Vérifiez votre convention collective pour connaître vos droits."
+      "explanation": "En France, seul le 1er mai est un jour férié obligatoirement chômé et payé double s'il est travaillé. Les autres jours fériés sont chômés ou non selon la convention collective et les usages de l'entreprise. Vérifiez votre convention collective pour connaître vos droits.",
+      "explanationEn": "In France, only 1 May is a public holiday that must be a day off and paid double if worked. Other public holidays depend on your collective agreement and company practices. Check your collective agreement to know your rights."
     },
     {
       "id": "cr-mes-q36",
       "question": "Vous découvrez que votre voisin maltraite son chien. Que pouvez-vous faire ?",
+      "questionEn": "You discover that your neighbor mistreats his dog. What can you do?",
       "options": [
         "Rien, un propriétaire fait ce qu'il veut avec son animal",
         "Signaler les faits à la police, la gendarmerie, la SPA ou la fondation 30 Millions d'Amis. La maltraitance animale est un délit",
         "En parler au voisin uniquement",
         "Prendre l'animal sans prévenir"
       ],
+      "optionsEn": [
+        "Nothing, an owner can do what they want with their animal",
+        "Report it to the police, gendarmerie, SPA (animal protection society) or the 30 Millions d'Amis foundation. Animal abuse is a criminal offense",
+        "Only talk to the neighbor about it",
+        "Take the animal without telling anyone"
+      ],
       "correctAnswer": 1,
-      "explanation": "La maltraitance animale est un délit en France, puni de 3 ans d'emprisonnement et 45 000 € d'amende (article 521-1 du Code pénal, renforcé par la loi du 30 novembre 2021). Vous pouvez signaler les faits à la police, la gendarmerie, la SPA ou appeler le 3677."
+      "explanation": "La maltraitance animale est un délit en France, puni de 3 ans d'emprisonnement et 45 000 € d'amende (article 521-1 du Code pénal, renforcé par la loi du 30 novembre 2021). Vous pouvez signaler les faits à la police, la gendarmerie, la SPA ou appeler le 3677.",
+      "explanationEn": "Animal abuse is a criminal offense in France, punished by 3 years in prison and a 45,000 euro fine. You can report it to the police, gendarmerie, SPA (animal protection society), or call 3677."
     },
     {
       "id": "cr-mes-q37",
       "question": "Vous avez un accident du travail. Quelle est la première chose à faire ?",
+      "questionEn": "You have a workplace accident. What is the first thing to do?",
       "options": [
         "Attendre de voir si ça s'améliore",
         "Informer votre employeur dans les 24 heures et consulter un médecin qui établira un certificat médical initial",
         "Prendre un congé sans rien dire",
         "Appeler votre assurance personnelle"
       ],
+      "optionsEn": [
+        "Wait and see if it gets better",
+        "Inform your employer within 24 hours and see a doctor who will issue an initial medical certificate",
+        "Take time off without telling anyone",
+        "Call your personal insurance"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas d'accident du travail, vous devez informer votre employeur dans les 24 heures. Celui-ci doit déclarer l'accident à la CPAM dans les 48 heures. Consultez un médecin qui établira un certificat médical initial. Les soins sont pris en charge à 100% par l'Assurance Maladie."
+      "explanation": "En cas d'accident du travail, vous devez informer votre employeur dans les 24 heures. Celui-ci doit déclarer l'accident à la CPAM dans les 48 heures. Consultez un médecin qui établira un certificat médical initial. Les soins sont pris en charge à 100% par l'Assurance Maladie.",
+      "explanationEn": "In case of a workplace accident, you must inform your employer within 24 hours. The employer must report the accident to the CPAM (health insurance) within 48 hours. See a doctor who will issue a medical certificate. Medical care is covered 100% by health insurance."
     },
     {
       "id": "cr-mes-q38",
       "question": "Un démarcheur sonne à votre porte et vous vend un aspirateur 500 €. Vous regrettez cet achat le lendemain. Pouvez-vous annuler ?",
+      "questionEn": "A door-to-door salesman sells you a vacuum cleaner for 500 euros. You regret the purchase the next day. Can you cancel?",
       "options": [
         "Non, vous avez signé, c'est définitif",
         "Oui, vous disposez d'un délai de rétractation de 14 jours pour tout achat lors d'un démarchage à domicile",
         "Oui, mais uniquement si le produit est défectueux",
         "Non, sauf si le vendeur accepte"
       ],
+      "optionsEn": [
+        "No, you signed, it is final",
+        "Yes, you have a 14-day cooling-off period for any purchase made during door-to-door sales",
+        "Yes, but only if the product is defective",
+        "No, unless the seller agrees"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le Code de la consommation accorde un délai de rétractation de 14 jours pour les achats effectués lors d'un démarchage à domicile (article L221-18). Vous pouvez retourner le produit sans avoir à justifier votre décision et être intégralement remboursé."
+      "explanation": "Le Code de la consommation accorde un délai de rétractation de 14 jours pour les achats effectués lors d'un démarchage à domicile (article L221-18). Vous pouvez retourner le produit sans avoir à justifier votre décision et être intégralement remboursé.",
+      "explanationEn": "Consumer law gives you a 14-day cooling-off period for purchases made during door-to-door sales. You can return the product without having to give a reason and get a full refund."
     },
     {
       "id": "cr-mes-q39",
       "question": "Votre commune organise le tri sélectif. Que risquez-vous si vous ne triez pas vos déchets ?",
+      "questionEn": "Your municipality has recycling rules. What can happen if you do not sort your waste?",
       "options": [
         "Rien, le tri est facultatif",
         "Une amende pouvant aller jusqu'à 150 € pour non-respect des règles de collecte, et vos poubelles peuvent ne pas être ramassées",
         "La coupure de votre eau",
         "L'expulsion de votre logement"
       ],
+      "optionsEn": [
+        "Nothing, recycling is optional",
+        "A fine of up to 150 euros for not following collection rules, and your bins may not be collected",
+        "Your water being cut off",
+        "Eviction from your home"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le tri des déchets est obligatoire en France. Le non-respect des règles de collecte peut entraîner une amende de 35 à 150 € (contravention de 2e ou 3e classe). Les collectivités peuvent aussi refuser de ramasser les poubelles non conformes."
+      "explanation": "Le tri des déchets est obligatoire en France. Le non-respect des règles de collecte peut entraîner une amende de 35 à 150 € (contravention de 2e ou 3e classe). Les collectivités peuvent aussi refuser de ramasser les poubelles non conformes.",
+      "explanationEn": "Waste sorting is mandatory in France. Not following collection rules can result in a fine of 35 to 150 euros. Local authorities can also refuse to collect non-compliant bins."
     },
     {
       "id": "cr-mes-q40",
       "question": "Vous êtes titulaire d'une carte de résident et vous souhaitez voyager en Europe. De quoi avez-vous besoin ?",
+      "questionEn": "You hold a Carte de Résident (resident card) and want to travel in Europe. What do you need?",
       "options": [
         "Uniquement votre carte de résident",
         "Votre passeport valide et votre carte de résident. La carte de résident française ne remplace pas le visa pour certains pays",
         "Uniquement votre passeport",
         "Un visa Schengen en plus de votre carte de résident"
       ],
+      "optionsEn": [
+        "Only your resident card",
+        "Your valid passport and your resident card. The French resident card does not replace a visa for some countries",
+        "Only your passport",
+        "A Schengen visa in addition to your resident card"
+      ],
       "correctAnswer": 1,
-      "explanation": "La carte de résident française permet de résider en France et de circuler librement dans l'espace Schengen pour des séjours de moins de 90 jours (sans travailler). Vous devez avoir votre passeport valide et votre carte de résident. Pour un séjour de plus de 90 jours dans un autre pays, des démarches supplémentaires sont nécessaires."
+      "explanation": "La carte de résident française permet de résider en France et de circuler librement dans l'espace Schengen pour des séjours de moins de 90 jours (sans travailler). Vous devez avoir votre passeport valide et votre carte de résident. Pour un séjour de plus de 90 jours dans un autre pays, des démarches supplémentaires sont nécessaires.",
+      "explanationEn": "The French resident card allows you to live in France and travel freely in the Schengen area for stays under 90 days (without working). You need your valid passport and resident card. For stays over 90 days in another country, additional steps are needed."
     },
     {
       "id": "cr-mes-q41",
       "question": "Vous souhaitez inscrire vos enfants à la cantine scolaire mais il n'y a plus de place. La mairie peut-elle refuser ?",
+      "questionEn": "You want to register your children for school lunch but there is no more room. Can the town hall refuse?",
       "options": [
         "Oui, la cantine n'est pas un droit",
         "Non, depuis 2017, toute commune ayant un service de restauration scolaire doit y inscrire tous les enfants scolarisés qui en font la demande",
         "Oui, si les parents ne sont pas de la commune",
         "La cantine est réservée aux familles à faibles revenus"
       ],
+      "optionsEn": [
+        "Yes, the school canteen is not a right",
+        "No, since 2017, any municipality with a school canteen must register all enrolled children who apply",
+        "Yes, if the parents are not from the municipality",
+        "The canteen is only for low-income families"
+      ],
       "correctAnswer": 1,
-      "explanation": "Depuis la loi du 27 janvier 2017, l'inscription à la cantine scolaire est un droit pour tous les enfants scolarisés dans les communes disposant d'un service de restauration scolaire. La mairie ne peut pas refuser l'inscription d'un enfant, notamment pour des motifs discriminatoires."
+      "explanation": "Depuis la loi du 27 janvier 2017, l'inscription à la cantine scolaire est un droit pour tous les enfants scolarisés dans les communes disposant d'un service de restauration scolaire. La mairie ne peut pas refuser l'inscription d'un enfant, notamment pour des motifs discriminatoires.",
+      "explanationEn": "Since the law of 27 January 2017, registering for school lunch is a right for all enrolled children in municipalities that have a school canteen. The town hall cannot refuse a child, especially for discriminatory reasons."
     },
     {
       "id": "cr-mes-q42",
       "question": "Vous organisez un vide-grenier dans votre quartier. Faut-il une autorisation ?",
+      "questionEn": "You are organizing a yard sale in your neighborhood. Do you need permission?",
       "options": [
         "Non, c'est libre et sans formalité",
         "Oui, les vide-greniers sur la voie publique nécessitent une déclaration en mairie. Les particuliers ne peuvent participer qu'à 2 vide-greniers par an",
         "Oui, il faut un permis de commerce",
         "Non, si c'est dans un jardin privé"
       ],
+      "optionsEn": [
+        "No, it is free and requires no formalities",
+        "Yes, yard sales on public roads require a declaration at the town hall. Individuals can only participate in 2 yard sales per year",
+        "Yes, you need a business permit",
+        "No, if it is in a private garden"
+      ],
       "correctAnswer": 1,
-      "explanation": "L'organisation d'un vide-grenier sur la voie publique nécessite une déclaration en mairie. Les particuliers sont limités à 2 participations par an (sous peine de requalification en activité commerciale). Au-delà, il faut s'immatriculer comme commerçant."
+      "explanation": "L'organisation d'un vide-grenier sur la voie publique nécessite une déclaration en mairie. Les particuliers sont limités à 2 participations par an (sous peine de requalification en activité commerciale). Au-delà, il faut s'immatriculer comme commerçant.",
+      "explanationEn": "Organizing a yard sale on a public road requires a declaration at the town hall. Individuals are limited to 2 participations per year (otherwise it may be reclassified as a commercial activity). Beyond that, you must register as a trader."
     },
     {
       "id": "cr-mes-q43",
       "question": "Votre carte de résident arrive à expiration dans 3 mois. Quand devez-vous entamer les démarches de renouvellement ?",
+      "questionEn": "Your resident card expires in 3 months. When should you start the renewal process?",
       "options": [
         "Le jour de l'expiration",
         "Dans les 2 à 4 mois précédant l'expiration, selon les délais de votre préfecture",
         "6 mois avant",
         "Après l'expiration, vous avez un an de délai"
       ],
+      "optionsEn": [
+        "On the day it expires",
+        "2 to 4 months before expiration, depending on your préfecture's processing times",
+        "6 months before",
+        "After expiration, you have one year"
+      ],
       "correctAnswer": 1,
-      "explanation": "Il est recommandé de demander le renouvellement de votre carte de résident 2 à 4 mois avant son expiration, selon les délais de traitement de votre préfecture. Un récépissé de demande vous sera délivré, vous permettant de rester en situation régulière pendant l'instruction."
+      "explanation": "Il est recommandé de demander le renouvellement de votre carte de résident 2 à 4 mois avant son expiration, selon les délais de traitement de votre préfecture. Un récépissé de demande vous sera délivré, vous permettant de rester en situation régulière pendant l'instruction.",
+      "explanationEn": "It is recommended to apply for renewal of your resident card 2 to 4 months before it expires, depending on your préfecture's processing time. A receipt will be issued, allowing you to stay legally while your application is processed."
     },
     {
       "id": "cr-mes-q44",
       "question": "Un site internet vous propose un crédit à la consommation à un taux très avantageux en échange de vos documents d'identité scannés. Que faites-vous ?",
+      "questionEn": "A website offers you a consumer loan at a very attractive rate in exchange for your scanned identity documents. What do you do?",
       "options": [
         "Vous envoyez vos documents pour profiter de l'offre",
         "Vous refusez et vérifiez que l'organisme est agréé par l'ACPR (Banque de France). L'envoi de documents d'identité à un site inconnu est risqué (usurpation d'identité)",
         "Vous envoyez une copie en basse résolution",
         "Vous demandez l'avis d'un ami"
       ],
+      "optionsEn": [
+        "You send your documents to take advantage of the offer",
+        "You refuse and check that the organization is approved by the ACPR (Bank of France). Sending identity documents to an unknown website is risky (identity theft)",
+        "You send a low-resolution copy",
+        "You ask a friend for advice"
+      ],
       "correctAnswer": 1,
-      "explanation": "N'envoyez jamais vos documents d'identité à un site non vérifié. Les arnaques au faux crédit sont courantes et servent à usurper votre identité. Vérifiez que l'organisme est agréé sur le site de l'ACPR (regafi.fr). En cas de doute, consultez le site de la Banque de France."
+      "explanation": "N'envoyez jamais vos documents d'identité à un site non vérifié. Les arnaques au faux crédit sont courantes et servent à usurper votre identité. Vérifiez que l'organisme est agréé sur le site de l'ACPR (regafi.fr). En cas de doute, consultez le site de la Banque de France.",
+      "explanationEn": "Never send your identity documents to an unverified website. Fake loan scams are common and are used to steal your identity. Check that the organization is approved on the ACPR website (regafi.fr). If in doubt, check the Bank of France website."
     },
     {
       "id": "cr-mes-q45",
       "question": "Vous êtes parent d'un enfant né en France. Votre enfant est-il automatiquement français ?",
+      "questionEn": "You are the parent of a child born in France. Is your child automatically French?",
       "options": [
         "Oui, tout enfant né en France est automatiquement français",
         "Non, mais un enfant né en France de parents étrangers peut acquérir la nationalité française à ses 18 ans s'il y a résidé au moins 5 ans depuis l'âge de 11 ans",
         "Non, il faut obligatoirement que les deux parents soient français",
         "Oui, si au moins un parent a un titre de séjour"
       ],
+      "optionsEn": [
+        "Yes, every child born in France is automatically French",
+        "No, but a child born in France to foreign parents can get French nationality at 18 if they have lived in France for at least 5 years since the age of 11",
+        "No, both parents must be French",
+        "Yes, if at least one parent has a residence permit"
+      ],
       "correctAnswer": 1,
-      "explanation": "Un enfant né en France de parents étrangers n'est pas automatiquement français à la naissance. Il peut acquérir la nationalité française de plein droit à 18 ans s'il réside en France et y a résidé pendant au moins 5 ans depuis l'âge de 11 ans (droit du sol différé). Une demande anticipée est possible dès 13 ans."
+      "explanation": "Un enfant né en France de parents étrangers n'est pas automatiquement français à la naissance. Il peut acquérir la nationalité française de plein droit à 18 ans s'il réside en France et y a résidé pendant au moins 5 ans depuis l'âge de 11 ans (droit du sol différé). Une demande anticipée est possible dès 13 ans.",
+      "explanationEn": "A child born in France to foreign parents is not automatically French at birth. They can get French nationality at 18 if they live in France and have lived there for at least 5 years since the age of 11 (delayed right of soil). An early application is possible from age 13."
     }
   ]
 }

@@ -1,367 +1,609 @@
 {
   "id": "csp-droits-et-devoirs",
   "title": "CSP - Droits et devoirs",
+  "titleEn": "CSP - Rights and Duties",
   "description": "Quiz officiel CSP (Contrat de Séjour Pluriannuel) – Droits et devoirs. Questions officielles de l'examen de connaissance.",
+  "descriptionEn": "Official CSP quiz (Contrat de Séjour Pluriannuel - Multi-Year Residence Contract) – Rights and Duties. Official exam questions.",
   "questions": [
     {
       "id": "csp-dd-q1",
-      "question": "Qu’est-ce que la liberté d’expression ?",
+      "question": "Qu'est-ce que la liberté d'expression ?",
+      "questionEn": "What is freedom of expression?",
       "options": [
-        "Le droit de penser et de dire ce que l’on pense, dans le respect de la loi",
+        "Le droit de penser et de dire ce que l'on pense, dans le respect de la loi",
         "Le droit de dire tout ce que l'on veut, même des insultes ou des appels à la haine",
         "Le droit de voter à toutes les élections",
         "Le droit de se déplacer librement sur le territoire"
       ],
+      "optionsEn": [
+        "The right to think and say what you think, within the limits of the law",
+        "The right to say anything you want, even insults or calls to hatred",
+        "The right to vote in all elections",
+        "The right to move freely across the country"
+      ],
       "correctAnswer": 0,
-      "explanation": "La liberté d’expression est le droit de penser et de dire ce que l’on pense (opinions, idées), tant que cela ne nuit pas à autrui et respecte la loi (pas d'injures, de diffamation ou d'incitation à la haine)."
+      "explanation": "La liberté d'expression est le droit de penser et de dire ce que l'on pense (opinions, idées), tant que cela ne nuit pas à autrui et respecte la loi (pas d'injures, de diffamation ou d'incitation à la haine).",
+      "explanationEn": "Freedom of expression is the right to think and say what you think (opinions, ideas), as long as it does not harm others and respects the law (no insults, defamation, or incitement to hatred)."
     },
     {
       "id": "csp-dd-q2",
       "question": "Quel droit permet à une personne de se défendre devant la justice ?",
+      "questionEn": "Which right allows a person to defend themselves in court?",
       "options": [
         "Le droit à un procès équitable",
         "Le droit à l'éducation",
         "Le droit de grève",
         "Le droit de propriété"
       ],
+      "optionsEn": [
+        "The right to a fair trial",
+        "The right to education",
+        "The right to strike",
+        "The right to property"
+      ],
       "correctAnswer": 0,
-      "explanation": "Le droit à la sûreté implique le respect des droits de la défense, notamment le droit à un procès équitable (être accompagné d'un avocat, comprendre la langue, présomption d'innocence)."
+      "explanation": "Le droit à la sûreté implique le respect des droits de la défense, notamment le droit à un procès équitable (être accompagné d'un avocat, comprendre la langue, présomption d'innocence).",
+      "explanationEn": "The right to safety includes the right to defence, especially the right to a fair trial (having a lawyer, understanding the language, presumption of innocence)."
     },
     {
       "id": "csp-dd-q3",
       "question": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+      "questionEn": "What is the founding text that establishes the rights and duties of every citizen in France?",
       "options": [
         "Le traité de Versailles",
         "L'édit de Nantes",
         "La Déclaration des droits de l'homme et du citoyen de 1789",
         "Le Code de la route"
       ],
+      "optionsEn": [
+        "The Treaty of Versailles",
+        "The Edict of Nantes",
+        "The Déclaration des droits de l'homme et du citoyen de 1789 (Declaration of the Rights of Man and of the Citizen of 1789)",
+        "The Highway Code"
+      ],
       "correctAnswer": 2,
-      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 est le texte fondamental qui affirme les droits naturels, universels et inaliénables de l'Homme ainsi que les droits et devoirs du citoyen."
+      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 est le texte fondamental qui affirme les droits naturels, universels et inaliénables de l'Homme ainsi que les droits et devoirs du citoyen.",
+      "explanationEn": "The Declaration of the Rights of Man and of the Citizen of 1789 is the fundamental text that states the natural, universal, and inalienable rights of all people, as well as the rights and duties of citizens."
     },
     {
       "id": "csp-dd-q4",
       "question": "Quel texte a été adopté pendant la Révolution française ?",
+      "questionEn": "Which text was adopted during the French Revolution?",
       "options": [
         "La Charte de l'environnement (2004)",
         "Le Code Civil (1804)",
         "La Déclaration des droits de l'homme et du citoyen (1789)",
         "La Constitution de la Ve République (1958)"
       ],
+      "optionsEn": [
+        "The Environmental Charter (2004)",
+        "The Civil Code (1804)",
+        "The Declaration of the Rights of Man and of the Citizen (1789)",
+        "The Constitution of the Fifth Republic (1958)"
+      ],
       "correctAnswer": 2,
-      "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août 1789, au tout début de la Révolution française, marquant la fin de l'Ancien Régime."
+      "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août 1789, au tout début de la Révolution française, marquant la fin de l'Ancien Régime.",
+      "explanationEn": "The Declaration of the Rights of Man and of the Citizen was adopted on 26 August 1789, at the very beginning of the French Revolution, marking the end of the old regime."
     },
     {
       "id": "csp-dd-q5",
       "question": "Quelle liberté permet à une personne de ne pas avoir de religion ?",
+      "questionEn": "Which freedom allows a person to have no religion?",
       "options": [
         "La liberté d'association",
         "La liberté de culte ou de conscience",
         "La liberté de mouvement",
         "La liberté de la presse"
       ],
+      "optionsEn": [
+        "Freedom of association",
+        "Freedom of worship or freedom of conscience",
+        "Freedom of movement",
+        "Freedom of the press"
+      ],
       "correctAnswer": 1,
-      "explanation": "La liberté de culte (ou de religion) et de conscience garantit à chacun le droit de croire en une religion, d'en changer, ou de ne pas croire du tout (athéisme)."
+      "explanation": "La liberté de culte (ou de religion) et de conscience garantit à chacun le droit de croire en une religion, d'en changer, ou de ne pas croire du tout (athéisme).",
+      "explanationEn": "Freedom of worship (or religion) and freedom of conscience guarantee everyone the right to believe in a religion, change religion, or not believe at all (atheism)."
     },
     {
       "id": "csp-dd-q6",
       "question": "Une femme peut avorter :",
+      "questionEn": "A woman can have an abortion:",
       "options": [
         "Uniquement pour des raisons médicales graves",
         "Uniquement si son mari est d'accord",
         "Seulement si elle est majeure",
         "Librement, sans condition d'âge"
       ],
+      "optionsEn": [
+        "Only for serious medical reasons",
+        "Only if her husband agrees",
+        "Only if she is an adult",
+        "Freely, with no age restriction"
+      ],
       "correctAnswer": 3,
-      "explanation": "L’interruption volontaire de grossesse (IVG) est un droit pour toutes les femmes, majeures ou mineures (accompagnées d'un adulte de leur choix), sans besoin d'autorisation du partenaire."
+      "explanation": "L'interruption volontaire de grossesse (IVG) est un droit pour toutes les femmes, majeures ou mineures (accompagnées d'un adulte de leur choix), sans besoin d'autorisation du partenaire.",
+      "explanationEn": "Voluntary termination of pregnancy (IVG - abortion) is a right for all women, adults or minors (accompanied by an adult of their choice), without needing the partner's permission."
     },
     {
       "id": "csp-dd-q7",
       "question": "Qu'est-ce qu'une infraction ?",
+      "questionEn": "What is a criminal offence (infraction)?",
       "options": [
         "Une erreur administrative sur sa déclaration d'impôts",
         "Un acte interdit par la loi et puni par une sanction pénale",
         "Une simple impolitesse envers un représentant de l'État",
         "Un désaccord verbal entre deux voisins"
       ],
+      "optionsEn": [
+        "An administrative error on a tax return",
+        "An act forbidden by law and punished by a criminal penalty",
+        "Simply being rude to a government official",
+        "A verbal disagreement between two neighbours"
+      ],
       "correctAnswer": 1,
-      "explanation": "Une infraction est un comportement (action ou omission) qui ne respecte pas la loi et pour lequel une peine est prévue (amende, prison, etc.)."
+      "explanation": "Une infraction est un comportement (action ou omission) qui ne respecte pas la loi et pour lequel une peine est prévue (amende, prison, etc.).",
+      "explanationEn": "A criminal offence is a behaviour (action or failure to act) that does not respect the law and for which a punishment is set (fine, prison, etc.)."
     },
     {
       "id": "csp-dd-q8",
       "question": "Comment peut-on réduire ses déchets ?",
+      "questionEn": "How can you reduce your waste?",
       "options": [
         "En jetant tout dans la même poubelle pour gagner du temps",
         "En achetant uniquement des produits avec beaucoup d'emballages plastiques",
         "En brûlant ses poubelles dans son jardin",
         "En triant ses emballages et en compostant les déchets organiques"
       ],
+      "optionsEn": [
+        "By throwing everything in the same bin to save time",
+        "By only buying products with lots of plastic packaging",
+        "By burning your rubbish in your garden",
+        "By sorting your packaging and composting organic waste"
+      ],
       "correctAnswer": 3,
-      "explanation": "Le tri sélectif, le compostage et la consommation responsable sont des gestes citoyens essentiels pour préserver l'environnement, conformément à la Charte de l'environnement."
+      "explanation": "Le tri sélectif, le compostage et la consommation responsable sont des gestes citoyens essentiels pour préserver l'environnement, conformément à la Charte de l'environnement.",
+      "explanationEn": "Sorting waste, composting, and responsible consumption are essential civic actions to protect the environment, in line with the Environmental Charter."
     },
     {
       "id": "csp-dd-q9",
       "question": "Déposer une machine à laver cassée sur le trottoir est :",
+      "questionEn": "Leaving a broken washing machine on the pavement is:",
       "options": [
         "Un geste solidaire pour ceux qui bricolent",
         "Interdit et passible d'une amende (dépôt sauvage)",
         "Autorisé si on met un mot dessus",
         "Obligatoire pour que les éboueurs la ramassent"
       ],
+      "optionsEn": [
+        "A helpful gesture for people who like to fix things",
+        "Forbidden and punishable by a fine (illegal dumping)",
+        "Allowed if you put a note on it",
+        "Required so that the waste collectors pick it up"
+      ],
       "correctAnswer": 1,
-      "explanation": "L'abandon d'objets encombrants sur la voie publique est un dépôt sauvage illégal. Il faut les emmener à la déchetterie ou utiliser le service des encombrants de la mairie."
+      "explanation": "L'abandon d'objets encombrants sur la voie publique est un dépôt sauvage illégal. Il faut les emmener à la déchetterie ou utiliser le service des encombrants de la mairie.",
+      "explanationEn": "Leaving bulky items on the street is illegal dumping. You must take them to the recycling centre or use the town hall's bulky waste collection service."
     },
     {
       "id": "csp-dd-q10",
       "question": "En quoi consiste la traite des êtres humains ?",
+      "questionEn": "What is human trafficking?",
       "options": [
         "C'est le transport légal de passagers dans les transports en commun",
         "C'est le fait de recruter ou transporter des personnes pour les exploiter (travail forcé, exploitation sexuelle...)",
         "C'est l'accueil de réfugiés par des associations humanitaires",
         "C'est le commerce international de marchandises entre pays"
       ],
+      "optionsEn": [
+        "It is the legal transport of passengers on public transport",
+        "It is recruiting or transporting people to exploit them (forced labour, sexual exploitation...)",
+        "It is welcoming refugees through humanitarian organisations",
+        "It is international trade of goods between countries"
+      ],
       "correctAnswer": 1,
-      "explanation": "La traite des êtres humains est une forme d'esclavage moderne qui viole la dignité humaine, principe fondamental protégé par les textes européens et français."
+      "explanation": "La traite des êtres humains est une forme d'esclavage moderne qui viole la dignité humaine, principe fondamental protégé par les textes européens et français.",
+      "explanationEn": "Human trafficking is a form of modern slavery that violates human dignity, a fundamental principle protected by European and French law."
     },
     {
       "id": "csp-dd-q11",
       "question": "Que doit faire une victime de violences ?",
+      "questionEn": "What should a victim of violence do?",
       "options": [
         "Attendre que l'auteur des violences s'excuse",
         "Garder le silence pour ne pas aggraver la situation",
         "Se faire justice elle-même",
         "Porter plainte auprès de la police ou de la gendarmerie"
       ],
+      "optionsEn": [
+        "Wait for the attacker to apologise",
+        "Stay silent to avoid making things worse",
+        "Take justice into their own hands",
+        "File a complaint with the police or gendarmerie"
+      ],
       "correctAnswer": 3,
-      "explanation": "Toute victime a le droit d'être protégée et aidée. Elle doit signaler les faits aux forces de l'ordre pour faire valoir ses droits et assurer sa sécurité."
+      "explanation": "Toute victime a le droit d'être protégée et aidée. Elle doit signaler les faits aux forces de l'ordre pour faire valoir ses droits et assurer sa sécurité.",
+      "explanationEn": "Every victim has the right to be protected and helped. They should report the facts to the police to exercise their rights and ensure their safety."
     },
     {
       "id": "csp-dd-q12",
       "question": "Quelle est l'infraction la plus grave ?",
+      "questionEn": "What is the most serious type of offence?",
       "options": [
         "Le crime",
         "L'incivilité",
         "La contravention",
         "Le délit"
       ],
+      "optionsEn": [
+        "A crime (the most serious criminal offence)",
+        "An incivility (rude behaviour)",
+        "A contravention (minor offence)",
+        "A délit (mid-level offence)"
+      ],
       "correctAnswer": 0,
-      "explanation": "En droit français, les infractions sont classées par gravité : la contravention (la moins grave), le délit, et le crime (la plus grave, jugée aux assises)."
+      "explanation": "En droit français, les infractions sont classées par gravité : la contravention (la moins grave), le délit, et le crime (la plus grave, jugée aux assises).",
+      "explanationEn": "In French law, offences are ranked by severity: contravention (the least serious), délit (mid-level), and crime (the most serious, tried in the criminal court called 'assises')."
     },
     {
       "id": "csp-dd-q13",
-      "question": "Comment s’appelle la Constitution actuelle de la France ?",
+      "question": "Comment s'appelle la Constitution actuelle de la France ?",
+      "questionEn": "What is the name of the current Constitution of France?",
       "options": [
         "La Constitution de 1958 (Vème République)",
         "La Constitution de 1946 (IVème République)",
         "Le Code Civil de 1804",
         "La Constitution de 1789"
       ],
+      "optionsEn": [
+        "The Constitution of 1958 (Fifth Republic)",
+        "The Constitution of 1946 (Fourth Republic)",
+        "The Civil Code of 1804",
+        "The Constitution of 1789"
+      ],
       "correctAnswer": 0,
-      "explanation": "La France est actuellement sous la Vème République, régie par la Constitution du 4 octobre 1958."
+      "explanation": "La France est actuellement sous la Vème République, régie par la Constitution du 4 octobre 1958.",
+      "explanationEn": "France is currently under the Fifth Republic, governed by the Constitution of 4 October 1958."
     },
     {
       "id": "csp-dd-q14",
       "question": "Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?",
+      "questionEn": "What is the name of the text that sets out the rights and duties of people living in France?",
       "options": [
         "L'Hymne national (La Marseillaise)",
         "La Déclaration des droits de l'homme et du citoyen",
         "Le Code de la route",
         "Le Traité de Versailles"
       ],
+      "optionsEn": [
+        "The National Anthem (La Marseillaise)",
+        "The Déclaration des droits de l'homme et du citoyen (Declaration of the Rights of Man and of the Citizen)",
+        "The Highway Code",
+        "The Treaty of Versailles"
+      ],
       "correctAnswer": 1,
-      "explanation": "Ce texte fondamental de 1789 définit les droits naturels, inaliénables et sacrés de l'homme ainsi que les droits et devoirs du citoyen."
+      "explanation": "Ce texte fondamental de 1789 définit les droits naturels, inaliénables et sacrés de l'homme ainsi que les droits et devoirs du citoyen.",
+      "explanationEn": "This fundamental text from 1789 defines the natural, inalienable, and sacred rights of all people, as well as the rights and duties of citizens."
     },
     {
       "id": "csp-dd-q15",
       "question": "Concernant les droits individuels, quelle proposition est correcte ?",
+      "questionEn": "Regarding individual rights, which statement is correct?",
       "options": [
         "On peut vendre ses droits fondamentaux à une autre personne",
         "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui",
         "Seuls les citoyens français possèdent des droits individuels",
         "Les droits individuels permettent de tout faire sans aucune limite"
       ],
+      "optionsEn": [
+        "You can sell your fundamental rights to another person",
+        "Freedom means being able to do everything that does not harm others",
+        "Only French citizens have individual rights",
+        "Individual rights allow you to do anything without any limits"
+      ],
       "correctAnswer": 1,
-      "explanation": "Selon l'article 4 de la Déclaration de 1789, l'exercice des droits naturels de chaque homme a pour seules limites celles qui assurent aux autres la jouissance de ces mêmes droits."
+      "explanation": "Selon l'article 4 de la Déclaration de 1789, l'exercice des droits naturels de chaque homme a pour seules limites celles qui assurent aux autres la jouissance de ces mêmes droits.",
+      "explanationEn": "According to Article 4 of the 1789 Declaration, the exercise of the natural rights of each person has no limits other than those that ensure others can enjoy these same rights."
     },
     {
       "id": "csp-dd-q16",
-      "question": "De quelle année date la Déclaration des droits de l’homme et du citoyen ?",
+      "question": "De quelle année date la Déclaration des droits de l'homme et du citoyen ?",
+      "questionEn": "In what year was the Declaration of the Rights of Man and of the Citizen written?",
       "options": [
         "1945",
         "1804",
         "1789",
         "1958"
       ],
+      "optionsEn": [
+        "1945",
+        "1804",
+        "1789",
+        "1958"
+      ],
       "correctAnswer": 2,
-      "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août 1789, au début de la Révolution française."
+      "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août 1789, au début de la Révolution française.",
+      "explanationEn": "The Declaration of the Rights of Man and of the Citizen was adopted on 26 August 1789, at the start of the French Revolution."
     },
     {
       "id": "csp-dd-q17",
       "question": "Lequel de ces droits est un droit fondamental ?",
+      "questionEn": "Which of these is a fundamental right?",
       "options": [
         "Le droit de conduire sans permis",
         "La liberté d'expression",
         "Le droit de ne pas payer d'impôts",
         "Le droit de se faire justice soi-même"
       ],
+      "optionsEn": [
+        "The right to drive without a licence",
+        "Freedom of expression",
+        "The right not to pay taxes",
+        "The right to take justice into your own hands"
+      ],
       "correctAnswer": 1,
-      "explanation": "La liberté d'expression (penser et dire ce que l'on pense) est une liberté fondamentale garantie par la Déclaration de 1789."
+      "explanation": "La liberté d'expression (penser et dire ce que l'on pense) est une liberté fondamentale garantie par la Déclaration de 1789.",
+      "explanationEn": "Freedom of expression (to think and say what you think) is a fundamental freedom guaranteed by the 1789 Declaration."
     },
     {
       "id": "csp-dd-q18",
       "question": "Parmi ces textes, lequel garantit les droits et libertés en France ?",
+      "questionEn": "Among these texts, which one guarantees rights and freedoms in France?",
       "options": [
         "La Constitution de 1958",
         "Le journal officiel",
         "Le dictionnaire",
         "Le règlement de copropriété"
       ],
+      "optionsEn": [
+        "The Constitution of 1958",
+        "The Official Journal (government gazette)",
+        "The dictionary",
+        "The building co-ownership rules"
+      ],
       "correctAnswer": 0,
-      "explanation": "La Constitution de 1958 et son préambule (qui inclut la Déclaration de 1789) forment le bloc de constitutionnalité qui garantit les droits et libertés."
+      "explanation": "La Constitution de 1958 et son préambule (qui inclut la Déclaration de 1789) forment le bloc de constitutionnalité qui garantit les droits et libertés.",
+      "explanationEn": "The 1958 Constitution and its preamble (which includes the 1789 Declaration) form the constitutional framework that guarantees rights and freedoms."
     },
     {
       "id": "csp-dd-q19",
       "question": "Pourquoi les libertés individuelles peuvent-elles être limitées ?",
+      "questionEn": "Why can individual freedoms be limited?",
       "options": [
         "Pour permettre au gouvernement de tout contrôler",
         "Les libertés individuelles ne peuvent jamais être limitées",
         "Uniquement pour des raisons économiques",
         "Pour respecter les droits des autres et préserver l'ordre public"
       ],
+      "optionsEn": [
+        "To allow the government to control everything",
+        "Individual freedoms can never be limited",
+        "Only for economic reasons",
+        "To respect the rights of others and maintain public order"
+      ],
       "correctAnswer": 3,
-      "explanation": "Selon la Déclaration des Droits de l'Homme, la liberté consiste à faire tout ce qui ne nuit pas à autrui. Les limites servent à protéger l'intérêt général et la sécurité de tous."
+      "explanation": "Selon la Déclaration des Droits de l'Homme, la liberté consiste à faire tout ce qui ne nuit pas à autrui. Les limites servent à protéger l'intérêt général et la sécurité de tous.",
+      "explanationEn": "According to the Declaration of the Rights of Man, freedom means doing everything that does not harm others. The limits protect the general interest and the safety of everyone."
     },
     {
       "id": "csp-dd-q20",
-      "question": "Que doit faire une personne en cas d’accident ?",
+      "question": "Que doit faire une personne en cas d'accident ?",
+      "questionEn": "What must a person do in case of an accident?",
       "options": [
         "Elle doit continuer son chemin pour ne pas être en retard",
         "Elle doit attendre que quelqu'un d'autre intervienne",
         "Elle doit porter secours ou alerter les secours",
         "Elle doit prendre des photos pour les réseaux sociaux"
       ],
+      "optionsEn": [
+        "They must keep going so they are not late",
+        "They must wait for someone else to help",
+        "They must help or call emergency services",
+        "They must take photos for social media"
+      ],
       "correctAnswer": 2,
-      "explanation": "Ne pas porter assistance à une personne en danger est puni par la loi. Il faut sécuriser les lieux et appeler les secours (15, 18 ou 112)."
+      "explanation": "Ne pas porter assistance à une personne en danger est puni par la loi. Il faut sécuriser les lieux et appeler les secours (15, 18 ou 112).",
+      "explanationEn": "Failing to help a person in danger is punished by law. You must secure the area and call emergency services (15, 18, or 112)."
     },
     {
       "id": "csp-dd-q21",
       "question": "Que permet la citoyenneté française ?",
+      "questionEn": "What does French citizenship allow?",
       "options": [
         "Elle permet de voyager gratuitement dans le monde",
         "Elle permet de ne pas respecter certaines lois",
         "Elle permet de participer à la vie politique (voter et être élu)",
         "Elle permet de ne plus payer d'impôts"
       ],
+      "optionsEn": [
+        "It allows you to travel the world for free",
+        "It allows you to not follow certain laws",
+        "It allows you to take part in political life (vote and be elected)",
+        "It allows you to stop paying taxes"
+      ],
       "correctAnswer": 2,
-      "explanation": "La citoyenneté donne des droits politiques spécifiques, comme le droit de vote et d'éligibilité, en plus des droits civils garantis à tous."
+      "explanation": "La citoyenneté donne des droits politiques spécifiques, comme le droit de vote et d'éligibilité, en plus des droits civils garantis à tous.",
+      "explanationEn": "Citizenship gives specific political rights, such as the right to vote and to stand for election, in addition to the civil rights guaranteed to everyone."
     },
     {
       "id": "csp-dd-q22",
       "question": "Que risque une personne qui ne respecte pas la loi ?",
+      "questionEn": "What does a person who breaks the law risk?",
       "options": [
         "Elle risque de perdre immédiatement sa nationalité",
         "Elle risque seulement un avertissement verbal",
         "Elle ne risque rien si personne ne la voit",
         "Elle risque des sanctions pénales (amende, prison)"
       ],
+      "optionsEn": [
+        "They risk immediately losing their nationality",
+        "They only risk a verbal warning",
+        "They risk nothing if nobody sees them",
+        "They risk criminal penalties (fine, prison)"
+      ],
       "correctAnswer": 3,
-      "explanation": "Nul n'est censé ignorer la loi. Le non-respect des règles expose à des sanctions décidées par la justice, comme des amendes ou des peines de prison."
+      "explanation": "Nul n'est censé ignorer la loi. Le non-respect des règles expose à des sanctions décidées par la justice, comme des amendes ou des peines de prison.",
+      "explanationEn": "No one can claim they did not know the law. Breaking the rules leads to penalties decided by the courts, such as fines or prison sentences."
     },
     {
       "id": "csp-dd-q23",
       "question": "Quel est le rôle de la gendarmerie ?",
+      "questionEn": "What is the role of the gendarmerie?",
       "options": [
         "Juger les coupables au tribunal",
         "Voter les lois à la place des citoyens",
         "Soigner les victimes d'accidents",
         "Assurer la sécurité des personnes et des biens, surtout en zone rurale"
       ],
+      "optionsEn": [
+        "Judge the guilty at the court",
+        "Vote laws instead of the citizens",
+        "Treat accident victims",
+        "Ensure the safety of people and property, mainly in rural areas"
+      ],
       "correctAnswer": 3,
-      "explanation": "La gendarmerie nationale est une force armée chargée de missions de police (sécurité, ordre public), principalement dans les zones rurales et périurbaines."
+      "explanation": "La gendarmerie nationale est une force armée chargée de missions de police (sécurité, ordre public), principalement dans les zones rurales et périurbaines.",
+      "explanationEn": "The gendarmerie nationale is a military force responsible for police duties (security, public order), mainly in rural and suburban areas."
     },
     {
       "id": "csp-dd-q24",
       "question": "Quel est le rôle de la police ?",
+      "questionEn": "What is the role of the police?",
       "options": [
         "Décider des peines de prison pour les criminels",
         "Garantir la sécurité et maintenir l'ordre public, principalement en ville",
         "Faire la guerre aux pays ennemis",
         "Collecter les impôts des citoyens"
       ],
+      "optionsEn": [
+        "Decide prison sentences for criminals",
+        "Ensure safety and maintain public order, mainly in cities",
+        "Fight wars against enemy countries",
+        "Collect taxes from citizens"
+      ],
       "correctAnswer": 1,
-      "explanation": "La police nationale a pour mission de garantir la paix publique, d'assurer la sécurité des personnes et des biens, et de rechercher les auteurs d'infractions, principalement en zone urbaine."
+      "explanation": "La police nationale a pour mission de garantir la paix publique, d'assurer la sécurité des personnes et des biens, et de rechercher les auteurs d'infractions, principalement en zone urbaine.",
+      "explanationEn": "The national police are responsible for maintaining public peace, ensuring the safety of people and property, and finding those who commit offences, mainly in urban areas."
     },
     {
       "id": "csp-dd-q25",
       "question": "Est-il toujours possible de divorcer ?",
+      "questionEn": "Is it always possible to get a divorce?",
       "options": [
         "Non, il faut obligatoirement l'accord des deux époux",
         "Non, le divorce est interdit si le couple a des enfants",
         "Oui, la liberté conjugale permet de mettre fin au mariage",
         "Oui, mais seulement après 10 ans de mariage"
       ],
+      "optionsEn": [
+        "No, both spouses must agree",
+        "No, divorce is forbidden if the couple has children",
+        "Yes, marital freedom allows ending a marriage",
+        "Yes, but only after 10 years of marriage"
+      ],
       "correctAnswer": 2,
-      "explanation": "La liberté conjugale permet à chaque époux de mettre fin à l'union. Le divorce est possible même sans faute et ne nécessite pas toujours l'accord des deux parties (divorce pour altération définitive du lien conjugal par exemple)."
+      "explanation": "La liberté conjugale permet à chaque époux de mettre fin à l'union. Le divorce est possible même sans faute et ne nécessite pas toujours l'accord des deux parties (divorce pour altération définitive du lien conjugal par exemple).",
+      "explanationEn": "Marital freedom allows each spouse to end the marriage. Divorce is possible even without blame and does not always require both parties to agree (for example, divorce due to permanent breakdown of the marriage)."
     },
     {
       "id": "csp-dd-q26",
       "question": "La peine de mort est :",
+      "questionEn": "The death penalty is:",
       "options": [
         "Autorisée seulement en temps de guerre",
         "Interdite en France",
         "Décidée par le Président de la République",
         "Autorisée pour les crimes les plus graves"
       ],
+      "optionsEn": [
+        "Allowed only in wartime",
+        "Forbidden in France",
+        "Decided by the President of the Republic",
+        "Allowed for the most serious crimes"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le droit à la vie est un droit essentiel. La peine de mort a été abolie en France en 1981 et son interdiction est inscrite dans la Constitution."
+      "explanation": "Le droit à la vie est un droit essentiel. La peine de mort a été abolie en France en 1981 et son interdiction est inscrite dans la Constitution.",
+      "explanationEn": "The right to life is an essential right. The death penalty was abolished in France in 1981 and its ban is written in the Constitution."
     },
     {
       "id": "csp-dd-q27",
       "question": "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?",
+      "questionEn": "Regarding limits on individual freedoms, which statement is correct?",
       "options": [
         "Seul le Président peut limiter les libertés individuelles",
         "La liberté est totale et sans aucune limite",
         "La liberté consiste à faire tout ce qui ne nuit pas à autrui",
         "Les libertés individuelles n'existent que pour les citoyens majeurs"
       ],
+      "optionsEn": [
+        "Only the President can limit individual freedoms",
+        "Freedom is total and has no limits",
+        "Freedom means doing everything that does not harm others",
+        "Individual freedoms only exist for adult citizens"
+      ],
       "correctAnswer": 2,
-      "explanation": "Selon l'article 4 de la Déclaration des droits de l'homme et du citoyen, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits."
+      "explanation": "Selon l'article 4 de la Déclaration des droits de l'homme et du citoyen, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits.",
+      "explanationEn": "According to Article 4 of the Declaration of the Rights of Man and of the Citizen, the exercise of the natural rights of each person has no limits other than those that ensure other members of society can enjoy these same rights."
     },
     {
       "id": "csp-dd-q28",
       "question": "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?",
+      "questionEn": "In France, is it legal to be married to more than one person at the same time?",
       "options": [
         "Non, la polygamie est interdite",
         "Non, sauf si les mariages ont été célébrés à l'étranger",
         "Oui, si tous les conjoints sont d'accord",
         "Oui, mais seulement pour les hommes"
       ],
+      "optionsEn": [
+        "No, polygamy is forbidden",
+        "No, unless the marriages took place abroad",
+        "Yes, if all spouses agree",
+        "Yes, but only for men"
+      ],
       "correctAnswer": 0,
-      "explanation": "En France, le mariage est l'union exclusive de deux personnes. La polygamie (le fait d'être marié à plusieurs personnes) est interdite par la loi."
+      "explanation": "En France, le mariage est l'union exclusive de deux personnes. La polygamie (le fait d'être marié à plusieurs personnes) est interdite par la loi.",
+      "explanationEn": "In France, marriage is the exclusive union of two people. Polygamy (being married to more than one person) is forbidden by law."
     },
     {
       "id": "csp-dd-q29",
       "question": "Faut-il réduire ses déchets ?",
+      "questionEn": "Should we reduce our waste?",
       "options": [
         "Non, car les services de nettoyage s'en occupent",
         "Non, cela n'a aucun impact sur la planète",
         "Oui, mais seulement si on habite à la campagne",
         "Oui, pour préserver l'environnement et les générations futures"
       ],
+      "optionsEn": [
+        "No, because cleaning services take care of it",
+        "No, it has no impact on the planet",
+        "Yes, but only if you live in the countryside",
+        "Yes, to protect the environment and future generations"
+      ],
       "correctAnswer": 3,
-      "explanation": "La Charte de l'environnement précise que toute personne a le devoir de prendre part à la préservation de l'environnement. Réduire ses déchets contribue à un développement durable."
+      "explanation": "La Charte de l'environnement précise que toute personne a le devoir de prendre part à la préservation de l'environnement. Réduire ses déchets contribue à un développement durable.",
+      "explanationEn": "The Environmental Charter states that everyone has a duty to help protect the environment. Reducing waste contributes to sustainable development."
     },
     {
       "id": "csp-dd-q30",
       "question": "Jeter une bouteille dans la rue est :",
+      "questionEn": "Throwing a bottle in the street is:",
       "options": [
         "Autorisé s'il n'y a pas de poubelle à proximité",
         "Interdit et passible d'une amende",
         "Un droit fondamental de liberté d'expression",
         "Autorisé si personne ne nous voit"
       ],
+      "optionsEn": [
+        "Allowed if there is no bin nearby",
+        "Forbidden and punishable by a fine",
+        "A fundamental right of freedom of expression",
+        "Allowed if nobody sees you"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le respect de l'environnement et de la salubrité publique (hygiène) fait partie des devoirs de chacun. Jeter des déchets sur la voie publique est une infraction sanctionnée par la loi."
+      "explanation": "Le respect de l'environnement et de la salubrité publique (hygiène) fait partie des devoirs de chacun. Jeter des déchets sur la voie publique est une infraction sanctionnée par la loi.",
+      "explanationEn": "Respecting the environment and public cleanliness (hygiene) is everyone's duty. Throwing rubbish on the street is an offence punished by law."
     }
   ]
 }
