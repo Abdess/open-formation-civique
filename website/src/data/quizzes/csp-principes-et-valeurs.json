@@ -1,41 +1,32 @@
 {
   "id": "csp-principes-et-valeurs",
   "title": "CSP - Principes et valeurs de la République",
-  "titleEn": "CSP - Principles and Values of the Republic",
   "description": "Quiz officiel CSP (Contrat de Séjour Pluriannuel) – Principes et valeurs de la République. Questions officielles de l'examen de connaissance.",
-  "descriptionEn": "Official CSP quiz (Contrat de Séjour Pluriannuel - Multi-Year Residence Contract) – Principles and Values of the Republic. Official exam questions.",
   "questions": [
     {
       "id": "csp-pv-q1",
       "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
-      "questionEn": "Does a person have the right not to believe in a religion?",
       "options": [
         "Non, il est obligatoire d'avoir une religion pour vivre en France.",
         "Non, car la France est un pays de tradition catholique.",
         "Oui, mais seulement si elle reste discrète et ne le dit à personne.",
         "Oui, la liberté de conscience permet de croire ou de ne pas croire."
       ],
+      "correctAnswer": 3,
+      "explanation": "En France, la liberté de conscience est un droit fondamental garanti par la laïcité. Chacun est libre d'avoir une religion, d'en changer ou de ne pas en avoir.",
+      "questionEn": "Does a person have the right not to believe in a religion?",
       "optionsEn": [
         "No, you must have a religion to live in France.",
         "No, because France is a country with a Catholic tradition.",
         "Yes, but only if they stay quiet about it and tell no one.",
         "Yes, freedom of conscience allows you to believe or not believe."
       ],
-      "correctAnswer": 3,
-      "explanation": "En France, la liberté de conscience est un droit fondamental garanti par la laïcité. Chacun est libre d'avoir une religion, d'en changer ou de ne pas en avoir.",
       "explanationEn": "In France, freedom of conscience is a fundamental right guaranteed by laïcité (secularism). Everyone is free to have a religion, change religion, or have no religion."
     },
     {
       "id": "csp-pv-q2",
       "question": "De quand date la Constitution de la Ve République ?",
-      "questionEn": "When was the Constitution of the Fifth Republic written?",
       "options": [
-        "1848",
-        "1789",
-        "1958",
-        "1905"
-      ],
-      "optionsEn": [
         "1848",
         "1789",
         "1958",
@@ -43,705 +34,714 @@
       ],
       "correctAnswer": 2,
       "explanation": "La Constitution actuelle de la France, qui régit la Ve République, date de 1958. Elle intègre notamment la devise 'Liberté, Égalité, Fraternité'.",
+      "questionEn": "When was the Constitution of the Fifth Republic written?",
+      "optionsEn": [
+        "1848",
+        "1789",
+        "1958",
+        "1905"
+      ],
       "explanationEn": "The current Constitution of France, which governs the Fifth Republic, dates from 1958. It includes the motto 'Liberté, Égalité, Fraternité' (Liberty, Equality, Fraternity)."
     },
     {
       "id": "csp-pv-q3",
       "question": "Le régime de la France est :",
-      "questionEn": "The political system of France is:",
       "options": [
         "Une république",
         "Un empire",
         "Une monarchie"
       ],
+      "correctAnswer": 0,
+      "explanation": "La France est une République. C'est un régime politique où le pouvoir est exercé par des représentants élus par le peuple, comme l'indique la devise et les symboles nationaux.",
+      "questionEn": "The political system of France is:",
       "optionsEn": [
         "A republic",
         "An empire",
         "A monarchy"
       ],
-      "correctAnswer": 0,
-      "explanation": "La France est une République. C'est un régime politique où le pouvoir est exercé par des représentants élus par le peuple, comme l'indique la devise et les symboles nationaux.",
       "explanationEn": "France is a Republic. It is a political system where power is held by representatives elected by the people, as shown by the national motto and symbols."
     },
     {
       "id": "csp-pv-q4",
       "question": "Lequel de ces symboles représente officiellement la République française ?",
-      "questionEn": "Which of these symbols officially represents the French Republic?",
       "options": [
         "L'aigle impérial",
         "Le coq",
         "La fleur de lys",
         "Marianne"
       ],
+      "correctAnswer": 3,
+      "explanation": "Marianne est un symbole officiel de la République. Le coq est un symbole populaire mais non officiel, tandis que la fleur de lys et l'aigle sont liés à la monarchie et à l'empire.",
+      "questionEn": "Which of these symbols officially represents the French Republic?",
       "optionsEn": [
         "The imperial eagle",
         "The rooster (le coq)",
         "The fleur-de-lis",
         "Marianne"
       ],
-      "correctAnswer": 3,
-      "explanation": "Marianne est un symbole officiel de la République. Le coq est un symbole populaire mais non officiel, tandis que la fleur de lys et l'aigle sont liés à la monarchie et à l'empire.",
       "explanationEn": "Marianne is an official symbol of the Republic. The rooster is a popular but unofficial symbol, while the fleur-de-lis and the eagle are linked to the monarchy and the empire."
     },
     {
       "id": "csp-pv-q5",
       "question": "Où peut-on voir la devise de la République ?",
-      "questionEn": "Where can you see the motto of the Republic?",
       "options": [
         "Sur les maillots de l'équipe de France de football",
         "Uniquement dans les musées",
         "Sur les bâtiments publics comme les mairies et les écoles",
         "Sur les panneaux de signalisation routière"
       ],
+      "correctAnswer": 2,
+      "explanation": "La devise 'Liberté, Égalité, Fraternité' est visible sur les frontons des bâtiments publics (mairies, écoles, tribunaux), ainsi que sur les pièces de monnaie et les timbres.",
+      "questionEn": "Where can you see the motto of the Republic?",
       "optionsEn": [
         "On the jerseys of the French national football team",
         "Only in museums",
         "On public buildings like town halls and schools",
         "On road signs"
       ],
-      "correctAnswer": 2,
-      "explanation": "La devise 'Liberté, Égalité, Fraternité' est visible sur les frontons des bâtiments publics (mairies, écoles, tribunaux), ainsi que sur les pièces de monnaie et les timbres.",
       "explanationEn": "The motto 'Liberté, Égalité, Fraternité' (Liberty, Equality, Fraternity) is visible on the front of public buildings (town halls, schools, courts), as well as on coins and stamps."
     },
     {
       "id": "csp-pv-q6",
       "question": "Quels sont des symboles officiels de la République française ?",
-      "questionEn": "What are official symbols of the French Republic?",
       "options": [
         "Le béret et la marinière",
         "La baguette de pain et le vin",
         "Le croissant et l'étoile",
         "Le drapeau tricolore et l'hymne national"
       ],
+      "correctAnswer": 3,
+      "explanation": "Le drapeau bleu, blanc, rouge et l'hymne national (La Marseillaise) sont des symboles officiels de la République, tout comme Marianne et la devise.",
+      "questionEn": "What are official symbols of the French Republic?",
       "optionsEn": [
         "The beret and the striped shirt",
         "The baguette and wine",
         "The crescent and the star",
         "The tricolour flag and the national anthem"
       ],
-      "correctAnswer": 3,
-      "explanation": "Le drapeau bleu, blanc, rouge et l'hymne national (La Marseillaise) sont des symboles officiels de la République, tout comme Marianne et la devise.",
       "explanationEn": "The blue, white, and red flag and the national anthem (La Marseillaise) are official symbols of the Republic, along with Marianne and the motto."
     },
     {
       "id": "csp-pv-q7",
-      "question": "Qu'est-ce que l'égalité ?",
-      "questionEn": "What is equality (Égalité)?",
+      "question": "Qu’est-ce que l’égalité ?",
       "options": [
         "C'est l'interdiction d'avoir des différences de goût",
         "C'est le fait que la loi est la même pour tous, sans distinction",
         "C'est avoir exactement le même salaire pour tout le monde",
         "C'est l'obligation de penser la même chose que les autres"
       ],
+      "correctAnswer": 1,
+      "explanation": "L'égalité est un principe fondamental qui signifie que tous les citoyens ont les mêmes droits et devoirs, et que la loi s'applique de la même manière pour tous.",
+      "questionEn": "What is equality (Égalité)?",
       "optionsEn": [
         "It is the ban on having different tastes",
         "It means the law is the same for everyone, without distinction",
         "It means everyone earns exactly the same salary",
         "It is the obligation to think the same as others"
       ],
-      "correctAnswer": 1,
-      "explanation": "L'égalité est un principe fondamental qui signifie que tous les citoyens ont les mêmes droits et devoirs, et que la loi s'applique de la même manière pour tous.",
       "explanationEn": "Equality is a fundamental principle meaning that all citizens have the same rights and duties, and the law applies the same way to everyone."
     },
     {
       "id": "csp-pv-q8",
       "question": "À quoi correspond la date du 14 juillet ?",
-      "questionEn": "What does the date 14 July represent?",
       "options": [
         "À la fin de la Première Guerre mondiale",
         "À la fête nationale française",
         "À la date de l'élection du Président de la République",
         "À la fête de la musique"
       ],
+      "correctAnswer": 1,
+      "explanation": "Le 14 juillet est la fête nationale depuis 1880. Elle commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790).",
+      "questionEn": "What does the date 14 July represent?",
       "optionsEn": [
         "The end of World War I",
         "The French national holiday",
         "The date of the presidential election",
         "The music festival"
       ],
-      "correctAnswer": 1,
-      "explanation": "Le 14 juillet est la fête nationale depuis 1880. Elle commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790).",
       "explanationEn": "14 July has been the national holiday since 1880. It commemorates the storming of the Bastille (1789) and the Festival of the Federation (1790)."
     },
     {
       "id": "csp-pv-q9",
-      "question": "Quel est l'un des symboles de la République française ?",
-      "questionEn": "What is one of the symbols of the French Republic?",
+      "question": "Quel est l’un des symboles de la République française ?",
       "options": [
         "Le croissant",
         "La fleur de lys",
         "Le drapeau tricolore",
         "La Tour Eiffel"
       ],
+      "correctAnswer": 2,
+      "explanation": "Le drapeau bleu, blanc, rouge est l'emblème national officiel de la République française, tout comme l'hymne national (La Marseillaise) ou Marianne.",
+      "questionEn": "What is one of the symbols of the French Republic?",
       "optionsEn": [
         "The croissant",
         "The fleur-de-lis",
         "The tricolour flag",
         "The Eiffel Tower"
       ],
-      "correctAnswer": 2,
-      "explanation": "Le drapeau bleu, blanc, rouge est l'emblème national officiel de la République française, tout comme l'hymne national (La Marseillaise) ou Marianne.",
       "explanationEn": "The blue, white, and red flag is the official national emblem of the French Republic, along with the national anthem (La Marseillaise) and Marianne."
     },
     {
       "id": "csp-pv-q10",
-      "question": "Le principe d'égalité signifie que :",
-      "questionEn": "The principle of equality means that:",
+      "question": "Le principe d’égalité signifie que :",
       "options": [
         "Tous les citoyens ont les mêmes droits et les mêmes devoirs",
         "Tout le monde doit avoir le même salaire",
         "Il n'y a plus de chef au travail",
         "Tout le monde doit penser la même chose"
       ],
+      "correctAnswer": 0,
+      "explanation": "L'égalité est un principe fondamental qui assure que la loi est la même pour tous, sans distinction d'origine, de religion ou de sexe.",
+      "questionEn": "The principle of equality means that:",
       "optionsEn": [
         "All citizens have the same rights and the same duties",
         "Everyone must earn the same salary",
         "There are no more bosses at work",
         "Everyone must think the same thing"
       ],
-      "correctAnswer": 0,
-      "explanation": "L'égalité est un principe fondamental qui assure que la loi est la même pour tous, sans distinction d'origine, de religion ou de sexe.",
       "explanationEn": "Equality is a fundamental principle that ensures the law is the same for everyone, regardless of origin, religion, or gender."
     },
     {
       "id": "csp-pv-q11",
-      "question": "\"Liberté, égalité, fraternité\", c'est :",
-      "questionEn": "'Liberté, Égalité, Fraternité' (Liberty, Equality, Fraternity) is:",
+      "question": "\"Liberté, égalité, fraternité\", c’est :",
       "options": [
         "L'hymne de la France",
         "La devise de la République française",
         "Le titre de la Constitution",
         "Une phrase célèbre de Napoléon"
       ],
+      "correctAnswer": 1,
+      "explanation": "C'est la devise officielle de la République française. Elle est inscrite dans la Constitution et sur les bâtiments publics comme les mairies ou les écoles.",
+      "questionEn": "'Liberté, Égalité, Fraternité' (Liberty, Equality, Fraternity) is:",
       "optionsEn": [
         "The anthem of France",
         "The motto of the French Republic",
         "The title of the Constitution",
         "A famous quote by Napoleon"
       ],
-      "correctAnswer": 1,
-      "explanation": "C'est la devise officielle de la République française. Elle est inscrite dans la Constitution et sur les bâtiments publics comme les mairies ou les écoles.",
       "explanationEn": "It is the official motto of the French Republic. It is written in the Constitution and on public buildings like town halls and schools."
     },
     {
       "id": "csp-pv-q12",
-      "question": "A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe…) ?",
-      "questionEn": "Is it allowed to publicly insult someone because they are different (disability, physical appearance, gender...)?",
+      "question": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?",
       "options": [
         "Oui, c'est la liberté d'expression",
         "Oui, si c'est sous le coup de la colère",
         "Seulement sur internet",
         "Non, c'est interdit et puni par la loi"
       ],
+      "correctAnswer": 3,
+      "explanation": "La liberté d'expression a des limites : les injures, la discrimination, le racisme ou l'incitation à la haine sont des délits punis par la loi.",
+      "questionEn": "Is it allowed to publicly insult someone because they are different (disability, physical appearance, gender...)?",
       "optionsEn": [
         "Yes, it is freedom of expression",
         "Yes, if it is done in anger",
         "Only on the internet",
         "No, it is forbidden and punished by law"
       ],
-      "correctAnswer": 3,
-      "explanation": "La liberté d'expression a des limites : les injures, la discrimination, le racisme ou l'incitation à la haine sont des délits punis par la loi.",
       "explanationEn": "Freedom of expression has limits: insults, discrimination, racism, or incitement to hatred are offences punished by law."
     },
     {
       "id": "csp-pv-q13",
       "question": "Certains métiers peuvent-ils être réservés aux hommes ?",
-      "questionEn": "Can certain jobs be reserved for men only?",
       "options": [
         "Oui, les métiers de la politique",
         "Oui, les métiers de l'armée",
         "Oui, les métiers très physiques",
         "Non, tous les métiers sont ouverts aux femmes comme aux hommes"
       ],
+      "correctAnswer": 3,
+      "explanation": "Au nom de l'égalité et de la non-discrimination, les femmes ont le droit d'exercer n'importe quelle profession, au même titre que les hommes.",
+      "questionEn": "Can certain jobs be reserved for men only?",
       "optionsEn": [
         "Yes, jobs in politics",
         "Yes, jobs in the military",
         "Yes, very physical jobs",
         "No, all jobs are open to both women and men"
       ],
-      "correctAnswer": 3,
-      "explanation": "Au nom de l'égalité et de la non-discrimination, les femmes ont le droit d'exercer n'importe quelle profession, au même titre que les hommes.",
       "explanationEn": "In the name of equality and non-discrimination, women have the right to work in any profession, just like men."
     },
     {
       "id": "csp-pv-q14",
       "question": "Que signifie la liberté ?",
-      "questionEn": "What does liberty (Liberté) mean?",
       "options": [
         "C'est un droit réservé uniquement aux personnes de nationalité française",
         "C'est l'obligation de penser comme la majorité des citoyens",
         "C'est le droit de penser, de s'exprimer et de vivre comme on le souhaite, sans nuire aux autres",
         "C'est le droit de tout faire, même si cela gêne les autres"
       ],
+      "correctAnswer": 2,
+      "explanation": "La liberté permet à chacun de penser et d'agir selon sa volonté, avec pour seule limite de ne pas empêcher les autres d'en faire autant.",
+      "questionEn": "What does liberty (Liberté) mean?",
       "optionsEn": [
         "It is a right reserved only for people with French nationality",
         "It is the obligation to think like the majority of citizens",
         "It is the right to think, express yourself, and live as you wish, without harming others",
         "It is the right to do anything, even if it bothers others"
       ],
-      "correctAnswer": 2,
-      "explanation": "La liberté permet à chacun de penser et d'agir selon sa volonté, avec pour seule limite de ne pas empêcher les autres d'en faire autant.",
       "explanationEn": "Liberty allows everyone to think and act as they wish, with the only limit being that you must not prevent others from doing the same."
     },
     {
       "id": "csp-pv-q15",
       "question": "Que signifie le mot \"fraternité\" dans la devise française ?",
-      "questionEn": "What does the word 'Fraternité' (Fraternity) mean in the French motto?",
       "options": [
         "La solidarité entre les citoyens",
         "L'obligation d'avoir des frères et sœurs",
         "Le fait de vivre tous dans la même maison",
         "L'égalité des salaires pour tous"
       ],
+      "correctAnswer": 0,
+      "explanation": "Dans la devise républicaine, la fraternité désigne la solidarité et l'entraide qui doivent unir les citoyens.",
+      "questionEn": "What does the word 'Fraternité' (Fraternity) mean in the French motto?",
       "optionsEn": [
         "Solidarity between citizens",
         "The obligation to have brothers and sisters",
         "Everyone living in the same house",
         "Equal salaries for everyone"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dans la devise républicaine, la fraternité désigne la solidarité et l'entraide qui doivent unir les citoyens.",
       "explanationEn": "In the Republican motto, Fraternité (Fraternity) means solidarity and mutual help that should unite all citizens."
     },
     {
       "id": "csp-pv-q16",
       "question": "Quel animal est un symbole de la France ?",
-      "questionEn": "Which animal is a symbol of France?",
       "options": [
         "L'aigle",
         "Le coq",
         "L'ours",
         "Le lion"
       ],
+      "correctAnswer": 1,
+      "explanation": "Le coq est un symbole national fort, issu d'un jeu de mots latin (Gallus) signifiant à la fois Gaulois et coq. Il représente la fierté et le courage.",
+      "questionEn": "Which animal is a symbol of France?",
       "optionsEn": [
         "The eagle",
         "The rooster (le coq)",
         "The bear",
         "The lion"
       ],
-      "correctAnswer": 1,
-      "explanation": "Le coq est un symbole national fort, issu d'un jeu de mots latin (Gallus) signifiant à la fois Gaulois et coq. Il représente la fierté et le courage.",
       "explanationEn": "The rooster (le coq) is a strong national symbol, coming from a Latin play on words (Gallus) meaning both 'Gaul' and 'rooster'. It represents pride and courage."
     },
     {
       "id": "csp-pv-q17",
-      "question": "Quel est l'un des rôles des associations ?",
-      "questionEn": "What is one of the roles of associations?",
+      "question": "Quel est l’un des rôles des associations ?",
       "options": [
         "Délivrer les cartes d'identité",
         "Remplacer le gouvernement pour voter les lois",
         "Défendre des intérêts communs ou aider les autres",
         "Obliger les gens à avoir une religion"
       ],
+      "correctAnswer": 2,
+      "explanation": "La liberté d'association permet aux citoyens de se regrouper pour défendre des intérêts communs (comme les syndicats) ou agir par solidarité.",
+      "questionEn": "What is one of the roles of associations?",
       "optionsEn": [
         "Issue identity cards",
         "Replace the government in voting on laws",
         "Defend common interests or help others",
         "Force people to have a religion"
       ],
-      "correctAnswer": 2,
-      "explanation": "La liberté d'association permet aux citoyens de se regrouper pour défendre des intérêts communs (comme les syndicats) ou agir par solidarité.",
       "explanationEn": "Freedom of association allows citizens to come together to defend common interests (like trade unions) or act in solidarity."
     },
     {
       "id": "csp-pv-q18",
       "question": "Quel est le nom de l'hymne national ?",
-      "questionEn": "What is the name of the national anthem?",
       "options": [
         "L'Hymne à la Joie",
         "Le Chant du Départ",
         "La Marseillaise",
         "La Parisienne"
       ],
+      "correctAnswer": 2,
+      "explanation": "La Marseillaise est l'hymne national de la France. Composé en 1792, ce chant représente les valeurs de liberté et d'unité.",
+      "questionEn": "What is the name of the national anthem?",
       "optionsEn": [
         "Ode to Joy (L'Hymne à la Joie)",
         "The Song of Departure (Le Chant du Départ)",
         "La Marseillaise",
         "La Parisienne"
       ],
-      "correctAnswer": 2,
-      "explanation": "La Marseillaise est l'hymne national de la France. Composé en 1792, ce chant représente les valeurs de liberté et d'unité.",
       "explanationEn": "La Marseillaise is the national anthem of France. Composed in 1792, this song represents the values of liberty and unity."
     },
     {
       "id": "csp-pv-q19",
       "question": "Quel symbole de la République française est tricolore ?",
-      "questionEn": "Which symbol of the French Republic is tricolour?",
       "options": [
         "La devise",
         "La Marianne",
         "Le drapeau",
         "Le coq"
       ],
+      "correctAnswer": 2,
+      "explanation": "Le drapeau français est tricolore. Il est composé de trois bandes verticales : bleu, blanc et rouge.",
+      "questionEn": "Which symbol of the French Republic is tricolour?",
       "optionsEn": [
         "The motto",
         "Marianne",
         "The flag",
         "The rooster"
       ],
-      "correctAnswer": 2,
-      "explanation": "Le drapeau français est tricolore. Il est composé de trois bandes verticales : bleu, blanc et rouge.",
       "explanationEn": "The French flag is tricolour. It is made up of three vertical stripes: blue, white, and red."
     },
     {
       "id": "csp-pv-q20",
       "question": "Quelle est la date de la fête nationale française ?",
-      "questionEn": "What is the date of the French national holiday?",
       "options": [
         "Le 14 juillet",
         "Le 11 novembre",
         "Le 1er mai",
         "Le 8 mai"
       ],
+      "correctAnswer": 0,
+      "explanation": "La fête nationale a lieu le 14 juillet. Elle commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790).",
+      "questionEn": "What is the date of the French national holiday?",
       "optionsEn": [
         "14 July",
         "11 November",
         "1 May",
         "8 May"
       ],
-      "correctAnswer": 0,
-      "explanation": "La fête nationale a lieu le 14 juillet. Elle commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790).",
       "explanationEn": "The national holiday is on 14 July. It commemorates the storming of the Bastille (1789) and the Festival of the Federation (1790)."
     },
     {
       "id": "csp-pv-q21",
       "question": "Quelle est la devise de la République française ?",
-      "questionEn": "What is the motto of the French Republic?",
       "options": [
         "Travail, Famille, Patrie",
         "Unité, Indivisibilité, Solidarité",
         "Honneur et Patrie",
         "Liberté, Égalité, Fraternité"
       ],
+      "correctAnswer": 3,
+      "explanation": "La devise officielle de la République est « Liberté, Égalité, Fraternité ». Elle est inscrite dans la Constitution.",
+      "questionEn": "What is the motto of the French Republic?",
       "optionsEn": [
         "Work, Family, Fatherland (Travail, Famille, Patrie)",
         "Unity, Indivisibility, Solidarity",
         "Honour and Fatherland",
         "Liberté, Égalité, Fraternité (Liberty, Equality, Fraternity)"
       ],
-      "correctAnswer": 3,
-      "explanation": "La devise officielle de la République est « Liberté, Égalité, Fraternité ». Elle est inscrite dans la Constitution.",
       "explanationEn": "The official motto of the Republic is 'Liberté, Égalité, Fraternité' (Liberty, Equality, Fraternity). It is written in the Constitution."
     },
     {
       "id": "csp-pv-q22",
       "question": "Quelle est la langue officielle de la République française ?",
-      "questionEn": "What is the official language of the French Republic?",
       "options": [
         "Le français",
         "Le français et les langues régionales",
         "Il n'y a pas de langue officielle",
         "Le français et l'anglais"
       ],
+      "correctAnswer": 0,
+      "explanation": "Selon la Constitution, la langue de la République est le français. C'est la seule langue officielle utilisée dans l'administration et les services publics.",
+      "questionEn": "What is the official language of the French Republic?",
       "optionsEn": [
         "French",
         "French and regional languages",
         "There is no official language",
         "French and English"
       ],
-      "correctAnswer": 0,
-      "explanation": "Selon la Constitution, la langue de la République est le français. C'est la seule langue officielle utilisée dans l'administration et les services publics.",
       "explanationEn": "According to the Constitution, the language of the Republic is French. It is the only official language used in government offices and public services."
     },
     {
       "id": "csp-pv-q23",
       "question": "Quelle est la place de la langue française dans la République ?",
-      "questionEn": "What is the place of the French language in the Republic?",
       "options": [
         "Elle partage son statut officiel avec les langues régionales",
         "C'est la langue de la République inscrite dans la Constitution",
         "Elle est uniquement utilisée à l'école",
         "C'est une langue optionnelle dans l'administration"
       ],
+      "correctAnswer": 1,
+      "explanation": "La langue française est inscrite dans la Constitution depuis 1992 comme étant « la langue de la République ». Elle garantit l'égalité d'accès aux droits et la cohésion nationale.",
+      "questionEn": "What is the place of the French language in the Republic?",
       "optionsEn": [
         "It shares its official status with regional languages",
         "It is the language of the Republic, written in the Constitution",
         "It is only used in schools",
         "It is an optional language in government offices"
       ],
-      "correctAnswer": 1,
-      "explanation": "La langue française est inscrite dans la Constitution depuis 1992 comme étant « la langue de la République ». Elle garantit l'égalité d'accès aux droits et la cohésion nationale.",
       "explanationEn": "The French language has been written in the Constitution since 1992 as 'the language of the Republic'. It guarantees equal access to rights and national unity."
     },
     {
       "id": "csp-pv-q24",
-      "question": "Quelle liberté permet à chacun d'exprimer ses idées ?",
-      "questionEn": "Which freedom allows everyone to express their ideas?",
+      "question": "Quelle liberté permet à chacun d’exprimer ses idées ?",
       "options": [
         "La liberté de circulation",
         "La liberté d'expression",
         "La liberté d'association",
         "Le droit de propriété"
       ],
+      "correctAnswer": 1,
+      "explanation": "La liberté d'expression permet à chaque personne de penser, de s'exprimer, d'écrire et de publier librement ses opinions.",
+      "questionEn": "Which freedom allows everyone to express their ideas?",
       "optionsEn": [
         "Freedom of movement",
         "Freedom of expression",
         "Freedom of association",
         "The right to property"
       ],
-      "correctAnswer": 1,
-      "explanation": "La liberté d'expression permet à chaque personne de penser, de s'exprimer, d'écrire et de publier librement ses opinions.",
       "explanationEn": "Freedom of expression allows every person to think, speak, write, and freely publish their opinions."
     },
     {
       "id": "csp-pv-q25",
       "question": "Quelle proposition est correcte ? La liberté d'expression :",
-      "questionEn": "Which statement is correct? Freedom of expression:",
       "options": [
         "Est réservée uniquement aux journalistes",
         "Permet de tout dire, même d'inciter à la haine raciale",
         "Est un droit fondamental limité par le respect de l'ordre public et de la loi",
         "Interdit de critiquer les religions"
       ],
+      "correctAnswer": 2,
+      "explanation": "La liberté d'expression est un droit fondamental, mais elle a des limites fixées par la loi (interdiction des propos haineux, racistes ou appelant à la violence).",
+      "questionEn": "Which statement is correct? Freedom of expression:",
       "optionsEn": [
         "Is reserved only for journalists",
         "Allows you to say anything, even incite racial hatred",
         "Is a fundamental right limited by respect for public order and the law",
         "Forbids criticising religions"
       ],
-      "correctAnswer": 2,
-      "explanation": "La liberté d'expression est un droit fondamental, mais elle a des limites fixées par la loi (interdiction des propos haineux, racistes ou appelant à la violence).",
       "explanationEn": "Freedom of expression is a fundamental right, but it has limits set by law (hateful, racist, or violent speech is forbidden)."
     },
     {
       "id": "csp-pv-q26",
       "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
-      "questionEn": "In what year was the law separating Church and State passed?",
       "options": [
         "En 1789",
         "En 1905",
         "En 1958",
         "En 1882"
       ],
+      "correctAnswer": 1,
+      "explanation": "La loi de séparation des Églises et de l'État a été votée en 1905. Elle garantit que l'État est indépendant des religions et ne finance aucun culte.",
+      "questionEn": "In what year was the law separating Church and State passed?",
       "optionsEn": [
         "In 1789",
         "In 1905",
         "In 1958",
         "In 1882"
       ],
-      "correctAnswer": 1,
-      "explanation": "La loi de séparation des Églises et de l'État a été votée en 1905. Elle garantit que l'État est indépendant des religions et ne finance aucun culte.",
       "explanationEn": "The law separating Church and State was passed in 1905. It guarantees that the State is independent from religions and does not fund any worship."
     },
     {
       "id": "csp-pv-q27",
       "question": "Que permet le principe de laïcité ?",
-      "questionEn": "What does the principle of laïcité (secularism) allow?",
       "options": [
         "Il permet à chacun de croire ou de ne pas croire, et garantit la neutralité de l'État",
         "Il oblige tout le monde à être athée",
         "Il autorise l'État à financer les religions",
         "Il interdit toute pratique religieuse en France"
       ],
+      "correctAnswer": 0,
+      "explanation": "La laïcité garantit la liberté de conscience (croire ou ne pas croire) et impose la neutralité à l'État, qui ne privilégie aucune religion.",
+      "questionEn": "What does the principle of laïcité (secularism) allow?",
       "optionsEn": [
         "It allows everyone to believe or not believe, and guarantees the neutrality of the State",
         "It forces everyone to be an atheist",
         "It allows the State to fund religions",
         "It forbids all religious practice in France"
       ],
-      "correctAnswer": 0,
-      "explanation": "La laïcité garantit la liberté de conscience (croire ou ne pas croire) et impose la neutralité à l'État, qui ne privilégie aucune religion.",
       "explanationEn": "Laïcité (secularism) guarantees freedom of conscience (to believe or not believe) and requires the State to be neutral, favouring no religion."
     },
     {
       "id": "csp-pv-q28",
       "question": "Quel droit est garanti par la laïcité ?",
-      "questionEn": "What right is guaranteed by laïcité (secularism)?",
       "options": [
         "Le droit d'imposer sa religion aux autres",
         "Le droit de refuser d'obéir à la loi pour motif religieux",
         "Le droit de manifester sa religion partout, même au travail dans les services publics",
         "La liberté de conscience et de religion"
       ],
+      "correctAnswer": 3,
+      "explanation": "La laïcité garantit la liberté de conscience, c'est-à-dire la liberté d'avoir une religion, d'en changer ou de ne pas en avoir.",
+      "questionEn": "What right is guaranteed by laïcité (secularism)?",
       "optionsEn": [
         "The right to impose your religion on others",
         "The right to refuse to obey the law for religious reasons",
         "The right to show your religion everywhere, even at work in public services",
         "Freedom of conscience and religion"
       ],
-      "correctAnswer": 3,
-      "explanation": "La laïcité garantit la liberté de conscience, c'est-à-dire la liberté d'avoir une religion, d'en changer ou de ne pas en avoir.",
       "explanationEn": "Laïcité (secularism) guarantees freedom of conscience, meaning the freedom to have a religion, change religion, or have no religion."
     },
     {
       "id": "csp-pv-q29",
       "question": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
-      "questionEn": "Why must the principle of laïcité (secularism) be respected at school?",
       "options": [
         "Pour protéger la liberté de conscience des élèves et garantir un enseignement neutre",
         "Pour empêcher les élèves d'avoir des opinions personnelles",
         "Pour interdire aux élèves de parler entre eux",
         "Pour obliger tous les élèves à avoir la même religion"
       ],
+      "correctAnswer": 0,
+      "explanation": "À l'école publique, la laïcité protège les élèves de tout prosélytisme et garantit un espace neutre propice à l'apprentissage et à la formation de leur propre jugement.",
+      "questionEn": "Why must the principle of laïcité (secularism) be respected at school?",
       "optionsEn": [
         "To protect the freedom of conscience of students and guarantee neutral teaching",
         "To prevent students from having personal opinions",
         "To forbid students from talking to each other",
         "To force all students to have the same religion"
       ],
-      "correctAnswer": 0,
-      "explanation": "À l'école publique, la laïcité protège les élèves de tout prosélytisme et garantit un espace neutre propice à l'apprentissage et à la formation de leur propre jugement.",
       "explanationEn": "In public schools, laïcité protects students from religious pressure and guarantees a neutral space for learning and forming their own opinions."
     },
     {
       "id": "csp-pv-q30",
       "question": "Qu'est-ce que la laïcité ?",
-      "questionEn": "What is laïcité (secularism)?",
       "options": [
         "C'est une loi qui oblige à être chrétien",
         "C'est un principe qui sépare l'État des religions et garantit l'égalité de tous devant la loi",
         "C'est l'interdiction de toutes les religions en France",
         "C'est le fait que l'État contrôle et dirige les cultes"
       ],
+      "correctAnswer": 1,
+      "explanation": "La laïcité est un principe fondamental qui sépare le pouvoir politique des organisations religieuses. L'État est neutre et assure l'égalité de tous les citoyens, quelles que soient leurs croyances.",
+      "questionEn": "What is laïcité (secularism)?",
       "optionsEn": [
         "It is a law that requires everyone to be Christian",
         "It is a principle that separates the State from religions and guarantees equality for all before the law",
         "It is the ban on all religions in France",
         "It means the State controls and manages religious worship"
       ],
-      "correctAnswer": 1,
-      "explanation": "La laïcité est un principe fondamental qui sépare le pouvoir politique des organisations religieuses. L'État est neutre et assure l'égalité de tous les citoyens, quelles que soient leurs croyances.",
       "explanationEn": "Laïcité (secularism) is a fundamental principle that separates political power from religious organisations. The State is neutral and ensures equality for all citizens, whatever their beliefs."
     },
     {
       "id": "csp-pv-q31",
-      "question": "Un enfant peut-il refuser d'aller à l'école pour une raison religieuse ?",
-      "questionEn": "Can a child refuse to go to school for a religious reason?",
+      "question": "Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ?",
       "options": [
         "Oui, s'il rattrape les cours plus tard",
         "Oui, mais seulement pour les fêtes religieuses majeures",
         "Oui, si ses parents sont d'accord",
         "Non, l'instruction est obligatoire et les croyances ne justifient pas l'absence scolaire"
       ],
+      "correctAnswer": 3,
+      "explanation": "En France, l'école est obligatoire (ou l'instruction). On ne peut pas refuser d'aller à l'école ou de suivre certains enseignements (comme le sport ou la biologie) au nom de sa religion.",
+      "questionEn": "Can a child refuse to go to school for a religious reason?",
       "optionsEn": [
         "Yes, if they catch up on lessons later",
         "Yes, but only for major religious holidays",
         "Yes, if their parents agree",
         "No, education is compulsory and religious beliefs do not justify school absence"
       ],
-      "correctAnswer": 3,
-      "explanation": "En France, l'école est obligatoire (ou l'instruction). On ne peut pas refuser d'aller à l'école ou de suivre certains enseignements (comme le sport ou la biologie) au nom de sa religion.",
       "explanationEn": "In France, school (or education) is compulsory. You cannot refuse to go to school or attend certain classes (such as sports or biology) because of your religion."
     },
     {
       "id": "csp-pv-q32",
       "question": "Quelles sont les couleurs du drapeau français ?",
-      "questionEn": "What are the colours of the French flag?",
       "options": [
         "Bleu, jaune, rouge",
         "Vert, blanc, rouge",
         "Bleu, blanc, rouge",
         "Rouge, blanc, bleu"
       ],
+      "correctAnswer": 2,
+      "explanation": "Le drapeau français est tricolore. Le bleu et le rouge sont les couleurs de la ville de Paris, et le blanc est la couleur du roi, symbolisant l'alliance du peuple et du roi lors de la Révolution.",
+      "questionEn": "What are the colours of the French flag?",
       "optionsEn": [
         "Blue, yellow, red",
         "Green, white, red",
         "Blue, white, red",
         "Red, white, blue"
       ],
-      "correctAnswer": 2,
-      "explanation": "Le drapeau français est tricolore. Le bleu et le rouge sont les couleurs de la ville de Paris, et le blanc est la couleur du roi, symbolisant l'alliance du peuple et du roi lors de la Révolution.",
       "explanationEn": "The French flag is tricolour. Blue and red are the colours of the city of Paris, and white is the colour of the king, symbolising the union of the people and the king during the Revolution."
     },
     {
       "id": "csp-pv-q33",
       "question": "Qu'est-ce que la Marseillaise ?",
-      "questionEn": "What is La Marseillaise?",
       "options": [
         "Le nom du drapeau français",
         "L'hymne national de la France",
         "La devise de la République",
         "Une danse traditionnelle"
       ],
+      "correctAnswer": 1,
+      "explanation": "La Marseillaise est l'hymne national. C'est un chant patriotique composé en 1792 pendant la Révolution française.",
+      "questionEn": "What is La Marseillaise?",
       "optionsEn": [
         "The name of the French flag",
         "The national anthem of France",
         "The motto of the Republic",
         "A traditional dance"
       ],
-      "correctAnswer": 1,
-      "explanation": "La Marseillaise est l'hymne national. C'est un chant patriotique composé en 1792 pendant la Révolution française.",
       "explanationEn": "La Marseillaise is the national anthem. It is a patriotic song composed in 1792 during the French Revolution."
     },
     {
       "id": "csp-pv-q34",
       "question": "Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ?",
-      "questionEn": "What is traditionally held on the Champs-Élysées on 14 July to celebrate the national holiday?",
       "options": [
         "Une course cycliste",
         "Un défilé militaire",
         "Un marché de Noël",
         "Un grand concert de musique"
       ],
+      "correctAnswer": 1,
+      "explanation": "Le 14 juillet, un défilé militaire a lieu sur les Champs-Élysées à Paris, en présence du président de la République, pour célébrer la fête nationale.",
+      "questionEn": "What is traditionally held on the Champs-Élysées on 14 July to celebrate the national holiday?",
       "optionsEn": [
         "A cycling race",
         "A military parade",
         "A Christmas market",
         "A big music concert"
       ],
-      "correctAnswer": 1,
-      "explanation": "Le 14 juillet, un défilé militaire a lieu sur les Champs-Élysées à Paris, en présence du président de la République, pour célébrer la fête nationale.",
       "explanationEn": "On 14 July, a military parade takes place on the Champs-Élysées in Paris, in the presence of the President of the Republic, to celebrate the national holiday."
     },
     {
       "id": "csp-pv-q35",
       "question": "Qui est Marianne ?",
-      "questionEn": "Who is Marianne?",
       "options": [
         "Une sainte patronne de la France",
         "Une célèbre chanteuse française",
         "La femme du président de la République",
         "Un symbole de la République française"
       ],
+      "correctAnswer": 3,
+      "explanation": "Marianne est une figure symbolique qui représente la République. Son buste est présent dans toutes les mairies de France.",
+      "questionEn": "Who is Marianne?",
       "optionsEn": [
         "A patron saint of France",
         "A famous French singer",
         "The wife of the President of the Republic",
         "A symbol of the French Republic"
       ],
-      "correctAnswer": 3,
-      "explanation": "Marianne est une figure symbolique qui représente la République. Son buste est présent dans toutes les mairies de France.",
       "explanationEn": "Marianne is a symbolic figure that represents the Republic. Her bust is displayed in every town hall in France."
     },
     {
       "id": "csp-pv-q36",
       "question": "Une personne peut-elle changer librement de religion ?",
-      "questionEn": "Can a person freely change their religion?",
       "options": [
         "Oui, mais seulement avec l'autorisation de la mairie",
         "Oui, la liberté de conscience est un droit fondamental",
         "Non, il est interdit d'avoir une religion en France",
         "Non, on doit garder la religion de ses parents"
       ],
+      "correctAnswer": 1,
+      "explanation": "En France, la liberté de conscience permet à chacun de croire, de ne pas croire, ou de changer de religion librement.",
+      "questionEn": "Can a person freely change their religion?",
       "optionsEn": [
         "Yes, but only with permission from the town hall",
         "Yes, freedom of conscience is a fundamental right",
         "No, it is forbidden to have a religion in France",
         "No, you must keep your parents' religion"
       ],
-      "correctAnswer": 1,
-      "explanation": "En France, la liberté de conscience permet à chacun de croire, de ne pas croire, ou de changer de religion librement.",
       "explanationEn": "In France, freedom of conscience allows everyone to believe, not believe, or change religion freely."
     },
     {
       "id": "csp-pv-q37",
       "question": "\"La France est une République indivisible, ..., démocratique et sociale\". Complétez cette phrase extraite de l'article 1er de la Constitution :",
-      "questionEn": "'France is an indivisible, ..., democratic and social Republic.' Complete this sentence from Article 1 of the Constitution:",
       "options": [
         "catholique",
         "royale",
         "libérale",
         "laïque"
       ],
+      "correctAnswer": 3,
+      "explanation": "La France est une République laïque. Cela signifie que l'État est neutre et séparé des religions depuis la loi de 1905.",
+      "questionEn": "'France is an indivisible, ..., democratic and social Republic.' Complete this sentence from Article 1 of the Constitution:",
       "optionsEn": [
         "Catholic",
         "Royal",
         "Liberal",
         "Laïque (secular)"
       ],
-      "correctAnswer": 3,
-      "explanation": "La France est une République laïque. Cela signifie que l'État est neutre et séparé des religions depuis la loi de 1905.",
       "explanationEn": "France is a secular (laïque) Republic. This means that the State is neutral and separated from religions since the 1905 law."
     }
-  ]
+  ],
+  "titleEn": "CSP - Principles and Values of the Republic",
+  "descriptionEn": "Official CSP quiz (Contrat de Séjour Pluriannuel - Multi-Year Residence Contract) – Principles and Values of the Republic. Official exam questions."
 }

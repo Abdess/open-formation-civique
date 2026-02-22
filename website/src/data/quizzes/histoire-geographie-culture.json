@@ -1579,11 +1579,12 @@
       "explanation": "La Shoah désigne l'extermination systématique d'environ 6 millions de Juifs par le régime nazi et ses collaborateurs.",
       "questionEn": "What is the Shoah (Holocaust)?",
       "optionsEn": [
-        "The genocide of Jews organized by Nazi Germany",
-        "A major military battle in France",
-        "A peace agreement signed in 1942"
+        "An important battle in the Pacific",
+        "The code name for the Normandy landing",
+        "The genocide organized by the Nazis against Jews and other populations",
+        "A peace treaty signed between France and Germany"
       ],
-      "explanationEn": "The Shoah (Holocaust) refers to the systematic extermination of about 6 million Jews by the Nazi regime and its collaborators."
+      "explanationEn": "The Shoah (Holocaust) refers to the systematic extermination (genocide) of more than 6 million Jews and other populations deemed 'undesirable' by the Nazi regime."
     },
     {
       "id": "hgc-q81",
@@ -2144,12 +2145,12 @@
       "explanation": "La moitié du territoire français est consacrée à l'agriculture, ce qui façonne les paysages du pays.",
       "questionEn": "What share of French territory is used for agriculture?",
       "optionsEn": [
-        "All of the territory (100%)",
-        "Half of the territory (50%)",
-        "A very small part (10%)",
-        "A quarter of the territory (25%)"
+        "Only 10% of the territory",
+        "About a third of the territory",
+        "Half of the territory",
+        "All of the territory"
       ],
-      "explanationEn": "Half of French territory is devoted to agriculture, which shapes the country's landscapes."
+      "explanationEn": "France has the largest agricultural area in the EU: half of its territory is devoted to agriculture."
     },
     {
       "id": "hgc-q110",
@@ -3384,12 +3385,12 @@
       "explanation": "L'économie repose sur l'industrie (automobile, chimie), l'agriculture (vignes) et le tourisme lié à l'histoire des guerres mondiales.",
       "questionEn": "What are the main economic sectors of the region?",
       "optionsEn": [
-        "Fishing and shipbuilding",
-        "Industry, vineyards (Champagne and Alsace), and memorial tourism",
-        "Oil extraction and maritime trade",
-        "IT and new technologies only"
+        "Agriculture and fishing",
+        "Services, tourism, and high-tech industry",
+        "Mining",
+        "Mountain livestock farming"
       ],
-      "explanationEn": "The economy is based on industry (automotive, chemicals), agriculture (vineyards), and tourism linked to World War history."
+      "explanationEn": "The region's economy is mainly based on services (finance, digital), tourism, culture, and high-tech industries."
     },
     {
       "id": "hgc-q173",
