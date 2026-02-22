@@ -1,7 +1,7 @@
 {
   "id": "cr-systeme-institutionnel",
   "title": "CR - Système institutionnel et politique",
-  "description": "Quiz officiel CR : Système institutionnel et politique",
+  "description": "Quiz officiel CR (Carte de Résident) – Système institutionnel et politique. Questions officielles de l'examen de connaissance.",
   "questions": [
     {
       "id": "cr-si-q1",
@@ -13,7 +13,15 @@
         "Parler couramment trois langues européennes"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour voter, il faut avoir au moins 18 ans, habiter en France, être inscrit sur les listes électorales et avoir la nationalité d'un pays membre de l'UE (pas obligatoirement française)."
+      "explanation": "Pour voter, il faut avoir au moins 18 ans, habiter en France, être inscrit sur les listes électorales et avoir la nationalité d'un pays membre de l'UE (pas obligatoirement française).",
+      "questionEn": "What condition is needed to vote in European elections?",
+      "optionsEn": [
+        "Own a home in France",
+        "Be at least 18 years old the day before the first round",
+        "Must have French nationality",
+        "Speak three European languages fluently"
+      ],
+      "explanationEn": "To vote, you must be at least 18 years old, live in France, be registered on the electoral list, and have the nationality of an EU member country (not necessarily French)."
     },
     {
       "id": "cr-si-q2",
@@ -25,7 +33,15 @@
         "Le Royaume-Uni"
       ],
       "correctAnswer": 1,
-      "explanation": "L'Allemagne de l'Ouest fait partie des 6 pays fondateurs de la CEE (ancêtre de l'UE) en 1957, avec la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas."
+      "explanation": "L'Allemagne de l'Ouest fait partie des 6 pays fondateurs de la CEE (ancêtre de l'UE) en 1957, avec la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas.",
+      "questionEn": "Which country is a founding member of the European Union?",
+      "optionsEn": [
+        "Poland",
+        "West Germany",
+        "Spain",
+        "The United Kingdom"
+      ],
+      "explanationEn": "West Germany is one of the 6 founding countries of the EEC (the ancestor of the EU) in 1957, along with Belgium, France, Italy, Luxembourg, and the Netherlands."
     },
     {
       "id": "cr-si-q3",
@@ -37,7 +53,15 @@
         "Une Monarchie constitutionnelle"
       ],
       "correctAnswer": 2,
-      "explanation": "La France est une République (le pouvoir est exercé par des représentants élus) et une démocratie (le pouvoir vient du peuple via le vote)."
+      "explanation": "La France est une République (le pouvoir est exercé par des représentants élus) et une démocratie (le pouvoir vient du peuple via le vote).",
+      "questionEn": "What is the political system of France today?",
+      "optionsEn": [
+        "An Empire",
+        "A Dictatorship",
+        "A Democratic Republic",
+        "A Constitutional Monarchy"
+      ],
+      "explanationEn": "France is a Republic (power is held by elected representatives) and a democracy (power comes from the people through voting)."
     },
     {
       "id": "cr-si-q4",
@@ -49,7 +73,15 @@
         "Le siège de l'Assemblée nationale"
       ],
       "correctAnswer": 0,
-      "explanation": "Le Premier ministre réside et travaille à l'hôtel de Matignon, tandis que le président de la République réside au Palais de l'Élysée."
+      "explanation": "Le Premier ministre réside et travaille à l'hôtel de Matignon, tandis que le président de la République réside au Palais de l'Élysée.",
+      "questionEn": "What is the Hôtel de Matignon?",
+      "optionsEn": [
+        "The official residence of the Prime Minister",
+        "The official residence of the President of the Republic",
+        "The seat of the Senate",
+        "The seat of the National Assembly"
+      ],
+      "explanationEn": "The Prime Minister lives and works at the Hôtel de Matignon, while the President of the Republic lives at the Palais de l'Élysée (Élysée Palace)."
     },
     {
       "id": "cr-si-q5",
@@ -61,7 +93,15 @@
         "De l'Assemblée nationale et du Sénat"
       ],
       "correctAnswer": 3,
-      "explanation": "Le pouvoir législatif est exercé par le Parlement, qui est composé de deux chambres : l'Assemblée nationale (députés) et le Sénat (sénateurs)."
+      "explanation": "Le pouvoir législatif est exercé par le Parlement, qui est composé de deux chambres : l'Assemblée nationale (députés) et le Sénat (sénateurs).",
+      "questionEn": "The Parliament is made up of:",
+      "optionsEn": [
+        "The ministers and the President of the Republic",
+        "The Constitutional Council and the Council of State",
+        "Only the National Assembly",
+        "The National Assembly and the Senate"
+      ],
+      "explanationEn": "The legislative power is held by the Parliament, which is made up of two chambers: the Assemblée nationale (National Assembly, with deputies) and the Sénat (Senate, with senators)."
     },
     {
       "id": "cr-si-q6",
@@ -73,7 +113,15 @@
         "Il rend la justice dans les tribunaux"
       ],
       "correctAnswer": 2,
-      "explanation": "Le président de la République est le chef de l'État et des armées. Il nomme le Premier ministre et promulgue les lois votées par le Parlement."
+      "explanation": "Le président de la République est le chef de l'État et des armées. Il nomme le Premier ministre et promulgue les lois votées par le Parlement.",
+      "questionEn": "What is the role of the President of the Republic?",
+      "optionsEn": [
+        "He leads debates in the National Assembly",
+        "He votes on laws instead of the Parliament",
+        "He is the head of state and the armed forces, and signs laws into effect",
+        "He delivers justice in the courts"
+      ],
+      "explanationEn": "The President of the Republic is the head of state and the armed forces. He appoints the Prime Minister and signs into effect the laws voted by Parliament."
     },
     {
       "id": "cr-si-q7",
@@ -85,7 +133,15 @@
         "Il dirige le Gouvernement et conduit la politique de la Nation"
       ],
       "correctAnswer": 3,
-      "explanation": "Nommé par le président, le Premier ministre dirige le Gouvernement. Avec ses ministres, il conduit la politique nationale et fait appliquer les lois."
+      "explanation": "Nommé par le président, le Premier ministre dirige le Gouvernement. Avec ses ministres, il conduit la politique nationale et fait appliquer les lois.",
+      "questionEn": "What is the role of the Prime Minister?",
+      "optionsEn": [
+        "He is the head of the armed forces",
+        "He judges conflicts between citizens",
+        "He votes on laws in the Senate",
+        "He leads the Government and directs national policy"
+      ],
+      "explanationEn": "Appointed by the President, the Prime Minister leads the Government. Together with the ministers, he directs national policy and ensures laws are applied."
     },
     {
       "id": "cr-si-q8",
@@ -97,7 +153,15 @@
         "Le Premier ministre"
       ],
       "correctAnswer": 3,
-      "explanation": "C'est le Premier ministre qui dirige le Gouvernement. Le président de la République, lui, est le chef de l'État."
+      "explanation": "C'est le Premier ministre qui dirige le Gouvernement. Le président de la République, lui, est le chef de l'État.",
+      "questionEn": "Who is the head of the Government?",
+      "optionsEn": [
+        "The President of the National Assembly",
+        "The Minister of the Interior",
+        "The President of the Republic",
+        "The Prime Minister"
+      ],
+      "explanationEn": "It is the Prime Minister who leads the Government. The President of the Republic is the head of state."
     },
     {
       "id": "cr-si-q9",
@@ -108,7 +172,14 @@
         "Pour 6 ans"
       ],
       "correctAnswer": 2,
-      "explanation": "Les sénateurs sont élus pour une durée de 6 ans au suffrage universel indirect par les grands électeurs."
+      "explanation": "Les sénateurs sont élus pour une durée de 6 ans au suffrage universel indirect par les grands électeurs.",
+      "questionEn": "For how long are senators elected?",
+      "optionsEn": [
+        "For 5 years",
+        "For 10 years",
+        "For 6 years"
+      ],
+      "explanationEn": "Senators are elected for 6 years by indirect universal suffrage (they are chosen by elected officials called 'grands électeurs')."
     },
     {
       "id": "cr-si-q10",
@@ -119,7 +190,14 @@
         "Le pouvoir présidentiel, le pouvoir ministériel et le pouvoir local"
       ],
       "correctAnswer": 0,
-      "explanation": "En France, les trois pouvoirs séparés sont le législatif (vote la loi), l'exécutif (applique la loi) et le judiciaire (contrôle l'application de la loi)."
+      "explanation": "En France, les trois pouvoirs séparés sont le législatif (vote la loi), l'exécutif (applique la loi) et le judiciaire (contrôle l'application de la loi).",
+      "questionEn": "The separation of powers is a key principle. What are the three powers?",
+      "optionsEn": [
+        "The legislative power, the executive power, and the judicial authority",
+        "The political power, the economic power, and the media power",
+        "The presidential power, the ministerial power, and the local power"
+      ],
+      "explanationEn": "In France, the three separate powers are: legislative (makes the laws), executive (applies the laws), and judicial (checks that the laws are followed)."
     },
     {
       "id": "cr-si-q11",
@@ -130,7 +208,14 @@
         "Oui, mais seulement en temps de guerre"
       ],
       "correctAnswer": 1,
-      "explanation": "Non, dans un État de droit comme la France, les pouvoirs sont séparés. Le Président détient le pouvoir exécutif, mais ne détient ni le pouvoir législatif, ni l'autorité judiciaire."
+      "explanation": "Non, dans un État de droit comme la France, les pouvoirs sont séparés. Le Président détient le pouvoir exécutif, mais ne détient ni le pouvoir législatif, ni l'autorité judiciaire.",
+      "questionEn": "Does the President of the Republic have all the powers?",
+      "optionsEn": [
+        "Yes, because he is the head of state",
+        "No, because the powers are separated to prevent abuse",
+        "Yes, but only in times of war"
+      ],
+      "explanationEn": "No, in a country governed by the rule of law like France, the powers are separated. The President holds the executive power, but does not hold the legislative power or the judicial authority."
     },
     {
       "id": "cr-si-q12",
@@ -141,7 +226,14 @@
         "Le représentant de l'État dans le département"
       ],
       "correctAnswer": 2,
-      "explanation": "Le préfet est nommé par le Président de la République pour représenter l'État dans le département. Il dirige les services de l'État et veille au respect des lois."
+      "explanation": "Le préfet est nommé par le Président de la République pour représenter l'État dans le département. Il dirige les services de l'État et veille au respect des lois.",
+      "questionEn": "Who is the préfet (prefect)?",
+      "optionsEn": [
+        "The mayor of the largest city in the département",
+        "The head of judges in the département",
+        "The representative of the State in the département (department)"
+      ],
+      "explanationEn": "The préfet (prefect) is appointed by the President to represent the State in the département. He manages state services and ensures laws are respected."
     },
     {
       "id": "cr-si-q13",
@@ -152,7 +244,14 @@
         "Avoir un emploi stable"
       ],
       "correctAnswer": 0,
-      "explanation": "Pour voter, il faut obligatoirement être inscrit sur les listes électorales, en plus d'être majeur et de jouir de ses droits civils et politiques."
+      "explanation": "Pour voter, il faut obligatoirement être inscrit sur les listes électorales, en plus d'être majeur et de jouir de ses droits civils et politiques.",
+      "questionEn": "What condition is needed to vote in elections?",
+      "optionsEn": [
+        "Be registered on the electoral list",
+        "Own a home",
+        "Have a stable job"
+      ],
+      "explanationEn": "To vote, you must be registered on the electoral list, be at least 18 years old, and have your civil and political rights."
     },
     {
       "id": "cr-si-q14",
@@ -163,7 +262,14 @@
         "Le député"
       ],
       "correctAnswer": 0,
-      "explanation": "La commune est dirigée par le maire et le conseil municipal, qui sont élus par les citoyens lors des élections municipales pour un mandat de 6 ans."
+      "explanation": "La commune est dirigée par le maire et le conseil municipal, qui sont élus par les citoyens lors des élections municipales pour un mandat de 6 ans.",
+      "questionEn": "Who leads the commune (municipality)?",
+      "optionsEn": [
+        "The mayor and the municipal council members",
+        "The préfet (prefect)",
+        "The deputy (member of parliament)"
+      ],
+      "explanationEn": "The commune is led by the mayor and the municipal council, who are elected by citizens in municipal elections for a 6-year term."
     },
     {
       "id": "cr-si-q15",
@@ -175,7 +281,15 @@
         "2002"
       ],
       "correctAnswer": 0,
-      "explanation": "Le traité de Maastricht a été signé en 1992. Il marque la création officielle de l'Union européenne et permet la libre circulation des marchandises, des personnes et des capitaux."
+      "explanation": "Le traité de Maastricht a été signé en 1992. Il marque la création officielle de l'Union européenne et permet la libre circulation des marchandises, des personnes et des capitaux.",
+      "questionEn": "In what year was the Treaty of Maastricht, which marks the founding of the European Union, signed?",
+      "optionsEn": [
+        "1992",
+        "1957",
+        "2007",
+        "2002"
+      ],
+      "explanationEn": "The Treaty of Maastricht was signed in 1992. It marks the official creation of the European Union and allows the free movement of goods, people, and money."
     },
     {
       "id": "cr-si-q16",
@@ -187,7 +301,15 @@
         "À Bruxelles (Belgique)"
       ],
       "correctAnswer": 1,
-      "explanation": "Le siège officiel du Parlement européen est situé à Strasbourg, en France, même si certaines activités se déroulent aussi à Bruxelles et Luxembourg."
+      "explanation": "Le siège officiel du Parlement européen est situé à Strasbourg, en France, même si certaines activités se déroulent aussi à Bruxelles et Luxembourg.",
+      "questionEn": "Where is the seat of the European Parliament?",
+      "optionsEn": [
+        "In Luxembourg",
+        "In Strasbourg (France)",
+        "In Berlin (Germany)",
+        "In Brussels (Belgium)"
+      ],
+      "explanationEn": "The official seat of the European Parliament is in Strasbourg, France, although some activities also take place in Brussels and Luxembourg."
     },
     {
       "id": "cr-si-q17",
@@ -199,7 +321,15 @@
         "À Paris (France)"
       ],
       "correctAnswer": 2,
-      "explanation": "La Commission européenne, qui est l'organe exécutif de l'UE, a son siège principal à Bruxelles, en Belgique."
+      "explanation": "La Commission européenne, qui est l'organe exécutif de l'UE, a son siège principal à Bruxelles, en Belgique.",
+      "questionEn": "Where is the seat of the European Commission?",
+      "optionsEn": [
+        "In The Hague (Netherlands)",
+        "In Frankfurt (Germany)",
+        "In Brussels (Belgium)",
+        "In Paris (France)"
+      ],
+      "explanationEn": "The European Commission, which is the executive body of the EU, has its main headquarters in Brussels, Belgium."
     },
     {
       "id": "cr-si-q18",
@@ -211,7 +341,15 @@
         "L'Italie"
       ],
       "correctAnswer": 1,
-      "explanation": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020 suite au Brexit. C'est le premier pays à avoir quitté l'UE."
+      "explanation": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020 suite au Brexit. C'est le premier pays à avoir quitté l'UE.",
+      "questionEn": "Which country is NOT a member of the European Union?",
+      "optionsEn": [
+        "Poland",
+        "The United Kingdom",
+        "Germany",
+        "Italy"
+      ],
+      "explanationEn": "The United Kingdom left the European Union on 31 January 2020 because of Brexit. It is the first country to have left the EU."
     },
     {
       "id": "cr-si-q19",
@@ -223,7 +361,15 @@
         "Le 11 novembre"
       ],
       "correctAnswer": 0,
-      "explanation": "La journée de l'Europe est célébrée le 9 mai. Elle commémore la déclaration Schuman de 1950, considérée comme l'acte fondateur de la construction européenne."
+      "explanation": "La journée de l'Europe est célébrée le 9 mai. Elle commémore la déclaration Schuman de 1950, considérée comme l'acte fondateur de la construction européenne.",
+      "questionEn": "When is Europe Day celebrated?",
+      "optionsEn": [
+        "9 May",
+        "14 July",
+        "8 May",
+        "11 November"
+      ],
+      "explanationEn": "Europe Day is celebrated on 9 May. It remembers the Schuman Declaration of 1950, which is considered the founding act of the European project."
     },
     {
       "id": "cr-si-q20",
@@ -235,7 +381,15 @@
         "Tous les 5 ans"
       ],
       "correctAnswer": 3,
-      "explanation": "Les élections européennes ont lieu tous les 5 ans au suffrage universel direct pour élire les députés du Parlement européen."
+      "explanation": "Les élections européennes ont lieu tous les 5 ans au suffrage universel direct pour élire les députés du Parlement européen.",
+      "questionEn": "How often are European elections held?",
+      "optionsEn": [
+        "Every 6 years",
+        "Every 3 years",
+        "Every 7 years",
+        "Every 5 years"
+      ],
+      "explanationEn": "European elections take place every 5 years by direct universal vote to elect the members of the European Parliament."
     },
     {
       "id": "cr-si-q21",
@@ -247,7 +401,15 @@
         "Un système où le Président décide seul des lois"
       ],
       "correctAnswer": 0,
-      "explanation": "L'État de droit est un système où le droit est supérieur aux pouvoirs politiques. La loi s'impose à tous, aux citoyens comme à l'État."
+      "explanation": "L'État de droit est un système où le droit est supérieur aux pouvoirs politiques. La loi s'impose à tous, aux citoyens comme à l'État.",
+      "questionEn": "What is the État de droit (rule of law)?",
+      "optionsEn": [
+        "A system where the law is the same for everyone, including the State",
+        "A system where the police have all the powers",
+        "A system where judges are elected by the government",
+        "A system where the President alone decides the laws"
+      ],
+      "explanationEn": "The rule of law is a system where the law is above political power. The law applies to everyone, both citizens and the State itself."
     },
     {
       "id": "cr-si-q22",
@@ -259,7 +421,15 @@
         "Il choisit lui-même sa punition"
       ],
       "correctAnswer": 2,
-      "explanation": "Dans un État de droit, le principe d'égalité devant la loi signifie que tout le monde est soumis aux mêmes lois, qu'il soit politicien ou pas."
+      "explanation": "Dans un État de droit, le principe d'égalité devant la loi signifie que tout le monde est soumis aux mêmes lois, qu'il soit politicien ou pas.",
+      "questionEn": "The President of the Republic has committed a crime. Which statement is correct?",
+      "optionsEn": [
+        "He is judged by the people directly",
+        "He cannot be judged because he is the head of state",
+        "He is subject to the same laws as other citizens",
+        "He chooses his own punishment"
+      ],
+      "explanationEn": "Under the rule of law, the principle of equality before the law means that everyone must follow the same laws, whether they are a politician or not."
     },
     {
       "id": "cr-si-q23",
@@ -270,7 +440,14 @@
         "La volonté du Président"
       ],
       "correctAnswer": 1,
-      "explanation": "Comme l'indique le contenu sur la validation de la loi, la loi est considérée comme l'expression de la volonté générale du peuple."
+      "explanation": "Comme l'indique le contenu sur la validation de la loi, la loi est considérée comme l'expression de la volonté générale du peuple.",
+      "questionEn": "The law is the expression of:",
+      "optionsEn": [
+        "The will of the judges",
+        "The general will (the will of the people)",
+        "The will of the President"
+      ],
+      "explanationEn": "The law is considered to be the expression of the general will of the people. This means it represents what the people want."
     },
     {
       "id": "cr-si-q24",
@@ -281,7 +458,14 @@
         "5 ans"
       ],
       "correctAnswer": 0,
-      "explanation": "Les élus municipaux (le maire et les conseillers municipaux) sont élus pour une durée de 6 ans lors des élections municipales."
+      "explanation": "Les élus municipaux (le maire et les conseillers municipaux) sont élus pour une durée de 6 ans lors des élections municipales.",
+      "questionEn": "How long is the term of the municipal council and the mayor?",
+      "optionsEn": [
+        "6 years",
+        "7 years",
+        "5 years"
+      ],
+      "explanationEn": "Municipal officials (the mayor and council members) are elected for 6 years in municipal elections."
     },
     {
       "id": "cr-si-q25",
@@ -292,7 +476,14 @@
         "L'absence totale de règles pour les citoyens"
       ],
       "correctAnswer": 1,
-      "explanation": "L'État de droit garantit le respect des droits fondamentaux et protège contre l'arbitraire, ce qui est une condition essentielle de la démocratie."
+      "explanation": "L'État de droit garantit le respect des droits fondamentaux et protège contre l'arbitraire, ce qui est une condition essentielle de la démocratie.",
+      "questionEn": "What does the rule of law guarantee?",
+      "optionsEn": [
+        "The absolute power of the government",
+        "The respect of fundamental rights and democracy",
+        "No rules at all for citizens"
+      ],
+      "explanationEn": "The rule of law guarantees the respect of fundamental rights and protects against abuse of power, which is essential for democracy."
     },
     {
       "id": "cr-si-q26",
@@ -303,7 +494,14 @@
         "Non, jamais, le vote est strictement personnel"
       ],
       "correctAnswer": 0,
-      "explanation": "Bien que le vote soit personnel, il est possible de voter pour une autre personne si elle a établi une procuration de vote officielle."
+      "explanation": "Bien que le vote soit personnel, il est possible de voter pour une autre personne si elle a établi une procuration de vote officielle.",
+      "questionEn": "Can a person vote on behalf of another person?",
+      "optionsEn": [
+        "Yes, only if that person has given an official proxy (procuration)",
+        "Yes, you can always vote for a family member",
+        "No, never, voting is strictly personal"
+      ],
+      "explanationEn": "Although voting is personal, it is possible to vote for another person if they have set up an official voting proxy (procuration)."
     },
     {
       "id": "cr-si-q27",
@@ -315,7 +513,15 @@
         "Le traité de l'Élysée"
       ],
       "correctAnswer": 2,
-      "explanation": "Signé en 1992, le traité de Maastricht a officiellement créé l'Union européenne (UE) et a permis la libre circulation des personnes."
+      "explanation": "Signé en 1992, le traité de Maastricht a officiellement créé l'Union européenne (UE) et a permis la libre circulation des personnes.",
+      "questionEn": "Which treaty is about the creation of the European Union?",
+      "optionsEn": [
+        "The Treaty of Verdun",
+        "The Treaty of Versailles",
+        "The Treaty of Maastricht",
+        "The Élysée Treaty"
+      ],
+      "explanationEn": "Signed in 1992, the Treaty of Maastricht officially created the European Union (EU) and allowed free movement of people."
     },
     {
       "id": "cr-si-q28",
@@ -327,7 +533,15 @@
         "L'Allemagne"
       ],
       "correctAnswer": 2,
-      "explanation": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020. C'est le premier pays à le faire (le Brexit)."
+      "explanation": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020. C'est le premier pays à le faire (le Brexit).",
+      "questionEn": "Which country left the European Union in 2020?",
+      "optionsEn": [
+        "Switzerland",
+        "Greece",
+        "The United Kingdom",
+        "Germany"
+      ],
+      "explanationEn": "The United Kingdom left the European Union on 31 January 2020. It was the first country to do so (Brexit)."
     },
     {
       "id": "cr-si-q29",
@@ -339,7 +553,15 @@
         "« Unie dans la diversité »"
       ],
       "correctAnswer": 3,
-      "explanation": "La devise « Unie dans la diversité » est utilisée depuis 2000 pour illustrer la coopération entre les pays malgré leurs différences culturelles."
+      "explanation": "La devise « Unie dans la diversité » est utilisée depuis 2000 pour illustrer la coopération entre les pays malgré leurs différences culturelles.",
+      "questionEn": "What is the motto of the European Union?",
+      "optionsEn": [
+        "\"One for all, all for one\"",
+        "\"Liberté, Égalité, Fraternité (Liberty, Equality, Fraternity)\"",
+        "\"Unity makes strength\"",
+        "\"United in diversity\""
+      ],
+      "explanationEn": "The motto \"United in diversity\" has been used since 2000 to show that EU countries work together despite their cultural differences."
     },
     {
       "id": "cr-si-q30",
@@ -351,7 +573,15 @@
         "La Marseillaise"
       ],
       "correctAnswer": 2,
-      "explanation": "L'hymne européen est l'« Ode à la joie », une mélodie tirée de la 9ème symphonie de Ludwig van Beethoven. Il symbolise la liberté, la paix et la solidarité."
+      "explanation": "L'hymne européen est l'« Ode à la joie », une mélodie tirée de la 9ème symphonie de Ludwig van Beethoven. Il symbolise la liberté, la paix et la solidarité.",
+      "questionEn": "What is the anthem of the European Union?",
+      "optionsEn": [
+        "Le Chant des Partisans (The Partisan's Song)",
+        "God Save the King",
+        "Ode to Joy",
+        "La Marseillaise"
+      ],
+      "explanationEn": "The European anthem is the \"Ode to Joy,\" a melody from the 9th Symphony by Ludwig van Beethoven. It represents freedom, peace, and solidarity."
     },
     {
       "id": "cr-si-q31",
@@ -363,7 +593,15 @@
         "De bandes verticales bleues et jaunes"
       ],
       "correctAnswer": 1,
-      "explanation": "Le drapeau est composé d'un cercle de douze étoiles. Ce nombre est invariable et symbolise la perfection, l'unité et l'harmonie, et non le nombre de pays membres."
+      "explanation": "Le drapeau est composé d'un cercle de douze étoiles. Ce nombre est invariable et symbolise la perfection, l'unité et l'harmonie, et non le nombre de pays membres.",
+      "questionEn": "What does the European flag look like?",
+      "optionsEn": [
+        "As many stars as there are member countries",
+        "A circle of 12 golden stars",
+        "A white dove in the center",
+        "Vertical blue and yellow stripes"
+      ],
+      "explanationEn": "The flag has a circle of twelve stars. This number never changes and represents perfection, unity, and harmony — not the number of member countries."
     },
     {
       "id": "cr-si-q32",
@@ -375,7 +613,15 @@
         "Blanc avec des étoiles bleues"
       ],
       "correctAnswer": 2,
-      "explanation": "Le drapeau européen représente un cercle de douze étoiles jaunes sur un fond bleu."
+      "explanation": "Le drapeau européen représente un cercle de douze étoiles jaunes sur un fond bleu.",
+      "questionEn": "What color is the European flag?",
+      "optionsEn": [
+        "Blue with white stars",
+        "Red with yellow stars",
+        "Blue with yellow stars",
+        "White with blue stars"
+      ],
+      "explanationEn": "The European flag is a circle of twelve yellow stars on a blue background."
     },
     {
       "id": "cr-si-q33",
@@ -387,7 +633,15 @@
         "Pour que le Gouvernement puisse contrôler les juges et les tribunaux"
       ],
       "correctAnswer": 1,
-      "explanation": "La séparation des pouvoirs (législatif, exécutif, judiciaire) permet un équilibre où les pouvoirs se contrôlent mutuellement, garantissant ainsi la démocratie et les droits des citoyens."
+      "explanation": "La séparation des pouvoirs (législatif, exécutif, judiciaire) permet un équilibre où les pouvoirs se contrôlent mutuellement, garantissant ainsi la démocratie et les droits des citoyens.",
+      "questionEn": "Why separate the three powers in a democracy?",
+      "optionsEn": [
+        "To allow the President to decide laws alone",
+        "To guarantee fundamental rights and prevent one authority from using power unfairly",
+        "To simplify the country's administrative organization",
+        "To allow the Government to control judges and courts"
+      ],
+      "explanationEn": "The separation of powers (legislative, executive, judicial) creates a balance where each power checks the others, thus protecting democracy and the rights of citizens."
     },
     {
       "id": "cr-si-q34",
@@ -399,7 +653,15 @@
         "Le maire de la commune"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est l'autorité judiciaire, et plus précisément la justice pénale, qui est chargée de punir les infractions à la loi commises par les citoyens, comme le vol."
+      "explanation": "C'est l'autorité judiciaire, et plus précisément la justice pénale, qui est chargée de punir les infractions à la loi commises par les citoyens, comme le vol.",
+      "questionEn": "Who punishes someone who commits a theft?",
+      "optionsEn": [
+        "The administrative court",
+        "The local deputy (member of parliament)",
+        "The criminal justice system (judges and magistrates)",
+        "The mayor of the municipality"
+      ],
+      "explanationEn": "It is the judicial authority, specifically the criminal justice system, that is responsible for punishing offenses like theft."
     },
     {
       "id": "cr-si-q35",
@@ -411,7 +673,15 @@
         "Il conduit la politique nationale et fait appliquer les lois"
       ],
       "correctAnswer": 3,
-      "explanation": "Le Gouvernement (Premier ministre et ministres) détient le pouvoir exécutif : il dirige l'administration, conduit la politique de la nation et s'assure que les lois votées sont respectées."
+      "explanation": "Le Gouvernement (Premier ministre et ministres) détient le pouvoir exécutif : il dirige l'administration, conduit la politique de la nation et s'assure que les lois votées sont respectées.",
+      "questionEn": "What is the role of the government?",
+      "optionsEn": [
+        "It changes the Constitution as it wishes",
+        "It votes on laws in the National Assembly",
+        "It delivers justice and punishes offenses",
+        "It directs national policy and ensures laws are applied"
+      ],
+      "explanationEn": "The Government (Prime Minister and ministers) holds the executive power: it manages the administration, directs national policy, and ensures the laws are followed."
     },
     {
       "id": "cr-si-q36",
@@ -423,7 +693,15 @@
         "Il ne peut pas être jugé car il représente l'État"
       ],
       "correctAnswer": 1,
-      "explanation": "Dans un État de droit, l'égalité devant la loi s'applique à tous. Un ministre n'est pas au-dessus des lois et peut être sanctionné par la justice s'il commet une infraction."
+      "explanation": "Dans un État de droit, l'égalité devant la loi s'applique à tous. Un ministre n'est pas au-dessus des lois et peut être sanctionné par la justice s'il commet une infraction.",
+      "questionEn": "What happens if a minister does not follow the law?",
+      "optionsEn": [
+        "He is protected by the President and faces no consequences",
+        "He can be punished like any other citizen",
+        "He only has to pay a small fine",
+        "He cannot be judged because he represents the State"
+      ],
+      "explanationEn": "Under the rule of law, equality before the law applies to everyone. A minister is not above the law and can be punished by the justice system if they commit an offense."
     },
     {
       "id": "cr-si-q37",
@@ -435,7 +713,15 @@
         "101 députés"
       ],
       "correctAnswer": 2,
-      "explanation": "L'Assemblée nationale est composée de 577 députés élus au suffrage universel direct par les citoyens français."
+      "explanation": "L'Assemblée nationale est composée de 577 députés élus au suffrage universel direct par les citoyens français.",
+      "questionEn": "How many deputies are in the National Assembly?",
+      "optionsEn": [
+        "348 deputies",
+        "81 deputies",
+        "577 deputies",
+        "101 deputies"
+      ],
+      "explanationEn": "The National Assembly has 577 deputies elected by direct universal vote by French citizens."
     },
     {
       "id": "cr-si-q38",
@@ -447,7 +733,15 @@
         "Uniquement les personnes qui paient des impôts"
       ],
       "correctAnswer": 1,
-      "explanation": "Le droit de vote est accordé aux citoyens de nationalité française, âgés de plus de 18 ans, jouissant de leurs droits civils et politiques, et inscrits sur les listes électorales."
+      "explanation": "Le droit de vote est accordé aux citoyens de nationalité française, âgés de plus de 18 ans, jouissant de leurs droits civils et politiques, et inscrits sur les listes électorales.",
+      "questionEn": "Who can vote in elections in France?",
+      "optionsEn": [
+        "Anyone who has lived in France for more than 5 years",
+        "French citizens who are 18 or older, registered on the electoral list, and have their civil rights",
+        "French citizens from the age of 16",
+        "Only people who pay taxes"
+      ],
+      "explanationEn": "The right to vote is given to French citizens who are over 18, have their civil and political rights, and are registered on the electoral list."
     },
     {
       "id": "cr-si-q39",
@@ -458,7 +752,14 @@
         "Oui, c'est une obligation pour tous les citoyens"
       ],
       "correctAnswer": 0,
-      "explanation": "En France, le vote n'est pas obligatoire. C'est un droit fondamental et civique, mais ce n'est pas un devoir sanctionné par la loi."
+      "explanation": "En France, le vote n'est pas obligatoire. C'est un droit fondamental et civique, mais ce n'est pas un devoir sanctionné par la loi.",
+      "questionEn": "Is voting mandatory?",
+      "optionsEn": [
+        "No, it is a right, not a duty",
+        "Only for presidential elections",
+        "Yes, it is an obligation for all citizens"
+      ],
+      "explanationEn": "In France, voting is not mandatory. It is a fundamental civic right, but it is not a legal obligation."
     },
     {
       "id": "cr-si-q40",
@@ -469,7 +770,14 @@
         "Oui, s'il estime que le pays a besoin de lui"
       ],
       "correctAnswer": 0,
-      "explanation": "La France est une démocratie, pas une dictature. Le pouvoir vient du peuple : pour rester au pouvoir, le Président doit être réélu au suffrage universel."
+      "explanation": "La France est une démocratie, pas une dictature. Le pouvoir vient du peuple : pour rester au pouvoir, le Président doit être réélu au suffrage universel.",
+      "questionEn": "At the end of his term, can the President decide to stay in power?",
+      "optionsEn": [
+        "No, he must run in elections to be re-elected",
+        "Yes, but only with the agreement of the Prime Minister",
+        "Yes, if he thinks the country needs him"
+      ],
+      "explanationEn": "France is a democracy, not a dictatorship. Power comes from the people: to stay in power, the President must be re-elected by universal vote."
     },
     {
       "id": "cr-si-q41",
@@ -480,7 +788,14 @@
         "Le ministre de la Justice"
       ],
       "correctAnswer": 0,
-      "explanation": "C'est le Premier ministre qui est le chef du Gouvernement. Il dirige l'action des ministres, tandis que le président de la République est le chef de l'État."
+      "explanation": "C'est le Premier ministre qui est le chef du Gouvernement. Il dirige l'action des ministres, tandis que le président de la République est le chef de l'État.",
+      "questionEn": "Who leads the Government's actions?",
+      "optionsEn": [
+        "The Prime Minister",
+        "The President of the Senate",
+        "The Minister of Justice"
+      ],
+      "explanationEn": "It is the Prime Minister who is the head of the Government. He leads the ministers, while the President of the Republic is the head of state."
     },
     {
       "id": "cr-si-q42",
@@ -491,7 +806,14 @@
         "Le président de la République"
       ],
       "correctAnswer": 2,
-      "explanation": "Le président de la République nomme le Premier ministre, en tenant compte de la majorité politique à l'Assemblée nationale."
+      "explanation": "Le président de la République nomme le Premier ministre, en tenant compte de la majorité politique à l'Assemblée nationale.",
+      "questionEn": "Who appoints the Prime Minister?",
+      "optionsEn": [
+        "The citizens directly through a vote",
+        "The President of the National Assembly",
+        "The President of the Republic"
+      ],
+      "explanationEn": "The President of the Republic appoints the Prime Minister, taking into account the political majority in the National Assembly."
     },
     {
       "id": "cr-si-q43",
@@ -502,7 +824,14 @@
         "Tout est décidé uniquement par l'État central à Paris"
       ],
       "correctAnswer": 1,
-      "explanation": "L'organisation est décentralisée : l'État transfère des compétences aux collectivités territoriales (communes, départements, régions) pour gérer les affaires locales."
+      "explanation": "L'organisation est décentralisée : l'État transfère des compétences aux collectivités territoriales (communes, départements, régions) pour gérer les affaires locales.",
+      "questionEn": "What is the administrative organization of France?",
+      "optionsEn": [
+        "France is divided into independent states like the United States",
+        "The State shares its responsibilities with communes, départements, and regions",
+        "Everything is decided only by the central State in Paris"
+      ],
+      "explanationEn": "The organization is decentralized: the State transfers some responsibilities to local authorities (communes, départements, regions) to manage local matters."
     },
     {
       "id": "cr-si-q44",
@@ -513,7 +842,14 @@
         "De voter la loi"
       ],
       "correctAnswer": 2,
-      "explanation": "Le pouvoir législatif, exercé par le Parlement (Assemblée nationale et Sénat), consiste à proposer, discuter et voter les lois."
+      "explanation": "Le pouvoir législatif, exercé par le Parlement (Assemblée nationale et Sénat), consiste à proposer, discuter et voter les lois.",
+      "questionEn": "What is the legislative power? The power to:",
+      "optionsEn": [
+        "Apply the law",
+        "Punish people who do not follow the law",
+        "Vote on and pass laws"
+      ],
+      "explanationEn": "The legislative power, held by the Parliament (National Assembly and Senate), is about proposing, discussing, and voting on laws."
     },
     {
       "id": "cr-si-q45",
@@ -525,7 +861,15 @@
         "13 régions"
       ],
       "correctAnswer": 1,
-      "explanation": "La France compte 18 régions au total : 13 régions en métropole et 5 régions d'Outre-mer."
+      "explanation": "La France compte 18 régions au total : 13 régions en métropole et 5 régions d'Outre-mer.",
+      "questionEn": "How many regions are there in France?",
+      "optionsEn": [
+        "101 regions",
+        "18 regions",
+        "22 regions",
+        "13 regions"
+      ],
+      "explanationEn": "France has 18 regions in total: 13 in mainland France and 5 overseas regions."
     },
     {
       "id": "cr-si-q46",
@@ -537,7 +881,15 @@
         "Il défend les droits des citoyens face à l'administration et lutte contre les discriminations"
       ],
       "correctAnswer": 3,
-      "explanation": "C'est une autorité administrative indépendante chargée de défendre les droits et libertés des citoyens, notamment face aux administrations."
+      "explanation": "C'est une autorité administrative indépendante chargée de défendre les droits et libertés des citoyens, notamment face aux administrations.",
+      "questionEn": "What is the role of the Défenseur des droits (Defender of Rights)?",
+      "optionsEn": [
+        "He leads the national police and the gendarmerie",
+        "He votes on laws instead of deputies",
+        "He is the personal lawyer of the President",
+        "He defends citizens' rights against the administration and fights discrimination"
+      ],
+      "explanationEn": "The Défenseur des droits is an independent authority that protects the rights and freedoms of citizens, especially when dealing with government services."
     },
     {
       "id": "cr-si-q47",
@@ -549,7 +901,15 @@
         "Depuis 1957 (Traité de Rome)"
       ],
       "correctAnswer": 0,
-      "explanation": "Bien que créée virtuellement avant, l'euro a été mis en circulation sous forme de pièces et de billets pour le grand public en 2002."
+      "explanation": "Bien que créée virtuellement avant, l'euro a été mis en circulation sous forme de pièces et de billets pour le grand public en 2002.",
+      "questionEn": "Since when has the euro been the single currency?",
+      "optionsEn": [
+        "Since 2002 (coins and banknotes entered circulation)",
+        "Since 1992 (Treaty of Maastricht)",
+        "Since 2010 (Treaty of Lisbon)",
+        "Since 1957 (Treaty of Rome)"
+      ],
+      "explanationEn": "Although created as a virtual currency earlier, the euro was introduced as coins and banknotes for the public in 2002."
     },
     {
       "id": "cr-si-q48",
@@ -561,7 +921,15 @@
         "La gestion des écoles maternelles et l'urbanisme"
       ],
       "correctAnswer": 2,
-      "explanation": "Le département est chef de file de l'action sociale et s'occupe de l'entretien et de la gestion des collèges."
+      "explanation": "Le département est chef de file de l'action sociale et s'occupe de l'entretien et de la gestion des collèges.",
+      "questionEn": "What is the main role of the département (department)?",
+      "optionsEn": [
+        "National defense and diplomacy",
+        "Managing high schools and economic development",
+        "Social services (RSA welfare, disability support) and managing middle schools (collèges)",
+        "Managing nursery schools and urban planning"
+      ],
+      "explanationEn": "The département leads social services and manages middle schools (collèges)."
     },
     {
       "id": "cr-si-q49",
@@ -573,7 +941,15 @@
         "Gérer les écoles primaires, l'urbanisme et les services de proximité"
       ],
       "correctAnswer": 3,
-      "explanation": "La commune s'occupe des services de proximité, de l'état civil, de l'urbanisme et de la gestion des écoles maternelles et élémentaires."
+      "explanation": "La commune s'occupe des services de proximité, de l'état civil, de l'urbanisme et de la gestion des écoles maternelles et élémentaires.",
+      "questionEn": "What is the main role of communes (municipalities)?",
+      "optionsEn": [
+        "Vote on national laws",
+        "Manage RSA welfare payments and middle schools",
+        "Manage high schools and professional training",
+        "Manage primary schools, urban planning, and local services"
+      ],
+      "explanationEn": "The commune handles local services, civil registry, urban planning, and manages nursery and primary schools."
     },
     {
       "id": "cr-si-q50",
@@ -585,7 +961,17 @@
         "Environ 3 500"
       ],
       "correctAnswer": 0,
-      "explanation": "La France compte environ 35 000 communes (34 875 exactement selon les derniers chiffres), ce qui est un nombre très élevé par rapport à ses voisins européens."
+      "explanation": "La France compte environ 35 000 communes (34 875 exactement selon les derniers chiffres), ce qui est un nombre très élevé par rapport à ses voisins européens.",
+      "questionEn": "Approximately how many communes are there in France?",
+      "optionsEn": [
+        "About 35,000",
+        "About 10,000",
+        "About 100,000",
+        "About 3,500"
+      ],
+      "explanationEn": "France has about 35,000 communes (exactly 34,875 according to the latest figures), which is very high compared to other European countries."
     }
-  ]
+  ],
+  "titleEn": "CR - Institutional and Political System",
+  "descriptionEn": "Official CR (Carte de Résident / Resident Card) quiz – Institutional and political system. Official exam questions."
 }

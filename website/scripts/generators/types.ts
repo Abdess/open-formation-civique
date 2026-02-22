@@ -22,9 +22,12 @@ export interface ContentPage {
 
 export interface Question {
   question: string;
+  questionEn?: string;
   options: string[];
+  optionsEn?: string[];
   correctAnswer: number;
   explanation: string;
+  explanationEn?: string;
 }
 
 export interface CrawlerData {

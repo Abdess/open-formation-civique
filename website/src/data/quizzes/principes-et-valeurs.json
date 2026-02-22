@@ -1,7 +1,7 @@
 {
   "id": "principes-et-valeurs",
   "title": "Principes et valeurs de la République",
-  "description": "Testez vos connaissances : Devise et symboles de la République • Laïcité",
+  "description": "Quiz – Devise et symboles de la République • Laïcité. Testez vos connaissances avec des questions générées à partir des fiches thématiques officielles.",
   "questions": [
     {
       "id": "pv-q1",
@@ -13,7 +13,15 @@
         "Justice, Paix, Sécurité"
       ],
       "correctAnswer": 1,
-      "explanation": "La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales auxquelles les Français sont attachés."
+      "explanation": "La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales auxquelles les Français sont attachés.",
+      "questionEn": "What is the official motto of the French Republic?",
+      "optionsEn": [
+        "Work, Family, Homeland",
+        "Liberté, Égalité, Fraternité (Liberty, Equality, Fraternity)",
+        "Unity, Indivisibility, Solidarity",
+        "Justice, Peace, Security"
+      ],
+      "explanationEn": "The motto of the French Republic is 'Liberté, Égalité, Fraternité' (Liberty, Equality, Fraternity). It expresses the fundamental values that the French hold dear."
     },
     {
       "id": "pv-q2",
@@ -25,7 +33,15 @@
         "Depuis 2000"
       ],
       "correctAnswer": 1,
-      "explanation": "Bien qu'apparue pendant la Révolution de 1789, la devise a été adoptée officiellement en 1848 sous la IIe République."
+      "explanation": "Bien qu'apparue pendant la Révolution de 1789, la devise a été adoptée officiellement en 1848 sous la IIe République.",
+      "questionEn": "Since when has the motto 'Liberté, Égalité, Fraternité' been official in France?",
+      "optionsEn": [
+        "Since 1789",
+        "Since 1848",
+        "Since 1958",
+        "Since 2000"
+      ],
+      "explanationEn": "Although it appeared during the Revolution of 1789, the motto was officially adopted in 1848 under the Second Republic."
     },
     {
       "id": "pv-q3",
@@ -37,7 +53,15 @@
         "Sur les façades des magasins privés"
       ],
       "correctAnswer": 2,
-      "explanation": "La devise est visible sur les bâtiments publics (mairies, écoles, tribunaux), ainsi que sur les pièces de monnaie, les timbres et les documents officiels."
+      "explanation": "La devise est visible sur les bâtiments publics (mairies, écoles, tribunaux), ainsi que sur les pièces de monnaie, les timbres et les documents officiels.",
+      "questionEn": "Where can you see the French motto today?",
+      "optionsEn": [
+        "Only in museums",
+        "Only on coins",
+        "On public buildings such as town halls and schools",
+        "On the facades of private shops"
+      ],
+      "explanationEn": "The motto is visible on public buildings (town halls, schools, courts), as well as on coins, stamps, and official documents."
     },
     {
       "id": "pv-q4",
@@ -49,7 +73,15 @@
         "L'obligation d'avoir des frères et sœurs"
       ],
       "correctAnswer": 2,
-      "explanation": "Dans la devise républicaine, la fraternité désigne la solidarité et le lien qui unit les citoyens entre eux."
+      "explanation": "Dans la devise républicaine, la fraternité désigne la solidarité et le lien qui unit les citoyens entre eux.",
+      "questionEn": "What does the value of 'Fraternité' (Fraternity) mean in the motto?",
+      "optionsEn": [
+        "The freedom for everyone to do what they want",
+        "Equal wages for everyone",
+        "Solidarity among citizens",
+        "The obligation to have brothers and sisters"
+      ],
+      "explanationEn": "In the republican motto, Fraternité (fraternity) means solidarity and the bond that unites citizens with each other."
     },
     {
       "id": "pv-q5",
@@ -61,7 +93,15 @@
         "La limite est de ne pas sortir de sa ville."
       ],
       "correctAnswer": 1,
-      "explanation": "En France, on est libre de penser et d'agir tant que cela ne nuit pas à la liberté des autres."
+      "explanation": "En France, on est libre de penser et d'agir tant que cela ne nuit pas à la liberté des autres.",
+      "questionEn": "What is the only limit to freedom in France?",
+      "optionsEn": [
+        "There is no limit, you can do anything.",
+        "The limit is not to prevent others from being free.",
+        "The limit is not to criticise the government.",
+        "The limit is not to leave your city."
+      ],
+      "explanationEn": "In France, you are free to think and act as long as it does not harm the freedom of others."
     },
     {
       "id": "pv-q6",
@@ -73,7 +113,15 @@
         "Bloquer la circulation des voitures."
       ],
       "correctAnswer": 2,
-      "explanation": "Avoir ou ne pas avoir une religion est une liberté personnelle, tout comme se déplacer ou exprimer son opinion."
+      "explanation": "Avoir ou ne pas avoir une religion est une liberté personnelle, tout comme se déplacer ou exprimer son opinion.",
+      "questionEn": "Which of these examples is an individual freedom (for one person)?",
+      "optionsEn": [
+        "Protesting in the street with a group.",
+        "Joining a trade union.",
+        "Choosing your religion or not having one.",
+        "Blocking car traffic."
+      ],
+      "explanationEn": "Having or not having a religion is a personal freedom, just like moving around or expressing your opinion."
     },
     {
       "id": "pv-q7",
@@ -85,7 +133,15 @@
         "Seulement les personnes qui paient des impôts."
       ],
       "correctAnswer": 1,
-      "explanation": "La liberté est un droit pour tous, peu importe le pays d'origine, les ancêtres ou la religion."
+      "explanation": "La liberté est un droit pour tous, peu importe le pays d'origine, les ancêtres ou la religion.",
+      "questionEn": "Who has the right to freedom in France?",
+      "optionsEn": [
+        "Only people born in France.",
+        "Everyone, regardless of origin or religion.",
+        "Only people who work.",
+        "Only people who pay taxes."
+      ],
+      "explanationEn": "Freedom is a right for everyone, regardless of country of origin, ancestors, or religion."
     },
     {
       "id": "pv-q8",
@@ -97,7 +153,15 @@
         "Noir, jaune, rouge"
       ],
       "correctAnswer": 1,
-      "explanation": "Le drapeau français est composé de trois bandes verticales : bleu, blanc et rouge."
+      "explanation": "Le drapeau français est composé de trois bandes verticales : bleu, blanc et rouge.",
+      "questionEn": "What are the three colours of the French flag?",
+      "optionsEn": [
+        "Green, white, red",
+        "Blue, white, red",
+        "Blue, yellow, red",
+        "Black, yellow, red"
+      ],
+      "explanationEn": "The French flag is made up of three vertical stripes: blue, white, and red."
     },
     {
       "id": "pv-q9",
@@ -109,7 +173,15 @@
         "Elles ont été choisies au hasard par le général Lafayette."
       ],
       "correctAnswer": 2,
-      "explanation": "Le bleu et le rouge étaient les couleurs de Paris, et le blanc celle du roi. Leur union symbolisait l'alliance entre le roi et le peuple."
+      "explanation": "Le bleu et le rouge étaient les couleurs de Paris, et le blanc celle du roi. Leur union symbolisait l'alliance entre le roi et le peuple.",
+      "questionEn": "What is the historical origin of the colours of the French flag?",
+      "optionsEn": [
+        "They represent the three oceans around France.",
+        "They symbolise liberty, equality, and fraternity.",
+        "They combine the white of the King and the blue and red colours of the city of Paris.",
+        "They were chosen at random by General Lafayette."
+      ],
+      "explanationEn": "Blue and red were the colours of Paris, and white was the colour of the King. Their combination symbolised the alliance between the King and the people."
     },
     {
       "id": "pv-q10",
@@ -121,7 +193,15 @@
         "Exclusivement sur les bateaux de la marine."
       ],
       "correctAnswer": 2,
-      "explanation": "Le drapeau est visible devant les bâtiments publics (mairies, écoles, préfectures), lors des cérémonies et sur les documents officiels."
+      "explanation": "Le drapeau est visible devant les bâtiments publics (mairies, écoles, préfectures), lors des cérémonies et sur les documents officiels.",
+      "questionEn": "Where can you see the French flag today?",
+      "optionsEn": [
+        "Only in museums.",
+        "Only on 14 July.",
+        "In front of public buildings such as town halls and schools.",
+        "Only on navy ships."
+      ],
+      "explanationEn": "The flag is visible in front of public buildings (town halls, schools, prefectures), during ceremonies, and on official documents."
     },
     {
       "id": "pv-q11",
@@ -133,7 +213,15 @@
         "Non, sauf pendant les compétitions sportives."
       ],
       "correctAnswer": 1,
-      "explanation": "Il est strictement interdit de faire outrage au drapeau français, c'est-à-dire de le détruire ou de l'utiliser de manière dégradante en public."
+      "explanation": "Il est strictement interdit de faire outrage au drapeau français, c'est-à-dire de le détruire ou de l'utiliser de manière dégradante en public.",
+      "questionEn": "Is it allowed to destroy the French flag in public?",
+      "optionsEn": [
+        "Yes, it is a form of freedom of expression.",
+        "No, it is forbidden to show disrespect to the French flag.",
+        "Yes, but only if it is old.",
+        "No, except during sports competitions."
+      ],
+      "explanationEn": "It is strictly forbidden to show disrespect to the French flag, meaning to destroy it or use it in a degrading way in public."
     },
     {
       "id": "pv-q12",
@@ -145,7 +233,15 @@
         "Le Chant de la Liberté"
       ],
       "correctAnswer": 1,
-      "explanation": "L'hymne national français s'appelle La Marseillaise. Il a été déclaré chant national pour la première fois en 1795."
+      "explanation": "L'hymne national français s'appelle La Marseillaise. Il a été déclaré chant national pour la première fois en 1795.",
+      "questionEn": "What is the title of France's national anthem?",
+      "optionsEn": [
+        "The Song of the Rhine",
+        "La Marseillaise",
+        "La Parisienne",
+        "The Song of Liberty"
+      ],
+      "explanationEn": "The French national anthem is called La Marseillaise. It was first declared the national song in 1795."
     },
     {
       "id": "pv-q13",
@@ -157,7 +253,15 @@
         "Pour inaugurer la ville de Marseille"
       ],
       "correctAnswer": 1,
-      "explanation": "Ce chant a été composé en 1792 comme un 'Chant de guerre pour l'armée du Rhin' afin de soutenir les soldats français."
+      "explanation": "Ce chant a été composé en 1792 comme un 'Chant de guerre pour l'armée du Rhin' afin de soutenir les soldats français.",
+      "questionEn": "Originally, why was this song composed in 1792?",
+      "optionsEn": [
+        "To celebrate peace with Austria",
+        "To support soldiers during a war",
+        "For the King's birthday",
+        "To inaugurate the city of Marseille"
+      ],
+      "explanationEn": "This song was composed in 1792 as a 'War Song for the Army of the Rhine' to support French soldiers."
     },
     {
       "id": "pv-q14",
@@ -169,7 +273,15 @@
         "À chaque début de journée dans toutes les entreprises"
       ],
       "correctAnswer": 0,
-      "explanation": "La Marseillaise est jouée lors des cérémonies officielles (comme le 14 juillet ou les hommages) et lors des compétitions sportives internationales."
+      "explanation": "La Marseillaise est jouée lors des cérémonies officielles (comme le 14 juillet ou les hommages) et lors des compétitions sportives internationales.",
+      "questionEn": "In what situations can you hear the French national anthem?",
+      "optionsEn": [
+        "During official State ceremonies and international sporting events",
+        "Only during the military parade on 14 July",
+        "Only when the President of the Republic speaks on television",
+        "At the start of every day in all businesses"
+      ],
+      "explanationEn": "La Marseillaise is played during official ceremonies (such as 14 July or tributes) and during international sports competitions."
     },
     {
       "id": "pv-q15",
@@ -181,7 +293,15 @@
         "Parce que c'est la ville préférée des Français"
       ],
       "correctAnswer": 2,
-      "explanation": "Le chant a été chanté par des volontaires venus de Marseille lors de leur arrivée à Paris en août 1792, d'où son nom."
+      "explanation": "Le chant a été chanté par des volontaires venus de Marseille lors de leur arrivée à Paris en août 1792, d'où son nom.",
+      "questionEn": "Why is the anthem called 'La Marseillaise'?",
+      "optionsEn": [
+        "Because it was composed in Marseille",
+        "Because the author was born in Marseille",
+        "Because it was taken up by a group of volunteers from Marseille during an uprising in Paris",
+        "Because it is the French people's favourite city"
+      ],
+      "explanationEn": "The song was sung by volunteers from Marseille when they arrived in Paris in August 1792, which is how it got its name."
     },
     {
       "id": "pv-q16",
@@ -193,7 +313,15 @@
         "La religion"
       ],
       "correctAnswer": 0,
-      "explanation": "Le bonnet phrygien est un symbole de liberté. Il était porté par les esclaves de l'Antiquité qui étaient devenus libres."
+      "explanation": "Le bonnet phrygien est un symbole de liberté. Il était porté par les esclaves de l'Antiquité qui étaient devenus libres.",
+      "questionEn": "What does the Phrygian cap worn by Marianne represent?",
+      "optionsEn": [
+        "Liberty",
+        "Wealth",
+        "War",
+        "Religion"
+      ],
+      "explanationEn": "The Phrygian cap is a symbol of liberty. It was worn by freed slaves in ancient times."
     },
     {
       "id": "pv-q17",
@@ -205,7 +333,15 @@
         "Dans tous les hôpitaux"
       ],
       "correctAnswer": 1,
-      "explanation": "Le buste de Marianne est un symbole officiel de la République présent dans toutes les mairies de France."
+      "explanation": "Le buste de Marianne est un symbole officiel de la République présent dans toutes les mairies de France.",
+      "questionEn": "Where can you see the bust (statue) of Marianne?",
+      "optionsEn": [
+        "In all bakeries",
+        "In all town halls",
+        "In all train stations",
+        "In all hospitals"
+      ],
+      "explanationEn": "The bust of Marianne is an official symbol of the Republic, present in all town halls in France."
     },
     {
       "id": "pv-q18",
@@ -216,7 +352,14 @@
         "C'était le prénom de la première femme présidente"
       ],
       "correctAnswer": 1,
-      "explanation": "Marianne était un prénom féminin très courant. Il a été choisi pour montrer que la République est fondée sur la volonté du peuple."
+      "explanation": "Marianne était un prénom féminin très courant. Il a été choisi pour montrer que la République est fondée sur la volonté du peuple.",
+      "questionEn": "Why was the name 'Marianne' chosen during the French Revolution?",
+      "optionsEn": [
+        "It was the name of the Queen of France",
+        "It was a popular name that represented the people",
+        "It was the name of the first female president"
+      ],
+      "explanationEn": "Marianne was a very common female name. It was chosen to show that the Republic is founded on the will of the people."
     },
     {
       "id": "pv-q19",
@@ -227,7 +370,14 @@
         "Sur la carte d'identité et les documents administratifs"
       ],
       "correctAnswer": 2,
-      "explanation": "Marianne figure sur de nombreux documents officiels de l'État, comme la carte d'identité ou les feuilles d'impôts."
+      "explanation": "Marianne figure sur de nombreux documents officiels de l'État, comme la carte d'identité ou les feuilles d'impôts.",
+      "questionEn": "On which official documents can you find the symbol of Marianne?",
+      "optionsEn": [
+        "Only on banknotes",
+        "On restaurant menus",
+        "On the identity card and administrative documents"
+      ],
+      "explanationEn": "Marianne appears on many official State documents, such as the identity card and tax forms."
     },
     {
       "id": "pv-q20",
@@ -239,7 +389,15 @@
         "Le 25 décembre"
       ],
       "correctAnswer": 1,
-      "explanation": "La fête nationale française a lieu chaque année le 14 juillet. Elle a été instituée en 1880."
+      "explanation": "La fête nationale française a lieu chaque année le 14 juillet. Elle a été instituée en 1880.",
+      "questionEn": "What is the date of the French national holiday?",
+      "optionsEn": [
+        "1 May",
+        "14 July",
+        "11 November",
+        "25 December"
+      ],
+      "explanationEn": "The French national holiday takes place every year on 14 July. It was established in 1880."
     },
     {
       "id": "pv-q21",
@@ -251,7 +409,15 @@
         "La mort du roi Louis XVI et la naissance de Napoléon"
       ],
       "correctAnswer": 0,
-      "explanation": "Le 14 juillet commémore la prise de la Bastille (début de la Révolution) et la Fête de la Fédération (symbole d'unité nationale)."
+      "explanation": "Le 14 juillet commémore la prise de la Bastille (début de la Révolution) et la Fête de la Fédération (symbole d'unité nationale).",
+      "questionEn": "What are the two historical events celebrated on 14 July?",
+      "optionsEn": [
+        "The Storming of the Bastille (1789) and the Fête de la Fédération (Festival of the Federation, 1790)",
+        "The end of World War I and the end of World War II",
+        "The election of the first President and the creation of the tricolour flag",
+        "The death of King Louis XVI and the birth of Napoleon"
+      ],
+      "explanationEn": "14 July commemorates the Storming of the Bastille (the start of the Revolution) and the Fête de la Fédération (a symbol of national unity)."
     },
     {
       "id": "pv-q22",
@@ -263,7 +429,15 @@
         "Les Français doivent rester chez eux pour écouter le Président"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est à la fois une fête institutionnelle avec le défilé militaire et une fête populaire avec des feux d'artifice et des bals."
+      "explanation": "C'est à la fois une fête institutionnelle avec le défilé militaire et une fête populaire avec des feux d'artifice et des bals.",
+      "questionEn": "How is 14 July generally celebrated in France today?",
+      "optionsEn": [
+        "It is a national day of mourning where everything is closed",
+        "Only political elections are organised",
+        "There is a military parade, fireworks, and public dances",
+        "French people must stay at home to listen to the President"
+      ],
+      "explanationEn": "It is both an institutional celebration with the military parade and a popular celebration with fireworks and public dances."
     },
     {
       "id": "pv-q23",
@@ -275,7 +449,15 @@
         "C'est un symbole religieux du Moyen Âge"
       ],
       "correctAnswer": 1,
-      "explanation": "Les Romains utilisaient le mot latin « Gallus » qui voulait dire à la fois « Gaulois » et « coq ». C'est devenu ensuite un symbole de fierté."
+      "explanation": "Les Romains utilisaient le mot latin « Gallus » qui voulait dire à la fois « Gaulois » et « coq ». C'est devenu ensuite un symbole de fierté.",
+      "questionEn": "What is the origin of the rooster as a symbol of France?",
+      "optionsEn": [
+        "It was the favourite animal of King Louis XIV",
+        "It is a Latin word play between 'Gaulois' (Gaul) and 'coq' (rooster) — both 'Gallus' in Latin",
+        "It is the most common animal in French forests",
+        "It is a religious symbol from the Middle Ages"
+      ],
+      "explanationEn": "The Romans used the Latin word 'Gallus', which meant both 'Gaul' (a person from ancient France) and 'rooster'. It later became a symbol of pride."
     },
     {
       "id": "pv-q24",
@@ -287,7 +469,15 @@
         "Non, il est interdit de l'utiliser"
       ],
       "correctAnswer": 2,
-      "explanation": "Contrairement au drapeau ou à Marianne, le coq n'est pas un symbole officiel, même s'il est très utilisé pour représenter la France."
+      "explanation": "Contrairement au drapeau ou à Marianne, le coq n'est pas un symbole officiel, même s'il est très utilisé pour représenter la France.",
+      "questionEn": "Is the rooster an official symbol of the French Republic?",
+      "optionsEn": [
+        "Yes, it is written in the Constitution",
+        "Yes, it sometimes replaces the tricolour flag",
+        "No, it is a strong national symbol but not official",
+        "No, it is forbidden to use it"
+      ],
+      "explanationEn": "Unlike the flag or Marianne, the rooster is not an official symbol, even though it is widely used to represent France."
     },
     {
       "id": "pv-q25",
@@ -299,7 +489,15 @@
         "Sur les panneaux de signalisation"
       ],
       "correctAnswer": 0,
-      "explanation": "Le coq est très visible dans le sport pour représenter la France, mais aussi sur les monuments aux morts ou pour la diplomatie économique."
+      "explanation": "Le coq est très visible dans le sport pour représenter la France, mais aussi sur les monuments aux morts ou pour la diplomatie économique.",
+      "questionEn": "In which area is the rooster very often used today?",
+      "optionsEn": [
+        "On the jerseys of national sports teams",
+        "On driving licences",
+        "On identity cards",
+        "On road signs"
+      ],
+      "explanationEn": "The rooster is very visible in sports to represent France, but also on war memorials and in economic diplomacy."
     },
     {
       "id": "pv-q26",
@@ -311,7 +509,15 @@
         "Nulle part, c'est interdit en France"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, toute personne a le droit de manifester sa religion et de porter des signes religieux dans l'espace public, comme la rue ou les magasins."
+      "explanation": "En France, toute personne a le droit de manifester sa religion et de porter des signes religieux dans l'espace public, comme la rue ou les magasins.",
+      "questionEn": "In which places does a person have the right to wear religious symbols such as a headscarf, a kippa, or a cross?",
+      "optionsEn": [
+        "Only at home, in their house",
+        "In public spaces (streets, shops, transport) and at home",
+        "Only in places of worship (churches, mosques, synagogues)",
+        "Nowhere, it is forbidden in France"
+      ],
+      "explanationEn": "In France, every person has the right to show their religion and wear religious symbols in public spaces, such as streets or shops."
     },
     {
       "id": "pv-q27",
@@ -323,7 +529,15 @@
         "Les touristes"
       ],
       "correctAnswer": 1,
-      "explanation": "Les agents qui travaillent pour l'État et les services publics doivent respecter une stricte neutralité et ne peuvent pas montrer leur religion au travail."
+      "explanation": "Les agents qui travaillent pour l'État et les services publics doivent respecter une stricte neutralité et ne peuvent pas montrer leur religion au travail.",
+      "questionEn": "Who does not have the right to express their religion at work?",
+      "optionsEn": [
+        "Shop customers",
+        "People who work in public services",
+        "Users of public transport",
+        "Tourists"
+      ],
+      "explanationEn": "Workers in the State and public services must maintain strict neutrality and cannot show their religion at work."
     },
     {
       "id": "pv-q28",
@@ -335,7 +549,15 @@
         "Il est interdit de porter des lunettes de soleil"
       ],
       "correctAnswer": 0,
-      "explanation": "Il est interdit de cacher son visage dans l'espace public pour des raisons de sécurité et de vivre-ensemble. Cette loi s'applique à tous (cagoules, masques, voiles intégraux)."
+      "explanation": "Il est interdit de cacher son visage dans l'espace public pour des raisons de sécurité et de vivre-ensemble. Cette loi s'applique à tous (cagoules, masques, voiles intégraux).",
+      "questionEn": "What does the law of 11 October 2010 say about faces in public spaces?",
+      "optionsEn": [
+        "It is forbidden to hide your face (balaclava, full-face veil...)",
+        "It is mandatory to cover your head",
+        "Makeup is forbidden in the street",
+        "It is forbidden to wear sunglasses"
+      ],
+      "explanationEn": "It is forbidden to hide your face in public spaces for reasons of safety and living together. This law applies to everyone (balaclavas, masks, full-face veils)."
     },
     {
       "id": "pv-q29",
@@ -347,7 +569,15 @@
         "La loi sur la Déclaration des droits de l'homme"
       ],
       "correctAnswer": 1,
-      "explanation": "La loi de 1905 est fondamentale : elle sépare l'État des religions. L'État devient neutre et ne finance aucun culte."
+      "explanation": "La loi de 1905 est fondamentale : elle sépare l'État des religions. L'État devient neutre et ne finance aucun culte.",
+      "questionEn": "What important law was passed in 1905 in France?",
+      "optionsEn": [
+        "The law making school compulsory and free",
+        "The law separating Churches and the State",
+        "The law banning religious symbols in schools",
+        "The law on the Declaration of the Rights of Man"
+      ],
+      "explanationEn": "The 1905 law is fundamental: it separates the State from religions. The State becomes neutral and does not fund any religion."
     },
     {
       "id": "pv-q30",
@@ -359,7 +589,15 @@
         "Elle est dirigée par l'Église catholique"
       ],
       "correctAnswer": 1,
-      "explanation": "Depuis 1882, l'école publique est un lieu neutre où l'enseignement religieux n'a pas sa place, afin de respecter la conscience de tous les élèves."
+      "explanation": "Depuis 1882, l'école publique est un lieu neutre où l'enseignement religieux n'a pas sa place, afin de respecter la conscience de tous les élèves.",
+      "questionEn": "Since 1882, how does public school work in France?",
+      "optionsEn": [
+        "It is paid and religious",
+        "It is compulsory, free, and secular (laïque — without religious teaching)",
+        "It is reserved for boys only",
+        "It is run by the Catholic Church"
+      ],
+      "explanationEn": "Since 1882, public school has been a neutral place where religious teaching has no place, in order to respect the conscience of all students."
     },
     {
       "id": "pv-q31",
@@ -371,7 +609,15 @@
         "Les élèves doivent porter un uniforme religieux"
       ],
       "correctAnswer": 1,
-      "explanation": "La loi de 2004 interdit le port de signes ou tenues par lesquels les élèves manifestent ostensiblement (de façon visible) une appartenance religieuse."
+      "explanation": "La loi de 2004 interdit le port de signes ou tenues par lesquels les élèves manifestent ostensiblement (de façon visible) une appartenance religieuse.",
+      "questionEn": "What does the 2004 law say about religious symbols in public schools (middle school and high school)?",
+      "optionsEn": [
+        "All religious symbols are allowed",
+        "It is forbidden to wear symbols or clothing showing religious belonging",
+        "Only discreet symbols are forbidden",
+        "Students must wear a religious uniform"
+      ],
+      "explanationEn": "The 2004 law forbids wearing symbols or clothing by which students visibly show religious belonging."
     },
     {
       "id": "pv-q32",
@@ -383,7 +629,15 @@
         "Le financement des églises par l'État"
       ],
       "correctAnswer": 2,
-      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 pose le principe que nul ne doit être inquiété pour ses opinions, même religieuses."
+      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 pose le principe que nul ne doit être inquiété pour ses opinions, même religieuses.",
+      "questionEn": "What is the founding principle of laïcité (secularism) established in 1789?",
+      "optionsEn": [
+        "The obligation to believe in a religion",
+        "The ban on all religions",
+        "Freedom of conscience and religion",
+        "State funding of churches"
+      ],
+      "explanationEn": "The Declaration of the Rights of Man and of the Citizen of 1789 establishes the principle that no one should be troubled for their opinions, even religious ones."
     },
     {
       "id": "pv-q33",
@@ -395,7 +649,15 @@
         "Oui, si elles demandent l'autorisation à leur chef."
       ],
       "correctAnswer": 1,
-      "explanation": "Les agents du service public doivent respecter une stricte neutralité. Leurs opinions et croyances relèvent de la vie privée et ne doivent pas être visibles au travail."
+      "explanation": "Les agents du service public doivent respecter une stricte neutralité. Leurs opinions et croyances relèvent de la vie privée et ne doivent pas être visibles au travail.",
+      "questionEn": "Do people who work in public services have the right to show their religious or political beliefs?",
+      "optionsEn": [
+        "Yes, they can wear visible religious symbols.",
+        "No, they must remain neutral and not show their beliefs.",
+        "Yes, but only if they work in a closed office.",
+        "Yes, if they ask permission from their supervisor."
+      ],
+      "explanationEn": "Public service workers must maintain strict neutrality. Their opinions and beliefs belong to their private life and must not be visible at work."
     },
     {
       "id": "pv-q34",
@@ -406,7 +668,14 @@
         "Cela dépend de la religion."
       ],
       "correctAnswer": 1,
-      "explanation": "Les usagers ont le droit d'exprimer leurs convictions religieuses, contrairement aux employés. Cependant, il y a des exceptions, comme devoir montrer son visage pour une vérification d'identité."
+      "explanation": "Les usagers ont le droit d'exprimer leurs convictions religieuses, contrairement aux employés. Cependant, il y a des exceptions, comme devoir montrer son visage pour une vérification d'identité.",
+      "questionEn": "If you are a user (client) of a public service, must you hide your religious symbols?",
+      "optionsEn": [
+        "Yes, neutrality applies to everyone.",
+        "No, neutrality does not apply to users — you can wear a religious symbol.",
+        "It depends on the religion."
+      ],
+      "explanationEn": "Users have the right to express their religious beliefs, unlike employees. However, there are exceptions, such as having to show your face for identity verification."
     },
     {
       "id": "pv-q35",
@@ -417,7 +686,14 @@
         "Oui, mais seulement si on paye un supplément."
       ],
       "correctAnswer": 1,
-      "explanation": "Le service public est le même pour tous. Il ne peut pas être modifié ou adapté pour répondre aux exigences particulières d'une religion."
+      "explanation": "Le service public est le même pour tous. Il ne peut pas être modifié ou adapté pour répondre aux exigences particulières d'une religion.",
+      "questionEn": "Is it possible to ask for a change in how a public service works to respect your religion?",
+      "optionsEn": [
+        "Yes, the public service must adapt to all religions.",
+        "No, you cannot ask for the public service to be adapted in the name of a religion.",
+        "Yes, but only if you pay extra."
+      ],
+      "explanationEn": "The public service is the same for everyone. It cannot be changed or adapted to meet the particular requirements of a religion."
     },
     {
       "id": "pv-q36",
@@ -429,7 +705,15 @@
         "La Déclaration des droits de l'homme"
       ],
       "correctAnswer": 1,
-      "explanation": "La Charte de la laïcité dans les services publics est le document de référence qui explique les règles à respecter pour les agents et les usagers."
+      "explanation": "La Charte de la laïcité dans les services publics est le document de référence qui explique les règles à respecter pour les agents et les usagers.",
+      "questionEn": "Which document sets out the rights and duties regarding laïcité (secularism) in public services?",
+      "optionsEn": [
+        "The traffic code",
+        "The Charter of Laïcité (Secularism) in Public Services",
+        "The internal rules of the town hall",
+        "The Declaration of the Rights of Man"
+      ],
+      "explanationEn": "The Charter of Laïcité in Public Services is the reference document that explains the rules for both workers and users to follow."
     },
     {
       "id": "pv-q37",
@@ -441,7 +725,15 @@
         "C'est une loi qui oblige tout le monde à avoir la même religion"
       ],
       "correctAnswer": 1,
-      "explanation": "Le prosélytisme consiste à essayer de convaincre quelqu'un d'adopter sa propre religion, par exemple en discutant ou en distribuant des documents."
+      "explanation": "Le prosélytisme consiste à essayer de convaincre quelqu'un d'adopter sa propre religion, par exemple en discutant ou en distribuant des documents.",
+      "questionEn": "What is religious proselytism?",
+      "optionsEn": [
+        "It is forbidding others from practising their religion",
+        "It is trying to convince other people to choose your religion",
+        "It is a religious ceremony that is mandatory in France",
+        "It is a law that forces everyone to have the same religion"
+      ],
+      "explanationEn": "Proselytism means trying to convince someone to adopt your own religion, for example by talking to them or distributing documents."
     },
     {
       "id": "pv-q38",
@@ -453,7 +745,15 @@
         "Non, sauf pour les personnes qui travaillent pour l'État"
       ],
       "correctAnswer": 2,
-      "explanation": "En France, le prosélytisme est autorisé au nom de la liberté religieuse, à condition de ne pas forcer les gens (contrainte physique ou psychologique)."
+      "explanation": "En France, le prosélytisme est autorisé au nom de la liberté religieuse, à condition de ne pas forcer les gens (contrainte physique ou psychologique).",
+      "questionEn": "Is proselytism allowed in France?",
+      "optionsEn": [
+        "No, it is totally forbidden everywhere",
+        "Yes, but only on Sundays",
+        "Yes, because everyone is free to have a religion, but without using force or harassment",
+        "No, except for people who work for the State"
+      ],
+      "explanationEn": "In France, proselytism is allowed in the name of religious freedom, as long as you do not force people (physical or psychological pressure)."
     },
     {
       "id": "pv-q39",
@@ -465,7 +765,15 @@
         "Dans sa propre maison"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour respecter la neutralité de l'État, le prosélytisme est interdit dans les services publics comme les écoles ou les hôpitaux. Il est aussi interdit dans les entreprises privées."
+      "explanation": "Pour respecter la neutralité de l'État, le prosélytisme est interdit dans les services publics comme les écoles ou les hôpitaux. Il est aussi interdit dans les entreprises privées.",
+      "questionEn": "In which places is proselytism forbidden to ensure neutrality?",
+      "optionsEn": [
+        "In the street and public parks",
+        "In public schools, public hospitals, and public services",
+        "In places of worship (churches, mosques, synagogues)",
+        "In one's own home"
+      ],
+      "explanationEn": "To respect the neutrality of the State, proselytism is forbidden in public services such as schools or hospitals. It is also forbidden in private companies."
     },
     {
       "id": "pv-q40",
@@ -477,7 +785,15 @@
         "C'est interdit si cela choque quelqu'un."
       ],
       "correctAnswer": 1,
-      "explanation": "En France, le blasphème n'est pas un délit. On a le droit de critiquer ou de se moquer des religions et des croyances."
+      "explanation": "En France, le blasphème n'est pas un délit. On a le droit de critiquer ou de se moquer des religions et des croyances.",
+      "questionEn": "In France, is it forbidden to criticise a religion or make caricatures?",
+      "optionsEn": [
+        "Yes, it is forbidden and punished by law.",
+        "No, blasphemy is not forbidden because France is a secular country.",
+        "It is allowed only for certain religions.",
+        "It is forbidden if it shocks someone."
+      ],
+      "explanationEn": "In France, blasphemy is not a crime. You have the right to criticise or make fun of religions and beliefs."
     },
     {
       "id": "pv-q41",
@@ -489,7 +805,15 @@
         "Il n'y a aucune limite, on peut tout dire."
       ],
       "correctAnswer": 2,
-      "explanation": "La loi punit les insultes, les appels à la violence et la discrimination envers les personnes, mais pas la critique des idées religieuses."
+      "explanation": "La loi punit les insultes, les appels à la violence et la discrimination envers les personnes, mais pas la critique des idées religieuses.",
+      "questionEn": "What is the limit to freedom of expression regarding religion?",
+      "optionsEn": [
+        "You cannot draw a god.",
+        "You cannot say that you do not believe in God.",
+        "You cannot incite hatred or violence against people because of their religion.",
+        "There is no limit, you can say anything."
+      ],
+      "explanationEn": "The law punishes insults, calls for violence, and discrimination against people, but not the criticism of religious ideas."
     },
     {
       "id": "pv-q42",
@@ -501,7 +825,15 @@
         "Le journal officiel"
       ],
       "correctAnswer": 1,
-      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 affirme que chacun peut parler, écrire et publier librement ses opinions."
+      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 affirme que chacun peut parler, écrire et publier librement ses opinions.",
+      "questionEn": "Which fundamental text guarantees freedom of expression in France?",
+      "optionsEn": [
+        "The traffic code",
+        "The Declaration of the Rights of Man and of the Citizen of 1789",
+        "The internal rules of schools",
+        "The official gazette"
+      ],
+      "explanationEn": "The Declaration of the Rights of Man and of the Citizen of 1789 states that everyone can freely speak, write, and publish their opinions."
     },
     {
       "id": "pv-q43",
@@ -513,7 +845,15 @@
         "Il doit porter un uniforme qui inclut des symboles religieux."
       ],
       "correctAnswer": 1,
-      "explanation": "Les agents du service public ont un devoir de stricte neutralité : ils ne doivent porter aucun signe manifestant leur appartenance religieuse pendant leur travail."
+      "explanation": "Les agents du service public ont un devoir de stricte neutralité : ils ne doivent porter aucun signe manifestant leur appartenance religieuse pendant leur travail.",
+      "questionEn": "What is the rule about religious symbols for a public service worker (civil servant)?",
+      "optionsEn": [
+        "They can wear only discreet religious symbols.",
+        "They must not wear any symbol showing their religion (headscarf, cross, kippa...).",
+        "They can wear any religious symbol as long as they do not talk about religion.",
+        "They must wear a uniform that includes religious symbols."
+      ],
+      "explanationEn": "Public service workers have a duty of strict neutrality: they must not wear any symbol showing their religious belonging during work."
     },
     {
       "id": "pv-q44",
@@ -525,7 +865,15 @@
         "Non, la religion est interdite sur le lieu de travail en France."
       ],
       "correctAnswer": 1,
-      "explanation": "Contrairement aux agents publics, les salariés du privé peuvent exprimer leurs opinions religieuses et porter des signes, tant que cela ne nuit pas au fonctionnement de l'entreprise ou à la sécurité."
+      "explanation": "Contrairement aux agents publics, les salariés du privé peuvent exprimer leurs opinions religieuses et porter des signes, tant que cela ne nuit pas au fonctionnement de l'entreprise ou à la sécurité.",
+      "questionEn": "In a private company, can an employee express their religious opinions?",
+      "optionsEn": [
+        "No, it is strictly forbidden just like in public services.",
+        "Yes, they can, unless it disrupts the smooth running of the company.",
+        "Yes, but only during the lunch break.",
+        "No, religion is forbidden in the workplace in France."
+      ],
+      "explanationEn": "Unlike public service workers, employees in private companies can express their religious opinions and wear symbols, as long as it does not harm the company's operations or safety."
     },
     {
       "id": "pv-q45",
@@ -537,7 +885,15 @@
         "Non, les fêtes religieuses sont interdites."
       ],
       "correctAnswer": 2,
-      "explanation": "Le salarié doit demander l'autorisation à son employeur pour s'absenter. L'employeur peut refuser si ce refus est justifié par les nécessités de l'entreprise et n'est pas discriminatoire."
+      "explanation": "Le salarié doit demander l'autorisation à son employeur pour s'absenter. L'employeur peut refuser si ce refus est justifié par les nécessités de l'entreprise et n'est pas discriminatoire.",
+      "questionEn": "Can an employee be absent for a religious holiday without informing their employer?",
+      "optionsEn": [
+        "Yes, it is a fundamental right.",
+        "Yes, if the holiday is important.",
+        "No, they must get permission from their employer.",
+        "No, religious holidays are forbidden."
+      ],
+      "explanationEn": "The employee must ask their employer for permission to be absent. The employer can refuse if the refusal is justified by the needs of the company and is not discriminatory."
     },
     {
       "id": "pv-q46",
@@ -549,7 +905,15 @@
         "Le français et les langues régionales"
       ],
       "correctAnswer": 1,
-      "explanation": "Depuis 1992, la Constitution précise que la langue de la République est le français. C'est la seule langue officielle utilisée dans l'administration et la vie publique."
+      "explanation": "Depuis 1992, la Constitution précise que la langue de la République est le français. C'est la seule langue officielle utilisée dans l'administration et la vie publique.",
+      "questionEn": "What is the only official language of the French Republic?",
+      "optionsEn": [
+        "Latin",
+        "French",
+        "French and English",
+        "French and regional languages"
+      ],
+      "explanationEn": "Since 1992, the Constitution states that the language of the Republic is French. It is the only official language used in administration and public life."
     },
     {
       "id": "pv-q47",
@@ -561,7 +925,15 @@
         "Elles sont obligatoires à l'école dans toutes les régions"
       ],
       "correctAnswer": 2,
-      "explanation": "Les langues régionales ne sont pas des langues officielles, mais elles sont reconnues comme faisant partie du patrimoine de la France et peuvent être enseignées à l'école."
+      "explanation": "Les langues régionales ne sont pas des langues officielles, mais elles sont reconnues comme faisant partie du patrimoine de la France et peuvent être enseignées à l'école.",
+      "questionEn": "What is the status of regional languages such as Breton, Corsican, or Creole?",
+      "optionsEn": [
+        "They are forbidden in France",
+        "They are official languages just like French",
+        "They are part of French heritage but are not official",
+        "They are mandatory in school in all regions"
+      ],
+      "explanationEn": "Regional languages are not official languages, but they are recognised as part of France's heritage and can be taught in schools."
     },
     {
       "id": "pv-q48",
@@ -573,7 +945,15 @@
         "Elle refuse tous les mots étrangers"
       ],
       "correctAnswer": 2,
-      "explanation": "Le français n'est pas une langue figée. Il intègre régulièrement des mots issus d'autres langues comme l'italien, l'anglais ou l'arabe."
+      "explanation": "Le français n'est pas une langue figée. Il intègre régulièrement des mots issus d'autres langues comme l'italien, l'anglais ou l'arabe.",
+      "questionEn": "How does the French language evolve?",
+      "optionsEn": [
+        "It has not evolved since 1539",
+        "It only uses words of Latin origin",
+        "It absorbs new words from other countries",
+        "It rejects all foreign words"
+      ],
+      "explanationEn": "French is not a frozen language. It regularly takes in words from other languages such as Italian, English, and Arabic."
     },
     {
       "id": "pv-q49",
@@ -585,7 +965,15 @@
         "Lors de l'inscription à Pôle Emploi"
       ],
       "correctAnswer": 0,
-      "explanation": "La signature de ce contrat est obligatoire au moment de la demande d'un titre de séjour. Aucun titre ne peut être délivré sans ce document."
+      "explanation": "La signature de ce contrat est obligatoire au moment de la demande d'un titre de séjour. Aucun titre ne peut être délivré sans ce document.",
+      "questionEn": "When must a foreign person sign the republican commitment contract?",
+      "optionsEn": [
+        "When applying for a residence permit",
+        "When buying a home in France",
+        "Only when applying for French nationality",
+        "When registering at the employment agency (Pôle Emploi)"
+      ],
+      "explanationEn": "Signing this contract is mandatory when applying for a residence permit. No permit can be issued without this document."
     },
     {
       "id": "pv-q50",
@@ -597,7 +985,15 @@
         "Il n'y a aucune conséquence"
       ],
       "correctAnswer": 1,
-      "explanation": "Le non-respect d'un principe républicain peut entraîner le retrait ou le refus de renouvellement du titre de séjour."
+      "explanation": "Le non-respect d'un principe républicain peut entraîner le retrait ou le refus de renouvellement du titre de séjour.",
+      "questionEn": "What is the consequence if a person does not respect the principles of the signed contract?",
+      "optionsEn": [
+        "They will have to pay a fine of 100 euros",
+        "Their residence permit can be withdrawn or not renewed",
+        "They will no longer be able to vote in elections",
+        "There is no consequence"
+      ],
+      "explanationEn": "Not respecting a republican principle can lead to the withdrawal or refusal to renew the residence permit."
     },
     {
       "id": "pv-q51",
@@ -609,7 +1005,15 @@
         "L'obligation de travailler le dimanche"
       ],
       "correctAnswer": 1,
-      "explanation": "L'égalité entre les femmes et les hommes fait partie des principes fondamentaux listés dans le contrat, tout comme la liberté d'expression ou la laïcité."
+      "explanation": "L'égalité entre les femmes et les hommes fait partie des principes fondamentaux listés dans le contrat, tout comme la liberté d'expression ou la laïcité.",
+      "questionEn": "Which of the following is a principle included in the republican commitment contract?",
+      "optionsEn": [
+        "The obligation to eat French food",
+        "Equality between women and men",
+        "The ban on speaking any language other than French",
+        "The obligation to work on Sundays"
+      ],
+      "explanationEn": "Equality between women and men is one of the fundamental principles listed in the contract, along with freedom of expression and laïcité (secularism)."
     },
     {
       "id": "pv-q52",
@@ -620,7 +1024,14 @@
         "Seulement si elles viennent d'un pays en guerre"
       ],
       "correctAnswer": 1,
-      "explanation": "Les bénéficiaires d'une protection internationale (réfugiés, apatrides, protection subsidiaire) doivent également signer ce contrat d'engagement."
+      "explanation": "Les bénéficiaires d'une protection internationale (réfugiés, apatrides, protection subsidiaire) doivent également signer ce contrat d'engagement.",
+      "questionEn": "Must people with refugee status sign this contract?",
+      "optionsEn": [
+        "No, they are exempt from signing",
+        "Yes, like all people applying for a residence permit",
+        "Only if they come from a country at war"
+      ],
+      "explanationEn": "Beneficiaries of international protection (refugees, stateless persons, subsidiary protection) must also sign this commitment contract."
     },
     {
       "id": "pv-q53",
@@ -631,7 +1042,14 @@
         "La loi change selon la richesse de la personne"
       ],
       "correctAnswer": 0,
-      "explanation": "En France, l'égalité devant la loi signifie que les règles sont identiques pour tout le monde, sans distinction."
+      "explanation": "En France, l'égalité devant la loi signifie que les règles sont identiques pour tout le monde, sans distinction.",
+      "questionEn": "What does the principle of equality before the law mean in France?",
+      "optionsEn": [
+        "The law is the same for all people",
+        "The law is stricter for foreigners",
+        "The law changes depending on a person's wealth"
+      ],
+      "explanationEn": "In France, equality before the law means the rules are the same for everyone, without distinction."
     },
     {
       "id": "pv-q54",
@@ -643,7 +1061,15 @@
         "Si la personne vient d'un autre pays"
       ],
       "correctAnswer": 1,
-      "explanation": "Le principe d'égalité permet d'adapter les tarifs pour aider ceux qui sont dans une situation particulière (comme les étudiants ou les personnes sans emploi)."
+      "explanation": "Le principe d'égalité permet d'adapter les tarifs pour aider ceux qui sont dans une situation particulière (comme les étudiants ou les personnes sans emploi).",
+      "questionEn": "In what case does a public service have the right to offer different prices?",
+      "optionsEn": [
+        "It is always forbidden, everyone must pay the same price",
+        "If people are in different situations (students, unemployed, elderly...)",
+        "If the person is a man or a woman",
+        "If the person comes from another country"
+      ],
+      "explanationEn": "The principle of equality allows prices to be adjusted to help those in a particular situation (such as students or unemployed people)."
     },
     {
       "id": "pv-q55",
@@ -654,7 +1080,14 @@
         "Interdire aux femmes de se présenter aux élections"
       ],
       "correctAnswer": 1,
-      "explanation": "La loi de 2000 oblige les partis politiques à présenter un nombre égal de femmes et d'hommes lors des élections."
+      "explanation": "La loi de 2000 oblige les partis politiques à présenter un nombre égal de femmes et d'hommes lors des élections.",
+      "questionEn": "What must political parties do to respect the law on gender parity?",
+      "optionsEn": [
+        "Present only male candidates",
+        "Present as many women as men on candidate lists",
+        "Forbid women from running in elections"
+      ],
+      "explanationEn": "The 2000 law requires political parties to present an equal number of women and men in elections."
     },
     {
       "id": "pv-q56",
@@ -665,7 +1098,14 @@
         "C'est une opinion politique autorisée par la loi"
       ],
       "correctAnswer": 0,
-      "explanation": "La discrimination consiste à défavoriser quelqu'un pour un motif interdit par la loi (comme le racisme, le sexisme ou le handicap). C'est puni par la loi."
+      "explanation": "La discrimination consiste à défavoriser quelqu'un pour un motif interdit par la loi (comme le racisme, le sexisme ou le handicap). C'est puni par la loi.",
+      "questionEn": "What is discrimination?",
+      "optionsEn": [
+        "It is treating a person worse than another because of forbidden criteria (origin, religion, disability...)",
+        "It is giving the same rights to everyone",
+        "It is a political opinion allowed by law"
+      ],
+      "explanationEn": "Discrimination means putting someone at a disadvantage for a reason forbidden by law (such as racism, sexism, or disability). It is punished by law."
     },
     {
       "id": "pv-q57",
@@ -677,7 +1117,15 @@
         "C'est un impôt que l'on paie à l'État"
       ],
       "correctAnswer": 0,
-      "explanation": "La fraternité est définie comme la solidarité entre les citoyens, permettant de vivre ensemble avec harmonie et de former une société."
+      "explanation": "La fraternité est définie comme la solidarité entre les citoyens, permettant de vivre ensemble avec harmonie et de former une société.",
+      "questionEn": "What is fraternity according to the civic education content?",
+      "optionsEn": [
+        "It is solidarity among citizens to live together",
+        "It is a law that forces everyone to be friends",
+        "It is having brothers and sisters",
+        "It is a tax paid to the State"
+      ],
+      "explanationEn": "Fraternity is defined as solidarity among citizens, enabling them to live together in harmony and form a society."
     },
     {
       "id": "pv-q58",
@@ -689,7 +1137,15 @@
         "L'État paie les retraites sans demander de cotisations"
       ],
       "correctAnswer": 1,
-      "explanation": "La solidarité entre les générations se manifeste notamment par le financement des retraites grâce aux cotisations des personnes actives (plus jeunes)."
+      "explanation": "La solidarité entre les générations se manifeste notamment par le financement des retraites grâce aux cotisations des personnes actives (plus jeunes).",
+      "questionEn": "How does solidarity between generations work in France?",
+      "optionsEn": [
+        "Elderly people give money to young people",
+        "Pensions are funded by the contributions of those who work",
+        "Each family must take care of their grandparents alone",
+        "The State pays pensions without asking for contributions"
+      ],
+      "explanationEn": "Solidarity between generations is shown through the funding of pensions by the contributions of working (younger) people."
     },
     {
       "id": "pv-q59",
@@ -701,7 +1157,15 @@
         "Il faut obligatoirement être de nationalité française"
       ],
       "correctAnswer": 2,
-      "explanation": "Pour créer une association, il faut réunir au moins deux personnes et choisir un objectif non lucratif (qui n'a pas pour but de faire du profit)."
+      "explanation": "Pour créer une association, il faut réunir au moins deux personnes et choisir un objectif non lucratif (qui n'a pas pour but de faire du profit).",
+      "questionEn": "What condition is needed to create an association in France?",
+      "optionsEn": [
+        "You need at least 10 people",
+        "You need to have a goal to make a lot of money",
+        "You need at least two people and a non-profit purpose",
+        "You must be of French nationality"
+      ],
+      "explanationEn": "To create an association, you need at least two people and a non-profit goal (one that is not aimed at making a profit)."
     },
     {
       "id": "pv-q60",
@@ -713,7 +1177,15 @@
         "Payer ses impôts à temps"
       ],
       "correctAnswer": 1,
-      "explanation": "L'engagement peut prendre plusieurs formes : le travail associatif, le bénévolat (agir sur son temps libre), l'adhésion à un syndicat ou à un parti politique."
+      "explanation": "L'engagement peut prendre plusieurs formes : le travail associatif, le bénévolat (agir sur son temps libre), l'adhésion à un syndicat ou à un parti politique.",
+      "questionEn": "What are the different forms of civic engagement possible in France?",
+      "optionsEn": [
+        "Only voting in elections",
+        "Working in an association, volunteering, joining a trade union or a political party",
+        "Only military service",
+        "Paying your taxes on time"
+      ],
+      "explanationEn": "Civic engagement can take many forms: working in associations, volunteering (acting in your free time), joining a trade union or a political party."
     },
     {
       "id": "pv-q61",
@@ -725,7 +1197,15 @@
         "La supériorité de la religion catholique sur les autres"
       ],
       "correctAnswer": 1,
-      "explanation": "La laïcité garantit la liberté de conscience : chacun est libre de croire, de ne pas croire, ou de changer de religion."
+      "explanation": "La laïcité garantit la liberté de conscience : chacun est libre de croire, de ne pas croire, ou de changer de religion.",
+      "questionEn": "What does the principle of laïcité (secularism) guarantee in France?",
+      "optionsEn": [
+        "The obligation to have a religion",
+        "The freedom to have or not have a religion",
+        "The ban on practising a religion in public",
+        "The superiority of the Catholic religion over others"
+      ],
+      "explanationEn": "Laïcité (secularism) guarantees freedom of conscience: everyone is free to believe, not to believe, or to change religion."
     },
     {
       "id": "pv-q62",
@@ -737,7 +1217,15 @@
         "L'État oblige les citoyens à respecter les fêtes religieuses"
       ],
       "correctAnswer": 1,
-      "explanation": "L'État est neutre : il ne reconnaît, ne salarie ni ne subventionne aucun culte. Il y a une séparation entre le pouvoir politique et les religions."
+      "explanation": "L'État est neutre : il ne reconnaît, ne salarie ni ne subventionne aucun culte. Il y a une séparation entre le pouvoir politique et les religions.",
+      "questionEn": "What is the relationship between the French State and religions?",
+      "optionsEn": [
+        "The State funds the construction of places of worship",
+        "The State is neutral and separate from religious organisations",
+        "The State appoints religious leaders",
+        "The State requires citizens to observe religious holidays"
+      ],
+      "explanationEn": "The State is neutral: it does not recognise, pay, or fund any religion. There is a separation between political power and religions."
     },
     {
       "id": "pv-q63",
@@ -749,7 +1237,15 @@
         "Non, c'est interdit par la loi"
       ],
       "correctAnswer": 0,
-      "explanation": "Oui, la liberté de conscience inclut le droit de changer de religion ou de choisir de ne plus en avoir du tout."
+      "explanation": "Oui, la liberté de conscience inclut le droit de changer de religion ou de choisir de ne plus en avoir du tout.",
+      "questionEn": "Is it allowed to change religion or stop believing in France?",
+      "optionsEn": [
+        "Yes, it is a right guaranteed for everyone",
+        "No, you must keep your parents' religion",
+        "Yes, but only with the mayor's approval",
+        "No, it is forbidden by law"
+      ],
+      "explanationEn": "Yes, freedom of conscience includes the right to change religion or to choose not to have one at all."
     },
     {
       "id": "pv-q64",
@@ -760,7 +1256,14 @@
         "Oui, mais seulement dans la cour de récréation"
       ],
       "correctAnswer": 1,
-      "explanation": "Dans les écoles publiques, il est interdit de porter des signes ou des tenues par lesquels on montre sa religion de manière ostensible (c'est-à-dire de façon à être vu immédiatement)."
+      "explanation": "Dans les écoles publiques, il est interdit de porter des signes ou des tenues par lesquels on montre sa religion de manière ostensible (c'est-à-dire de façon à être vu immédiatement).",
+      "questionEn": "In a public school, does a student have the right to wear a symbol or clothing that shows their religion in a very visible way?",
+      "optionsEn": [
+        "Yes, it is allowed for everyone",
+        "No, it is forbidden by the rules and the charter of laïcité (secularism)",
+        "Yes, but only in the playground"
+      ],
+      "explanationEn": "In public schools, it is forbidden to wear symbols or clothing that shows your religion in a conspicuous way (meaning in a way that is immediately visible)."
     },
     {
       "id": "pv-q65",
@@ -771,7 +1274,14 @@
         "Non, il est impossible de refuser un cours du programme pour un motif religieux"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est l'État qui fixe le programme. On ne peut pas utiliser sa religion pour refuser de suivre un cours obligatoire ou de respecter les règles de l'école."
+      "explanation": "C'est l'État qui fixe le programme. On ne peut pas utiliser sa religion pour refuser de suivre un cours obligatoire ou de respecter les règles de l'école.",
+      "questionEn": "Can a student refuse to take part in a class (such as sports or music) for religious reasons?",
+      "optionsEn": [
+        "Yes, if their parents write an excuse note",
+        "Yes, if they do not want to mix with other students",
+        "No, it is not possible to refuse a class in the curriculum for a religious reason"
+      ],
+      "explanationEn": "It is the State that sets the curriculum. You cannot use your religion to refuse to attend a required class or to follow the school's rules."
     },
     {
       "id": "pv-q66",
@@ -782,7 +1292,14 @@
         "Il interdit totalement aux élèves de parler de religion entre eux"
       ],
       "correctAnswer": 1,
-      "explanation": "La laïcité protège la liberté de conscience. Elle permet à chaque élève de choisir librement ses opinions et de croire ou de ne pas croire en une religion, tant qu'il respecte les autres."
+      "explanation": "La laïcité protège la liberté de conscience. Elle permet à chaque élève de choisir librement ses opinions et de croire ou de ne pas croire en une religion, tant qu'il respecte les autres.",
+      "questionEn": "What does the principle of laïcité (secularism) guarantee regarding students' beliefs?",
+      "optionsEn": [
+        "It forces all students to have the same religion",
+        "It guarantees freedom of conscience: everyone is free to believe or not believe",
+        "It completely forbids students from talking about religion among themselves"
+      ],
+      "explanationEn": "Laïcité (secularism) protects freedom of conscience. It allows each student to freely choose their opinions and to believe or not believe in a religion, as long as they respect others."
     },
     {
       "id": "pv-q67",
@@ -793,7 +1310,16 @@
         "Ils peuvent refuser d'enseigner certains sujets s'ils ne sont pas d'accord"
       ],
       "correctAnswer": 1,
-      "explanation": "Le personnel de l'école a un devoir de stricte neutralité. Les enseignants ne doivent pas montrer leurs croyances religieuses ou politiques pendant leur travail."
+      "explanation": "Le personnel de l'école a un devoir de stricte neutralité. Les enseignants ne doivent pas montrer leurs croyances religieuses ou politiques pendant leur travail.",
+      "questionEn": "What is the rule for teachers in public schools?",
+      "optionsEn": [
+        "They must teach their own religion to students",
+        "They must remain neutral and not show their religious or political beliefs",
+        "They can refuse to teach certain subjects if they disagree"
+      ],
+      "explanationEn": "School staff have a duty of strict neutrality. Teachers must not show their religious or political beliefs during their work."
     }
-  ]
+  ],
+  "titleEn": "Principles and Values of the Republic",
+  "descriptionEn": "Quiz – Motto and symbols of the Republic • Secularism (Laïcité). Test your knowledge with questions based on official civic education materials."
 }

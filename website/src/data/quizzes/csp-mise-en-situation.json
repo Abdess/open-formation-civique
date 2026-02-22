@@ -1,607 +1,1009 @@
 {
   "id": "csp-mise-en-situation",
   "title": "CSP - Mise en situation",
+  "titleEn": "CSP - Real-Life Situations",
   "description": "Questions pratiques du Contrat de Séjour Pluriannuel : mises en situation concrètes de la vie quotidienne en France",
+  "descriptionEn": "Practical questions from the Contrat de Séjour Pluriannuel (Multi-Year Residence Contract): real-life situations in daily life in France",
   "questions": [
     {
       "id": "csp-mes-q1",
       "question": "Vous êtes témoin d'un accident de la route. Que devez-vous faire en premier ?",
+      "questionEn": "You witness a road accident. What should you do first?",
       "options": [
         "Continuer votre chemin, ce n'est pas votre problème",
         "Appeler le 15 (SAMU) ou le 112 et sécuriser la zone si possible",
         "Déplacer les blessés pour les mettre sur le trottoir",
         "Filmer la scène pour la publier sur les réseaux sociaux"
       ],
+      "optionsEn": [
+        "Keep walking, it is not your problem",
+        "Call 15 (SAMU - emergency medical service) or 112 and secure the area if possible",
+        "Move the injured people to the sidewalk",
+        "Film the scene to post it on social media"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, toute personne témoin d'un accident a l'obligation de porter assistance (article 223-6 du Code pénal). Il faut appeler les secours (15, 18 ou 112) et sécuriser la zone sans déplacer les blessés sauf danger immédiat."
+      "explanation": "En France, toute personne témoin d'un accident a l'obligation de porter assistance (article 223-6 du Code pénal). Il faut appeler les secours (15, 18 ou 112) et sécuriser la zone sans déplacer les blessés sauf danger immédiat.",
+      "explanationEn": "In France, anyone who witnesses an accident is required by law to help (article 223-6 of the Penal Code). You must call emergency services (15, 18, or 112) and secure the area without moving the injured unless there is immediate danger."
     },
     {
       "id": "csp-mes-q2",
       "question": "Votre voisin fait des travaux bruyants un dimanche matin à 8h. Que pouvez-vous faire ?",
+      "questionEn": "Your neighbour is doing noisy construction work on a Sunday morning at 8 AM. What can you do?",
       "options": [
         "Appeler immédiatement la police",
         "Lui rappeler poliment que les travaux bruyants sont interdits le dimanche et les jours fériés",
         "Faire encore plus de bruit pour le déranger en retour",
         "Déménager sans rien dire"
       ],
+      "optionsEn": [
+        "Call the police immediately",
+        "Politely remind them that noisy work is not allowed on Sundays and public holidays",
+        "Make even more noise to bother them back",
+        "Move out without saying anything"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, les travaux bruyants sont généralement interdits le dimanche et les jours fériés (réglementations municipales). La première démarche est d'en parler à son voisin. Si le problème persiste, vous pouvez contacter la mairie ou la police municipale."
+      "explanation": "En France, les travaux bruyants sont généralement interdits le dimanche et les jours fériés (réglementations municipales). La première démarche est d'en parler à son voisin. Si le problème persiste, vous pouvez contacter la mairie ou la police municipale.",
+      "explanationEn": "In France, noisy work is generally not allowed on Sundays and public holidays (local rules). The first step is to talk to your neighbour. If the problem continues, you can contact the town hall or the local police."
     },
     {
       "id": "csp-mes-q3",
       "question": "Vous recevez un courrier de l'administration fiscale vous demandant de déclarer vos revenus. Vous n'avez eu aucun revenu cette année. Que faites-vous ?",
+      "questionEn": "You receive a letter from the tax office asking you to declare your income. You had no income this year. What do you do?",
       "options": [
         "Vous ne répondez pas car vous n'avez pas de revenus",
         "Vous faites votre déclaration en indiquant zéro revenu",
         "Vous jetez le courrier car il ne vous concerne pas",
         "Vous attendez que l'administration vous recontacte"
       ],
+      "optionsEn": [
+        "You do not reply because you have no income",
+        "You file your tax return showing zero income",
+        "You throw away the letter because it does not concern you",
+        "You wait for the tax office to contact you again"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, toute personne majeure résidant en France doit faire sa déclaration de revenus chaque année, même si elle n'a perçu aucun revenu. Une déclaration à zéro permet de bénéficier de certains droits sociaux."
+      "explanation": "En France, toute personne majeure résidant en France doit faire sa déclaration de revenus chaque année, même si elle n'a perçu aucun revenu. Une déclaration à zéro permet de bénéficier de certains droits sociaux.",
+      "explanationEn": "In France, every adult living in France must file a tax return every year, even if they had no income. Filing a zero-income return allows you to access certain social benefits."
     },
     {
       "id": "csp-mes-q4",
       "question": "Votre enfant de 7 ans ne veut plus aller à l'école. Que devez-vous faire ?",
+      "questionEn": "Your 7-year-old child does not want to go to school anymore. What must you do?",
       "options": [
         "Respecter son choix et le garder à la maison",
         "L'inscrire dans une école privée uniquement",
         "Assurer son instruction car l'école est obligatoire de 3 à 16 ans",
         "Attendre qu'il ait 10 ans pour l'obliger à y retourner"
       ],
+      "optionsEn": [
+        "Respect their choice and keep them at home",
+        "Enrol them in a private school only",
+        "Make sure they receive education because school is compulsory from age 3 to 16",
+        "Wait until they are 10 to make them go back"
+      ],
       "correctAnswer": 2,
-      "explanation": "L'instruction est obligatoire en France pour tous les enfants de 3 à 16 ans (loi du 28 mars 1882, modifiée). Les parents ont l'obligation légale d'assurer l'instruction de leurs enfants, que ce soit à l'école ou par un autre moyen reconnu."
+      "explanation": "L'instruction est obligatoire en France pour tous les enfants de 3 à 16 ans (loi du 28 mars 1882, modifiée). Les parents ont l'obligation légale d'assurer l'instruction de leurs enfants, que ce soit à l'école ou par un autre moyen reconnu.",
+      "explanationEn": "Education is compulsory in France for all children aged 3 to 16 (law of 28 March 1882, amended). Parents are legally required to ensure their children receive education, whether at school or through another approved method."
     },
     {
       "id": "csp-mes-q5",
       "question": "Vous souhaitez ouvrir un compte bancaire en France. Quel document n'est PAS nécessaire ?",
+      "questionEn": "You want to open a bank account in France. Which document is NOT required?",
       "options": [
         "Une pièce d'identité en cours de validité",
         "Un justificatif de domicile",
         "Un extrait de casier judiciaire",
         "Votre titre de séjour"
       ],
+      "optionsEn": [
+        "A valid ID document",
+        "Proof of address",
+        "A criminal record extract",
+        "Your residence permit"
+      ],
       "correctAnswer": 2,
-      "explanation": "Pour ouvrir un compte bancaire en France, il faut une pièce d'identité, un justificatif de domicile et, pour les étrangers, un titre de séjour. L'extrait de casier judiciaire n'est jamais demandé. Le droit au compte est garanti par la loi."
+      "explanation": "Pour ouvrir un compte bancaire en France, il faut une pièce d'identité, un justificatif de domicile et, pour les étrangers, un titre de séjour. L'extrait de casier judiciaire n'est jamais demandé. Le droit au compte est garanti par la loi.",
+      "explanationEn": "To open a bank account in France, you need an ID, proof of address, and for foreigners, a residence permit. A criminal record extract is never required. The right to a bank account is guaranteed by law."
     },
     {
       "id": "csp-mes-q6",
       "question": "Un collègue de travail vous fait des remarques déplacées répétées sur votre origine. Que pouvez-vous faire ?",
+      "questionEn": "A work colleague repeatedly makes offensive comments about your origin. What can you do?",
       "options": [
         "Rien, c'est normal au travail",
         "Signaler la situation à votre employeur ou aux représentants du personnel, car c'est une forme de discrimination",
         "Démissionner immédiatement",
         "Répondre par des remarques similaires"
       ],
+      "optionsEn": [
+        "Nothing, it is normal at work",
+        "Report the situation to your employer or staff representatives, because it is a form of discrimination",
+        "Resign immediately",
+        "Reply with similar comments"
+      ],
       "correctAnswer": 1,
-      "explanation": "La discrimination fondée sur l'origine est interdite par la loi française (article 225-1 du Code pénal). Vous pouvez signaler ces faits à votre employeur, aux représentants du personnel, au Défenseur des droits ou porter plainte."
+      "explanation": "La discrimination fondée sur l'origine est interdite par la loi française (article 225-1 du Code pénal). Vous pouvez signaler ces faits à votre employeur, aux représentants du personnel, au Défenseur des droits ou porter plainte.",
+      "explanationEn": "Discrimination based on origin is forbidden by French law (article 225-1 of the Penal Code). You can report it to your employer, staff representatives, the Defender of Rights (Défenseur des droits), or file a complaint."
     },
     {
       "id": "csp-mes-q7",
       "question": "Vous emménagez dans un nouveau logement. Dans quel délai devez-vous signaler votre changement d'adresse à la préfecture ?",
+      "questionEn": "You move into a new home. How soon must you report your change of address to the préfecture (local government office)?",
       "options": [
         "Dans les 3 mois suivant le déménagement",
         "Uniquement lors du renouvellement de votre titre de séjour",
         "Dans un délai de 30 jours",
         "Ce n'est pas obligatoire"
       ],
+      "optionsEn": [
+        "Within 3 months after moving",
+        "Only when renewing your residence permit",
+        "Within 30 days",
+        "It is not required"
+      ],
       "correctAnswer": 0,
-      "explanation": "Les titulaires d'un titre de séjour doivent signaler tout changement d'adresse à la préfecture dans les 3 mois. Cette démarche est souvent réalisable en ligne via le site de l'ANEF (Administration Numérique pour les Étrangers en France)."
+      "explanation": "Les titulaires d'un titre de séjour doivent signaler tout changement d'adresse à la préfecture dans les 3 mois. Cette démarche est souvent réalisable en ligne via le site de l'ANEF (Administration Numérique pour les Étrangers en France).",
+      "explanationEn": "Holders of a residence permit must report any change of address to the préfecture within 3 months. This can often be done online through the ANEF website (Digital Administration for Foreigners in France)."
     },
     {
       "id": "csp-mes-q8",
       "question": "Vous trouvez un portefeuille avec de l'argent et des papiers d'identité dans la rue. Que devez-vous faire ?",
+      "questionEn": "You find a wallet with money and identity papers in the street. What should you do?",
       "options": [
         "Garder l'argent et jeter les papiers",
         "Le rapporter au commissariat de police ou à la mairie",
         "Le laisser sur place, quelqu'un d'autre s'en occupera",
         "Garder le portefeuille en attendant que quelqu'un le réclame"
       ],
+      "optionsEn": [
+        "Keep the money and throw away the papers",
+        "Bring it to the police station or the town hall",
+        "Leave it there, someone else will take care of it",
+        "Keep the wallet and wait for someone to claim it"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, si vous trouvez un objet perdu, vous devez le rapporter au commissariat, à la gendarmerie ou à la mairie. Garder un objet trouvé sans chercher à le restituer peut être considéré comme un vol par appropriation."
+      "explanation": "En France, si vous trouvez un objet perdu, vous devez le rapporter au commissariat, à la gendarmerie ou à la mairie. Garder un objet trouvé sans chercher à le restituer peut être considéré comme un vol par appropriation.",
+      "explanationEn": "In France, if you find a lost item, you must bring it to the police station, the gendarmerie, or the town hall. Keeping a found item without trying to return it can be considered theft."
     },
     {
       "id": "csp-mes-q9",
       "question": "Votre propriétaire veut entrer dans votre logement sans votre accord pour vérifier l'état de l'appartement. A-t-il le droit ?",
+      "questionEn": "Your landlord wants to enter your home without your permission to check the apartment. Does he have the right?",
       "options": [
         "Oui, c'est son logement, il peut entrer quand il veut",
         "Oui, mais seulement le week-end",
         "Non, le domicile du locataire est inviolable, il doit avoir votre accord",
         "Oui, s'il prévient 24h à l'avance"
       ],
+      "optionsEn": [
+        "Yes, it is his property, he can enter whenever he wants",
+        "Yes, but only on weekends",
+        "No, the tenant's home is protected by law, he needs your permission",
+        "Yes, if he gives 24 hours notice"
+      ],
       "correctAnswer": 2,
-      "explanation": "Le domicile est inviolable en France (article 226-4 du Code pénal). Le propriétaire ne peut pas entrer dans le logement loué sans l'accord du locataire, sauf cas d'urgence (fuite d'eau, incendie). Ce droit est protégé même si le locataire est en retard de loyer."
+      "explanation": "Le domicile est inviolable en France (article 226-4 du Code pénal). Le propriétaire ne peut pas entrer dans le logement loué sans l'accord du locataire, sauf cas d'urgence (fuite d'eau, incendie). Ce droit est protégé même si le locataire est en retard de loyer.",
+      "explanationEn": "The home is protected by law in France (article 226-4 of the Penal Code). The landlord cannot enter the rented home without the tenant's permission, except in emergencies (water leak, fire). This right is protected even if the tenant is late on rent."
     },
     {
       "id": "csp-mes-q10",
       "question": "Vous êtes convoqué pour participer à un jury d'assises. Pouvez-vous refuser ?",
+      "questionEn": "You are called to serve on a jury in a criminal court (jury d'assises). Can you refuse?",
       "options": [
         "Oui, c'est un choix personnel",
         "Non, c'est une obligation civique et un refus sans motif légitime est sanctionné d'une amende",
         "Oui, si vous n'êtes pas de nationalité française",
         "Oui, si vous avez un emploi"
       ],
+      "optionsEn": [
+        "Yes, it is a personal choice",
+        "No, it is a civic duty and refusing without a valid reason is punished by a fine",
+        "Yes, if you are not a French citizen",
+        "Yes, if you have a job"
+      ],
       "correctAnswer": 1,
-      "explanation": "La participation à un jury d'assises est un devoir civique obligatoire pour les citoyens français inscrits sur les listes électorales. Un refus sans motif légitime est passible d'une amende de 3 750 €."
+      "explanation": "La participation à un jury d'assises est un devoir civique obligatoire pour les citoyens français inscrits sur les listes électorales. Un refus sans motif légitime est passible d'une amende de 3 750 €.",
+      "explanationEn": "Serving on a criminal court jury is a mandatory civic duty for French citizens registered on the electoral lists. Refusing without a valid reason can result in a fine of 3,750 euros."
     },
     {
       "id": "csp-mes-q11",
       "question": "Votre fille de 15 ans souhaite porter le voile au collège public. Quelle est la règle ?",
+      "questionEn": "Your 15-year-old daughter wants to wear a headscarf at a public middle school. What is the rule?",
       "options": [
         "Elle peut le porter si ses parents l'autorisent",
         "Le port de signes religieux ostensibles est interdit dans les écoles publiques",
         "Elle peut le porter uniquement pendant la récréation",
         "C'est autorisé dans toutes les écoles en France"
       ],
+      "optionsEn": [
+        "She can wear it if her parents allow it",
+        "Wearing visible religious symbols is not allowed in public schools",
+        "She can wear it only during break time",
+        "It is allowed in all schools in France"
+      ],
       "correctAnswer": 1,
-      "explanation": "La loi du 15 mars 2004 interdit le port de signes ou tenues manifestant ostensiblement une appartenance religieuse dans les écoles, collèges et lycées publics. Cela s'applique à tous les signes religieux (voile, kippa, grande croix, etc.)."
+      "explanation": "La loi du 15 mars 2004 interdit le port de signes ou tenues manifestant ostensiblement une appartenance religieuse dans les écoles, collèges et lycées publics. Cela s'applique à tous les signes religieux (voile, kippa, grande croix, etc.).",
+      "explanationEn": "The law of 15 March 2004 forbids wearing visible religious symbols or clothing in public primary schools, middle schools, and high schools. This applies to all religious symbols (headscarf, kippa, large cross, etc.)."
     },
     {
       "id": "csp-mes-q12",
       "question": "Vous recevez un SMS vous demandant vos coordonnées bancaires pour recevoir un remboursement de la Sécurité sociale. Que faites-vous ?",
+      "questionEn": "You receive a text message asking for your bank details to get a refund from the Sécurité sociale (Social Security). What do you do?",
       "options": [
         "Vous répondez rapidement pour ne pas perdre le remboursement",
         "Vous cliquez sur le lien pour vérifier",
         "Vous ne répondez pas car c'est probablement une arnaque : la Sécurité sociale ne demande jamais vos coordonnées par SMS",
         "Vous transmettez le message à vos amis"
       ],
+      "optionsEn": [
+        "You reply quickly so you do not lose the refund",
+        "You click on the link to check",
+        "You do not reply because it is probably a scam: the Sécurité sociale never asks for your bank details by text message",
+        "You forward the message to your friends"
+      ],
       "correctAnswer": 2,
-      "explanation": "Les administrations françaises (Sécurité sociale, impôts, etc.) ne demandent jamais de coordonnées bancaires par SMS ou email. Il s'agit très probablement d'une tentative de phishing (hameçonnage). Vous pouvez signaler ce type de message sur le site signal-spam.fr."
+      "explanation": "Les administrations françaises (Sécurité sociale, impôts, etc.) ne demandent jamais de coordonnées bancaires par SMS ou email. Il s'agit très probablement d'une tentative de phishing (hameçonnage). Vous pouvez signaler ce type de message sur le site signal-spam.fr.",
+      "explanationEn": "French government agencies (Social Security, tax office, etc.) never ask for bank details by text message or email. It is most likely a phishing attempt. You can report this type of message on the website signal-spam.fr."
     },
     {
       "id": "csp-mes-q13",
       "question": "Vous souhaitez vous marier en France. Où devez-vous célébrer le mariage pour qu'il soit reconnu par l'État ?",
+      "questionEn": "You want to get married in France. Where must the marriage take place for it to be legally recognised?",
       "options": [
         "Dans un lieu de culte uniquement",
         "À la mairie, devant un officier d'état civil",
         "Chez un notaire",
         "N'importe où, tant que des témoins sont présents"
       ],
+      "optionsEn": [
+        "In a place of worship only",
+        "At the town hall, before a civil registrar",
+        "At a notary's office",
+        "Anywhere, as long as witnesses are present"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, seul le mariage civil célébré à la mairie est reconnu par la loi. Une cérémonie religieuse peut avoir lieu en plus, mais elle n'a aucune valeur juridique si elle n'est pas précédée du mariage civil."
+      "explanation": "En France, seul le mariage civil célébré à la mairie est reconnu par la loi. Une cérémonie religieuse peut avoir lieu en plus, mais elle n'a aucune valeur juridique si elle n'est pas précédée du mariage civil.",
+      "explanationEn": "In France, only a civil marriage performed at the town hall (mairie) is legally recognised. A religious ceremony may also take place, but it has no legal value unless the civil marriage comes first."
     },
     {
       "id": "csp-mes-q14",
       "question": "Votre employeur vous demande de travailler 50 heures par semaine sans compensation. Est-ce légal ?",
+      "questionEn": "Your employer asks you to work 50 hours per week without extra pay. Is this legal?",
       "options": [
         "Oui, l'employeur décide des horaires",
         "Non, la durée légale du travail est de 35 heures par semaine, les heures supplémentaires doivent être compensées",
         "Oui, si vous avez signé le contrat",
         "Oui, pendant les 6 premiers mois"
       ],
+      "optionsEn": [
+        "Yes, the employer decides the hours",
+        "No, the legal working time is 35 hours per week, and overtime must be compensated",
+        "Yes, if you signed the contract",
+        "Yes, during the first 6 months"
+      ],
       "correctAnswer": 1,
-      "explanation": "La durée légale du travail en France est de 35 heures par semaine. Les heures supplémentaires doivent être rémunérées avec une majoration (25% puis 50%) ou compensées par du repos. La durée maximale ne peut dépasser 48 heures par semaine."
+      "explanation": "La durée légale du travail en France est de 35 heures par semaine. Les heures supplémentaires doivent être rémunérées avec une majoration (25% puis 50%) ou compensées par du repos. La durée maximale ne peut dépasser 48 heures par semaine.",
+      "explanationEn": "The legal working time in France is 35 hours per week. Overtime must be paid with a bonus (25% then 50%) or compensated with time off. The maximum cannot exceed 48 hours per week."
     },
     {
       "id": "csp-mes-q15",
       "question": "Vous êtes victime d'une agression dans la rue. Quel numéro appelez-vous en priorité ?",
+      "questionEn": "You are attacked in the street. Which number do you call first?",
       "options": [
         "Le 3939 (service public)",
         "Le 17 (police secours) ou le 112 (numéro d'urgence européen)",
         "Le 15 (SAMU)",
         "Le 01 45 39 40 00 (ambassade)"
       ],
+      "optionsEn": [
+        "3939 (public service information)",
+        "17 (police emergency) or 112 (European emergency number)",
+        "15 (SAMU - medical emergency)",
+        "01 45 39 40 00 (embassy)"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas d'agression, appelez le 17 (police secours) ou le 112 (numéro d'urgence européen, valide dans toute l'UE). Le 15 est le SAMU (urgences médicales) et le 18 les pompiers. Le 112 redirige vers le service approprié."
+      "explanation": "En cas d'agression, appelez le 17 (police secours) ou le 112 (numéro d'urgence européen, valide dans toute l'UE). Le 15 est le SAMU (urgences médicales) et le 18 les pompiers. Le 112 redirige vers le service approprié.",
+      "explanationEn": "In case of an attack, call 17 (police emergency) or 112 (European emergency number, valid across the EU). 15 is the SAMU (medical emergencies) and 18 is the fire brigade. 112 redirects you to the right service."
     },
     {
       "id": "csp-mes-q16",
       "question": "Un ami vous propose de travailler dans son restaurant sans être déclaré, pour « gagner plus ». Que risquez-vous ?",
+      "questionEn": "A friend offers you a job in his restaurant without declaring it officially, to 'earn more'. What do you risk?",
       "options": [
         "Rien, c'est une pratique courante",
         "Vous risquez une amende et la perte de vos droits sociaux (assurance maladie, chômage, retraite)",
         "Un simple avertissement la première fois",
         "Uniquement votre ami risque des poursuites"
       ],
+      "optionsEn": [
+        "Nothing, it is a common practice",
+        "You risk a fine and losing your social rights (health insurance, unemployment benefits, retirement)",
+        "Just a warning the first time",
+        "Only your friend risks being prosecuted"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le travail non déclaré (« au noir ») est illégal en France. Le salarié perd ses droits à la protection sociale (maladie, chômage, retraite, accident du travail). L'employeur comme le salarié s'exposent à des sanctions. De plus, cela peut avoir des conséquences sur votre titre de séjour."
+      "explanation": "Le travail non déclaré (« au noir ») est illégal en France. Le salarié perd ses droits à la protection sociale (maladie, chômage, retraite, accident du travail). L'employeur comme le salarié s'exposent à des sanctions. De plus, cela peut avoir des conséquences sur votre titre de séjour.",
+      "explanationEn": "Undeclared work ('au noir' - working off the books) is illegal in France. The worker loses their social protection rights (health, unemployment, retirement, work accidents). Both the employer and the worker face penalties. It can also affect your residence permit."
     },
     {
       "id": "csp-mes-q17",
       "question": "Vous souhaitez inscrire votre enfant à l'école maternelle. À partir de quel âge est-ce obligatoire ?",
+      "questionEn": "You want to register your child for nursery school (école maternelle). From what age is it compulsory?",
       "options": [
         "6 ans",
         "5 ans",
         "3 ans",
         "4 ans"
       ],
+      "optionsEn": [
+        "6 years old",
+        "5 years old",
+        "3 years old",
+        "4 years old"
+      ],
       "correctAnswer": 2,
-      "explanation": "Depuis la loi du 26 juillet 2019, l'instruction est obligatoire dès l'âge de 3 ans en France. L'inscription à l'école maternelle se fait auprès de la mairie de votre commune de résidence."
+      "explanation": "Depuis la loi du 26 juillet 2019, l'instruction est obligatoire dès l'âge de 3 ans en France. L'inscription à l'école maternelle se fait auprès de la mairie de votre commune de résidence.",
+      "explanationEn": "Since the law of 26 July 2019, education is compulsory from age 3 in France. Registration for nursery school is done at the town hall of your area."
     },
     {
       "id": "csp-mes-q18",
       "question": "Vous avez un problème de santé un dimanche soir et votre médecin traitant n'est pas disponible. Que faites-vous ?",
+      "questionEn": "You have a health problem on a Sunday evening and your regular doctor is not available. What do you do?",
       "options": [
         "Vous attendez lundi matin",
         "Vous appelez le 15 (SAMU) pour être orienté vers un médecin de garde ou les urgences",
         "Vous allez directement aux urgences pour un simple rhume",
         "Vous cherchez des conseils médicaux sur internet"
       ],
+      "optionsEn": [
+        "You wait until Monday morning",
+        "You call 15 (SAMU) to be directed to an on-call doctor or the emergency room",
+        "You go directly to the emergency room for a simple cold",
+        "You look for medical advice on the internet"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas de besoin médical en dehors des heures d'ouverture, appelez le 15 (SAMU). Un médecin régulateur évaluera votre situation et vous orientera vers un médecin de garde, une pharmacie de garde ou les urgences si nécessaire."
+      "explanation": "En cas de besoin médical en dehors des heures d'ouverture, appelez le 15 (SAMU). Un médecin régulateur évaluera votre situation et vous orientera vers un médecin de garde, une pharmacie de garde ou les urgences si nécessaire.",
+      "explanationEn": "If you need medical help outside office hours, call 15 (SAMU). A doctor will assess your situation and direct you to an on-call doctor, an on-call pharmacy, or the emergency room if needed."
     },
     {
       "id": "csp-mes-q19",
       "question": "Vous conduisez et un gendarme vous arrête pour un contrôle routier. Que devez-vous présenter ?",
+      "questionEn": "You are driving and a gendarme (police officer) stops you for a road check. What must you show?",
       "options": [
         "Uniquement votre passeport",
         "Votre permis de conduire, la carte grise du véhicule et l'attestation d'assurance",
         "Uniquement votre permis de conduire",
         "Votre carte d'identité et une facture d'essence"
       ],
+      "optionsEn": [
+        "Only your passport",
+        "Your driving licence, the vehicle registration document (carte grise), and the insurance certificate",
+        "Only your driving licence",
+        "Your ID card and a fuel receipt"
+      ],
       "correctAnswer": 1,
-      "explanation": "Lors d'un contrôle routier en France, vous devez présenter trois documents : votre permis de conduire, le certificat d'immatriculation (carte grise) et l'attestation d'assurance du véhicule. L'absence de l'un de ces documents est une infraction."
+      "explanation": "Lors d'un contrôle routier en France, vous devez présenter trois documents : votre permis de conduire, le certificat d'immatriculation (carte grise) et l'attestation d'assurance du véhicule. L'absence de l'un de ces documents est une infraction.",
+      "explanationEn": "During a road check in France, you must show three documents: your driving licence, the vehicle registration document (carte grise), and the vehicle insurance certificate. Missing any of these is an offence."
     },
     {
       "id": "csp-mes-q20",
       "question": "Votre voisin vous menace verbalement et vous insulte régulièrement. Que pouvez-vous faire ?",
+      "questionEn": "Your neighbour regularly threatens and insults you. What can you do?",
       "options": [
         "Rien, les paroles ne comptent pas",
         "Le menacer en retour pour qu'il arrête",
         "Déposer une main courante ou porter plainte au commissariat",
         "Déménager, c'est la seule solution"
       ],
+      "optionsEn": [
+        "Nothing, words do not count",
+        "Threaten them back to make them stop",
+        "File a report (main courante) or press charges at the police station",
+        "Move out, it is the only solution"
+      ],
       "correctAnswer": 2,
-      "explanation": "Les menaces et insultes sont des infractions pénales en France. Vous pouvez déposer une main courante (signalement) ou porter plainte au commissariat ou à la gendarmerie. Conservez les preuves (témoignages, enregistrements, messages)."
+      "explanation": "Les menaces et insultes sont des infractions pénales en France. Vous pouvez déposer une main courante (signalement) ou porter plainte au commissariat ou à la gendarmerie. Conservez les preuves (témoignages, enregistrements, messages).",
+      "explanationEn": "Threats and insults are criminal offences in France. You can file a report (main courante) or press charges at the police station or gendarmerie. Keep evidence (witnesses, recordings, messages)."
     },
     {
       "id": "csp-mes-q21",
       "question": "Vous souhaitez créer une association avec des amis. Quelle est la démarche ?",
+      "questionEn": "You want to create an association with friends. What is the process?",
       "options": [
         "Il faut une autorisation spéciale du préfet",
         "Il suffit de rédiger des statuts et de les déclarer en préfecture ou en ligne",
         "Seuls les citoyens français peuvent créer une association",
         "Il faut un capital minimum de 1 000 €"
       ],
+      "optionsEn": [
+        "You need a special permit from the préfet (regional authority)",
+        "You just need to write the statutes and register them at the préfecture or online",
+        "Only French citizens can create an association",
+        "You need a minimum capital of 1,000 euros"
+      ],
       "correctAnswer": 1,
-      "explanation": "La liberté d'association est un droit fondamental en France (loi du 1er juillet 1901). Toute personne, française ou étrangère, peut créer une association. Il suffit de rédiger des statuts et de déclarer l'association en préfecture ou en ligne."
+      "explanation": "La liberté d'association est un droit fondamental en France (loi du 1er juillet 1901). Toute personne, française ou étrangère, peut créer une association. Il suffit de rédiger des statuts et de déclarer l'association en préfecture ou en ligne.",
+      "explanationEn": "Freedom of association is a fundamental right in France (law of 1 July 1901). Any person, French or foreign, can create an association. You just need to write the statutes and register the association at the préfecture or online."
     },
     {
       "id": "csp-mes-q22",
       "question": "Vous voulez voter aux élections municipales. Quelle condition est nécessaire ?",
+      "questionEn": "You want to vote in local elections (élections municipales). What condition is required?",
       "options": [
         "Avoir un emploi en France",
         "Être inscrit sur les listes électorales de sa commune",
         "Habiter en France depuis plus de 10 ans",
         "Avoir un compte bancaire français"
       ],
+      "optionsEn": [
+        "Having a job in France",
+        "Being registered on the electoral roll of your town",
+        "Living in France for more than 10 years",
+        "Having a French bank account"
+      ],
       "correctAnswer": 1,
-      "explanation": "Pour voter aux élections en France, il faut être inscrit sur les listes électorales de sa commune. Les citoyens français et les citoyens de l'Union européenne (pour les municipales et européennes) peuvent s'inscrire. L'inscription est possible en mairie ou en ligne."
+      "explanation": "Pour voter aux élections en France, il faut être inscrit sur les listes électorales de sa commune. Les citoyens français et les citoyens de l'Union européenne (pour les municipales et européennes) peuvent s'inscrire. L'inscription est possible en mairie ou en ligne.",
+      "explanationEn": "To vote in French elections, you must be registered on the electoral roll of your town. French citizens and EU citizens (for local and European elections) can register. Registration is possible at the town hall or online."
     },
     {
       "id": "csp-mes-q23",
       "question": "Vous louez un appartement et constatez un dégât des eaux provenant de l'appartement du dessus. Que faites-vous ?",
+      "questionEn": "You rent an apartment and notice water damage coming from the apartment above. What do you do?",
       "options": [
         "Vous réparez vous-même et envoyez la facture au voisin",
         "Vous remplissez un constat amiable de dégât des eaux avec votre voisin et contactez votre assurance habitation",
         "Vous ne faites rien et attendez que ça sèche",
         "Vous appelez les pompiers"
       ],
+      "optionsEn": [
+        "You fix it yourself and send the bill to the neighbour",
+        "You fill out a joint water damage report with your neighbour and contact your home insurance",
+        "You do nothing and wait for it to dry",
+        "You call the fire brigade"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas de dégât des eaux, la première chose à faire est de remplir un constat amiable avec le voisin concerné et de déclarer le sinistre à votre assurance habitation dans les 5 jours ouvrés. L'assurance habitation est obligatoire pour les locataires en France."
+      "explanation": "En cas de dégât des eaux, la première chose à faire est de remplir un constat amiable avec le voisin concerné et de déclarer le sinistre à votre assurance habitation dans les 5 jours ouvrés. L'assurance habitation est obligatoire pour les locataires en France.",
+      "explanationEn": "In case of water damage, the first thing to do is fill out a joint report with the neighbour involved and report the damage to your home insurance within 5 working days. Home insurance is mandatory for tenants in France."
     },
     {
       "id": "csp-mes-q24",
       "question": "Un homme et une femme postulent pour le même emploi avec les mêmes compétences. L'employeur peut-il privilégier l'homme ?",
+      "questionEn": "A man and a woman apply for the same job with the same qualifications. Can the employer choose the man over the woman?",
       "options": [
         "Oui, c'est le choix de l'employeur",
         "Oui, si le poste est physiquement exigeant",
         "Non, la discrimination à l'embauche fondée sur le sexe est interdite par la loi",
         "Oui, si les clients préfèrent un homme"
       ],
+      "optionsEn": [
+        "Yes, it is the employer's choice",
+        "Yes, if the job is physically demanding",
+        "No, hiring discrimination based on gender is forbidden by law",
+        "Yes, if clients prefer a man"
+      ],
       "correctAnswer": 2,
-      "explanation": "L'égalité entre les femmes et les hommes est un principe constitutionnel. La discrimination à l'embauche fondée sur le sexe est interdite et punie par la loi (article L1132-1 du Code du travail). Les victimes peuvent saisir le Défenseur des droits."
+      "explanation": "L'égalité entre les femmes et les hommes est un principe constitutionnel. La discrimination à l'embauche fondée sur le sexe est interdite et punie par la loi (article L1132-1 du Code du travail). Les victimes peuvent saisir le Défenseur des droits.",
+      "explanationEn": "Equality between women and men is a constitutional principle. Hiring discrimination based on gender is forbidden and punished by law (article L1132-1 of the Labour Code). Victims can contact the Defender of Rights (Défenseur des droits)."
     },
     {
       "id": "csp-mes-q25",
       "question": "Vous souhaitez obtenir votre permis de conduire en France. Votre permis étranger est-il valable ?",
+      "questionEn": "You want to get a driving licence in France. Is your foreign licence valid?",
       "options": [
         "Oui, il est valable indéfiniment",
         "Il est valable pendant un an après votre installation, puis vous devez demander son échange ou passer le permis français",
         "Non, il faut repasser le permis entièrement",
         "Il est valable seulement si votre pays a un accord avec la France"
       ],
+      "optionsEn": [
+        "Yes, it is valid forever",
+        "It is valid for one year after you settle in France, then you must apply for an exchange or take the French driving test",
+        "No, you must retake the entire driving test",
+        "It is valid only if your country has an agreement with France"
+      ],
       "correctAnswer": 1,
-      "explanation": "Un permis de conduire étranger est généralement reconnu pendant la première année de résidence en France. Passé ce délai, vous devez demander son échange (si accord bilatéral avec votre pays) ou passer le permis français."
+      "explanation": "Un permis de conduire étranger est généralement reconnu pendant la première année de résidence en France. Passé ce délai, vous devez demander son échange (si accord bilatéral avec votre pays) ou passer le permis français.",
+      "explanationEn": "A foreign driving licence is generally recognised during the first year of living in France. After that, you must apply for an exchange (if there is an agreement between your country and France) or take the French driving test."
     },
     {
       "id": "csp-mes-q26",
       "question": "Vous êtes malade et ne pouvez pas aller travailler. Que devez-vous faire ?",
+      "questionEn": "You are sick and cannot go to work. What must you do?",
       "options": [
         "Prévenir votre employeur quand vous vous sentez mieux",
         "Consulter un médecin, obtenir un arrêt de travail et le transmettre à votre employeur et à la Sécurité sociale dans les 48 heures",
         "Envoyer un simple SMS à votre employeur",
         "Ne rien faire si c'est moins de 3 jours"
       ],
+      "optionsEn": [
+        "Tell your employer when you feel better",
+        "See a doctor, get a sick leave certificate, and send it to your employer and the Sécurité sociale within 48 hours",
+        "Just send a text message to your employer",
+        "Do nothing if it is less than 3 days"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas de maladie, vous devez consulter un médecin qui vous délivrera un arrêt de travail. Vous devez transmettre cet arrêt à votre employeur et à votre caisse d'assurance maladie dans les 48 heures pour bénéficier des indemnités journalières."
+      "explanation": "En cas de maladie, vous devez consulter un médecin qui vous délivrera un arrêt de travail. Vous devez transmettre cet arrêt à votre employeur et à votre caisse d'assurance maladie dans les 48 heures pour bénéficier des indemnités journalières.",
+      "explanationEn": "When you are sick, you must see a doctor who will give you a sick leave certificate. You must send this certificate to your employer and your health insurance within 48 hours to receive daily sick pay."
     },
     {
       "id": "csp-mes-q27",
       "question": "Votre enfant est harcelé à l'école par d'autres élèves. Que pouvez-vous faire ?",
+      "questionEn": "Your child is being bullied at school by other students. What can you do?",
       "options": [
         "Dire à votre enfant de se défendre seul",
         "Alerter la direction de l'école et, si nécessaire, appeler le 3020 (numéro contre le harcèlement)",
         "Changer d'école sans rien signaler",
         "Confronter directement les autres enfants"
       ],
+      "optionsEn": [
+        "Tell your child to defend themselves alone",
+        "Alert the school management and, if needed, call 3020 (anti-bullying helpline)",
+        "Change schools without reporting anything",
+        "Confront the other children directly"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le harcèlement scolaire est pris très au sérieux en France. Vous devez alerter le directeur de l'école ou le chef d'établissement. Le numéro 3020 est dédié aux situations de harcèlement scolaire. En cas de faits graves, vous pouvez porter plainte."
+      "explanation": "Le harcèlement scolaire est pris très au sérieux en France. Vous devez alerter le directeur de l'école ou le chef d'établissement. Le numéro 3020 est dédié aux situations de harcèlement scolaire. En cas de faits graves, vous pouvez porter plainte.",
+      "explanationEn": "Bullying at school is taken very seriously in France. You must alert the school principal. The number 3020 is dedicated to school bullying situations. In serious cases, you can file a complaint with the police."
     },
     {
       "id": "csp-mes-q28",
       "question": "Vous recevez une contravention pour stationnement interdit. Vous pensez qu'elle est injuste. Que pouvez-vous faire ?",
+      "questionEn": "You receive a parking fine. You think it is unfair. What can you do?",
       "options": [
         "Ne pas la payer et l'ignorer",
         "La contester dans le délai indiqué en joignant les justificatifs nécessaires",
         "Aller directement au tribunal",
         "Payer et ne rien faire d'autre, il n'y a pas de recours"
       ],
+      "optionsEn": [
+        "Not pay it and ignore it",
+        "Challenge it within the time limit shown, with the necessary supporting documents",
+        "Go directly to court",
+        "Pay and do nothing else, there is no way to appeal"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, vous avez le droit de contester une contravention dans le délai indiqué (généralement 45 jours). La contestation se fait en ligne sur le site de l'ANTAI ou par courrier. Ignorer une contravention entraîne une majoration de l'amende."
+      "explanation": "En France, vous avez le droit de contester une contravention dans le délai indiqué (généralement 45 jours). La contestation se fait en ligne sur le site de l'ANTAI ou par courrier. Ignorer une contravention entraîne une majoration de l'amende.",
+      "explanationEn": "In France, you have the right to challenge a fine within the time limit shown (usually 45 days). You can challenge it online on the ANTAI website or by post. Ignoring a fine results in a higher fine."
     },
     {
       "id": "csp-mes-q29",
       "question": "Lors d'une réunion de copropriété, un copropriétaire propose d'interdire la location aux personnes d'une certaine nationalité. Est-ce légal ?",
+      "questionEn": "At a building co-ownership meeting, a co-owner suggests banning rentals to people of a certain nationality. Is this legal?",
       "options": [
         "Oui, la copropriété peut fixer ses propres règles",
         "Oui, si la majorité des copropriétaires vote pour",
         "Non, c'est une discrimination fondée sur l'origine nationale, interdite par la loi",
         "Oui, si c'est inscrit dans le règlement de copropriété"
       ],
+      "optionsEn": [
+        "Yes, the co-ownership can set its own rules",
+        "Yes, if the majority of co-owners vote for it",
+        "No, it is discrimination based on national origin, which is forbidden by law",
+        "Yes, if it is written in the co-ownership rules"
+      ],
       "correctAnswer": 2,
-      "explanation": "Toute discrimination fondée sur l'origine nationale est interdite en France, y compris dans le logement (loi du 6 juillet 1989). Une telle décision serait nulle et pourrait entraîner des poursuites pénales."
+      "explanation": "Toute discrimination fondée sur l'origine nationale est interdite en France, y compris dans le logement (loi du 6 juillet 1989). Une telle décision serait nulle et pourrait entraîner des poursuites pénales.",
+      "explanationEn": "All discrimination based on national origin is forbidden in France, including in housing (law of 6 July 1989). Such a decision would be void and could lead to criminal prosecution."
     },
     {
       "id": "csp-mes-q30",
       "question": "Vous vous installez en France et souhaitez bénéficier de l'assurance maladie. Quelle est la première démarche ?",
+      "questionEn": "You are settling in France and want to benefit from health insurance. What is the first step?",
       "options": [
         "Souscrire une assurance privée uniquement",
         "Demander votre affiliation à la Sécurité sociale (Assurance Maladie)",
         "Aller directement à l'hôpital avec votre passeport",
         "Attendre d'être malade pour s'inscrire"
       ],
+      "optionsEn": [
+        "Get private insurance only",
+        "Apply for enrolment with the Sécurité sociale (Health Insurance)",
+        "Go directly to the hospital with your passport",
+        "Wait until you are sick to register"
+      ],
       "correctAnswer": 1,
-      "explanation": "Toute personne résidant en France de manière stable et régulière a droit à la prise en charge de ses frais de santé par la Sécurité sociale (Protection Universelle Maladie - PUMa). La demande se fait auprès de la CPAM de votre lieu de résidence."
+      "explanation": "Toute personne résidant en France de manière stable et régulière a droit à la prise en charge de ses frais de santé par la Sécurité sociale (Protection Universelle Maladie - PUMa). La demande se fait auprès de la CPAM de votre lieu de résidence.",
+      "explanationEn": "Any person living in France in a stable and legal way has the right to health care coverage through the Sécurité sociale (Universal Health Protection - PUMa). You apply at the CPAM (health insurance office) in your area."
     },
     {
       "id": "csp-mes-q31",
       "question": "Un commerçant refuse de vous servir en raison de votre couleur de peau. Que pouvez-vous faire ?",
+      "questionEn": "A shopkeeper refuses to serve you because of your skin colour. What can you do?",
       "options": [
         "Rien, le commerçant est libre de servir qui il veut",
         "Porter plainte pour discrimination et/ou saisir le Défenseur des droits",
         "Laisser un avis négatif sur internet uniquement",
         "Appeler la mairie"
       ],
+      "optionsEn": [
+        "Nothing, the shopkeeper is free to serve whoever they want",
+        "File a complaint for discrimination and/or contact the Defender of Rights (Défenseur des droits)",
+        "Just leave a negative review online",
+        "Call the town hall"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le refus de vente fondé sur la couleur de peau est un délit de discrimination (article 225-2 du Code pénal), passible de 3 ans d'emprisonnement et 45 000 € d'amende. Vous pouvez porter plainte et/ou saisir le Défenseur des droits."
+      "explanation": "Le refus de vente fondé sur la couleur de peau est un délit de discrimination (article 225-2 du Code pénal), passible de 3 ans d'emprisonnement et 45 000 € d'amende. Vous pouvez porter plainte et/ou saisir le Défenseur des droits.",
+      "explanationEn": "Refusing to serve someone based on skin colour is a discrimination offence (article 225-2 of the Penal Code), punishable by 3 years in prison and a 45,000-euro fine. You can file a complaint and/or contact the Defender of Rights."
     },
     {
       "id": "csp-mes-q32",
       "question": "Vous trouvez un emploi et votre employeur vous demande de signer un contrat de travail. Que devez-vous vérifier ?",
+      "questionEn": "You find a job and your employer asks you to sign a work contract. What should you check?",
       "options": [
         "Uniquement le salaire",
         "Le type de contrat (CDI/CDD), le salaire, la durée du travail, la période d'essai et la convention collective",
         "Rien, il faut signer rapidement pour ne pas perdre l'emploi",
         "Uniquement la date de début"
       ],
+      "optionsEn": [
+        "Only the salary",
+        "The type of contract (CDI/CDD - permanent/fixed-term), the salary, the working hours, the trial period, and the collective agreement",
+        "Nothing, you must sign quickly so you do not lose the job",
+        "Only the start date"
+      ],
       "correctAnswer": 1,
-      "explanation": "Avant de signer un contrat de travail, vérifiez le type de contrat (CDI, CDD), le salaire brut et net, la durée hebdomadaire, la période d'essai, le lieu de travail et la convention collective applicable. Vous avez le droit de prendre le temps de le lire."
+      "explanation": "Avant de signer un contrat de travail, vérifiez le type de contrat (CDI, CDD), le salaire brut et net, la durée hebdomadaire, la période d'essai, le lieu de travail et la convention collective applicable. Vous avez le droit de prendre le temps de le lire.",
+      "explanationEn": "Before signing a work contract, check the type of contract (CDI permanent / CDD fixed-term), the gross and net salary, the weekly hours, the trial period, the work location, and the applicable collective agreement. You have the right to take time to read it."
     },
     {
       "id": "csp-mes-q33",
       "question": "Vous souhaitez manifester pacifiquement dans la rue pour soutenir une cause. Avez-vous le droit ?",
+      "questionEn": "You want to demonstrate peacefully in the street to support a cause. Do you have the right?",
       "options": [
         "Non, seuls les syndicats peuvent manifester",
         "Oui, la liberté de manifestation est un droit fondamental en France, sous réserve de déclaration préalable en préfecture",
         "Oui, mais uniquement si vous êtes citoyen français",
         "Non, les manifestations sont interdites en France"
       ],
+      "optionsEn": [
+        "No, only trade unions can demonstrate",
+        "Yes, the right to demonstrate is a fundamental right in France, subject to prior declaration at the préfecture",
+        "Yes, but only if you are a French citizen",
+        "No, demonstrations are forbidden in France"
+      ],
       "correctAnswer": 1,
-      "explanation": "La liberté de manifestation est un droit fondamental en France, garanti par la Constitution. Une manifestation sur la voie publique doit faire l'objet d'une déclaration préalable en préfecture. Ce droit s'applique à toute personne, quelle que soit sa nationalité."
+      "explanation": "La liberté de manifestation est un droit fondamental en France, garanti par la Constitution. Une manifestation sur la voie publique doit faire l'objet d'une déclaration préalable en préfecture. Ce droit s'applique à toute personne, quelle que soit sa nationalité.",
+      "explanationEn": "The right to demonstrate is a fundamental right in France, guaranteed by the Constitution. A public demonstration must be declared in advance at the préfecture. This right applies to everyone, regardless of nationality."
     },
     {
       "id": "csp-mes-q34",
       "question": "Votre bailleur refuse de vous rendre votre dépôt de garantie après votre départ, sans justification. Que pouvez-vous faire ?",
+      "questionEn": "Your landlord refuses to return your security deposit after you move out, without justification. What can you do?",
       "options": [
         "Rien, le propriétaire peut garder le dépôt de garantie",
         "Envoyer une lettre recommandée de mise en demeure, puis saisir la commission de conciliation ou le tribunal si nécessaire",
         "Appeler la police",
         "Retourner dans l'appartement en attendant"
       ],
+      "optionsEn": [
+        "Nothing, the landlord can keep the security deposit",
+        "Send a formal demand letter by registered post, then contact the conciliation commission or the court if needed",
+        "Call the police",
+        "Go back to the apartment and wait"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le propriétaire doit restituer le dépôt de garantie dans un délai d'1 mois (si état des lieux conforme) ou 2 mois. En cas de non-restitution injustifiée, envoyez une mise en demeure par lettre recommandée, puis saisissez la commission de conciliation ou le tribunal."
+      "explanation": "Le propriétaire doit restituer le dépôt de garantie dans un délai d'1 mois (si état des lieux conforme) ou 2 mois. En cas de non-restitution injustifiée, envoyez une mise en demeure par lettre recommandée, puis saisissez la commission de conciliation ou le tribunal.",
+      "explanationEn": "The landlord must return the security deposit within 1 month (if the inspection report is fine) or 2 months. If not returned without justification, send a formal demand letter by registered post, then contact the conciliation commission or the court."
     },
     {
       "id": "csp-mes-q35",
       "question": "Vous êtes invité à un repas chez des collègues français. On vous sert du porc mais vous n'en mangez pas pour des raisons religieuses. Que faites-vous ?",
+      "questionEn": "You are invited to dinner at French colleagues' home. They serve pork but you do not eat it for religious reasons. What do you do?",
       "options": [
         "Vous quittez la table en vous offensant",
         "Vous mangez pour ne pas vexer vos hôtes",
         "Vous déclinez poliment en expliquant vos préférences alimentaires",
         "Vous critiquez le choix du menu"
       ],
+      "optionsEn": [
+        "You leave the table, feeling offended",
+        "You eat it so you do not upset your hosts",
+        "You politely decline and explain your food preferences",
+        "You criticise the menu choice"
+      ],
       "correctAnswer": 2,
-      "explanation": "En France, la liberté de conscience inclut le respect des choix alimentaires de chacun. Il est tout à fait normal et accepté de décliner poliment un plat en expliquant ses préférences. La convivialité repose sur le respect mutuel."
+      "explanation": "En France, la liberté de conscience inclut le respect des choix alimentaires de chacun. Il est tout à fait normal et accepté de décliner poliment un plat en expliquant ses préférences. La convivialité repose sur le respect mutuel.",
+      "explanationEn": "In France, freedom of conscience includes respecting everyone's food choices. It is perfectly normal and accepted to politely decline a dish and explain your preferences. Good social relations are based on mutual respect."
     },
     {
       "id": "csp-mes-q36",
       "question": "Vous constatez que votre salaire est inférieur au SMIC. Que pouvez-vous faire ?",
+      "questionEn": "You notice that your salary is below the SMIC (minimum wage). What can you do?",
       "options": [
         "Rien, c'est ce qui a été convenu",
         "Demander à votre employeur de régulariser la situation et, si refus, saisir le conseil de prud'hommes",
         "Démissionner immédiatement",
         "Travailler moins d'heures pour compenser"
       ],
+      "optionsEn": [
+        "Nothing, it is what was agreed",
+        "Ask your employer to correct the situation and, if they refuse, take it to the labour court (conseil de prud'hommes)",
+        "Resign immediately",
+        "Work fewer hours to compensate"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire horaire minimum légal en France. Aucun salarié ne peut être payé en dessous. Si c'est le cas, demandez une régularisation à votre employeur. En cas de refus, saisissez le conseil de prud'hommes."
+      "explanation": "Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire horaire minimum légal en France. Aucun salarié ne peut être payé en dessous. Si c'est le cas, demandez une régularisation à votre employeur. En cas de refus, saisissez le conseil de prud'hommes.",
+      "explanationEn": "The SMIC (Salaire Minimum Interprofessionnel de Croissance) is the legal minimum hourly wage in France. No worker can be paid below it. If this happens, ask your employer to correct it. If they refuse, take it to the labour court (conseil de prud'hommes)."
     },
     {
       "id": "csp-mes-q37",
       "question": "Vous souhaitez divorcer. Où devez-vous vous adresser ?",
+      "questionEn": "You want to get a divorce. Who should you contact?",
       "options": [
         "À la mairie où vous vous êtes marié",
         "À un avocat, car le divorce passe par une procédure judiciaire ou un accord notarié",
         "À la préfecture",
         "Il suffit d'envoyer une lettre à votre conjoint"
       ],
+      "optionsEn": [
+        "The town hall where you got married",
+        "A lawyer, because divorce goes through a legal procedure or a notarised agreement",
+        "The préfecture (local government office)",
+        "You just need to send a letter to your spouse"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le divorce en France nécessite l'intervention d'un avocat. Il peut être prononcé par un juge (divorce contentieux) ou formalisé par un acte notarié (divorce par consentement mutuel). La seule volonté d'un des époux ne suffit pas."
+      "explanation": "Le divorce en France nécessite l'intervention d'un avocat. Il peut être prononcé par un juge (divorce contentieux) ou formalisé par un acte notarié (divorce par consentement mutuel). La seule volonté d'un des époux ne suffit pas.",
+      "explanationEn": "Divorce in France requires a lawyer. It can be decided by a judge (contested divorce) or made official by a notarised document (divorce by mutual consent). The wish of only one spouse is not enough."
     },
     {
       "id": "csp-mes-q38",
       "question": "Votre fils de 16 ans a commis un vol dans un magasin. Quelle est votre responsabilité en tant que parent ?",
+      "questionEn": "Your 16-year-old son stole something from a shop. What is your responsibility as a parent?",
       "options": [
         "Aucune, il est assez grand pour assumer",
         "Vous êtes civilement responsable des actes de votre enfant mineur et pouvez devoir indemniser la victime",
         "Seul votre fils sera puni",
         "Vous risquez d'aller en prison à sa place"
       ],
+      "optionsEn": [
+        "None, he is old enough to be responsible",
+        "You are legally responsible for the actions of your minor child and may have to compensate the victim",
+        "Only your son will be punished",
+        "You risk going to prison in his place"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, les parents sont civilement responsables des dommages causés par leurs enfants mineurs (article 1242 du Code civil). Ils peuvent être tenus d'indemniser les victimes. L'enfant mineur peut également faire l'objet de mesures éducatives."
+      "explanation": "En France, les parents sont civilement responsables des dommages causés par leurs enfants mineurs (article 1242 du Code civil). Ils peuvent être tenus d'indemniser les victimes. L'enfant mineur peut également faire l'objet de mesures éducatives.",
+      "explanationEn": "In France, parents are legally responsible for damage caused by their minor children (article 1242 of the Civil Code). They may have to compensate the victims. The minor child may also face educational measures."
     },
     {
       "id": "csp-mes-q39",
       "question": "Vous voulez envoyer votre enfant dans une école privée religieuse. Est-ce autorisé ?",
+      "questionEn": "You want to send your child to a private religious school. Is this allowed?",
       "options": [
         "Non, toutes les écoles doivent être laïques en France",
         "Oui, la liberté d'enseignement permet le choix entre école publique et privée",
         "Oui, mais uniquement les écoles catholiques",
         "Non, les écoles religieuses sont interdites depuis 1905"
       ],
+      "optionsEn": [
+        "No, all schools must be secular in France",
+        "Yes, freedom of education allows the choice between public and private schools",
+        "Yes, but only Catholic schools",
+        "No, religious schools have been forbidden since 1905"
+      ],
       "correctAnswer": 1,
-      "explanation": "La liberté d'enseignement est un principe constitutionnel en France. Les parents sont libres de choisir entre l'enseignement public (laïque et gratuit) et l'enseignement privé (qui peut être confessionnel). La laïcité stricte s'applique aux écoles publiques."
+      "explanation": "La liberté d'enseignement est un principe constitutionnel en France. Les parents sont libres de choisir entre l'enseignement public (laïque et gratuit) et l'enseignement privé (qui peut être confessionnel). La laïcité stricte s'applique aux écoles publiques.",
+      "explanationEn": "Freedom of education is a constitutional principle in France. Parents are free to choose between public education (secular and free) and private education (which can be religious). Strict secularism (laïcité) applies only to public schools."
     },
     {
       "id": "csp-mes-q40",
       "question": "Vous êtes locataire et votre chauffage ne fonctionne plus en plein hiver. Votre propriétaire ne réagit pas. Que pouvez-vous faire ?",
+      "questionEn": "You are a tenant and your heating has stopped working in the middle of winter. Your landlord does not respond. What can you do?",
       "options": [
         "Arrêter de payer le loyer",
         "Mettre en demeure le propriétaire par lettre recommandée, puis saisir le tribunal si nécessaire",
         "Réparer vous-même et déduire le coût du loyer sans prévenir",
         "Rien, c'est au locataire de s'en occuper"
       ],
+      "optionsEn": [
+        "Stop paying rent",
+        "Send the landlord a formal demand by registered letter, then take it to court if needed",
+        "Fix it yourself and deduct the cost from the rent without telling anyone",
+        "Nothing, it is the tenant's responsibility"
+      ],
       "correctAnswer": 1,
-      "explanation": "Le propriétaire a l'obligation de fournir un logement décent avec un chauffage fonctionnel. En cas de défaillance, envoyez une mise en demeure par lettre recommandée. Si rien ne change, vous pouvez saisir la commission de conciliation ou le tribunal. Ne cessez jamais de payer le loyer sans décision de justice."
+      "explanation": "Le propriétaire a l'obligation de fournir un logement décent avec un chauffage fonctionnel. En cas de défaillance, envoyez une mise en demeure par lettre recommandée. Si rien ne change, vous pouvez saisir la commission de conciliation ou le tribunal. Ne cessez jamais de payer le loyer sans décision de justice.",
+      "explanationEn": "The landlord is required to provide a decent home with working heating. If they fail, send a formal demand by registered letter. If nothing changes, you can contact the conciliation commission or the court. Never stop paying rent without a court decision."
     },
     {
       "id": "csp-mes-q41",
       "question": "Vous êtes dans le métro et vous voyez une personne agresser une autre personne. Que devez-vous faire ?",
+      "questionEn": "You are in the metro and you see someone attacking another person. What should you do?",
       "options": [
         "Intervenir physiquement dans tous les cas",
         "Alerter les secours (17 ou 112) et, si possible, les agents de la station, sans vous mettre en danger",
         "Filmer la scène sans intervenir",
         "Changer de wagon et ignorer la situation"
       ],
+      "optionsEn": [
+        "Physically intervene in all cases",
+        "Call emergency services (17 or 112) and, if possible, alert station staff, without putting yourself in danger",
+        "Film the scene without doing anything",
+        "Change carriages and ignore the situation"
+      ],
       "correctAnswer": 1,
-      "explanation": "La non-assistance à personne en danger est un délit en France (article 223-6 du Code pénal). Vous devez alerter les secours (17 ou 112) ou les agents de sécurité. Vous n'êtes pas obligé d'intervenir physiquement si cela vous met en danger, mais vous devez appeler de l'aide."
+      "explanation": "La non-assistance à personne en danger est un délit en France (article 223-6 du Code pénal). Vous devez alerter les secours (17 ou 112) ou les agents de sécurité. Vous n'êtes pas obligé d'intervenir physiquement si cela vous met en danger, mais vous devez appeler de l'aide.",
+      "explanationEn": "Failing to help a person in danger is a criminal offence in France (article 223-6 of the Penal Code). You must call emergency services (17 or 112) or alert security staff. You do not have to physically intervene if it puts you in danger, but you must call for help."
     },
     {
       "id": "csp-mes-q42",
       "question": "Votre employeur vous licencie du jour au lendemain sans motif ni procédure. Est-ce légal ?",
+      "questionEn": "Your employer fires you overnight without reason or procedure. Is this legal?",
       "options": [
         "Oui, l'employeur peut licencier quand il veut",
         "Non, un licenciement doit respecter une procédure (convocation, entretien, notification) et être justifié par un motif réel et sérieux",
         "Oui, pendant la première année de contrat",
         "Oui, si l'entreprise a moins de 10 salariés"
       ],
+      "optionsEn": [
+        "Yes, the employer can fire anyone at any time",
+        "No, a dismissal must follow a procedure (summons, interview, written notice) and be justified by a real and serious reason",
+        "Yes, during the first year of the contract",
+        "Yes, if the company has fewer than 10 employees"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, tout licenciement doit être justifié par un motif réel et sérieux et respecter une procédure légale (convocation à un entretien préalable, entretien, notification par lettre recommandée avec préavis). Un licenciement abusif peut être contesté devant le conseil de prud'hommes."
+      "explanation": "En France, tout licenciement doit être justifié par un motif réel et sérieux et respecter une procédure légale (convocation à un entretien préalable, entretien, notification par lettre recommandée avec préavis). Un licenciement abusif peut être contesté devant le conseil de prud'hommes.",
+      "explanationEn": "In France, every dismissal must be justified by a real and serious reason and follow a legal procedure (invitation to a preliminary meeting, meeting, notification by registered letter with notice period). An unfair dismissal can be challenged at the labour court (conseil de prud'hommes)."
     },
     {
       "id": "csp-mes-q43",
       "question": "Vous souhaitez pratiquer votre religion librement en France. Quelles sont les limites ?",
+      "questionEn": "You want to practise your religion freely in France. What are the limits?",
       "options": [
         "Vous devez pratiquer uniquement chez vous",
         "La pratique religieuse est libre tant qu'elle respecte l'ordre public et les lois de la République",
         "Seules certaines religions sont autorisées en France",
         "La pratique religieuse est interdite dans l'espace public"
       ],
+      "optionsEn": [
+        "You must only practise at home",
+        "Religious practice is free as long as it respects public order and the laws of the Republic",
+        "Only certain religions are allowed in France",
+        "Religious practice is forbidden in public spaces"
+      ],
       "correctAnswer": 1,
-      "explanation": "La liberté de culte est garantie par la loi de 1905 sur la séparation des Églises et de l'État. Chacun est libre de pratiquer la religion de son choix, tant que cela ne trouble pas l'ordre public et respecte les lois de la République."
+      "explanation": "La liberté de culte est garantie par la loi de 1905 sur la séparation des Églises et de l'État. Chacun est libre de pratiquer la religion de son choix, tant que cela ne trouble pas l'ordre public et respecte les lois de la République.",
+      "explanationEn": "Freedom of worship is guaranteed by the 1905 law on the separation of Church and State. Everyone is free to practise the religion of their choice, as long as it does not disturb public order and respects the laws of the Republic."
     },
     {
       "id": "csp-mes-q44",
       "question": "Votre enfant a besoin de soins dentaires mais vous n'avez pas les moyens de payer. Que pouvez-vous faire ?",
+      "questionEn": "Your child needs dental care but you cannot afford it. What can you do?",
       "options": [
         "Attendre d'avoir l'argent",
         "Demander la Complémentaire Santé Solidaire (C2S) qui prend en charge les frais de santé pour les personnes aux revenus modestes",
         "Aller aux urgences de l'hôpital pour des soins dentaires",
         "Chercher un dentiste gratuit sur internet"
       ],
+      "optionsEn": [
+        "Wait until you have the money",
+        "Apply for the Complémentaire Santé Solidaire (C2S), which covers health costs for people with low income",
+        "Go to the hospital emergency room for dental care",
+        "Look for a free dentist on the internet"
+      ],
       "correctAnswer": 1,
-      "explanation": "La Complémentaire Santé Solidaire (C2S) est une aide de l'État qui permet aux personnes aux revenus modestes de bénéficier d'une couverture complémentaire santé gratuite ou à faible coût. Elle couvre les soins dentaires, optiques et auditifs. La demande se fait auprès de la CPAM."
+      "explanation": "La Complémentaire Santé Solidaire (C2S) est une aide de l'État qui permet aux personnes aux revenus modestes de bénéficier d'une couverture complémentaire santé gratuite ou à faible coût. Elle couvre les soins dentaires, optiques et auditifs. La demande se fait auprès de la CPAM.",
+      "explanationEn": "The Complémentaire Santé Solidaire (C2S) is government assistance that provides free or low-cost supplementary health coverage for people with low income. It covers dental, eye, and hearing care. You apply at the CPAM (health insurance office)."
     },
     {
       "id": "csp-mes-q45",
       "question": "Lors d'un contrôle d'identité, un policier vous demande vos papiers. Êtes-vous obligé de les présenter ?",
+      "questionEn": "During an identity check, a police officer asks for your papers. Are you required to show them?",
       "options": [
         "Non, c'est une atteinte à votre liberté",
         "Oui, en France, toute personne doit pouvoir justifier de son identité lors d'un contrôle de police",
         "Seulement si vous avez commis une infraction",
         "Non, si vous êtes à pied"
       ],
+      "optionsEn": [
+        "No, it is a violation of your freedom",
+        "Yes, in France, everyone must be able to prove their identity during a police check",
+        "Only if you have committed an offence",
+        "No, if you are on foot"
+      ],
       "correctAnswer": 1,
-      "explanation": "En France, lors d'un contrôle d'identité (article 78-1 du Code de procédure pénale), toute personne doit pouvoir justifier de son identité. Si vous ne pouvez pas, vous pouvez être retenu pour vérification pendant 4 heures maximum. Les étrangers doivent également pouvoir présenter leur titre de séjour."
+      "explanation": "En France, lors d'un contrôle d'identité (article 78-1 du Code de procédure pénale), toute personne doit pouvoir justifier de son identité. Si vous ne pouvez pas, vous pouvez être retenu pour vérification pendant 4 heures maximum. Les étrangers doivent également pouvoir présenter leur titre de séjour.",
+      "explanationEn": "In France, during an identity check (article 78-1 of the Criminal Procedure Code), everyone must be able to prove their identity. If you cannot, you may be held for verification for up to 4 hours. Foreigners must also be able to show their residence permit."
     },
     {
       "id": "csp-mes-q46",
       "question": "Vous venez d'avoir un bébé en France. Quelle démarche devez-vous effectuer rapidement ?",
+      "questionEn": "You just had a baby in France. What step must you take quickly?",
       "options": [
         "Déclarer la naissance à la mairie dans les 5 jours suivant l'accouchement",
         "Inscrire le bébé à la crèche",
         "Demander un passeport pour le bébé",
         "Ouvrir un compte bancaire au nom du bébé"
       ],
+      "optionsEn": [
+        "Declare the birth at the town hall within 5 days after delivery",
+        "Register the baby at a nursery",
+        "Apply for a passport for the baby",
+        "Open a bank account in the baby's name"
+      ],
       "correctAnswer": 0,
-      "explanation": "La déclaration de naissance doit être faite à la mairie du lieu de naissance dans les 5 jours suivant l'accouchement. C'est une obligation légale qui permet l'établissement de l'acte de naissance et l'inscription à l'état civil."
+      "explanation": "La déclaration de naissance doit être faite à la mairie du lieu de naissance dans les 5 jours suivant l'accouchement. C'est une obligation légale qui permet l'établissement de l'acte de naissance et l'inscription à l'état civil.",
+      "explanationEn": "The birth declaration must be made at the town hall of the place of birth within 5 days after delivery. This is a legal requirement that allows the birth certificate to be created and the child to be registered in civil records."
     },
     {
       "id": "csp-mes-q47",
       "question": "Vous constatez une fuite d'eau dans votre immeuble au milieu de la nuit. Que faites-vous en premier ?",
+      "questionEn": "You notice a water leak in your building in the middle of the night. What do you do first?",
       "options": [
         "Vous attendez le lendemain pour appeler un plombier",
         "Vous coupez l'arrivée d'eau si possible et appelez le gardien ou un plombier d'urgence",
         "Vous appelez les pompiers immédiatement",
         "Vous mettez une bassine et vous vous recouchez"
       ],
+      "optionsEn": [
+        "You wait until the next day to call a plumber",
+        "You turn off the water supply if possible and call the building caretaker or an emergency plumber",
+        "You call the fire brigade immediately",
+        "You put a basin down and go back to bed"
+      ],
       "correctAnswer": 1,
-      "explanation": "En cas de fuite d'eau, la priorité est de couper l'arrivée d'eau pour limiter les dégâts. Contactez ensuite le gardien de l'immeuble ou un plombier d'urgence. Les pompiers n'interviennent qu'en cas de danger grave (inondation importante menaçant la sécurité)."
+      "explanation": "En cas de fuite d'eau, la priorité est de couper l'arrivée d'eau pour limiter les dégâts. Contactez ensuite le gardien de l'immeuble ou un plombier d'urgence. Les pompiers n'interviennent qu'en cas de danger grave (inondation importante menaçant la sécurité).",
+      "explanationEn": "In case of a water leak, the priority is to turn off the water supply to limit damage. Then contact the building caretaker or an emergency plumber. The fire brigade only intervenes in case of serious danger (major flooding threatening safety)."
     },
     {
       "id": "csp-mes-q48",
       "question": "Un ami vous demande d'héberger un proche qui n'a pas de titre de séjour valide. Que risquez-vous ?",
+      "questionEn": "A friend asks you to host a relative who does not have a valid residence permit. What do you risk?",
       "options": [
         "Rien, l'hébergement est un acte de solidarité toujours protégé",
         "L'aide au séjour irrégulier est un délit, mais l'hébergement désintéressé d'une personne en danger bénéficie d'une immunité",
         "Vous risquez l'expulsion de France",
         "Vous perdez automatiquement votre titre de séjour"
       ],
+      "optionsEn": [
+        "Nothing, hosting someone is always a protected act of solidarity",
+        "Helping someone stay illegally is an offence, but selfless hosting of a person in danger is protected by an exemption",
+        "You risk being deported from France",
+        "You automatically lose your residence permit"
+      ],
       "correctAnswer": 1,
-      "explanation": "L'aide au séjour irrégulier est un délit en France. Cependant, la loi prévoit une immunité pour les actes d'aide humanitaire désintéressée (hébergement, nourriture, soins). Cette « exemption humanitaire » a été renforcée par le Conseil constitutionnel en 2018."
+      "explanation": "L'aide au séjour irrégulier est un délit en France. Cependant, la loi prévoit une immunité pour les actes d'aide humanitaire désintéressée (hébergement, nourriture, soins). Cette « exemption humanitaire » a été renforcée par le Conseil constitutionnel en 2018.",
+      "explanationEn": "Helping someone stay illegally is an offence in France. However, the law provides protection for selfless humanitarian acts (housing, food, medical care). This 'humanitarian exemption' was strengthened by the Constitutional Council in 2018."
     },
     {
       "id": "csp-mes-q49",
       "question": "Vous perdez votre emploi. Quelles sont les premières démarches à effectuer ?",
+      "questionEn": "You lose your job. What are the first steps you should take?",
       "options": [
         "Attendre de trouver un nouvel emploi avant toute démarche",
         "S'inscrire à France Travail (ex-Pôle emploi) pour bénéficier de l'allocation chômage et d'un accompagnement",
         "Demander directement le RSA à la CAF",
         "Contacter votre ancien employeur pour être réembauché"
       ],
+      "optionsEn": [
+        "Wait until you find a new job before doing anything",
+        "Register with France Travail (formerly Pôle emploi) to receive unemployment benefits and support",
+        "Apply directly for the RSA (basic income) from the CAF",
+        "Contact your former employer to be rehired"
+      ],
       "correctAnswer": 1,
-      "explanation": "Après un licenciement ou une fin de contrat, vous devez vous inscrire à France Travail (anciennement Pôle emploi) dans les meilleurs délais. Vous pourrez ainsi bénéficier de l'allocation chômage (ARE) si vous remplissez les conditions, et d'un accompagnement pour retrouver un emploi."
+      "explanation": "Après un licenciement ou une fin de contrat, vous devez vous inscrire à France Travail (anciennement Pôle emploi) dans les meilleurs délais. Vous pourrez ainsi bénéficier de l'allocation chômage (ARE) si vous remplissez les conditions, et d'un accompagnement pour retrouver un emploi.",
+      "explanationEn": "After being dismissed or when a contract ends, you must register with France Travail (formerly Pôle emploi) as soon as possible. This allows you to receive unemployment benefits (ARE) if you meet the conditions, and get help finding a new job."
     },
     {
       "id": "csp-mes-q50",
       "question": "Un parent d'élève refuse que son fils participe aux cours de natation mixtes à l'école publique. L'école peut-elle l'en dispenser ?",
+      "questionEn": "A parent refuses to let their son attend mixed swimming lessons at a public school. Can the school exempt him?",
       "options": [
         "Oui, les convictions religieuses doivent être respectées dans tous les cas",
         "Non, les activités scolaires obligatoires s'imposent à tous les élèves, sauf certificat médical",
         "Oui, si les deux parents en font la demande",
         "Oui, si l'enfant est en primaire"
       ],
+      "optionsEn": [
+        "Yes, religious beliefs must always be respected",
+        "No, compulsory school activities apply to all students, except with a medical certificate",
+        "Yes, if both parents request it",
+        "Yes, if the child is in primary school"
+      ],
       "correctAnswer": 1,
-      "explanation": "Dans les écoles publiques, les programmes et activités scolaires sont obligatoires pour tous les élèves. Seul un certificat médical peut justifier une dispense d'éducation physique. Les convictions religieuses ne constituent pas un motif de dispense des enseignements obligatoires."
+      "explanation": "Dans les écoles publiques, les programmes et activités scolaires sont obligatoires pour tous les élèves. Seul un certificat médical peut justifier une dispense d'éducation physique. Les convictions religieuses ne constituent pas un motif de dispense des enseignements obligatoires.",
+      "explanationEn": "In public schools, all school programmes and activities are compulsory for every student. Only a medical certificate can justify an exemption from physical education. Religious beliefs are not a valid reason to be exempted from compulsory teaching."
     }
   ]
 }

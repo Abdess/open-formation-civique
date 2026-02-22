@@ -1,7 +1,7 @@
 {
   "id": "csp-vivre-en-france",
   "title": "CSP - Vivre dans la société française",
-  "description": "Quiz officiel CSP : Vivre dans la société française",
+  "description": "Quiz officiel CSP (Contrat de Séjour Pluriannuel) – Vivre dans la société française. Questions officielles de l'examen de connaissance.",
   "questions": [
     {
       "id": "csp-vf-q1",
@@ -13,7 +13,15 @@
         "sont obligés de suivre l'école à la maison"
       ],
       "correctAnswer": 2,
-      "explanation": "En France, l'accès à la scolarisation est un droit fondamental. La domiciliation permet notamment l'accès à la scolarisation, et l'acte de naissance permet d'inscrire l'enfant à l'école, quelle que soit sa maîtrise de la langue."
+      "explanation": "En France, l'accès à la scolarisation est un droit fondamental. La domiciliation permet notamment l'accès à la scolarisation, et l'acte de naissance permet d'inscrire l'enfant à l'école, quelle que soit sa maîtrise de la langue.",
+      "questionEn": "Children who do not speak French:",
+      "optionsEn": [
+        "Cannot go to school until they speak the language",
+        "Must take paid lessons before joining public school",
+        "Are enrolled in school, because education is a right for all children",
+        "Must be home-schooled"
+      ],
+      "explanationEn": "In France, access to education is a fundamental right. Having an address allows access to school, and a birth certificate allows the child to be enrolled in school, regardless of their language ability."
     },
     {
       "id": "csp-vf-q2",
@@ -25,7 +33,15 @@
         "Oui, une femme peut créer son entreprise librement, comme un homme"
       ],
       "correctAnswer": 3,
-      "explanation": "En France, l'égalité entre les femmes et les hommes est un principe fondamental. Une femme a le droit d'exercer une activité professionnelle et de créer une entreprise sans aucune autorisation d'un tiers."
+      "explanation": "En France, l'égalité entre les femmes et les hommes est un principe fondamental. Une femme a le droit d'exercer une activité professionnelle et de créer une entreprise sans aucune autorisation d'un tiers.",
+      "questionEn": "Can a woman start her own business?",
+      "optionsEn": [
+        "No, starting a business is reserved for men in France",
+        "Yes, but only in certain sectors reserved for women",
+        "No, she needs the permission of her husband or father",
+        "Yes, a woman can start her own business freely, just like a man"
+      ],
+      "explanationEn": "In France, equality between women and men is a fundamental principle. A woman has the right to work and start a business without needing anyone's permission."
     },
     {
       "id": "csp-vf-q3",
@@ -37,7 +53,15 @@
         "À partir de 16 ans (ou 14 ans sous conditions strictes)"
       ],
       "correctAnswer": 3,
-      "explanation": "L'âge légal pour travailler est de 16 ans. Toutefois, des dérogations existent pour travailler dès 14 ans (notamment pendant les vacances scolaires ou en apprentissage), sous des conditions très encadrées."
+      "explanation": "L'âge légal pour travailler est de 16 ans. Toutefois, des dérogations existent pour travailler dès 14 ans (notamment pendant les vacances scolaires ou en apprentissage), sous des conditions très encadrées.",
+      "questionEn": "From what age can a minor work?",
+      "optionsEn": [
+        "Never before 18",
+        "From 12 years old, with school permission",
+        "From 10 years old",
+        "From 16 years old (or 14 under strict conditions)"
+      ],
+      "explanationEn": "The legal working age is 16. However, exceptions exist to work from age 14 (especially during school holidays or as an apprentice), under very strict conditions."
     },
     {
       "id": "csp-vf-q4",
@@ -49,7 +73,15 @@
         "La préfecture"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est la Caisse primaire d'Assurance maladie (CPAM) qui gère les droits des assurés et effectue les remboursements des soins. Le compte Ameli permet de suivre ces remboursements."
+      "explanation": "C'est la Caisse primaire d'Assurance maladie (CPAM) qui gère les droits des assurés et effectue les remboursements des soins. Le compte Ameli permet de suivre ces remboursements.",
+      "questionEn": "Which organisation should you contact to get health costs reimbursed?",
+      "optionsEn": [
+        "The nearest hospital",
+        "The CPAM (Caisse primaire d'Assurance maladie - Primary Health Insurance Fund)",
+        "Your local town hall",
+        "The préfecture"
+      ],
+      "explanationEn": "The CPAM (Primary Health Insurance Fund) manages the rights of insured people and handles reimbursements for medical care. The Ameli online account allows you to track your reimbursements."
     },
     {
       "id": "csp-vf-q5",
@@ -61,7 +93,15 @@
         "Le numéro de votre carte bancaire"
       ],
       "correctAnswer": 1,
-      "explanation": "Les numéros d'urgence (comme le 15 pour le SAMU, le 17 pour la police, le 18 pour les pompiers) sont gratuits et accessibles en permanence pour signaler un danger vital ou une situation grave nécessitant une intervention immédiate."
+      "explanation": "Les numéros d'urgence (comme le 15 pour le SAMU, le 17 pour la police, le 18 pour les pompiers) sont gratuits et accessibles en permanence pour signaler un danger vital ou une situation grave nécessitant une intervention immédiate.",
+      "questionEn": "What is an emergency number?",
+      "optionsEn": [
+        "A paid number to make an appointment at the town hall",
+        "A free phone number available 24/7 for serious situations (e.g. 15, 17, 18, 112)",
+        "Your regular doctor's phone number",
+        "Your bank card number"
+      ],
+      "explanationEn": "Emergency numbers (such as 15 for SAMU medical emergencies, 17 for police, 18 for fire brigade) are free and available at all times to report a life-threatening danger or serious situation requiring immediate help."
     },
     {
       "id": "csp-vf-q6",
@@ -73,7 +113,15 @@
         "Seules les personnes qui travaillent ont le droit d'être soignées"
       ],
       "correctAnswer": 1,
-      "explanation": "La Protection Universelle Maladie (PUMa) garantit la prise en charge des frais de santé à toute personne travaillant ou résidant en France de manière stable et régulière."
+      "explanation": "La Protection Universelle Maladie (PUMa) garantit la prise en charge des frais de santé à toute personne travaillant ou résidant en France de manière stable et régulière.",
+      "questionEn": "Regarding access to health care, which statement is correct?",
+      "optionsEn": [
+        "You must have French nationality to go to the hospital",
+        "Any person living in France in a stable and legal way has the right to health care coverage (PUMa)",
+        "Access to health care is always paid for and never reimbursed",
+        "Only people who work have the right to receive medical care"
+      ],
+      "explanationEn": "The PUMa (Protection Universelle Maladie - Universal Health Protection) guarantees health care coverage for any person working or living in France in a stable and legal way."
     },
     {
       "id": "csp-vf-q7",
@@ -85,7 +133,15 @@
         "Au SAMU en appelant le 15"
       ],
       "correctAnswer": 0,
-      "explanation": "Pour un problème de santé courant, il faut respecter le parcours de soins coordonnés en consultant d'abord son médecin traitant. Les urgences et le 15 sont réservés aux situations graves ou vitales."
+      "explanation": "Pour un problème de santé courant, il faut respecter le parcours de soins coordonnés en consultant d'abord son médecin traitant. Les urgences et le 15 sont réservés aux situations graves ou vitales.",
+      "questionEn": "For a non-urgent health problem, who should you contact first?",
+      "optionsEn": [
+        "Your regular doctor (médecin traitant - general practitioner)",
+        "Directly to the hospital emergency room",
+        "The town hall",
+        "The SAMU by calling 15"
+      ],
+      "explanationEn": "For a common health problem, you should follow the coordinated care path by first seeing your regular doctor (médecin traitant). The emergency room and 15 are reserved for serious or life-threatening situations."
     },
     {
       "id": "csp-vf-q8",
@@ -97,7 +153,15 @@
         "Il doit demander l'autorisation à la mairie"
       ],
       "correctAnswer": 0,
-      "explanation": "En France, la rémunération est libre mais l'employeur a l'obligation de respecter le salaire minimum légal (SMIC) ou les minimums prévus par la convention collective."
+      "explanation": "En France, la rémunération est libre mais l'employeur a l'obligation de respecter le salaire minimum légal (SMIC) ou les minimums prévus par la convention collective.",
+      "questionEn": "What must an employer do when setting a salary?",
+      "optionsEn": [
+        "They must respect a legal minimum amount (the SMIC - minimum wage)",
+        "They can set any salary they want, with no lower limit",
+        "They must pay the same salary to all their employees",
+        "They must ask permission from the town hall"
+      ],
+      "explanationEn": "In France, pay is free to negotiate but the employer must respect the legal minimum wage (SMIC) or the minimum amounts set by the collective agreement."
     },
     {
       "id": "csp-vf-q9",
@@ -109,7 +173,15 @@
         "Le salaire moyen de tous les Français"
       ],
       "correctAnswer": 0,
-      "explanation": "Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire horaire minimum en dessous duquel il est interdit de payer un salarié."
+      "explanation": "Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire horaire minimum en dessous duquel il est interdit de payer un salarié.",
+      "questionEn": "What is the SMIC?",
+      "optionsEn": [
+        "The legal minimum wage in France",
+        "Financial aid for unemployed people",
+        "The maximum salary allowed in France",
+        "The average salary of all French people"
+      ],
+      "explanationEn": "The SMIC (Salaire Minimum Interprofessionnel de Croissance) is the minimum hourly wage below which it is illegal to pay a worker."
     },
     {
       "id": "csp-vf-q10",
@@ -121,7 +193,15 @@
         "Contacter la mairie de son domicile"
       ],
       "correctAnswer": 2,
-      "explanation": "L'inscription à France Travail est la démarche principale pour être accompagné dans sa recherche d'emploi et percevoir des allocations si on y a droit."
+      "explanation": "L'inscription à France Travail est la démarche principale pour être accompagné dans sa recherche d'emploi et percevoir des allocations si on y a droit.",
+      "questionEn": "What is the first step to take when looking for a job?",
+      "optionsEn": [
+        "Open a professional bank account",
+        "Register at the préfecture",
+        "Register with France Travail (formerly Pôle Emploi - the employment agency)",
+        "Contact your local town hall"
+      ],
+      "explanationEn": "Registering with France Travail is the main step to get help with your job search and receive unemployment benefits if you qualify."
     },
     {
       "id": "csp-vf-q11",
@@ -133,7 +213,15 @@
         "45 heures"
       ],
       "correctAnswer": 2,
-      "explanation": "La durée légale du travail en France est fixée à 35 heures par semaine. Au-delà, ce sont des heures supplémentaires."
+      "explanation": "La durée légale du travail en France est fixée à 35 heures par semaine. Au-delà, ce sont des heures supplémentaires.",
+      "questionEn": "What is the legal working time per week?",
+      "optionsEn": [
+        "39 hours",
+        "30 hours",
+        "35 hours",
+        "45 hours"
+      ],
+      "explanationEn": "The legal working time in France is set at 35 hours per week. Beyond that, the hours count as overtime."
     },
     {
       "id": "csp-vf-q12",
@@ -145,7 +233,15 @@
         "Uniquement les entreprises"
       ],
       "correctAnswer": 0,
-      "explanation": "France Travail a pour mission d'accueillir, d'indemniser, d'orienter et d'accompagner les personnes à la recherche d'un emploi."
+      "explanation": "France Travail a pour mission d'accueillir, d'indemniser, d'orienter et d'accompagner les personnes à la recherche d'un emploi.",
+      "questionEn": "Who does France Travail help?",
+      "optionsEn": [
+        "People looking for a job",
+        "Students with their homework",
+        "Retired people",
+        "Only businesses"
+      ],
+      "explanationEn": "France Travail's mission is to welcome, compensate, guide, and support people looking for a job."
     },
     {
       "id": "csp-vf-q13",
@@ -157,7 +253,15 @@
         "Oui, mais seulement après 10 ans de résidence"
       ],
       "correctAnswer": 2,
-      "explanation": "Tout étranger résidant régulièrement en France et titulaire d'un titre de séjour l'autorisant à exercer une activité professionnelle peut créer son entreprise."
+      "explanation": "Tout étranger résidant régulièrement en France et titulaire d'un titre de séjour l'autorisant à exercer une activité professionnelle peut créer son entreprise.",
+      "questionEn": "A foreign person with legal residence status can start a business:",
+      "optionsEn": [
+        "No, it is reserved for French citizens",
+        "No, unless they are married to a French person",
+        "Yes, under the same conditions as a French person",
+        "Yes, but only after 10 years of residence"
+      ],
+      "explanationEn": "Any foreigner legally residing in France with a residence permit that allows professional activity can start a business."
     },
     {
       "id": "csp-vf-q14",
@@ -169,7 +273,15 @@
         "D'assurer l'éducation, la sécurité et la santé de son enfant"
       ],
       "correctAnswer": 3,
-      "explanation": "L'autorité parentale est un ensemble de droits et de devoirs. Les parents ont l'obligation de protéger l'enfant, de le nourrir, de l'héberger et d'assurer son éducation."
+      "explanation": "L'autorité parentale est un ensemble de droits et de devoirs. Les parents ont l'obligation de protéger l'enfant, de le nourrir, de l'héberger et d'assurer son éducation.",
+      "questionEn": "Parental authority includes the obligation to:",
+      "optionsEn": [
+        "Choose your child's future career",
+        "Give your child pocket money",
+        "Buy your child a home for their 18th birthday",
+        "Ensure your child's education, safety, and health"
+      ],
+      "explanationEn": "Parental authority is a set of rights and duties. Parents are required to protect their child, feed them, house them, and ensure their education."
     },
     {
       "id": "csp-vf-q15",
@@ -181,7 +293,15 @@
         "Uniquement pour les garçons"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, l'instruction est obligatoire pour tous les enfants, français ou étrangers, garçons et filles, âgés de 3 à 16 ans."
+      "explanation": "En France, l'instruction est obligatoire pour tous les enfants, français ou étrangers, garçons et filles, âgés de 3 à 16 ans.",
+      "questionEn": "For whom is school compulsory?",
+      "optionsEn": [
+        "For children aged 6 to 18",
+        "For all children (girls and boys) aged 3 to 16",
+        "Only for children with French nationality",
+        "Only for boys"
+      ],
+      "explanationEn": "In France, education is compulsory for all children, French or foreign, boys and girls, aged 3 to 16."
     },
     {
       "id": "csp-vf-q16",
@@ -193,7 +313,15 @@
         "Le certificat de formation générale"
       ],
       "correctAnswer": 0,
-      "explanation": "Le baccalauréat (souvent appelé le 'Bac') est le diplôme national qui marque la fin des études au lycée et permet d'accéder aux études supérieures."
+      "explanation": "Le baccalauréat (souvent appelé le 'Bac') est le diplôme national qui marque la fin des études au lycée et permet d'accéder aux études supérieures.",
+      "questionEn": "What diploma do you get at the end of high school (lycée)?",
+      "optionsEn": [
+        "The baccalauréat (Bac - high school diploma)",
+        "The brevet des collèges (middle school certificate)",
+        "The licence (bachelor's degree)",
+        "The certificat de formation générale (general education certificate)"
+      ],
+      "explanationEn": "The baccalauréat (often called the 'Bac') is the national diploma that marks the end of high school studies and allows access to higher education."
     },
     {
       "id": "csp-vf-q17",
@@ -205,7 +333,15 @@
         "Au collège"
       ],
       "correctAnswer": 3,
-      "explanation": "Le parcours scolaire en France suit cet ordre : école maternelle, école élémentaire, collège, puis lycée."
+      "explanation": "Le parcours scolaire en France suit cet ordre : école maternelle, école élémentaire, collège, puis lycée.",
+      "questionEn": "Which schools do students go to after primary school (école élémentaire)?",
+      "optionsEn": [
+        "University",
+        "Nursery (crèche)",
+        "High school (lycée)",
+        "Middle school (collège)"
+      ],
+      "explanationEn": "The school path in France follows this order: nursery school (école maternelle), primary school (école élémentaire), middle school (collège), then high school (lycée)."
     },
     {
       "id": "csp-vf-q18",
@@ -217,7 +353,15 @@
         "Pour tous les enfants résidant en France, quelle que soit leur nationalité"
       ],
       "correctAnswer": 3,
-      "explanation": "L'obligation scolaire s'applique à tous les enfants résidant sur le territoire français, qu'ils soient français ou étrangers."
+      "explanation": "L'obligation scolaire s'applique à tous les enfants résidant sur le territoire français, qu'ils soient français ou étrangers.",
+      "questionEn": "For whom is school compulsory?",
+      "optionsEn": [
+        "Only for children whose parents work",
+        "For adults who want to learn French",
+        "Only for children born in France",
+        "For all children living in France, regardless of their nationality"
+      ],
+      "explanationEn": "Compulsory education applies to all children living in France, whether they are French or foreign."
     },
     {
       "id": "csp-vf-q19",
@@ -229,7 +373,15 @@
         "Ne doit venir que le matin"
       ],
       "correctAnswer": 1,
-      "explanation": "L'inscription à l'école implique une obligation d'assiduité : l'enfant doit être présent à tous les cours prévus par l'emploi du temps, sauf en cas d'absence justifiée (maladie, etc.)."
+      "explanation": "L'inscription à l'école implique une obligation d'assiduité : l'enfant doit être présent à tous les cours prévus par l'emploi du temps, sauf en cas d'absence justifiée (maladie, etc.).",
+      "questionEn": "A child enrolled in school:",
+      "optionsEn": [
+        "Can attend classes only if they feel like it",
+        "Must attend all classes (attendance is mandatory)",
+        "Can choose their class times",
+        "Only has to come in the morning"
+      ],
+      "explanationEn": "Being enrolled in school requires regular attendance: the child must attend all classes on the timetable, except for justified absences (illness, etc.)."
     },
     {
       "id": "csp-vf-q20",
@@ -241,7 +393,15 @@
         "Il assure le suivi médical régulier et coordonne le parcours de soins"
       ],
       "correctAnswer": 3,
-      "explanation": "Le médecin traitant est votre interlocuteur privilégié : il vous soigne, gère votre dossier médical et vous oriente vers des spécialistes si nécessaire."
+      "explanation": "Le médecin traitant est votre interlocuteur privilégié : il vous soigne, gère votre dossier médical et vous oriente vers des spécialistes si nécessaire.",
+      "questionEn": "What is the role of the regular doctor (médecin traitant)?",
+      "optionsEn": [
+        "They only perform surgical operations",
+        "They sell medicines to patients",
+        "They handle administrative paperwork for residence permits",
+        "They provide regular medical check-ups and coordinate the care pathway"
+      ],
+      "explanationEn": "Your regular doctor (médecin traitant) is your main point of contact: they treat you, manage your medical file, and refer you to specialists if needed."
     },
     {
       "id": "csp-vf-q21",
@@ -253,7 +413,15 @@
         "Uniquement en cas de détresse vitale ou de blessure grave"
       ],
       "correctAnswer": 3,
-      "explanation": "Les urgences sont réservées aux situations graves (accident, malaise grave, danger vital). Pour les problèmes courants, il faut consulter son médecin traitant."
+      "explanation": "Les urgences sont réservées aux situations graves (accident, malaise grave, danger vital). Pour les problèmes courants, il faut consulter son médecin traitant.",
+      "questionEn": "In which situations should you go to the hospital emergency room?",
+      "optionsEn": [
+        "To renew a regular prescription",
+        "For an annual health check-up",
+        "For a simple cold or light cough",
+        "Only in case of a life-threatening emergency or serious injury"
+      ],
+      "explanationEn": "The emergency room is reserved for serious situations (accident, severe illness, life-threatening danger). For common problems, you should see your regular doctor."
     },
     {
       "id": "csp-vf-q22",
@@ -265,7 +433,15 @@
         "Obtenir une réduction sur les impôts"
       ],
       "correctAnswer": 1,
-      "explanation": "La vaccination est un acte de prévention qui permet de se protéger soi-même et de protéger les autres (notamment les plus fragiles) contre des maladies contagieuses."
+      "explanation": "La vaccination est un acte de prévention qui permet de se protéger soi-même et de protéger les autres (notamment les plus fragiles) contre des maladies contagieuses.",
+      "questionEn": "What is the purpose of mandatory vaccinations?",
+      "optionsEn": [
+        "To replace the Carte Vitale (health card)",
+        "To protect your health and the health of others against serious diseases",
+        "To register at the gym",
+        "To get a tax reduction"
+      ],
+      "explanationEn": "Vaccination is a preventive measure that protects yourself and others (especially the most vulnerable) against contagious diseases."
     },
     {
       "id": "csp-vf-q23",
@@ -277,7 +453,15 @@
         "À prouver son identité lors d'un contrôle de police"
       ],
       "correctAnswer": 1,
-      "explanation": "La carte Vitale contient vos informations administratives. Elle permet au médecin de télétransmettre la feuille de soins pour que vous soyez remboursé rapidement."
+      "explanation": "La carte Vitale contient vos informations administratives. Elle permet au médecin de télétransmettre la feuille de soins pour que vous soyez remboursé rapidement.",
+      "questionEn": "What is the Carte Vitale (health card) used for?",
+      "optionsEn": [
+        "To withdraw money from an ATM",
+        "To prove your health insurance rights and make reimbursements easier",
+        "To pay for groceries at the supermarket",
+        "To prove your identity during a police check"
+      ],
+      "explanationEn": "The Carte Vitale contains your administrative information. It allows the doctor to electronically send the care form so you are reimbursed quickly."
     },
     {
       "id": "csp-vf-q24",
@@ -289,7 +473,15 @@
         "À ouvrir un compte bancaire"
       ],
       "correctAnswer": 2,
-      "explanation": "La mutuelle (ou complémentaire santé) sert à rembourser la part des frais médicaux qui n'est pas prise en charge par l'Assurance Maladie obligatoire."
+      "explanation": "La mutuelle (ou complémentaire santé) sert à rembourser la part des frais médicaux qui n'est pas prise en charge par l'Assurance Maladie obligatoire.",
+      "questionEn": "What is a mutuelle santé (supplementary health insurance) used for?",
+      "optionsEn": [
+        "To replace your regular doctor",
+        "To pay income taxes",
+        "To cover the portion of medical costs not reimbursed by the Sécurité sociale",
+        "To open a bank account"
+      ],
+      "explanationEn": "The mutuelle (supplementary health insurance) covers the part of medical costs that is not reimbursed by the mandatory Health Insurance (Assurance Maladie)."
     },
     {
       "id": "csp-vf-q25",
@@ -301,7 +493,15 @@
         "Jusqu'à 14 ans"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, l'instruction est obligatoire pour tous les enfants, français ou étrangers, de 3 ans jusqu'à l'âge de 16 ans révolus."
+      "explanation": "En France, l'instruction est obligatoire pour tous les enfants, français ou étrangers, de 3 ans jusqu'à l'âge de 16 ans révolus.",
+      "questionEn": "Until what age is school compulsory?",
+      "optionsEn": [
+        "Until 18 years old",
+        "Until 16 years old",
+        "Until 11 years old",
+        "Until 14 years old"
+      ],
+      "explanationEn": "In France, education is compulsory for all children, French or foreign, from age 3 until 16 years old."
     },
     {
       "id": "csp-vf-q26",
@@ -313,7 +513,15 @@
         "Le 17"
       ],
       "correctAnswer": 1,
-      "explanation": "Le 15 est le numéro du SAMU, à utiliser en cas d'urgence médicale vitale (malaise grave, blessure importante)."
+      "explanation": "Le 15 est le numéro du SAMU, à utiliser en cas d'urgence médicale vitale (malaise grave, blessure importante).",
+      "questionEn": "Which emergency number is for the SAMU (medical emergency service)?",
+      "optionsEn": [
+        "18",
+        "15",
+        "115",
+        "17"
+      ],
+      "explanationEn": "15 is the number for the SAMU (medical emergency service), to be used in case of a life-threatening medical emergency (severe illness, serious injury)."
     },
     {
       "id": "csp-vf-q27",
@@ -325,7 +533,15 @@
         "Le 18"
       ],
       "correctAnswer": 3,
-      "explanation": "Le 18 est le numéro des pompiers, à appeler en cas d'incendie ou d'accident. Le 17 concerne la police et le 15 le SAMU."
+      "explanation": "Le 18 est le numéro des pompiers, à appeler en cas d'incendie ou d'accident. Le 17 concerne la police et le 15 le SAMU.",
+      "questionEn": "Which emergency number is for the fire brigade (pompiers)?",
+      "optionsEn": [
+        "3919",
+        "15",
+        "17",
+        "18"
+      ],
+      "explanationEn": "18 is the number for the fire brigade, to call in case of fire or accident. 17 is for the police and 15 is for the SAMU (medical emergency)."
     },
     {
       "id": "csp-vf-q28",
@@ -337,7 +553,15 @@
         "Il faut repasser le code de la route"
       ],
       "correctAnswer": 2,
-      "explanation": "L'assurance responsabilité civile est obligatoire pour conduire un véhicule. Elle permet de couvrir les dommages causés aux autres."
+      "explanation": "L'assurance responsabilité civile est obligatoire pour conduire un véhicule. Elle permet de couvrir les dommages causés aux autres.",
+      "questionEn": "After getting a driving licence, what must you do to be able to drive your car?",
+      "optionsEn": [
+        "You must register at the town hall",
+        "You must ask the mayor for permission",
+        "You must have car insurance",
+        "You must retake the driving theory test"
+      ],
+      "explanationEn": "Third-party liability insurance is mandatory to drive a vehicle. It covers damage caused to others."
     },
     {
       "id": "csp-vf-q29",
@@ -349,7 +573,15 @@
         "S'il est célébré devant un notaire"
       ],
       "correctAnswer": 0,
-      "explanation": "En France, seul le mariage civil, célébré à la mairie par un officier d'état civil, est reconnu par la loi."
+      "explanation": "En France, seul le mariage civil, célébré à la mairie par un officier d'état civil, est reconnu par la loi.",
+      "questionEn": "Under what conditions is a marriage legally recognised?",
+      "optionsEn": [
+        "If it is performed at the town hall (civil marriage)",
+        "If it is performed only in the presence of family",
+        "If it is performed in a church (religious marriage)",
+        "If it is performed before a notary"
+      ],
+      "explanationEn": "In France, only a civil marriage, performed at the town hall by a civil registrar, is recognised by law."
     },
     {
       "id": "csp-vf-q30",
@@ -361,7 +593,15 @@
         "Dans le mois qui suit la naissance"
       ],
       "correctAnswer": 2,
-      "explanation": "La déclaration de naissance est obligatoire et doit être réalisée à la mairie du lieu de naissance dans les 5 jours qui suivent l'accouchement."
+      "explanation": "La déclaration de naissance est obligatoire et doit être réalisée à la mairie du lieu de naissance dans les 5 jours qui suivent l'accouchement.",
+      "questionEn": "When must you declare your child at the civil registry office of the town hall?",
+      "optionsEn": [
+        "Before starting school",
+        "Before birth",
+        "Within 5 days after birth",
+        "Within the month after birth"
+      ],
+      "explanationEn": "The birth declaration is mandatory and must be made at the town hall of the place of birth within 5 days after delivery."
     },
     {
       "id": "csp-vf-q31",
@@ -373,7 +613,17 @@
         "Autorisé si l'employeur est d'accord"
       ],
       "correctAnswer": 0,
-      "explanation": "Il est obligatoire de déclarer ses revenus et son activité. Le travail non déclaré est illégal et prive le travailleur de ses droits sociaux (retraite, chômage)."
+      "explanation": "Il est obligatoire de déclarer ses revenus et son activité. Le travail non déclaré est illégal et prive le travailleur de ses droits sociaux (retraite, chômage).",
+      "questionEn": "Undeclared work is:",
+      "optionsEn": [
+        "Forbidden and punished by law",
+        "Allowed for small amounts",
+        "Recommended to avoid paying taxes",
+        "Allowed if the employer agrees"
+      ],
+      "explanationEn": "You must declare your income and work activity. Undeclared work is illegal and takes away the worker's social rights (retirement, unemployment benefits)."
     }
-  ]
+  ],
+  "titleEn": "CSP - Living in French Society",
+  "descriptionEn": "Official CSP quiz (Contrat de Séjour Pluriannuel - Multi-Year Residence Contract) – Living in French Society. Official exam questions."
 }

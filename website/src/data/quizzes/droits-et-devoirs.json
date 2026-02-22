@@ -1,7 +1,7 @@
 {
   "id": "droits-et-devoirs",
   "title": "Droits et devoirs",
-  "description": "Testez vos connaissances : Droits fondamentaux • Obligations et devoirs des personnes résidant en France",
+  "description": "Quiz – Droits fondamentaux • Obligations et devoirs des personnes résidant en France. Testez vos connaissances avec des questions générées à partir des fiches thématiques officielles.",
   "questions": [
     {
       "id": "dd-q1",
@@ -13,7 +13,15 @@
         "Seulement les personnes qui travaillent"
       ],
       "correctAnswer": 1,
-      "explanation": "Les droits fondamentaux sont les mêmes pour tout le monde, peu importe l'âge, le sexe, les croyances ou la façon de vivre."
+      "explanation": "Les droits fondamentaux sont les mêmes pour tout le monde, peu importe l'âge, le sexe, les croyances ou la façon de vivre.",
+      "questionEn": "Who must respect fundamental rights?",
+      "optionsEn": [
+        "Only people over 18 years old",
+        "Everyone, without exception",
+        "Only French citizens",
+        "Only people who work"
+      ],
+      "explanationEn": "Fundamental rights are the same for everyone, regardless of age, gender, beliefs, or way of life."
     },
     {
       "id": "dd-q2",
@@ -25,7 +33,15 @@
         "Les droits de voyager sans passeport"
       ],
       "correctAnswer": 0,
-      "explanation": "Les droits fondamentaux sont répartis en 3 catégories : les droits liés à la personne humaine, les droits sociaux et économiques, et les droits collectifs."
+      "explanation": "Les droits fondamentaux sont répartis en 3 catégories : les droits liés à la personne humaine, les droits sociaux et économiques, et les droits collectifs.",
+      "questionEn": "Which of the following is a category of fundamental rights?",
+      "optionsEn": [
+        "Rights related to the human person",
+        "The right to drive a car",
+        "The right to buy a house",
+        "The right to travel without a passport"
+      ],
+      "explanationEn": "Fundamental rights are divided into 3 categories: rights related to the human person, social and economic rights, and collective rights."
     },
     {
       "id": "dd-q3",
@@ -37,7 +53,15 @@
         "Le journal officiel de la semaine"
       ],
       "correctAnswer": 2,
-      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 est l'un des textes majeurs qui garantissent les droits et libertés fondamentaux."
+      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 est l'un des textes majeurs qui garantissent les droits et libertés fondamentaux.",
+      "questionEn": "Which important document guarantees fundamental rights in France?",
+      "optionsEn": [
+        "The internal rules of the town hall",
+        "The work contract",
+        "The Declaration of the Rights of Man and of the Citizen of 1789",
+        "The official gazette of the week"
+      ],
+      "explanationEn": "The Declaration of the Rights of Man and of the Citizen of 1789 is one of the major texts that guarantee fundamental rights and freedoms."
     },
     {
       "id": "dd-q4",
@@ -49,7 +73,15 @@
         "Le voyage, le commerce, la propriété et le vote"
       ],
       "correctAnswer": 0,
-      "explanation": "Les droits naturels que chaque être humain possède sont l'égalité devant la loi, la liberté, la sûreté (sécurité) et la résistance à l'oppression."
+      "explanation": "Les droits naturels que chaque être humain possède sont l'égalité devant la loi, la liberté, la sûreté (sécurité) et la résistance à l'oppression.",
+      "questionEn": "What are the four fundamental rights related to the human person?",
+      "optionsEn": [
+        "Equality, liberty, security, and resistance to oppression",
+        "Work, health, housing, and education",
+        "Wealth, power, fame, and authority",
+        "Travel, trade, property, and voting"
+      ],
+      "explanationEn": "The natural rights that every human being has are equality before the law, liberty, security (safety), and resistance to oppression."
     },
     {
       "id": "dd-q5",
@@ -61,7 +93,15 @@
         "Le juge décide de la culpabilité avant le procès"
       ],
       "correctAnswer": 1,
-      "explanation": "La présomption d'innocence est un droit fondamental lié à la sûreté : on ne peut pas traiter quelqu'un comme coupable avant que la justice ne l'ait prouvé."
+      "explanation": "La présomption d'innocence est un droit fondamental lié à la sûreté : on ne peut pas traiter quelqu'un comme coupable avant que la justice ne l'ait prouvé.",
+      "questionEn": "What does the principle of 'presumption of innocence' mean?",
+      "optionsEn": [
+        "A person is guilty as soon as they are accused by the police",
+        "An accused person is considered innocent until their guilt has been proven",
+        "A person is innocent only if they have a lawyer",
+        "The judge decides guilt before the trial"
+      ],
+      "explanationEn": "The presumption of innocence is a fundamental right linked to security: you cannot treat someone as guilty before the justice system has proven it."
     },
     {
       "id": "dd-q6",
@@ -73,7 +113,15 @@
         "La liberté de prendre les biens des autres"
       ],
       "correctAnswer": 2,
-      "explanation": "Le principe de liberté garantit à chacun la liberté de penser, de s'exprimer, mais aussi la liberté de culte (choisir et pratiquer sa religion)."
+      "explanation": "Le principe de liberté garantit à chacun la liberté de penser, de s'exprimer, mais aussi la liberté de culte (choisir et pratiquer sa religion).",
+      "questionEn": "Which of these freedoms comes directly from the principle of liberty?",
+      "optionsEn": [
+        "The right not to pay taxes",
+        "The right to drive without a licence",
+        "Freedom of worship or religion",
+        "The freedom to take other people's belongings"
+      ],
+      "explanationEn": "The principle of liberty guarantees everyone freedom of thought, expression, and also freedom of worship (choosing and practising one's religion)."
     },
     {
       "id": "dd-q7",
@@ -85,7 +133,15 @@
         "L'accès gratuit à la culture pour tous"
       ],
       "correctAnswer": 2,
-      "explanation": "Le suffrage universel est une application du principe d'égalité : il signifie que chaque citoyen a le droit de voter."
+      "explanation": "Le suffrage universel est une application du principe d'égalité : il signifie que chaque citoyen a le droit de voter.",
+      "questionEn": "What is universal suffrage?",
+      "optionsEn": [
+        "The right to strike for all workers",
+        "Equal pay between men and women",
+        "The right to vote for every citizen",
+        "Free access to culture for everyone"
+      ],
+      "explanationEn": "Universal suffrage is an application of the principle of equality: it means every citizen has the right to vote."
     },
     {
       "id": "dd-q8",
@@ -97,7 +153,15 @@
         "Il n'y a aucune différence, ce sont les mêmes droits."
       ],
       "correctAnswer": 1,
-      "explanation": "Contrairement aux droits liés à la personne qui existent dès la naissance, les droits économiques et sociaux (comme l'éducation ou la santé) ont besoin que l'État agisse pour les garantir."
+      "explanation": "Contrairement aux droits liés à la personne qui existent dès la naissance, les droits économiques et sociaux (comme l'éducation ou la santé) ont besoin que l'État agisse pour les garantir.",
+      "questionEn": "What is the main difference between personal rights and economic and social rights?",
+      "optionsEn": [
+        "Economic and social rights exist only for French citizens.",
+        "Economic and social rights require the State to act in order to be guaranteed.",
+        "Economic and social rights cost money while the others are free.",
+        "There is no difference, they are the same rights."
+      ],
+      "explanationEn": "Unlike personal rights that exist from birth, economic and social rights (such as education or healthcare) need the State to act in order to guarantee them."
     },
     {
       "id": "dd-q9",
@@ -109,7 +173,15 @@
         "Le droit de posséder une arme"
       ],
       "correctAnswer": 1,
-      "explanation": "Le droit à la gratuité de l'enseignement public est un droit social essentiel garanti par la Constitution, tout comme le droit à la santé ou à l'emploi."
+      "explanation": "Le droit à la gratuité de l'enseignement public est un droit social essentiel garanti par la Constitution, tout comme le droit à la santé ou à l'emploi.",
+      "questionEn": "Which of the following is an example of an economic and social right?",
+      "optionsEn": [
+        "The right to vote",
+        "The right to free public education",
+        "The right to drive a car",
+        "The right to own a weapon"
+      ],
+      "explanationEn": "The right to free public education is an essential social right guaranteed by the Constitution, just like the right to healthcare or employment."
     },
     {
       "id": "dd-q10",
@@ -121,7 +193,15 @@
         "L'autorité militaire"
       ],
       "correctAnswer": 2,
-      "explanation": "Ces droits (comme le droit à la paix ou à un environnement sain) sont fondés sur la solidarité entre tous les êtres humains et concernent la planète entière."
+      "explanation": "Ces droits (comme le droit à la paix ou à un environnement sain) sont fondés sur la solidarité entre tous les êtres humains et concernent la planète entière.",
+      "questionEn": "What main value are the so-called 'third generation' rights based on?",
+      "optionsEn": [
+        "Individual success",
+        "Economic competition",
+        "Collective solidarity",
+        "Military authority"
+      ],
+      "explanationEn": "These rights (such as the right to peace or a healthy environment) are based on solidarity among all human beings and concern the entire planet."
     },
     {
       "id": "dd-q11",
@@ -133,7 +213,15 @@
         "Supprimer toutes les usines en France."
       ],
       "correctAnswer": 1,
-      "explanation": "Le droit à un environnement sain vise à préserver les ressources et la planète pour assurer une vie digne pour nous aujourd'hui et pour les enfants de demain."
+      "explanation": "Le droit à un environnement sain vise à préserver les ressources et la planète pour assurer une vie digne pour nous aujourd'hui et pour les enfants de demain.",
+      "questionEn": "What is the goal of the right to a healthy environment?",
+      "optionsEn": [
+        "To ban all construction of new houses.",
+        "To guarantee a decent life for current and future generations.",
+        "To force everyone to become vegetarian.",
+        "To shut down all factories in France."
+      ],
+      "explanationEn": "The right to a healthy environment aims to preserve resources and the planet to ensure a dignified life for us today and for the children of tomorrow."
     },
     {
       "id": "dd-q12",
@@ -145,7 +233,15 @@
         "Un privilège réservé aux citoyens européens"
       ],
       "correctAnswer": 1,
-      "explanation": "La dignité humaine signifie que chaque personne a de la valeur et mérite un respect inconditionnel, peu importe son origine, sa santé ou sa situation."
+      "explanation": "La dignité humaine signifie que chaque personne a de la valeur et mérite un respect inconditionnel, peu importe son origine, sa santé ou sa situation.",
+      "questionEn": "What is human dignity?",
+      "optionsEn": [
+        "Deserving respect only if you work",
+        "Every person deserves respect simply because they are human",
+        "The right to be respected only if you are in good health",
+        "A privilege reserved for European citizens"
+      ],
+      "explanationEn": "Human dignity means that every person has value and deserves unconditional respect, regardless of their origin, health, or situation."
     },
     {
       "id": "dd-q13",
@@ -157,7 +253,15 @@
         "Comme un ami"
       ],
       "correctAnswer": 0,
-      "explanation": "La dignité humaine interdit de traiter une personne comme un objet ou un simple moyen pour arriver à ses fins."
+      "explanation": "La dignité humaine interdit de traiter une personne comme un objet ou un simple moyen pour arriver à ses fins.",
+      "questionEn": "According to the principle of human dignity, how should a human being never be treated?",
+      "optionsEn": [
+        "As an object or a means",
+        "As a citizen",
+        "As an equal",
+        "As a friend"
+      ],
+      "explanationEn": "Human dignity forbids treating a person as an object or a mere means to achieve one's goals."
     },
     {
       "id": "dd-q14",
@@ -169,7 +273,15 @@
         "Le droit de refuser de travailler"
       ],
       "correctAnswer": 2,
-      "explanation": "Le droit à l'intégrité protège le corps et l'esprit. Il interdit notamment de faire du corps humain une source de profit (comme le trafic d'organes)."
+      "explanation": "Le droit à l'intégrité protège le corps et l'esprit. Il interdit notamment de faire du corps humain une source de profit (comme le trafic d'organes).",
+      "questionEn": "What does the right to personal integrity (article 3) guarantee?",
+      "optionsEn": [
+        "The right to sell one's organs for money",
+        "The right to choose one's genes before birth",
+        "The right to have one's body and mind respected, without being a source of profit",
+        "The right to refuse to work"
+      ],
+      "explanationEn": "The right to integrity protects the body and mind. It notably forbids making the human body a source of profit (such as organ trafficking)."
     },
     {
       "id": "dd-q15",
@@ -181,7 +293,15 @@
         "Uniquement dans les livres d'histoire"
       ],
       "correctAnswer": 1,
-      "explanation": "Ce principe est inscrit dans le premier chapitre de la Charte des droits fondamentaux de l'Union européenne de 2000."
+      "explanation": "Ce principe est inscrit dans le premier chapitre de la Charte des droits fondamentaux de l'Union européenne de 2000.",
+      "questionEn": "Where is the principle of human dignity written as a fundamental right?",
+      "optionsEn": [
+        "In the internal rules of companies",
+        "In the Charter of Fundamental Rights of the European Union",
+        "In the traffic code",
+        "Only in history books"
+      ],
+      "explanationEn": "This principle is written in the first chapter of the Charter of Fundamental Rights of the European Union from the year 2000."
     },
     {
       "id": "dd-q16",
@@ -193,7 +313,15 @@
         "C'est l'interdiction d'utiliser des moyens de contraception."
       ],
       "correctAnswer": 1,
-      "explanation": "Le droit de disposer de son corps est une liberté fondamentale qui permet à chacun, mineur ou majeur, de décider pour soi-même, notamment concernant la contraception et l'IVG."
+      "explanation": "Le droit de disposer de son corps est une liberté fondamentale qui permet à chacun, mineur ou majeur, de décider pour soi-même, notamment concernant la contraception et l'IVG.",
+      "questionEn": "What does the right to control one's own body mean?",
+      "optionsEn": [
+        "It is the obligation to follow your family's advice about your health.",
+        "It is the freedom for each person to make their own choices about their body.",
+        "It is a right reserved only for adults (over 18 years old).",
+        "It is the ban on using contraception."
+      ],
+      "explanationEn": "The right to control one's body is a fundamental freedom that allows everyone, whether a minor or an adult, to decide for themselves, especially regarding contraception and abortion (IVG)."
     },
     {
       "id": "dd-q17",
@@ -205,7 +333,15 @@
         "Elle ne peut pas obtenir de contraception avant sa majorité."
       ],
       "correctAnswer": 2,
-      "explanation": "Pour les mineurs, les consultations et la délivrance de contraceptifs peuvent être gratuites et anonymes (secret) sur simple demande."
+      "explanation": "Pour les mineurs, les consultations et la délivrance de contraceptifs peuvent être gratuites et anonymes (secret) sur simple demande.",
+      "questionEn": "How can a minor (under 18 years old) obtain contraception?",
+      "optionsEn": [
+        "They must have written permission from their parents.",
+        "They must pay the full cost at the pharmacy.",
+        "They can get a consultation and prescription anonymously and for free.",
+        "They cannot get contraception before turning 18."
+      ],
+      "explanationEn": "For minors, consultations and contraceptive supplies can be free and anonymous (confidential) upon simple request."
     },
     {
       "id": "dd-q18",
@@ -217,7 +353,15 @@
         "L'IVG nécessite obligatoirement l'accord du mari ou du partenaire."
       ],
       "correctAnswer": 0,
-      "explanation": "L'IVG est un droit pour toutes les femmes, y compris les mineures (qui n'ont pas besoin de l'autorisation des parents), et les frais sont couverts à 100% par l'Assurance Maladie."
+      "explanation": "L'IVG est un droit pour toutes les femmes, y compris les mineures (qui n'ont pas besoin de l'autorisation des parents), et les frais sont couverts à 100% par l'Assurance Maladie.",
+      "questionEn": "What are the conditions to access abortion (IVG — Interruption Volontaire de Grossesse)?",
+      "optionsEn": [
+        "Abortion is available to all women, with no age requirement, and fully covered by the Assurance Maladie (health insurance).",
+        "Abortion is forbidden for women under 18.",
+        "Abortion is not free and is never covered by the Assurance Maladie (health insurance).",
+        "Abortion requires the agreement of the husband or partner."
+      ],
+      "explanationEn": "Abortion is a right for all women, including minors (who do not need parental permission), and the costs are 100% covered by the Assurance Maladie (health insurance)."
     },
     {
       "id": "dd-q19",
@@ -229,7 +373,15 @@
         "Uniquement avec l'accord de la police."
       ],
       "correctAnswer": 1,
-      "explanation": "La contraception d'urgence est disponible en pharmacie sans ordonnance. Elle est même gratuite et anonyme pour les mineurs."
+      "explanation": "La contraception d'urgence est disponible en pharmacie sans ordonnance. Elle est même gratuite et anonyme pour les mineurs.",
+      "questionEn": "Where can you get emergency contraception (the morning-after pill)?",
+      "optionsEn": [
+        "Only at the hospital.",
+        "At a pharmacy, without a prescription.",
+        "Only on the internet.",
+        "Only with permission from the police."
+      ],
+      "explanationEn": "Emergency contraception is available at pharmacies without a prescription. It is even free and anonymous for minors."
     },
     {
       "id": "dd-q20",
@@ -241,7 +393,15 @@
         "Le maire de la commune"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, la liberté conjugale garantit à chacun le droit de choisir librement son partenaire, qu'il soit de sexe différent ou de même sexe."
+      "explanation": "En France, la liberté conjugale garantit à chacun le droit de choisir librement son partenaire, qu'il soit de sexe différent ou de même sexe.",
+      "questionEn": "In France, who can choose their spouse or partner?",
+      "optionsEn": [
+        "Only men",
+        "Every person is free to choose their partner, regardless of gender",
+        "Parents choose for their children",
+        "The mayor of the town"
+      ],
+      "explanationEn": "In France, marital freedom guarantees everyone the right to freely choose their partner, whether of a different gender or the same gender."
     },
     {
       "id": "dd-q21",
@@ -253,7 +413,15 @@
         "Oui, mais seulement en cas de faute grave"
       ],
       "correctAnswer": 0,
-      "explanation": "La liberté conjugale permet à chacun de quitter une union. Par exemple, le divorce est possible sans faute et le PACS peut être rompu par une simple déclaration."
+      "explanation": "La liberté conjugale permet à chacun de quitter une union. Par exemple, le divorce est possible sans faute et le PACS peut être rompu par une simple déclaration.",
+      "questionEn": "Is it possible to end a union (marriage, PACS, or cohabitation) if the other partner does not agree?",
+      "optionsEn": [
+        "Yes, each partner is free to end the union",
+        "No, you must have the agreement of both people",
+        "No, only the husband can decide on the separation",
+        "Yes, but only in the case of a serious fault"
+      ],
+      "explanationEn": "Marital freedom allows everyone to leave a union. For example, divorce is possible without fault, and a PACS (civil partnership) can be ended by a simple declaration."
     },
     {
       "id": "dd-q22",
@@ -265,7 +433,15 @@
         "Il est interdit d'adopter un enfant si on est célibataire"
       ],
       "correctAnswer": 2,
-      "explanation": "La liberté de procréation est individuelle. La contraception et l'IVG sont accessibles sans l'autorisation du partenaire, et l'adoption ou la PMA sont ouvertes aux couples comme aux personnes seules."
+      "explanation": "La liberté de procréation est individuelle. La contraception et l'IVG sont accessibles sans l'autorisation du partenaire, et l'adoption ou la PMA sont ouvertes aux couples comme aux personnes seules.",
+      "questionEn": "Regarding the choice to have children, what does French law say?",
+      "optionsEn": [
+        "You always need your partner's permission to use contraception",
+        "Only married people have the right to have children",
+        "Every person is free to choose to have or not have children",
+        "It is forbidden to adopt a child if you are single"
+      ],
+      "explanationEn": "The freedom of reproduction is individual. Contraception and abortion are accessible without the partner's permission, and adoption or assisted reproduction (PMA) are open to couples and single people."
     },
     {
       "id": "dd-q23",
@@ -277,7 +453,15 @@
         "Le droit de ne pas respecter les lois"
       ],
       "correctAnswer": 1,
-      "explanation": "Le citoyen français possède des droits civiques et politiques, notamment le droit de vote, mais il a aussi des devoirs comme payer ses impôts et respecter la loi."
+      "explanation": "Le citoyen français possède des droits civiques et politiques, notamment le droit de vote, mais il a aussi des devoirs comme payer ses impôts et respecter la loi.",
+      "questionEn": "What are the specific rights of a French citizen?",
+      "optionsEn": [
+        "Only the right to travel",
+        "Civic and political rights, such as the right to vote",
+        "The right not to pay taxes",
+        "The right not to follow the law"
+      ],
+      "explanationEn": "French citizens have civic and political rights, including the right to vote, but they also have duties such as paying taxes and respecting the law."
     },
     {
       "id": "dd-q24",
@@ -289,7 +473,15 @@
         "La Charte des Nations Unies"
       ],
       "correctAnswer": 1,
-      "explanation": "La citoyenneté est un droit fondamental inscrit dans la Déclaration des droits de l’homme et du citoyen de 1789."
+      "explanation": "La citoyenneté est un droit fondamental inscrit dans la Déclaration des droits de l’homme et du citoyen de 1789.",
+      "questionEn": "In which fundamental text is French citizenship written?",
+      "optionsEn": [
+        "The Civil Code of 2020",
+        "The Declaration of the Rights of Man and of the Citizen of 1789",
+        "The Treaty of the European Union",
+        "The United Nations Charter"
+      ],
+      "explanationEn": "Citizenship is a fundamental right written in the Declaration of the Rights of Man and of the Citizen of 1789."
     },
     {
       "id": "dd-q25",
@@ -301,7 +493,15 @@
         "L'obligation de quitter le territoire pour des vacances"
       ],
       "correctAnswer": 0,
-      "explanation": "La déchéance de nationalité est une décision administrative de l’État qui retire la nationalité française, entraînant la perte des droits liés à la citoyenneté."
+      "explanation": "La déchéance de nationalité est une décision administrative de l’État qui retire la nationalité française, entraînant la perte des droits liés à la citoyenneté.",
+      "questionEn": "What is the loss of nationality (déchéance de nationalité)?",
+      "optionsEn": [
+        "A decision by the State to remove a person's French nationality",
+        "Voluntarily giving up one's nationality",
+        "A fine for not voting",
+        "The obligation to leave the country for a holiday"
+      ],
+      "explanationEn": "The loss of nationality is an administrative decision by the State that removes French nationality, resulting in the loss of rights linked to citizenship."
     },
     {
       "id": "dd-q26",
@@ -313,7 +513,15 @@
         "Le 11 novembre 1918"
       ],
       "correctAnswer": 1,
-      "explanation": "La Déclaration a été adoptée le 26 août 1789. Elle marque le début de la Révolution française et la fin de l'Ancien Régime."
+      "explanation": "La Déclaration a été adoptée le 26 août 1789. Elle marque le début de la Révolution française et la fin de l'Ancien Régime.",
+      "questionEn": "When was the Declaration of the Rights of Man and of the Citizen adopted?",
+      "optionsEn": [
+        "14 July 1789",
+        "26 August 1789",
+        "4 October 1958",
+        "11 November 1918"
+      ],
+      "explanationEn": "The Declaration was adopted on 26 August 1789. It marks the beginning of the French Revolution and the end of the Ancien Régime (old system of government)."
     },
     {
       "id": "dd-q27",
@@ -325,7 +533,15 @@
         "Seuls les riches ont le droit de voter"
       ],
       "correctAnswer": 0,
-      "explanation": "L'article 1er affirme l'égalité de tous les citoyens dès la naissance : « Les Hommes naissent et demeurent libres et égaux en droits »."
+      "explanation": "L'article 1er affirme l'égalité de tous les citoyens dès la naissance : « Les Hommes naissent et demeurent libres et égaux en droits ».",
+      "questionEn": "What fundamental principle is stated in the first article of the Declaration?",
+      "optionsEn": [
+        "Men are born and remain free and equal in rights",
+        "The King holds all powers",
+        "Religion is mandatory for all citizens",
+        "Only the rich have the right to vote"
+      ],
+      "explanationEn": "Article 1 affirms the equality of all citizens from birth: 'Men are born and remain free and equal in rights.'"
     },
     {
       "id": "dd-q28",
@@ -337,7 +553,15 @@
         "À condition de payer une taxe spéciale"
       ],
       "correctAnswer": 2,
-      "explanation": "La liberté d'opinion et de religion est garantie, tant que son expression ne provoque pas de désordre dans la société (trouble à l'ordre public)."
+      "explanation": "La liberté d'opinion et de religion est garantie, tant que son expression ne provoque pas de désordre dans la société (trouble à l'ordre public).",
+      "questionEn": "According to article 10, under what condition can one freely express opinions, even religious ones?",
+      "optionsEn": [
+        "On condition of asking the King for permission",
+        "On condition of not criticising the government",
+        "On condition of not disturbing the public order established by law",
+        "On condition of paying a special tax"
+      ],
+      "explanationEn": "Freedom of opinion and religion is guaranteed, as long as its expression does not cause disorder in society (disturbance of public order)."
     },
     {
       "id": "dd-q29",
@@ -349,7 +573,15 @@
         "L'égalité, la fraternité, la solidarité et la laïcité"
       ],
       "correctAnswer": 1,
-      "explanation": "L'article 2 liste précisément ces quatre droits fondamentaux que l'association politique doit conserver : la liberté, la propriété, la sûreté et la résistance à l'oppression."
+      "explanation": "L'article 2 liste précisément ces quatre droits fondamentaux que l'association politique doit conserver : la liberté, la propriété, la sûreté et la résistance à l'oppression.",
+      "questionEn": "What are the four natural and inalienable rights listed in article 2?",
+      "optionsEn": [
+        "Work, health, education, and housing",
+        "Liberty, property, security, and resistance to oppression",
+        "War, peace, justice, and police",
+        "Equality, fraternity, solidarity, and secularism"
+      ],
+      "explanationEn": "Article 2 precisely lists these four fundamental rights that the political association must preserve: liberty, property, security, and resistance to oppression."
     },
     {
       "id": "dd-q30",
@@ -361,7 +593,15 @@
         "Un règlement intérieur pour les entreprises"
       ],
       "correctAnswer": 1,
-      "explanation": "La Constitution est le texte suprême qui définit l'identité de la société, l'organisation du pouvoir et les droits et libertés des citoyens."
+      "explanation": "La Constitution est le texte suprême qui définit l'identité de la société, l'organisation du pouvoir et les droits et libertés des citoyens.",
+      "questionEn": "What is a Constitution?",
+      "optionsEn": [
+        "A book that tells the history of France",
+        "A founding document that organises the State and guarantees fundamental rights",
+        "A law that sets the price of products in shops",
+        "Internal rules for businesses"
+      ],
+      "explanationEn": "The Constitution is the supreme text that defines the identity of society, the organisation of power, and the rights and freedoms of citizens."
     },
     {
       "id": "dd-q31",
@@ -373,7 +613,15 @@
         "La Charte de l'environnement de 2004"
       ],
       "correctAnswer": 0,
-      "explanation": "Le texte fondateur actuellement en vigueur est la Constitution du 4 octobre 1958, voulue par le Général de Gaulle."
+      "explanation": "Le texte fondateur actuellement en vigueur est la Constitution du 4 octobre 1958, voulue par le Général de Gaulle.",
+      "questionEn": "Which Constitution is currently in force in France?",
+      "optionsEn": [
+        "The Constitution of the Fifth Republic of 4 October 1958",
+        "The Declaration of the Rights of Man of 1789",
+        "The Constitution of 1946",
+        "The Environmental Charter of 2004"
+      ],
+      "explanationEn": "The founding text currently in force is the Constitution of 4 October 1958, wanted by General de Gaulle."
     },
     {
       "id": "dd-q32",
@@ -385,7 +633,15 @@
         "Le poste de président a été supprimé"
       ],
       "correctAnswer": 1,
-      "explanation": "Depuis le référendum de 1962, le président n'est plus élu par des grands électeurs, mais directement par le vote des citoyens."
+      "explanation": "Depuis le référendum de 1962, le président n'est plus élu par des grands électeurs, mais directement par le vote des citoyens.",
+      "questionEn": "What important change happened in 1962 regarding the President of the Republic?",
+      "optionsEn": [
+        "The president is now elected for 10 years",
+        "The president is elected directly by the citizens (direct vote)",
+        "The president is chosen by members of parliament only",
+        "The position of president was removed"
+      ],
+      "explanationEn": "Since the referendum of 1962, the president is no longer elected by a group of electors, but directly by the vote of the citizens."
     },
     {
       "id": "dd-q33",
@@ -397,7 +653,15 @@
         "Une réunion annuelle de tous les juges de France"
       ],
       "correctAnswer": 2,
-      "explanation": "Le bloc de constitutionnalité regroupe la Constitution et d'autres textes fondamentaux (comme la Déclaration de 1789). C'est la référence suprême en droit français."
+      "explanation": "Le bloc de constitutionnalité regroupe la Constitution et d'autres textes fondamentaux (comme la Déclaration de 1789). C'est la référence suprême en droit français.",
+      "questionEn": "What is the 'bloc de constitutionnalité' (constitutional block)?",
+      "optionsEn": [
+        "All the buildings where ministers work",
+        "A group of laws about building housing",
+        "All the highest legal texts that all laws must respect",
+        "An annual meeting of all judges in France"
+      ],
+      "explanationEn": "The constitutional block brings together the Constitution and other fundamental texts (such as the Declaration of 1789). It is the supreme reference in French law."
     },
     {
       "id": "dd-q34",
@@ -409,7 +673,15 @@
         "À la Déclaration des droits de l'homme de 1789"
       ],
       "correctAnswer": 1,
-      "explanation": "La Charte de l'environnement a été ajoutée à la Constitution de 1958, ce qui lui donne la valeur juridique la plus élevée en France."
+      "explanation": "La Charte de l'environnement a été ajoutée à la Constitution de 1958, ce qui lui donne la valeur juridique la plus élevée en France.",
+      "questionEn": "To which fundamental text was the Environmental Charter added in 2005?",
+      "optionsEn": [
+        "To the traffic code",
+        "To the Constitution of 1958",
+        "To the civil code",
+        "To the Declaration of the Rights of Man of 1789"
+      ],
+      "explanationEn": "The Environmental Charter was added to the Constitution of 1958, which gives it the highest legal value in France."
     },
     {
       "id": "dd-q35",
@@ -421,7 +693,15 @@
         "D'arrêter de consommer de l'électricité"
       ],
       "correctAnswer": 2,
-      "explanation": "Selon l'article 2 de la Charte, toute personne a le devoir de participer à la protection et à l'amélioration de l'environnement."
+      "explanation": "Selon l'article 2 de la Charte, toute personne a le devoir de participer à la protection et à l'amélioration de l'environnement.",
+      "questionEn": "What is the duty of every person according to the Environmental Charter?",
+      "optionsEn": [
+        "To never use a car",
+        "To live only in the countryside",
+        "To contribute to the preservation and improvement of the environment",
+        "To stop using electricity"
+      ],
+      "explanationEn": "According to article 2 of the Charter, every person has the duty to participate in the protection and improvement of the environment."
     },
     {
       "id": "dd-q36",
@@ -433,7 +713,15 @@
         "Le retour à la vie sans technologie"
       ],
       "correctAnswer": 0,
-      "explanation": "Le développement durable signifie répondre aux besoins du présent sans empêcher les générations futures de répondre aux leurs."
+      "explanation": "Le développement durable signifie répondre aux besoins du présent sans empêcher les générations futures de répondre aux leurs.",
+      "questionEn": "What important principle is defined in the preamble of the Charter to protect future generations?",
+      "optionsEn": [
+        "Sustainable development",
+        "Unlimited economic growth",
+        "A ban on all construction",
+        "Going back to life without technology"
+      ],
+      "explanationEn": "Sustainable development means meeting the needs of the present without preventing future generations from meeting theirs."
     },
     {
       "id": "dd-q37",
@@ -445,7 +733,15 @@
         "Le droit de chasser n'importe quel animal"
       ],
       "correctAnswer": 1,
-      "explanation": "L'article 1er garantit à chacun le droit de vivre dans un environnement sain et équilibré."
+      "explanation": "L'article 1er garantit à chacun le droit de vivre dans un environnement sain et équilibré.",
+      "questionEn": "According to article 1 of the Charter, what is every person's right?",
+      "optionsEn": [
+        "The right to pollute if you pay a tax",
+        "The right to live in a balanced environment that respects health",
+        "The right to ignore climate problems",
+        "The right to hunt any animal"
+      ],
+      "explanationEn": "Article 1 guarantees everyone the right to live in a healthy and balanced environment."
     },
     {
       "id": "dd-q38",
@@ -457,7 +753,15 @@
         "La liberté signifie que l'on peut ignorer les lois si on n'est pas d'accord."
       ],
       "correctAnswer": 1,
-      "explanation": "L'article 4 de la DDHC précise que la liberté s'arrête là où commence celle des autres : on ne doit pas nuire (faire du mal) à autrui."
+      "explanation": "L'article 4 de la DDHC précise que la liberté s'arrête là où commence celle des autres : on ne doit pas nuire (faire du mal) à autrui.",
+      "questionEn": "According to the Declaration of the Rights of Man and of the Citizen, what is the definition of liberty?",
+      "optionsEn": [
+        "Liberty means doing whatever you want, without any limit.",
+        "Liberty means doing anything that does not harm others.",
+        "Liberty is a right reserved only for French citizens.",
+        "Liberty means you can ignore the laws if you disagree."
+      ],
+      "explanationEn": "Article 4 of the Declaration states that liberty ends where the liberty of others begins: you must not harm others."
     },
     {
       "id": "dd-q39",
@@ -469,7 +773,15 @@
         "L'opinion de nos voisins."
       ],
       "correctAnswer": 1,
-      "explanation": "Nos libertés peuvent être restreintes pour protéger l'intérêt général, l'ordre public (sécurité, tranquillité, santé) et les droits des autres."
+      "explanation": "Nos libertés peuvent être restreintes pour protéger l'intérêt général, l'ordre public (sécurité, tranquillité, santé) et les droits des autres.",
+      "questionEn": "Among these options, what can limit our individual freedoms?",
+      "optionsEn": [
+        "The mood of the President of the Republic.",
+        "The defence of public order and the general interest.",
+        "Each person's level of wealth.",
+        "The opinion of our neighbours."
+      ],
+      "explanationEn": "Our freedoms can be restricted to protect the general interest, public order (safety, peace, health), and the rights of others."
     },
     {
       "id": "dd-q40",
@@ -480,7 +792,14 @@
         "Oui, mais seulement la nuit."
       ],
       "correctAnswer": 1,
-      "explanation": "Il est interdit de circuler dans l'espace public avec une tenue destinée à dissimuler son visage pour des raisons de sécurité et de vie en société."
+      "explanation": "Il est interdit de circuler dans l'espace public avec une tenue destinée à dissimuler son visage pour des raisons de sécurité et de vie en société.",
+      "questionEn": "Is it allowed to hide your face in public spaces?",
+      "optionsEn": [
+        "Yes, it is a total freedom.",
+        "No, it is forbidden by law.",
+        "Yes, but only at night."
+      ],
+      "explanationEn": "It is forbidden to go out in public wearing clothing intended to hide your face, for reasons of safety and life in society."
     },
     {
       "id": "dd-q41",
@@ -491,7 +810,14 @@
         "Pour empêcher les gens de travailler définitivement."
       ],
       "correctAnswer": 1,
-      "explanation": "Des libertés comme celle de circuler ou de se réunir ont été limitées temporairement pour protéger la santé publique face à l'épidémie."
+      "explanation": "Des libertés comme celle de circuler ou de se réunir ont été limitées temporairement pour protéger la santé publique face à l'épidémie.",
+      "questionEn": "Why did the health emergency limit certain freedoms in 2020?",
+      "optionsEn": [
+        "To punish the population.",
+        "To protect everyone's health against Covid-19.",
+        "To permanently prevent people from working."
+      ],
+      "explanationEn": "Freedoms such as the freedom to move around or gather were temporarily limited to protect public health during the epidemic."
     },
     {
       "id": "dd-q42",
@@ -503,7 +829,15 @@
         "Pour éviter d'être expulsé du territoire français"
       ],
       "correctAnswer": 0,
-      "explanation": "L'impôt est une participation à l'effort commun qui permet de rendre les services publics gratuits (police, justice, éducation, hôpitaux, etc.)."
+      "explanation": "L'impôt est une participation à l'effort commun qui permet de rendre les services publics gratuits (police, justice, éducation, hôpitaux, etc.).",
+      "questionEn": "Why is it mandatory to pay taxes in France?",
+      "optionsEn": [
+        "To allow the State to fund public services such as education and healthcare",
+        "Only to increase the salary of the President of the Republic",
+        "To have the right to vote in local elections",
+        "To avoid being expelled from France"
+      ],
+      "explanationEn": "Tax is a contribution to the common effort that makes public services free (police, justice, education, hospitals, etc.)."
     },
     {
       "id": "dd-q43",
@@ -515,7 +849,15 @@
         "Elle doit simplement appeler un ami pour prévenir"
       ],
       "correctAnswer": 1,
-      "explanation": "Porter secours est une obligation légale. Ne pas aider une personne en danger est un délit appelé 'non-assistance à personne en danger'."
+      "explanation": "Porter secours est une obligation légale. Ne pas aider une personne en danger est un délit appelé 'non-assistance à personne en danger'.",
+      "questionEn": "What does a person risk if they do not help someone in danger?",
+      "optionsEn": [
+        "They risk only a simple administrative fine",
+        "They can be convicted of failure to assist a person in danger",
+        "They risk nothing if they do not know the victim",
+        "They simply need to call a friend to notify them"
+      ],
+      "explanationEn": "Helping someone in danger is a legal obligation. Not helping a person in danger is a crime called 'failure to assist a person in danger.'"
     },
     {
       "id": "dd-q44",
@@ -527,7 +869,15 @@
         "Vivre uniquement dans certaines villes désignées"
       ],
       "correctAnswer": 0,
-      "explanation": "Les résidents étrangers doivent être en situation régulière, ce qui implique de posséder un titre de séjour valide et de le renouveler."
+      "explanation": "Les résidents étrangers doivent être en situation régulière, ce qui implique de posséder un titre de séjour valide et de le renouveler.",
+      "questionEn": "What specific obligation applies to foreign people living in France?",
+      "optionsEn": [
+        "Having a valid residence permit and renewing it when it expires",
+        "Speaking perfect French from the moment of arrival",
+        "Having a permanent job (CDI) at all times",
+        "Living only in certain designated cities"
+      ],
+      "explanationEn": "Foreign residents must be in a legal situation, which means having a valid residence permit and renewing it."
     },
     {
       "id": "dd-q45",
@@ -539,7 +889,15 @@
         "Utiliser le maximum de produits chimiques pour le jardinage"
       ],
       "correctAnswer": 2,
-      "explanation": "Chacun a l'obligation d'agir pour l'environnement, notamment par la réutilisation, le recyclage et les économies d'eau et d'énergie."
+      "explanation": "Chacun a l'obligation d'agir pour l'environnement, notamment par la réutilisation, le recyclage et les économies d'eau et d'énergie.",
+      "questionEn": "Which of these actions is part of the obligation to protect the environment?",
+      "optionsEn": [
+        "Leaving the lights on all day",
+        "Throwing rubbish in the street",
+        "Practising recycling and saving water",
+        "Using as many chemicals as possible for gardening"
+      ],
+      "explanationEn": "Everyone has the obligation to act for the environment, including through reuse, recycling, and saving water and energy."
     },
     {
       "id": "dd-q46",
@@ -550,7 +908,14 @@
         "Parce que c'est une règle imposée uniquement par l'Union européenne"
       ],
       "correctAnswer": 0,
-      "explanation": "En démocratie, les citoyens élisent des représentants qui votent les lois. Ils sont donc indirectement les auteurs des règles qu'ils doivent respecter."
+      "explanation": "En démocratie, les citoyens élisent des représentants qui votent les lois. Ils sont donc indirectement les auteurs des règles qu'ils doivent respecter.",
+      "questionEn": "Why do we say that French citizens must respect the law?",
+      "optionsEn": [
+        "Because they have indirectly participated in creating it by electing representatives",
+        "Because the police monitor them constantly",
+        "Because it is a rule imposed only by the European Union"
+      ],
+      "explanationEn": "In a democracy, citizens elect representatives who vote on laws. They are therefore indirectly the authors of the rules they must follow."
     },
     {
       "id": "dd-q47",
@@ -561,7 +926,14 @@
         "Voter est réservé aux personnes qui paient des impôts"
       ],
       "correctAnswer": 1,
-      "explanation": "Le vote est essentiel au bon fonctionnement de la démocratie. C'est un droit fondamental, mais c'est aussi considéré comme un devoir moral et civique."
+      "explanation": "Le vote est essentiel au bon fonctionnement de la démocratie. C'est un droit fondamental, mais c'est aussi considéré comme un devoir moral et civique.",
+      "questionEn": "What statement is written on the voter's card in France?",
+      "optionsEn": [
+        "Voting is an obligation punished by law",
+        "Voting is a right, it is also a civic duty",
+        "Voting is reserved for people who pay taxes"
+      ],
+      "explanationEn": "Voting is essential for democracy to work well. It is a fundamental right, but it is also considered a moral and civic duty."
     },
     {
       "id": "dd-q48",
@@ -572,7 +944,14 @@
         "En participant à la Journée Défense et Citoyenneté (JDC)"
       ],
       "correctAnswer": 2,
-      "explanation": "Le service national a été remplacé par la Journée Défense et Citoyenneté (JDC), qui sensibilise les jeunes aux questions de sécurité et aux missions de l'armée."
+      "explanation": "Le service national a été remplacé par la Journée Défense et Citoyenneté (JDC), qui sensibilise les jeunes aux questions de sécurité et aux missions de l'armée.",
+      "questionEn": "How do citizens participate in national defence today?",
+      "optionsEn": [
+        "By doing a mandatory two-year military service",
+        "By buying weapons to protect themselves",
+        "By participating in the Defence and Citizenship Day (JDC)"
+      ],
+      "explanationEn": "National service has been replaced by the Defence and Citizenship Day (JDC), which raises awareness among young people about security issues and the missions of the army."
     },
     {
       "id": "dd-q49",
@@ -583,7 +962,14 @@
         "Il peut remplacer un avocat s'il le souhaite"
       ],
       "correctAnswer": 0,
-      "explanation": "Les citoyens de plus de 23 ans inscrits sur les listes électorales peuvent être tirés au sort pour devenir jurés et participer au jugement des crimes aux assises."
+      "explanation": "Les citoyens de plus de 23 ans inscrits sur les listes électorales peuvent être tirés au sort pour devenir jurés et participer au jugement des crimes aux assises.",
+      "questionEn": "What role can a citizen be called upon to play in the justice system?",
+      "optionsEn": [
+        "They can be randomly selected to be a juror in a criminal trial",
+        "They can decide a criminal's sentence alone",
+        "They can replace a lawyer if they wish"
+      ],
+      "explanationEn": "Citizens over 23 years old who are registered on electoral lists can be randomly selected to become jurors and participate in judging crimes at the criminal court (cour d'assises)."
     },
     {
       "id": "dd-q50",
@@ -595,7 +981,15 @@
         "Seulement si elles sont commises par des inconnus"
       ],
       "correctAnswer": 2,
-      "explanation": "Les violences sont strictement interdites en France, quel que soit le lieu (privé ou public) ou la relation avec l'agresseur (famille, collègue, inconnu)."
+      "explanation": "Les violences sont strictement interdites en France, quel que soit le lieu (privé ou public) ou la relation avec l'agresseur (famille, collègue, inconnu).",
+      "questionEn": "In France, in which places is violence forbidden?",
+      "optionsEn": [
+        "Only in the street and public places",
+        "Only at work",
+        "Everywhere: within a couple, a family, at work, and in the street",
+        "Only if committed by strangers"
+      ],
+      "explanationEn": "Violence is strictly forbidden in France, regardless of the place (private or public) or the relationship with the attacker (family, colleague, stranger)."
     },
     {
       "id": "dd-q51",
@@ -607,7 +1001,15 @@
         "Le fait de demander une augmentation de salaire"
       ],
       "correctAnswer": 1,
-      "explanation": "La violence économique consiste à contrôler les ressources financières de l'autre personne et leur utilisation pour exercer un pouvoir sur elle."
+      "explanation": "La violence économique consiste à contrôler les ressources financières de l'autre personne et leur utilisation pour exercer un pouvoir sur elle.",
+      "questionEn": "What is economic violence?",
+      "optionsEn": [
+        "Losing one's job",
+        "Controlling a partner's money in order to dominate them",
+        "Spending too much money in shops",
+        "Asking for a pay rise"
+      ],
+      "explanationEn": "Economic violence means controlling another person's financial resources and their use in order to have power over them."
     },
     {
       "id": "dd-q52",
@@ -619,7 +1021,15 @@
         "Pousser quelqu'un dans les escaliers"
       ],
       "correctAnswer": 2,
-      "explanation": "Confisquer des documents, insulter, menacer ou dénigrer sont des actes de violence psychologique, car ils visent à rabaisser ou contrôler l'autre sans nécessairement utiliser la force physique."
+      "explanation": "Confisquer des documents, insulter, menacer ou dénigrer sont des actes de violence psychologique, car ils visent à rabaisser ou contrôler l'autre sans nécessairement utiliser la force physique.",
+      "questionEn": "Among these examples, which one is psychological violence?",
+      "optionsEn": [
+        "Slapping someone",
+        "Pulling someone's hair",
+        "Confiscating a person's identity documents",
+        "Pushing someone down the stairs"
+      ],
+      "explanationEn": "Confiscating documents, insulting, threatening, or belittling are acts of psychological violence because they aim to put down or control the other person without necessarily using physical force."
     },
     {
       "id": "dd-q53",
@@ -631,7 +1041,15 @@
         "Non, sauf si c'est une petite gifle"
       ],
       "correctAnswer": 1,
-      "explanation": "La loi française interdit strictement toutes les formes de violence éducative, y compris les fessées, les gifles et les humiliations."
+      "explanation": "La loi française interdit strictement toutes les formes de violence éducative, y compris les fessées, les gifles et les humiliations.",
+      "questionEn": "In France, is it allowed to spank or slap a child as a form of discipline?",
+      "optionsEn": [
+        "Yes, if the child does not listen",
+        "No, all physical and psychological violence is forbidden",
+        "Yes, but only at home",
+        "No, unless it is a small slap"
+      ],
+      "explanationEn": "French law strictly forbids all forms of educational violence, including spanking, slapping, and humiliation."
     },
     {
       "id": "dd-q54",
@@ -643,7 +1061,15 @@
         "Une punition donnée par un professeur"
       ],
       "correctAnswer": 2,
-      "explanation": "Le harcèlement scolaire se définit par la répétition des violences (verbales, physiques ou morales) qu'un élève subit de la part d'autres élèves."
+      "explanation": "Le harcèlement scolaire se définit par la répétition des violences (verbales, physiques ou morales) qu'un élève subit de la part d'autres élèves.",
+      "questionEn": "What is school bullying (harcèlement scolaire)?",
+      "optionsEn": [
+        "A single argument between two students in the playground",
+        "Not liking school",
+        "Repeated violence (insults, hitting, mockery) experienced by a student",
+        "A punishment given by a teacher"
+      ],
+      "explanationEn": "School bullying is defined by the repetition of violence (verbal, physical, or emotional) that a student suffers from other students."
     },
     {
       "id": "dd-q55",
@@ -654,7 +1080,14 @@
         "Le 15"
       ],
       "correctAnswer": 0,
-      "explanation": "Le 119 est le numéro national 'Allô Enfance en Danger'. Il est gratuit, confidentiel et disponible 24h/24 et 7j/7."
+      "explanation": "Le 119 est le numéro national 'Allô Enfance en Danger'. Il est gratuit, confidentiel et disponible 24h/24 et 7j/7.",
+      "questionEn": "What free phone number should you call if a child is in danger?",
+      "optionsEn": [
+        "119",
+        "18",
+        "15"
+      ],
+      "explanationEn": "119 is the national number 'Allô Enfance en Danger' (Hello Childhood in Danger). It is free, confidential, and available 24 hours a day, 7 days a week."
     },
     {
       "id": "dd-q56",
@@ -666,7 +1099,15 @@
         "Cela dépend de la religion du couple"
       ],
       "correctAnswer": 1,
-      "explanation": "Les violences sexuelles sont interdites pour tout le monde, y compris au sein d'un couple marié ou non. Le consentement est obligatoire à chaque fois."
+      "explanation": "Les violences sexuelles sont interdites pour tout le monde, y compris au sein d'un couple marié ou non. Le consentement est obligatoire à chaque fois.",
+      "questionEn": "In France, is it allowed to force a sexual act on your spouse or partner?",
+      "optionsEn": [
+        "Yes, because they are married or in a couple",
+        "No, nobody has the right to force a sexual act, even within a couple",
+        "Yes, if it only happens once",
+        "It depends on the couple's religion"
+      ],
+      "explanationEn": "Sexual violence is forbidden for everyone, including within a married or unmarried couple. Consent is required every time."
     },
     {
       "id": "dd-q57",
@@ -678,7 +1119,15 @@
         "C'est envoyer un SMS à caractère pornographique"
       ],
       "correctAnswer": 0,
-      "explanation": "L'agression sexuelle est un acte sexuel sans pénétration (comme un attouchement) commis sans le consentement de la victime."
+      "explanation": "L'agression sexuelle est un acte sexuel sans pénétration (comme un attouchement) commis sans le consentement de la victime.",
+      "questionEn": "What defines a sexual assault?",
+      "optionsEn": [
+        "It is a sexual act without penetration, imposed by violence or coercion",
+        "It is making an obscene joke",
+        "It is an act of sexual penetration imposed by force",
+        "It is sending a pornographic text message"
+      ],
+      "explanationEn": "Sexual assault is a sexual act without penetration (such as unwanted touching) committed without the victim's consent."
     },
     {
       "id": "dd-q58",
@@ -690,7 +1139,15 @@
         "Si une personne a bu de l'alcool, son consentement est automatique"
       ],
       "correctAnswer": 2,
-      "explanation": "Le consentement doit être clair et partagé par les deux partenaires. Le silence ne veut pas dire oui, et si une personne n'est pas en état (alcool, sommeil), elle ne peut pas consentir."
+      "explanation": "Le consentement doit être clair et partagé par les deux partenaires. Le silence ne veut pas dire oui, et si une personne n'est pas en état (alcool, sommeil), elle ne peut pas consentir.",
+      "questionEn": "How does sexual consent work?",
+      "optionsEn": [
+        "If a person says nothing, it means yes",
+        "Once given, consent is valid forever",
+        "Consent must be mutual, shared, and can be withdrawn at any time",
+        "If a person has been drinking alcohol, their consent is automatic"
+      ],
+      "explanationEn": "Consent must be clear and shared by both partners. Silence does not mean yes, and if a person is not in a fit state (alcohol, sleep), they cannot consent."
     },
     {
       "id": "dd-q59",
@@ -702,7 +1159,15 @@
         "Refuser les avances de quelqu'un"
       ],
       "correctAnswer": 1,
-      "explanation": "Le harcèlement sexuel consiste à imposer des propos ou comportements sexistes ou sexuels (remarques sur le corps, sifflements, chantage) qui mettent la victime mal à l'aise."
+      "explanation": "Le harcèlement sexuel consiste à imposer des propos ou comportements sexistes ou sexuels (remarques sur le corps, sifflements, chantage) qui mettent la victime mal à l'aise.",
+      "questionEn": "Which of these behaviours is considered sexual harassment?",
+      "optionsEn": [
+        "Politely inviting someone to a restaurant",
+        "Imposing sexually suggestive comments, whistling, or obscene jokes",
+        "Having a consensual sexual relationship",
+        "Refusing someone's advances"
+      ],
+      "explanationEn": "Sexual harassment means imposing sexist or sexual comments or behaviour (remarks about the body, whistling, blackmail) that make the victim uncomfortable."
     },
     {
       "id": "dd-q60",
@@ -714,7 +1179,15 @@
         "Non, sauf si elles sont pratiquées à l'étranger."
       ],
       "correctAnswer": 1,
-      "explanation": "Les mutilations sexuelles féminines sont interdites et sévèrement punies par la loi française, même si elles sont commises à l'étranger. Aucune tradition ne peut justifier ces actes."
+      "explanation": "Les mutilations sexuelles féminines sont interdites et sévèrement punies par la loi française, même si elles sont commises à l'étranger. Aucune tradition ne peut justifier ces actes.",
+      "questionEn": "According to French law, is female genital mutilation allowed?",
+      "optionsEn": [
+        "Yes, if it is a cultural or religious tradition.",
+        "No, it is strictly forbidden and punished by law.",
+        "Yes, if the parents agree.",
+        "No, unless it is done abroad."
+      ],
+      "explanationEn": "Female genital mutilation is forbidden and severely punished by French law, even if committed abroad. No tradition can justify these acts."
     },
     {
       "id": "dd-q61",
@@ -726,7 +1199,15 @@
         "Elles ont uniquement des conséquences esthétiques."
       ],
       "correctAnswer": 2,
-      "explanation": "Ces pratiques ont des conséquences graves et durables : infections, douleurs, risques mortels lors de l'accouchement, ainsi que des problèmes psychologiques comme la dépression."
+      "explanation": "Ces pratiques ont des conséquences graves et durables : infections, douleurs, risques mortels lors de l'accouchement, ainsi que des problèmes psychologiques comme la dépression.",
+      "questionEn": "What can be the health consequences of genital mutilation for women?",
+      "optionsEn": [
+        "They have no health consequences.",
+        "They improve health during childbirth.",
+        "They can cause infections, pain, risks during childbirth, and psychological trauma.",
+        "They only have cosmetic consequences."
+      ],
+      "explanationEn": "These practices have serious and lasting consequences: infections, pain, life-threatening risks during childbirth, and psychological problems such as depression."
     },
     {
       "id": "dd-q62",
@@ -738,7 +1219,15 @@
         "Elle recevra un avertissement médical."
       ],
       "correctAnswer": 2,
-      "explanation": "La loi française punit les mutilations sexuelles féminines même lorsqu'elles sont commises à l'étranger sur des personnes résidant habituellement en France."
+      "explanation": "La loi française punit les mutilations sexuelles féminines même lorsqu'elles sont commises à l'étranger sur des personnes résidant habituellement en France.",
+      "questionEn": "If a family takes their daughter abroad to perform female genital cutting during a holiday, what do they risk?",
+      "optionsEn": [
+        "Nothing, because it happens outside France.",
+        "A simple administrative fine.",
+        "They can be prosecuted and punished under French law upon return.",
+        "They will receive a medical warning."
+      ],
+      "explanationEn": "French law punishes female genital mutilation even when committed abroad on people who usually live in France."
     },
     {
       "id": "dd-q63",
@@ -749,7 +1238,14 @@
         "C'est le fait de voyager dans un autre pays pour le tourisme"
       ],
       "correctAnswer": 0,
-      "explanation": "La traite des êtres humains consiste à exploiter une personne (esclavage, travail forcé, mendicité forcée, etc.) en la recrutant ou en la déplaçant."
+      "explanation": "La traite des êtres humains consiste à exploiter une personne (esclavage, travail forcé, mendicité forcée, etc.) en la recrutant ou en la déplaçant.",
+      "questionEn": "What is human trafficking?",
+      "optionsEn": [
+        "It is recruiting, transporting, or housing a person in order to exploit them",
+        "It is helping a person find a legal job",
+        "It is travelling to another country for tourism"
+      ],
+      "explanationEn": "Human trafficking consists of exploiting a person (slavery, forced labour, forced begging, etc.) by recruiting or moving them."
     },
     {
       "id": "dd-q64",
@@ -760,7 +1256,14 @@
         "Personne, la prostitution est totalement libre"
       ],
       "correctAnswer": 1,
-      "explanation": "La loi française punit l'achat d'actes sexuels (les clients) et ceux qui profitent de la prostitution d'autrui (les proxénètes)."
+      "explanation": "La loi française punit l'achat d'actes sexuels (les clients) et ceux qui profitent de la prostitution d'autrui (les proxénètes).",
+      "questionEn": "In France, who can be punished by law in cases of prostitution?",
+      "optionsEn": [
+        "Only the prostituted persons",
+        "The clients and the pimps",
+        "Nobody, prostitution is completely free"
+      ],
+      "explanationEn": "French law punishes the purchase of sexual acts (the clients) and those who profit from the prostitution of others (the pimps)."
     },
     {
       "id": "dd-q65",
@@ -771,7 +1274,14 @@
         "Un Parcours de Sortie de Prostitution (PSP) pour les aider à se réinsérer"
       ],
       "correctAnswer": 2,
-      "explanation": "La France propose un accompagnement spécifique appelé Parcours de Sortie de Prostitution (PSP) pour aider les personnes à se réinsérer et à changer de vie."
+      "explanation": "La France propose un accompagnement spécifique appelé Parcours de Sortie de Prostitution (PSP) pour aider les personnes à se réinsérer et à changer de vie.",
+      "questionEn": "What does France offer to people who want to leave prostitution?",
+      "optionsEn": [
+        "A mandatory prison sentence",
+        "A fine to pay",
+        "A Pathway out of Prostitution programme (PSP) to help them reintegrate into society"
+      ],
+      "explanationEn": "France offers specific support called the Pathway out of Prostitution programme (PSP) to help people reintegrate and change their lives."
     },
     {
       "id": "dd-q66",
@@ -782,7 +1292,14 @@
         "Une recommandation pour bien vivre ensemble"
       ],
       "correctAnswer": 0,
-      "explanation": "Les infractions pénales sont des actes interdits par la loi qui garantissent l'ordre public et la sécurité. Elles peuvent entraîner des sanctions."
+      "explanation": "Les infractions pénales sont des actes interdits par la loi qui garantissent l'ordre public et la sécurité. Elles peuvent entraîner des sanctions.",
+      "questionEn": "What is a criminal offence?",
+      "optionsEn": [
+        "An act or behaviour forbidden by law",
+        "A rule set by your employer",
+        "A recommendation for living together well"
+      ],
+      "explanationEn": "Criminal offences are acts forbidden by law that protect public order and safety. They can lead to penalties."
     },
     {
       "id": "dd-q67",
@@ -793,7 +1310,14 @@
         "La contravention"
       ],
       "correctAnswer": 2,
-      "explanation": "La contravention est l'infraction la moins grave (exemple : excès de vitesse). Elle est punie par une amende et ne conduit jamais à la prison."
+      "explanation": "La contravention est l'infraction la moins grave (exemple : excès de vitesse). Elle est punie par une amende et ne conduit jamais à la prison.",
+      "questionEn": "What is the least serious offence, often punished by a simple fine?",
+      "optionsEn": [
+        "A crime (most serious offence)",
+        "A délit (mid-level offence)",
+        "A contravention (minor offence)"
+      ],
+      "explanationEn": "A contravention is the least serious offence (example: speeding). It is punished by a fine and never leads to prison."
     },
     {
       "id": "dd-q68",
@@ -804,7 +1328,14 @@
         "La cour d'assises"
       ],
       "correctAnswer": 1,
-      "explanation": "Le tribunal correctionnel juge les délits. Le tribunal de police s'occupe des contraventions et la cour d'assises s'occupe des crimes."
+      "explanation": "Le tribunal correctionnel juge les délits. Le tribunal de police s'occupe des contraventions et la cour d'assises s'occupe des crimes.",
+      "questionEn": "Which court judges mid-level offences (délits) such as theft or harassment?",
+      "optionsEn": [
+        "The police court (tribunal de police)",
+        "The correctional court (tribunal correctionnel)",
+        "The criminal court (cour d'assises)"
+      ],
+      "explanationEn": "The correctional court judges mid-level offences (délits). The police court handles minor offences (contraventions) and the criminal court (cour d'assises) handles the most serious crimes."
     },
     {
       "id": "dd-q69",
@@ -815,7 +1346,14 @@
         "Une peine de prison de 2 mois à 10 ans"
       ],
       "correctAnswer": 1,
-      "explanation": "Le crime (comme un meurtre ou un viol) est l'infraction la plus grave. Il est puni par une lourde amende et une peine de prison très longue (15 ans minimum)."
+      "explanation": "Le crime (comme un meurtre ou un viol) est l'infraction la plus grave. Il est puni par une lourde amende et une peine de prison très longue (15 ans minimum).",
+      "questionEn": "What penalty do you risk for a crime (the most serious offence)?",
+      "optionsEn": [
+        "Only a fine of 3,000 euros maximum",
+        "A prison sentence from 15 years up to life",
+        "A prison sentence from 2 months to 10 years"
+      ],
+      "explanationEn": "A crime (such as murder or rape) is the most serious offence. It is punished by a heavy fine and a very long prison sentence (15 years minimum)."
     },
     {
       "id": "dd-q70",
@@ -827,7 +1365,15 @@
         "Il n'y a aucune différence, elles travaillent exactement aux mêmes endroits."
       ],
       "correctAnswer": 0,
-      "explanation": "La police assure le respect des lois en zone urbaine (ville), tandis que la gendarmerie agit en zone rurale (campagne) et périurbaine."
+      "explanation": "La police assure le respect des lois en zone urbaine (ville), tandis que la gendarmerie agit en zone rurale (campagne) et périurbaine.",
+      "questionEn": "What is the main geographical difference between the police and the gendarmerie?",
+      "optionsEn": [
+        "The police work in cities, while the gendarmerie works in rural areas and on roads.",
+        "The police work only at night, while the gendarmerie works during the day.",
+        "The police handle borders, while the gendarmerie handles cities.",
+        "There is no difference, they work in exactly the same places."
+      ],
+      "explanationEn": "The police enforce laws in urban areas (cities), while the gendarmerie operates in rural areas (countryside) and suburban areas."
     },
     {
       "id": "dd-q71",
@@ -839,7 +1385,15 @@
         "Ils sont des employés de mairie."
       ],
       "correctAnswer": 1,
-      "explanation": "Contrairement aux policiers, les gendarmes sont des militaires, même s'ils assurent des missions de sécurité intérieure."
+      "explanation": "Contrairement aux policiers, les gendarmes sont des militaires, même s'ils assurent des missions de sécurité intérieure.",
+      "questionEn": "What special status do gendarmes have?",
+      "optionsEn": [
+        "They are volunteers.",
+        "They have military status.",
+        "They are judges.",
+        "They are town hall employees."
+      ],
+      "explanationEn": "Unlike the police, gendarmes have military status, even though they carry out domestic security missions."
     },
     {
       "id": "dd-q72",
@@ -851,7 +1405,17 @@
         "Enseigner le code de la route dans les écoles."
       ],
       "correctAnswer": 2,
-      "explanation": "La police et la gendarmerie ont pour missions principales de protéger les personnes et les biens, de maintenir l'ordre public et de prévenir les infractions."
+      "explanation": "La police et la gendarmerie ont pour missions principales de protéger les personnes et les biens, de maintenir l'ordre public et de prévenir les infractions.",
+      "questionEn": "Among these missions, which one is shared by both the police and the gendarmerie?",
+      "optionsEn": [
+        "Treating injured people at the hospital.",
+        "Voting on laws at the National Assembly.",
+        "Protecting people and property.",
+        "Teaching traffic rules in schools."
+      ],
+      "explanationEn": "The main missions of both the police and the gendarmerie are to protect people and property, maintain public order, and prevent offences."
     }
-  ]
+  ],
+  "titleEn": "Rights and Duties",
+  "descriptionEn": "Quiz – Fundamental rights • Obligations and duties of people living in France. Test your knowledge with questions based on official civic education materials."
 }

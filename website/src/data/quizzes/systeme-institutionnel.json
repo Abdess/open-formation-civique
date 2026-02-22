@@ -1,7 +1,7 @@
 {
   "id": "systeme-institutionnel",
   "title": "Système institutionnel et politique",
-  "description": "Testez vos connaissances : Démocratie et droit de vote • Organisation de la République française",
+  "description": "Quiz – Démocratie et droit de vote • Organisation de la République française. Testez vos connaissances avec des questions générées à partir des fiches thématiques officielles.",
   "questions": [
     {
       "id": "si-q1",
@@ -13,7 +13,15 @@
         "Un système où les citoyens peuvent choisir quelles lois respecter"
       ],
       "correctAnswer": 1,
-      "explanation": "Dans un État de droit, le droit est supérieur aux pouvoirs politiques. Tout le monde, y compris l'État et ses représentants, doit respecter la loi."
+      "explanation": "Dans un État de droit, le droit est supérieur aux pouvoirs politiques. Tout le monde, y compris l'État et ses représentants, doit respecter la loi.",
+      "questionEn": "What is a 'rule of law' state (État de droit)?",
+      "optionsEn": [
+        "A system where the State has all the power and decides everything without control",
+        "A system where the law is the same for everyone, including the State",
+        "A system where judges decide the laws instead of Parliament",
+        "A system where citizens can choose which laws to follow"
+      ],
+      "explanationEn": "In a rule of law state, the law is above political power. Everyone, including the State and its leaders, must follow the law."
     },
     {
       "id": "si-q2",
@@ -25,7 +33,15 @@
         "Pour que le Parlement puisse juger les citoyens"
       ],
       "correctAnswer": 1,
-      "explanation": "La séparation des pouvoirs (législatif, exécutif, judiciaire) permet aux différents pouvoirs de se contrôler mutuellement et d'éviter l'arbitraire."
+      "explanation": "La séparation des pouvoirs (législatif, exécutif, judiciaire) permet aux différents pouvoirs de se contrôler mutuellement et d'éviter l'arbitraire.",
+      "questionEn": "Why is the separation of powers important in a democracy?",
+      "optionsEn": [
+        "So that the President can decide alone",
+        "To prevent one person or one group from having all the power",
+        "To make justice faster without following procedures",
+        "So that Parliament can judge citizens"
+      ],
+      "explanationEn": "The separation of powers (legislative, executive, judicial) allows each branch to check the others and prevents abuse of power."
     },
     {
       "id": "si-q3",
@@ -37,7 +53,15 @@
         "Le pouvoir de la police, le pouvoir de l'armée et le pouvoir des juges"
       ],
       "correctAnswer": 0,
-      "explanation": "Les trois pouvoirs sont : le législatif (vote la loi), l'exécutif (applique la loi) et le judiciaire (contrôle l'application de la loi)."
+      "explanation": "Les trois pouvoirs sont : le législatif (vote la loi), l'exécutif (applique la loi) et le judiciaire (contrôle l'application de la loi).",
+      "questionEn": "What are the three separate powers in France?",
+      "optionsEn": [
+        "The legislative power, the executive power, and the judicial power",
+        "The political power, the economic power, and the military power",
+        "The power of the President, the power of the Prime Minister, and the power of the Mayors",
+        "The power of the police, the power of the army, and the power of the judges"
+      ],
+      "explanationEn": "The three powers are: legislative (makes the laws), executive (applies the laws), and judicial (makes sure the laws are followed correctly)."
     },
     {
       "id": "si-q4",
@@ -49,7 +73,15 @@
         "Que seuls les citoyens français doivent respecter la loi"
       ],
       "correctAnswer": 2,
-      "explanation": "L'égalité devant la loi signifie qu'il n'y a pas de privilèges : que l'on soit un simple citoyen ou un ministre, on doit respecter les mêmes règles."
+      "explanation": "L'égalité devant la loi signifie qu'il n'y a pas de privilèges : que l'on soit un simple citoyen ou un ministre, on doit respecter les mêmes règles.",
+      "questionEn": "What does the principle of equality before the law mean?",
+      "optionsEn": [
+        "That politicians have special laws to protect them",
+        "That laws change depending on how rich a person is",
+        "That everyone follows the same laws and has the same rights and duties",
+        "That only French citizens must follow the law"
+      ],
+      "explanationEn": "Equality before the law means there are no special privileges: whether you are an ordinary citizen or a minister, you must follow the same rules."
     },
     {
       "id": "si-q5",
@@ -60,7 +92,14 @@
         "Elle permet au gouvernement de contrôler ce que pensent les gens"
       ],
       "correctAnswer": 0,
-      "explanation": "La pluralité des partis est un principe fondamental de la démocratie qui permet à chaque citoyen d'exprimer librement ses convictions politiques."
+      "explanation": "La pluralité des partis est un principe fondamental de la démocratie qui permet à chaque citoyen d'exprimer librement ses convictions politiques.",
+      "questionEn": "Why is having multiple political parties important in France?",
+      "optionsEn": [
+        "It guarantees freedom to express political opinions for all citizens",
+        "It forces all citizens to join the same political party",
+        "It allows the government to control what people think"
+      ],
+      "explanationEn": "Having multiple parties is a basic principle of democracy that allows every citizen to freely express their political beliefs."
     },
     {
       "id": "si-q6",
@@ -71,7 +110,14 @@
         "Les médias doivent respecter un temps de parole équitable pour tous les partis"
       ],
       "correctAnswer": 2,
-      "explanation": "La loi du 30 septembre 1986 oblige les médias à être équitables et à donner autant de temps de parole à tous les partis pendant les élections."
+      "explanation": "La loi du 30 septembre 1986 oblige les médias à être équitables et à donner autant de temps de parole à tous les partis pendant les élections.",
+      "questionEn": "What does the law say about media and political parties during election campaigns?",
+      "optionsEn": [
+        "The media must only give a voice to the President's party",
+        "The media are free to favor whichever party they prefer",
+        "The media must give fair and equal speaking time to all parties"
+      ],
+      "explanationEn": "The law of September 30, 1986 requires media to be fair and give equal speaking time to all parties during elections."
     },
     {
       "id": "si-q7",
@@ -82,7 +128,14 @@
         "Décider des prix dans les supermarchés"
       ],
       "correctAnswer": 1,
-      "explanation": "Les partis servent d'intermédiaires entre les citoyens et le pouvoir : ils proposent des idées (programmes) et présentent des candidats pour les faire élire."
+      "explanation": "Les partis servent d'intermédiaires entre les citoyens et le pouvoir : ils proposent des idées (programmes) et présentent des candidats pour les faire élire.",
+      "questionEn": "What is one of the main functions of a political party?",
+      "optionsEn": [
+        "To choose judges for the courts",
+        "To propose political programs and select candidates for elections",
+        "To decide prices in supermarkets"
+      ],
+      "explanationEn": "Political parties act as a link between citizens and power: they propose ideas (programs) and present candidates to be elected."
     },
     {
       "id": "si-q8",
@@ -94,7 +147,15 @@
         "Le traité de Lisbonne"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est le traité de Maastricht, signé en 1992, qui a créé l'Union européenne et permis la libre circulation des marchandises, des personnes et des capitaux."
+      "explanation": "C'est le traité de Maastricht, signé en 1992, qui a créé l'Union européenne et permis la libre circulation des marchandises, des personnes et des capitaux.",
+      "questionEn": "Which treaty created the European Union (EU) in 1992 and allowed free movement of people?",
+      "optionsEn": [
+        "The Treaty of Paris",
+        "The Treaty of Rome",
+        "The Treaty of Maastricht",
+        "The Treaty of Lisbon"
+      ],
+      "explanationEn": "The Treaty of Maastricht, signed in 1992, created the European Union and allowed the free movement of goods, people, and money."
     },
     {
       "id": "si-q9",
@@ -105,7 +166,14 @@
         "27 pays"
       ],
       "correctAnswer": 0,
-      "explanation": "En 1957, la CEE a été créée par 6 pays fondateurs : l'Allemagne de l’Ouest, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas."
+      "explanation": "En 1957, la CEE a été créée par 6 pays fondateurs : l'Allemagne de l’Ouest, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas.",
+      "questionEn": "How many countries founded the European Economic Community (EEC) in 1957?",
+      "optionsEn": [
+        "6 countries",
+        "12 countries",
+        "27 countries"
+      ],
+      "explanationEn": "In 1957, the EEC was created by 6 founding countries: West Germany, Belgium, France, Italy, Luxembourg, and the Netherlands."
     },
     {
       "id": "si-q10",
@@ -117,7 +185,15 @@
         "L'adhésion de la Turquie"
       ],
       "correctAnswer": 1,
-      "explanation": "En 2020, pour la première fois de son histoire, un pays a quitté l'Union européenne : c'est le Royaume-Uni."
+      "explanation": "En 2020, pour la première fois de son histoire, un pays a quitté l'Union européenne : c'est le Royaume-Uni.",
+      "questionEn": "What important event happened for the European Union in 2020?",
+      "optionsEn": [
+        "Croatia joined the EU",
+        "The United Kingdom left the EU (Brexit)",
+        "The creation of the single currency",
+        "Turkey joined the EU"
+      ],
+      "explanationEn": "In 2020, for the first time in its history, a country left the European Union: the United Kingdom."
     },
     {
       "id": "si-q11",
@@ -129,7 +205,15 @@
         "La fermeture des frontières"
       ],
       "correctAnswer": 1,
-      "explanation": "Le traité de Lisbonne en 2007 a ajouté la lutte contre le changement climatique aux objectifs officiels de l'Union européenne."
+      "explanation": "Le traité de Lisbonne en 2007 a ajouté la lutte contre le changement climatique aux objectifs officiels de l'Union européenne.",
+      "questionEn": "What new goal was added to the European Union by the Treaty of Lisbon in 2007?",
+      "optionsEn": [
+        "The creation of a single army",
+        "The fight against climate change",
+        "Banning nuclear energy",
+        "Closing all borders"
+      ],
+      "explanationEn": "The Treaty of Lisbon in 2007 added the fight against climate change to the official goals of the European Union."
     },
     {
       "id": "si-q12",
@@ -140,7 +224,14 @@
         "Tous les dix ans"
       ],
       "correctAnswer": 1,
-      "explanation": "Les élections européennes ont lieu tous les cinq ans pour élire les députés du Parlement européen."
+      "explanation": "Les élections européennes ont lieu tous les cinq ans pour élire les députés du Parlement européen.",
+      "questionEn": "How often are European elections held?",
+      "optionsEn": [
+        "Every year",
+        "Every five years",
+        "Every ten years"
+      ],
+      "explanationEn": "European elections are held every five years to elect members of the European Parliament."
     },
     {
       "id": "si-q13",
@@ -151,7 +242,14 @@
         "Les députés européens (eurodéputés)"
       ],
       "correctAnswer": 2,
-      "explanation": "Les citoyens votent pour choisir les membres du Parlement européen, qu'on appelle les eurodéputés."
+      "explanation": "Les citoyens votent pour choisir les membres du Parlement européen, qu'on appelle les eurodéputés.",
+      "questionEn": "Who is elected in these elections?",
+      "optionsEn": [
+        "The President of the Republic",
+        "The mayors of European cities",
+        "The European Parliament members (MEPs)"
+      ],
+      "explanationEn": "Citizens vote to choose members of the European Parliament, called MEPs (Members of the European Parliament)."
     },
     {
       "id": "si-q14",
@@ -162,7 +260,14 @@
         "Parler couramment trois langues"
       ],
       "correctAnswer": 0,
-      "explanation": "Pour voter, il faut avoir la nationalité d'un pays membre de l'Union européenne, en plus d'habiter en France et d'être majeur."
+      "explanation": "Pour voter, il faut avoir la nationalité d'un pays membre de l'Union européenne, en plus d'habiter en France et d'être majeur.",
+      "questionEn": "What condition is needed to vote in European elections in France?",
+      "optionsEn": [
+        "To have the nationality of a European Union country",
+        "To have an American passport",
+        "To speak three languages fluently"
+      ],
+      "explanationEn": "To vote, you must have the nationality of an EU member country, live in France, and be at least 18 years old."
     },
     {
       "id": "si-q15",
@@ -173,7 +278,14 @@
         "À main levée"
       ],
       "correctAnswer": 1,
-      "explanation": "Les électeurs ne votent pas pour une seule personne, mais pour des listes présentées par des partis politiques."
+      "explanation": "Les électeurs ne votent pas pour une seule personne, mais pour des listes présentées par des partis politiques.",
+      "questionEn": "How do people vote in these elections?",
+      "optionsEn": [
+        "For a single candidate",
+        "For a list from political parties",
+        "By raising your hand"
+      ],
+      "explanationEn": "Voters do not vote for a single person, but for lists presented by political parties."
     },
     {
       "id": "si-q16",
@@ -185,7 +297,15 @@
         "Les policiers et les militaires"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est le Parlement, composé de l'Assemblée nationale et du Sénat, qui propose, négocie et vote la loi."
+      "explanation": "C'est le Parlement, composé de l'Assemblée nationale et du Sénat, qui propose, négocie et vote la loi.",
+      "questionEn": "Who holds the legislative power and is responsible for voting on laws?",
+      "optionsEn": [
+        "The President of the Republic and the Government",
+        "The Parliament (the National Assembly and the Senate)",
+        "Judges and magistrates",
+        "Police officers and military personnel"
+      ],
+      "explanationEn": "It is Parliament, made up of the National Assembly (Assemblée nationale) and the Senate (Sénat), that proposes, discusses, and votes on laws."
     },
     {
       "id": "si-q17",
@@ -197,7 +317,15 @@
         "Recruter les magistrats par concours"
       ],
       "correctAnswer": 2,
-      "explanation": "Le pouvoir exécutif, dirigé par le président et le Gouvernement, est chargé d'appliquer les lois votées par le Parlement et de diriger l'administration."
+      "explanation": "Le pouvoir exécutif, dirigé par le président et le Gouvernement, est chargé d'appliquer les lois votées par le Parlement et de diriger l'administration.",
+      "questionEn": "What is the main role of the executive power (the President and the Government)?",
+      "optionsEn": [
+        "To judge people who do not follow the law",
+        "To vote on new laws",
+        "To apply the laws and lead national policy",
+        "To recruit judges through exams"
+      ],
+      "explanationEn": "The executive power, led by the President and the Government, is responsible for applying the laws voted by Parliament and running the country's administration."
     },
     {
       "id": "si-q18",
@@ -209,7 +337,15 @@
         "La justice commerciale"
       ],
       "correctAnswer": 0,
-      "explanation": "La justice administrative est spécifiquement chargée de juger les litiges entre les individus et l'État (comme un problème avec la CAF ou la préfecture)."
+      "explanation": "La justice administrative est spécifiquement chargée de juger les litiges entre les individus et l'État (comme un problème avec la CAF ou la préfecture).",
+      "questionEn": "Which type of justice handles disputes between a citizen and the State (or a government agency)?",
+      "optionsEn": [
+        "Administrative justice",
+        "Civil justice",
+        "Criminal justice",
+        "Commercial justice"
+      ],
+      "explanationEn": "Administrative justice specifically handles disputes between individuals and the State (for example, a problem with the social benefits office or the prefecture)."
     },
     {
       "id": "si-q19",
@@ -221,7 +357,15 @@
         "Une somme d'argent donnée par le juge si l'on gagne son procès"
       ],
       "correctAnswer": 1,
-      "explanation": "L'aide juridictionnelle permet à chacun d'être défendu de manière juste, peu importe ses revenus, en prenant en charge les frais de justice."
+      "explanation": "L'aide juridictionnelle permet à chacun d'être défendu de manière juste, peu importe ses revenus, en prenant en charge les frais de justice.",
+      "questionEn": "What is legal aid (aide juridictionnelle)?",
+      "optionsEn": [
+        "Financial help to pay your taxes",
+        "Financial help to have a lawyer if you have low income",
+        "Training to become a judge",
+        "Money given by the judge if you win your case"
+      ],
+      "explanationEn": "Legal aid allows everyone to be fairly defended, regardless of their income, by covering legal costs."
     },
     {
       "id": "si-q20",
@@ -233,7 +377,15 @@
         "Être marié et payer des impôts en France"
       ],
       "correctAnswer": 0,
-      "explanation": "Pour voter, il faut être majeur (18 ans), avoir la nationalité française, jouir de ses droits civils et être inscrit sur les listes électorales."
+      "explanation": "Pour voter, il faut être majeur (18 ans), avoir la nationalité française, jouir de ses droits civils et être inscrit sur les listes électorales.",
+      "questionEn": "What are the conditions to have the right to vote in France?",
+      "optionsEn": [
+        "Be 18 years old, have French nationality, and be registered on the electoral lists",
+        "Be 21 years old and own a home",
+        "Be 18 years old and have a job in France",
+        "Be married and pay taxes in France"
+      ],
+      "explanationEn": "To vote, you must have French nationality, be at least 18 years old, have your civil rights, and be registered on the electoral lists."
     },
     {
       "id": "si-q21",
@@ -245,7 +397,15 @@
         "Il n'y a aucune différence, ce sont deux mots pour la même chose"
       ],
       "correctAnswer": 0,
-      "explanation": "La démocratie repose sur le pouvoir du peuple (vote, pluralité des partis), alors que la dictature concentre le pouvoir entre les mains d'une seule personne ou d'un groupe restreint."
+      "explanation": "La démocratie repose sur le pouvoir du peuple (vote, pluralité des partis), alors que la dictature concentre le pouvoir entre les mains d'une seule personne ou d'un groupe restreint.",
+      "questionEn": "What is the main difference between democracy and dictatorship?",
+      "optionsEn": [
+        "In a democracy, the power belongs to the people; in a dictatorship, it is held by one person or a small group",
+        "In a democracy, there is no president",
+        "A dictatorship holds free elections every year",
+        "There is no difference, they are two words for the same thing"
+      ],
+      "explanationEn": "Democracy is based on the power of the people (voting, multiple parties), while a dictatorship concentrates power in the hands of one person or a small group."
     },
     {
       "id": "si-q22",
@@ -257,7 +417,15 @@
         "7 ans"
       ],
       "correctAnswer": 1,
-      "explanation": "Le président de la République est élu pour un mandat de 5 ans au suffrage universel direct."
+      "explanation": "Le président de la République est élu pour un mandat de 5 ans au suffrage universel direct.",
+      "questionEn": "For how long is the President of the Republic elected?",
+      "optionsEn": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "explanationEn": "The President of the Republic is elected for a 5-year term by direct universal vote (all citizens vote directly)."
     },
     {
       "id": "si-q23",
@@ -269,7 +437,15 @@
         "Le président de la République"
       ],
       "correctAnswer": 2,
-      "explanation": "Au niveau local, ce sont le maire et les conseillers municipaux qui représentent les citoyens de la commune. Ils sont élus pour 6 ans."
+      "explanation": "Au niveau local, ce sont le maire et les conseillers municipaux qui représentent les citoyens de la commune. Ils sont élus pour 6 ans.",
+      "questionEn": "Who are the political leaders at the local level (in towns and cities)?",
+      "optionsEn": [
+        "Members of Parliament and Senators",
+        "The Prime Minister and the Government",
+        "The mayor and the municipal council members",
+        "The President of the Republic"
+      ],
+      "explanationEn": "At the local level, the mayor and municipal council members represent the citizens of the town. They are elected for 6 years."
     },
     {
       "id": "si-q24",
@@ -281,7 +457,15 @@
         "Avoir plus de 21 ans et être marié"
       ],
       "correctAnswer": 0,
-      "explanation": "Pour voter, il faut avoir la nationalité française, avoir plus de 18 ans (être majeur), jouir de ses droits civiques et être inscrit sur les listes électorales."
+      "explanation": "Pour voter, il faut avoir la nationalité française, avoir plus de 18 ans (être majeur), jouir de ses droits civiques et être inscrit sur les listes électorales.",
+      "questionEn": "What are the main conditions to have the right to vote in France?",
+      "optionsEn": [
+        "Have French nationality, be an adult (18+), and be registered on the electoral lists",
+        "Have a job in France and pay taxes",
+        "Be born in France, even without French nationality",
+        "Be over 21 years old and be married"
+      ],
+      "explanationEn": "To vote, you must have French nationality, be at least 18 years old, have your civic rights, and be registered on the electoral lists."
     },
     {
       "id": "si-q25",
@@ -293,7 +477,15 @@
         "Oui, mais seulement pour l'élection présidentielle"
       ],
       "correctAnswer": 2,
-      "explanation": "Les ressortissants de l'Union européenne résidant en France peuvent voter uniquement aux élections municipales et aux élections européennes."
+      "explanation": "Les ressortissants de l'Union européenne résidant en France peuvent voter uniquement aux élections municipales et aux élections européennes.",
+      "questionEn": "Can a citizen of another EU country who lives in France vote?",
+      "optionsEn": [
+        "No, never",
+        "Yes, in all French elections",
+        "Yes, but only in municipal and European elections",
+        "Yes, but only for the presidential election"
+      ],
+      "explanationEn": "EU citizens living in France can vote only in municipal elections (local) and European elections."
     },
     {
       "id": "si-q26",
@@ -304,7 +496,14 @@
         "Oui, mais seulement pour l'élection présidentielle"
       ],
       "correctAnswer": 1,
-      "explanation": "Le vote n'est pas obligatoire en France. C'est un droit fondamental que les citoyens sont libres d'exercer ou non."
+      "explanation": "Le vote n'est pas obligatoire en France. C'est un droit fondamental que les citoyens sont libres d'exercer ou non.",
+      "questionEn": "In France, is voting mandatory?",
+      "optionsEn": [
+        "Yes, it is a strict duty punished by law",
+        "No, it is a right, not a duty",
+        "Yes, but only for the presidential election"
+      ],
+      "explanationEn": "Voting is not mandatory in France. It is a fundamental right that citizens are free to use or not."
     },
     {
       "id": "si-q27",
@@ -316,7 +515,15 @@
         "Les élections sénatoriales"
       ],
       "correctAnswer": 2,
-      "explanation": "Les élections présidentielles ont lieu tous les 5 ans au suffrage universel direct pour élire le président de la République."
+      "explanation": "Les élections présidentielles ont lieu tous les 5 ans au suffrage universel direct pour élire le président de la République.",
+      "questionEn": "Which election is used to choose the President of the Republic?",
+      "optionsEn": [
+        "Legislative elections (for Parliament members)",
+        "Municipal elections (for mayors)",
+        "Presidential elections",
+        "Senatorial elections (for senators)"
+      ],
+      "explanationEn": "Presidential elections take place every 5 years by direct universal vote to elect the President of the Republic."
     },
     {
       "id": "si-q28",
@@ -328,7 +535,15 @@
         "Uniquement les citoyens par vote direct"
       ],
       "correctAnswer": 1,
-      "explanation": "L'initiative de la loi peut venir du Gouvernement (les ministres) ou du Parlement (les députés et les sénateurs)."
+      "explanation": "L'initiative de la loi peut venir du Gouvernement (les ministres) ou du Parlement (les députés et les sénateurs).",
+      "questionEn": "Who can propose a new law in France?",
+      "optionsEn": [
+        "Only the President of the Republic",
+        "The Government (government bill) or Parliament (private member's bill)",
+        "Judges and lawyers",
+        "Only citizens by direct vote"
+      ],
+      "explanationEn": "A new law can be proposed by the Government (ministers) or by Parliament (members of the National Assembly and senators)."
     },
     {
       "id": "si-q29",
@@ -340,7 +555,15 @@
         "Le moment où la loi est publiée au Journal officiel"
       ],
       "correctAnswer": 2,
-      "explanation": "La navette parlementaire désigne les échanges du texte entre l'Assemblée nationale et le Sénat jusqu'à ce qu'ils se mettent d'accord sur un texte identique."
+      "explanation": "La navette parlementaire désigne les échanges du texte entre l'Assemblée nationale et le Sénat jusqu'à ce qu'ils se mettent d'accord sur un texte identique.",
+      "questionEn": "What is the 'navette parlementaire' (parliamentary shuttle)?",
+      "optionsEn": [
+        "The bus that takes members of Parliament to the Assembly",
+        "When the President cancels a law",
+        "The back-and-forth of a proposed law between the National Assembly and the Senate",
+        "When the law is published in the Official Journal"
+      ],
+      "explanationEn": "The 'navette parlementaire' means the proposed law goes back and forth between the National Assembly and the Senate until both agree on the same text."
     },
     {
       "id": "si-q30",
@@ -352,7 +575,15 @@
         "Personne, la loi est abandonnée"
       ],
       "correctAnswer": 1,
-      "explanation": "Si la commission mixte paritaire ne trouve pas d'accord, c'est l'Assemblée nationale qui décide du texte final."
+      "explanation": "Si la commission mixte paritaire ne trouve pas d'accord, c'est l'Assemblée nationale qui décide du texte final.",
+      "questionEn": "If there is a final disagreement between the deputies and senators, who has the last word?",
+      "optionsEn": [
+        "The Senate",
+        "The National Assembly",
+        "The Prime Minister",
+        "Nobody, the law is dropped"
+      ],
+      "explanationEn": "If the joint committee cannot reach an agreement, the National Assembly (Assemblée nationale) makes the final decision on the text."
     },
     {
       "id": "si-q31",
@@ -364,7 +595,15 @@
         "Elle doit être traduite dans toutes les langues"
       ],
       "correctAnswer": 0,
-      "explanation": "Une fois adoptée par le Parlement, la loi est signée (promulguée) par le Président puis publiée au Journal officiel pour être appliquée."
+      "explanation": "Une fois adoptée par le Parlement, la loi est signée (promulguée) par le Président puis publiée au Journal officiel pour être appliquée.",
+      "questionEn": "What is the last step for a law to come into effect?",
+      "optionsEn": [
+        "It must be signed by the President and published in the Official Journal",
+        "It must be approved by all the mayors of France",
+        "It must be voted on by citizens in a referendum",
+        "It must be translated into all languages"
+      ],
+      "explanationEn": "Once adopted by Parliament, the law is signed (promulgated) by the President and then published in the Official Journal so it can be enforced."
     },
     {
       "id": "si-q32",
@@ -376,7 +615,15 @@
         "C'est l'organisation des élections présidentielles"
       ],
       "correctAnswer": 0,
-      "explanation": "La décentralisation est le processus par lequel l'État donne des pouvoirs et des budgets aux communes, départements et régions pour gérer les affaires locales."
+      "explanation": "La décentralisation est le processus par lequel l'État donne des pouvoirs et des budgets aux communes, départements et régions pour gérer les affaires locales.",
+      "questionEn": "What is decentralization in France?",
+      "optionsEn": [
+        "When the State transfers responsibilities and resources to local authorities",
+        "When the President decides everything from Paris",
+        "The removal of departments and regions",
+        "The organization of presidential elections"
+      ],
+      "explanationEn": "Decentralization is the process where the State gives powers and budgets to towns, departments, and regions to manage local matters."
     },
     {
       "id": "si-q33",
@@ -388,7 +635,15 @@
         "L'État"
       ],
       "correctAnswer": 2,
-      "explanation": "La commune s'occupe des écoles maternelles et primaires (bâtiments, cantine). Le département gère les collèges et la région gère les lycées."
+      "explanation": "La commune s'occupe des écoles maternelles et primaires (bâtiments, cantine). Le département gère les collèges et la région gère les lycées.",
+      "questionEn": "Which local authority is responsible for managing preschools and primary schools?",
+      "optionsEn": [
+        "The region",
+        "The department",
+        "The commune (town/city)",
+        "The State"
+      ],
+      "explanationEn": "The commune (town/city) manages preschools and primary schools (buildings, canteen). The department manages middle schools, and the region manages high schools."
     },
     {
       "id": "si-q34",
@@ -400,7 +655,15 @@
         "Il s'occupe uniquement de juger les criminels au tribunal"
       ],
       "correctAnswer": 0,
-      "explanation": "Le Préfet représente l'État. Il veille à la sécurité, délivre les titres de séjour et vérifie que les lois sont respectées par les collectivités."
+      "explanation": "Le Préfet représente l'État. Il veille à la sécurité, délivre les titres de séjour et vérifie que les lois sont respectées par les collectivités.",
+      "questionEn": "What is the main role of the Préfet (Prefect) in a department?",
+      "optionsEn": [
+        "He/she represents the State and manages State services in the department",
+        "He/she is elected by citizens to run the town hall",
+        "He/she is the head of the French army",
+        "He/she only judges criminals in court"
+      ],
+      "explanationEn": "The Préfet represents the State. He/she ensures public safety, issues residence permits, and checks that local authorities follow the law."
     },
     {
       "id": "si-q35",
@@ -412,7 +675,15 @@
         "L'organisation des relations internationales de la France"
       ],
       "correctAnswer": 0,
-      "explanation": "Le département est surtout chargé de l'action sociale (solidarité) et de l'entretien des collèges."
+      "explanation": "Le département est surtout chargé de l'action sociale (solidarité) et de l'entretien des collèges.",
+      "questionEn": "What is the main mission of the department?",
+      "optionsEn": [
+        "Social services (help for disabled people, RSA welfare) and managing middle schools",
+        "Military defense of the territory",
+        "Managing universities and school programs",
+        "Organizing France's international relations"
+      ],
+      "explanationEn": "The department is mainly responsible for social services (helping people in need) and maintaining middle schools (collèges)."
     },
     {
       "id": "si-q36",
@@ -424,7 +695,15 @@
         "Les douze langues parlées en Europe"
       ],
       "correctAnswer": 1,
-      "explanation": "Le cercle de douze étoiles ne représente pas le nombre de pays, mais symbolise l'unité, la solidarité et l'harmonie."
+      "explanation": "Le cercle de douze étoiles ne représente pas le nombre de pays, mais symbolise l'unité, la solidarité et l'harmonie.",
+      "questionEn": "What do the twelve yellow stars on the European flag represent?",
+      "optionsEn": [
+        "The number of EU member countries",
+        "Unity, solidarity, and harmony between peoples",
+        "The twelve months of the year",
+        "The twelve languages spoken in Europe"
+      ],
+      "explanationEn": "The circle of twelve stars does not represent the number of countries. It symbolizes unity, solidarity, and harmony."
     },
     {
       "id": "si-q37",
@@ -436,7 +715,15 @@
         "Un pour tous, tous pour un"
       ],
       "correctAnswer": 2,
-      "explanation": "La devise « Unie dans la diversité » signifie que les Européens sont rassemblés pour la paix tout en respectant leurs différentes cultures et langues."
+      "explanation": "La devise « Unie dans la diversité » signifie que les Européens sont rassemblés pour la paix tout en respectant leurs différentes cultures et langues.",
+      "questionEn": "What is the official motto of the European Union?",
+      "optionsEn": [
+        "Liberté, Égalité, Fraternité (Liberty, Equality, Fraternity) — this is France's motto",
+        "Unity makes strength",
+        "United in diversity",
+        "One for all, all for one"
+      ],
+      "explanationEn": "The motto 'United in diversity' means that Europeans are united for peace while respecting their different cultures and languages."
     },
     {
       "id": "si-q38",
@@ -448,7 +735,15 @@
         "God Save the King"
       ],
       "correctAnswer": 1,
-      "explanation": "L'hymne européen est la mélodie de l'« Ode à la joie », composée par Ludwig van Beethoven. Elle symbolise la liberté, la paix et la solidarité."
+      "explanation": "L'hymne européen est la mélodie de l'« Ode à la joie », composée par Ludwig van Beethoven. Elle symbolise la liberté, la paix et la solidarité.",
+      "questionEn": "Which melody is used as the European anthem?",
+      "optionsEn": [
+        "La Marseillaise (the French national anthem)",
+        "Ode to Joy by Beethoven",
+        "The Four Seasons by Vivaldi",
+        "God Save the King"
+      ],
+      "explanationEn": "The European anthem is the melody of 'Ode to Joy,' composed by Ludwig van Beethoven. It symbolizes freedom, peace, and solidarity."
     },
     {
       "id": "si-q39",
@@ -460,7 +755,15 @@
         "Le 25 décembre"
       ],
       "correctAnswer": 2,
-      "explanation": "La Journée de l'Europe est célébrée le 9 mai, date anniversaire de la « déclaration Schuman » de 1950, un texte fondateur de l'Europe."
+      "explanation": "La Journée de l'Europe est célébrée le 9 mai, date anniversaire de la « déclaration Schuman » de 1950, un texte fondateur de l'Europe.",
+      "questionEn": "On what date is Europe Day celebrated?",
+      "optionsEn": [
+        "January 1",
+        "July 14",
+        "May 9",
+        "December 25"
+      ],
+      "explanationEn": "Europe Day is celebrated on May 9, the anniversary of the 'Schuman Declaration' of 1950, a founding text of the European project."
     },
     {
       "id": "si-q40",
@@ -472,7 +775,15 @@
         "Elle réunit les chefs d'État pour décider des grandes orientations"
       ],
       "correctAnswer": 1,
-      "explanation": "La Commission européenne, située à Bruxelles, a pour mission de représenter les intérêts communs de l'UE et de proposer les nouvelles lois."
+      "explanation": "La Commission européenne, située à Bruxelles, a pour mission de représenter les intérêts communs de l'UE et de proposer les nouvelles lois.",
+      "questionEn": "What is the main role of the European Commission?",
+      "optionsEn": [
+        "It votes on laws and the budget",
+        "It represents common interests and proposes laws",
+        "It judges conflicts between member states",
+        "It brings together heads of state to decide major directions"
+      ],
+      "explanationEn": "The European Commission, based in Brussels, represents the common interests of the EU and proposes new laws."
     },
     {
       "id": "si-q41",
@@ -484,7 +795,15 @@
         "Le Conseil européen est à Strasbourg et le Conseil de l'UE est à Bruxelles"
       ],
       "correctAnswer": 1,
-      "explanation": "Le Conseil européen rassemble les chefs d'État ou de gouvernement pour donner les grandes orientations, tandis que le Conseil de l'UE réunit les ministres par domaine (agriculture, économie, etc.)."
+      "explanation": "Le Conseil européen rassemble les chefs d'État ou de gouvernement pour donner les grandes orientations, tandis que le Conseil de l'UE réunit les ministres par domaine (agriculture, économie, etc.).",
+      "questionEn": "What is the difference between the European Council and the Council of the European Union?",
+      "optionsEn": [
+        "It is the same institution with two different names",
+        "The European Council brings together heads of state, while the Council of the EU brings together ministers",
+        "The European Council handles justice and the Council of the EU handles money",
+        "The European Council is in Strasbourg and the Council of the EU is in Brussels"
+      ],
+      "explanationEn": "The European Council brings together heads of state or government to set the main direction, while the Council of the EU brings together ministers by topic (agriculture, economy, etc.)."
     },
     {
       "id": "si-q42",
@@ -496,7 +815,15 @@
         "La Cour de justice"
       ],
       "correctAnswer": 2,
-      "explanation": "Le pouvoir législatif (voter les lois et le budget) est partagé entre le Parlement européen (les députés) et le Conseil de l'Union européenne (les ministres)."
+      "explanation": "Le pouvoir législatif (voter les lois et le budget) est partagé entre le Parlement européen (les députés) et le Conseil de l'Union européenne (les ministres).",
+      "questionEn": "Who votes on EU laws and the EU budget?",
+      "optionsEn": [
+        "Only the European Parliament",
+        "The European Central Bank",
+        "The European Parliament and the Council of the European Union together",
+        "The Court of Justice"
+      ],
+      "explanationEn": "The legislative power (voting on laws and the budget) is shared between the European Parliament (MEPs) and the Council of the European Union (ministers)."
     },
     {
       "id": "si-q43",
@@ -508,7 +835,17 @@
         "À Luxembourg"
       ],
       "correctAnswer": 3,
-      "explanation": "La Cour de justice, qui veille à la bonne application du droit européen, est située à Luxembourg."
+      "explanation": "La Cour de justice, qui veille à la bonne application du droit européen, est située à Luxembourg.",
+      "questionEn": "Where is the Court of Justice of the European Union located?",
+      "optionsEn": [
+        "In Paris",
+        "In Brussels",
+        "In Strasbourg",
+        "In Luxembourg"
+      ],
+      "explanationEn": "The Court of Justice, which ensures EU law is correctly applied, is located in Luxembourg."
     }
-  ]
+  ],
+  "titleEn": "Political System and Institutions",
+  "descriptionEn": "Quiz – Democracy and Voting Rights • How the French Republic Is Organized. Test your knowledge with questions based on official civic education materials."
 }

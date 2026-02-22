@@ -66,6 +66,22 @@ const total = allQuizzes.length;
     </div>
   </div>
 
+  <div class="review-banner" id="review-banner" style="display:none">
+    <div class="review-banner-content">
+      <span class="review-banner-count" id="review-banner-count"></span>
+      <span>questions à réviser</span>
+    </div>
+    <a class="quiz-btn quiz-btn-primary" href="/quiz/review/">Réviser maintenant</a>
+  </div>
+
+  <div class="exam-banner">
+    <div class="exam-banner-content">
+      <h3>Simulation d'examen</h3>
+      <p>40 questions, 45 minutes, conditions réelles</p>
+    </div>
+    <a class="quiz-btn quiz-btn-primary" href="/quiz/exam/">Lancer la simulation</a>
+  </div>
+
   <div class="quiz-card-list">
     <h3 class="quiz-section-title">Quiz thématiques</h3>
     {thematicQuizzes.map(({ data, href }) => (
@@ -119,7 +135,7 @@ const total = allQuizzes.length;
 </div>
 
 <script>
-  import { getAllQuizResults, resetAllQuizzes } from '../utils/quizStorage';
+  import { getAllQuizResults, resetAllQuizzes, getSRStats } from '../utils/quizStorage';
 
   function updateProgress() {
     const results = getAllQuizResults();
@@ -146,6 +162,15 @@ const total = allQuizzes.length;
           window.location.reload();
         }
       });
+    }
+
+    const srStats = getSRStats();
+    if (srStats.due > 0) {
+      const banner = document.getElementById('review-banner');
+      if (banner) {
+        banner.style.display = '';
+        document.getElementById('review-banner-count')!.textContent = String(srStats.due);
+      }
     }
 
     updateProgress();
@@ -239,6 +264,51 @@ const total = allQuizzes.length;
   .quiz-summary-reset:hover {
     border-color: #dc2626;
     color: #dc2626;
+  }
+
+  .review-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.25rem;
+    border-radius: 0.75rem;
+    background: rgba(99, 102, 241, 0.1);
+    border: 1px solid rgba(99, 102, 241, 0.25);
+    margin-bottom: 1.5rem;
+  }
+
+  .review-banner-content {
+    display: flex;
+    align-items: baseline;
+    gap: 0.35rem;
+  }
+
+  .review-banner-count {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--sl-color-white);
+  }
+
+  .exam-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.25rem;
+    border-radius: 0.75rem;
+    background: rgba(239, 68, 68, 0.08);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    margin-bottom: 1.5rem;
+  }
+
+  .exam-banner h3 {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  .exam-banner p {
+    margin: 0.25rem 0 0;
+    font-size: 0.85rem;
+    color: var(--sl-color-gray-3);
   }
 
   .quiz-card-list {

@@ -1,7 +1,7 @@
 {
   "id": "csp-histoire-geographie-culture",
   "title": "CSP - Histoire, géographie et culture",
-  "description": "Quiz officiel CSP : Histoire, géographie et culture",
+  "description": "Quiz officiel CSP (Contrat de Séjour Pluriannuel) – Histoire, géographie et culture. Questions officielles de l'examen de connaissance.",
   "questions": [
     {
       "id": "csp-hgc-q1",
@@ -13,7 +13,15 @@
         "1944"
       ],
       "correctAnswer": 2,
-      "explanation": "L'esclavage a été définitivement aboli le 27 avril 1848 sous la IIème République, grâce à l'action de Victor Schœlcher."
+      "explanation": "L'esclavage a été définitivement aboli le 27 avril 1848 sous la IIème République, grâce à l'action de Victor Schœlcher.",
+      "questionEn": "In what year was slavery permanently abolished in France?",
+      "optionsEn": [
+        "1789",
+        "1804",
+        "1848",
+        "1944"
+      ],
+      "explanationEn": "Slavery was permanently abolished on 27 April 1848 under the Second Republic, thanks to the work of Victor Schoelcher."
     },
     {
       "id": "csp-hgc-q2",
@@ -25,7 +33,15 @@
         "1905"
       ],
       "correctAnswer": 2,
-      "explanation": "Les lois de Jules Ferry rendent l'école primaire publique gratuite en 1881, puis obligatoire et laïque en 1882 (sous la IIIème République)."
+      "explanation": "Les lois de Jules Ferry rendent l'école primaire publique gratuite en 1881, puis obligatoire et laïque en 1882 (sous la IIIème République).",
+      "questionEn": "Since what year has public school been free?",
+      "optionsEn": [
+        "1936",
+        "1958",
+        "1881",
+        "1905"
+      ],
+      "explanationEn": "The Jules Ferry laws made public primary school free in 1881, then compulsory and secular in 1882 (under the Third Republic)."
     },
     {
       "id": "csp-hgc-q3",
@@ -37,7 +53,15 @@
         "6"
       ],
       "correctAnswer": 1,
-      "explanation": "La France a connu cinq républiques depuis la Révolution française. Nous vivons actuellement sous la Vème République, instaurée en 1958."
+      "explanation": "La France a connu cinq républiques depuis la Révolution française. Nous vivons actuellement sous la Vème République, instaurée en 1958.",
+      "questionEn": "How many republics has France had?",
+      "optionsEn": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "explanationEn": "France has had five republics since the French Revolution. We currently live under the Fifth Republic, established in 1958."
     },
     {
       "id": "csp-hgc-q4",
@@ -49,7 +73,15 @@
         "Louis XIV"
       ],
       "correctAnswer": 2,
-      "explanation": "Louis XVI était le roi de France lorsque la Révolution a éclaté en 1789. Il a été renversé en 1792 lors de la fin de la monarchie."
+      "explanation": "Louis XVI était le roi de France lorsque la Révolution a éclaté en 1789. Il a été renversé en 1792 lors de la fin de la monarchie.",
+      "questionEn": "Who was the King of France at the time of the French Revolution?",
+      "optionsEn": [
+        "Napoleon I",
+        "Louis XV",
+        "Louis XVI",
+        "Louis XIV"
+      ],
+      "explanationEn": "Louis XVI was the King of France when the Revolution broke out in 1789. He was overthrown in 1792 when the monarchy ended."
     },
     {
       "id": "csp-hgc-q5",
@@ -61,7 +93,15 @@
         "Charles de Gaulle"
       ],
       "correctAnswer": 3,
-      "explanation": "Le général de Gaulle a fondé la Vème République en 1958 et en a été le premier président élu."
+      "explanation": "Le général de Gaulle a fondé la Vème République en 1958 et en a été le premier président élu.",
+      "questionEn": "Who founded the Fifth Republic?",
+      "optionsEn": [
+        "Jules Ferry",
+        "François Mitterrand",
+        "Napoleon Bonaparte",
+        "Charles de Gaulle"
+      ],
+      "explanationEn": "General de Gaulle founded the Fifth Republic in 1958 and was its first elected president."
     },
     {
       "id": "csp-hgc-q6",
@@ -73,7 +113,15 @@
         "La libération de Paris"
       ],
       "correctAnswer": 0,
-      "explanation": "La fête nationale du 14 juillet commémore la prise de la Bastille (1789), symbole de la fin de l'arbitraire royal, et la Fête de la Fédération (1790), symbole de l'union de la nation."
+      "explanation": "La fête nationale du 14 juillet commémore la prise de la Bastille (1789), symbole de la fin de l'arbitraire royal, et la Fête de la Fédération (1790), symbole de l'union de la nation.",
+      "questionEn": "What is celebrated on 14 July?",
+      "optionsEn": [
+        "The storming of the Bastille and the Festival of the Federation (Fête de la Fédération)",
+        "The victory of 1945",
+        "The armistice of World War I",
+        "The liberation of Paris"
+      ],
+      "explanationEn": "The national holiday of 14 July commemorates the storming of the Bastille (1789), a symbol of the end of royal power, and the Festival of the Federation (1790), a symbol of national unity."
     },
     {
       "id": "csp-hgc-q7",
@@ -85,7 +133,15 @@
         "Un musée célèbre situé à Paris"
       ],
       "correctAnswer": 3,
-      "explanation": "Le Louvre est l'un des plus grands musées du monde, situé à Paris. C'est un ancien palais royal qui abrite des œuvres d'art célèbres comme la Joconde."
+      "explanation": "Le Louvre est l'un des plus grands musées du monde, situé à Paris. C'est un ancien palais royal qui abrite des œuvres d'art célèbres comme la Joconde.",
+      "questionEn": "What is the Louvre?",
+      "optionsEn": [
+        "A football stadium",
+        "The seat of the French government",
+        "A large railway station",
+        "A famous museum located in Paris"
+      ],
+      "explanationEn": "The Louvre is one of the largest museums in the world, located in Paris. It is a former royal palace that houses famous works of art such as the Mona Lisa."
     },
     {
       "id": "csp-hgc-q8",
@@ -97,7 +153,15 @@
         "Un célèbre poète connu pour ses Fables"
       ],
       "correctAnswer": 3,
-      "explanation": "Jean de la Fontaine est un poète français du XVIIe siècle, très célèbre pour ses Fables qui mettent souvent en scène des animaux pour donner une leçon de morale."
+      "explanation": "Jean de la Fontaine est un poète français du XVIIe siècle, très célèbre pour ses Fables qui mettent souvent en scène des animaux pour donner une leçon de morale.",
+      "questionEn": "Who was Jean de la Fontaine?",
+      "optionsEn": [
+        "A King of France in the Middle Ages",
+        "One of Napoleon's generals",
+        "An architect of the Eiffel Tower",
+        "A famous poet known for his Fables"
+      ],
+      "explanationEn": "Jean de la Fontaine was a 17th-century French poet, very famous for his Fables that often feature animals to teach a moral lesson."
     },
     {
       "id": "csp-hgc-q9",
@@ -109,7 +173,15 @@
         "William Shakespeare"
       ],
       "correctAnswer": 2,
-      "explanation": "Victor Hugo est l'un des plus grands écrivains français. Il a écrit des œuvres majeures comme 'Les Misérables' ou 'Notre-Dame de Paris'."
+      "explanation": "Victor Hugo est l'un des plus grands écrivains français. Il a écrit des œuvres majeures comme 'Les Misérables' ou 'Notre-Dame de Paris'.",
+      "questionEn": "Which writer is French?",
+      "optionsEn": [
+        "Dante Alighieri",
+        "Johann Wolfgang von Goethe",
+        "Victor Hugo",
+        "William Shakespeare"
+      ],
+      "explanationEn": "Victor Hugo is one of the greatest French writers. He wrote major works such as 'Les Misérables' and 'Notre-Dame de Paris' (The Hunchback of Notre-Dame)."
     },
     {
       "id": "csp-hgc-q10",
@@ -121,7 +193,15 @@
         "Marseille"
       ],
       "correctAnswer": 0,
-      "explanation": "La tour Eiffel, symbole de la France construit pour l'Exposition universelle de 1889, se situe à Paris, la capitale."
+      "explanation": "La tour Eiffel, symbole de la France construit pour l'Exposition universelle de 1889, se situe à Paris, la capitale.",
+      "questionEn": "In which city is the Eiffel Tower?",
+      "optionsEn": [
+        "Paris",
+        "Bordeaux",
+        "Lyon",
+        "Marseille"
+      ],
+      "explanationEn": "The Eiffel Tower, a symbol of France built for the 1889 World Exhibition, is located in Paris, the capital."
     },
     {
       "id": "csp-hgc-q11",
@@ -133,7 +213,15 @@
         "Le 25 décembre"
       ],
       "correctAnswer": 3,
-      "explanation": "Noël est une fête chrétienne et traditionnelle célébrée chaque année le 25 décembre. C'est un jour férié en France."
+      "explanation": "Noël est une fête chrétienne et traditionnelle célébrée chaque année le 25 décembre. C'est un jour férié en France.",
+      "questionEn": "When is Christmas celebrated?",
+      "optionsEn": [
+        "1 May",
+        "11 November",
+        "14 July",
+        "25 December"
+      ],
+      "explanationEn": "Christmas is a Christian and traditional holiday celebrated every year on 25 December. It is a public holiday in France."
     },
     {
       "id": "csp-hgc-q12",
@@ -145,7 +233,15 @@
         "1848"
       ],
       "correctAnswer": 0,
-      "explanation": "La Révolution française débute en 1789 avec la convocation des États généraux et la prise de la Bastille. Elle marque la fin de l'Ancien Régime."
+      "explanation": "La Révolution française débute en 1789 avec la convocation des États généraux et la prise de la Bastille. Elle marque la fin de l'Ancien Régime.",
+      "questionEn": "In what year did the French Revolution begin?",
+      "optionsEn": [
+        "1789",
+        "1792",
+        "1804",
+        "1848"
+      ],
+      "explanationEn": "The French Revolution began in 1789 with the calling of the Estates-General and the storming of the Bastille. It marked the end of the old regime."
     },
     {
       "id": "csp-hgc-q13",
@@ -157,7 +253,15 @@
         "Un empereur et chef militaire"
       ],
       "correctAnswer": 3,
-      "explanation": "Napoléon Bonaparte, devenu Napoléon Ier, a dirigé la France d'abord comme Premier Consul puis comme Empereur (1er Empire) de 1804 à 1815."
+      "explanation": "Napoléon Bonaparte, devenu Napoléon Ier, a dirigé la France d'abord comme Premier Consul puis comme Empereur (1er Empire) de 1804 à 1815.",
+      "questionEn": "Who was Napoleon I?",
+      "optionsEn": [
+        "A famous writer of the 19th century",
+        "The first president of the Republic",
+        "A King of France from the Capetian dynasty",
+        "An emperor and military leader"
+      ],
+      "explanationEn": "Napoleon Bonaparte, who became Napoleon I, led France first as First Consul then as Emperor (First Empire) from 1804 to 1815."
     },
     {
       "id": "csp-hgc-q14",
@@ -169,7 +273,15 @@
         "Abraham Lincoln"
       ],
       "correctAnswer": 1,
-      "explanation": "Napoléon Bonaparte est une figure majeure de l'histoire de France, ayant dirigé le pays sous le Consulat et le Premier Empire."
+      "explanation": "Napoléon Bonaparte est une figure majeure de l'histoire de France, ayant dirigé le pays sous le Consulat et le Premier Empire.",
+      "questionEn": "Which of these historical figures is French?",
+      "optionsEn": [
+        "Julius Caesar",
+        "Napoleon Bonaparte",
+        "Winston Churchill",
+        "Abraham Lincoln"
+      ],
+      "explanationEn": "Napoleon Bonaparte is a major figure in French history, having led the country during the Consulate and the First Empire."
     },
     {
       "id": "csp-hgc-q15",
@@ -181,7 +293,15 @@
         "La IIIème République"
       ],
       "correctAnswer": 2,
-      "explanation": "Depuis 1958 et l'adoption de la Constitution voulue par le général de Gaulle, la France est sous le régime de la Vème République."
+      "explanation": "Depuis 1958 et l'adoption de la Constitution voulue par le général de Gaulle, la France est sous le régime de la Vème République.",
+      "questionEn": "Which Republic are we in today?",
+      "optionsEn": [
+        "The Fourth Republic",
+        "The Sixth Republic",
+        "The Fifth Republic",
+        "The Third Republic"
+      ],
+      "explanationEn": "Since 1958 and the adoption of the Constitution established by General de Gaulle, France has been under the Fifth Republic."
     },
     {
       "id": "csp-hgc-q16",
@@ -193,7 +313,15 @@
         "Une bataille décisive de la Première Guerre mondiale"
       ],
       "correctAnswer": 2,
-      "explanation": "La Shoah désigne le génocide perpétré par l'Allemagne nazie pendant la Seconde Guerre mondiale, visant l'extermination systématique des Juifs d'Europe."
+      "explanation": "La Shoah désigne le génocide perpétré par l'Allemagne nazie pendant la Seconde Guerre mondiale, visant l'extermination systématique des Juifs d'Europe.",
+      "questionEn": "What is the Shoah (Holocaust)?",
+      "optionsEn": [
+        "A peace treaty signed in 1945",
+        "The name given to the French Resistance",
+        "The extermination of Jewish people by the Nazis during World War II",
+        "A decisive battle of World War I"
+      ],
+      "explanationEn": "The Shoah (Holocaust) refers to the genocide carried out by Nazi Germany during World War II, aiming at the systematic extermination of the Jewish people of Europe."
     },
     {
       "id": "csp-hgc-q17",
@@ -205,7 +333,15 @@
         "Le Brésil"
       ],
       "correctAnswer": 0,
-      "explanation": "L'Algérie a été une colonie française (puis des départements français) de 1830 jusqu'à son indépendance en 1962."
+      "explanation": "L'Algérie a été une colonie française (puis des départements français) de 1830 jusqu'à son indépendance en 1962.",
+      "questionEn": "Which country or region of the world was colonised by France?",
+      "optionsEn": [
+        "Algeria",
+        "Australia",
+        "All of India",
+        "Brazil"
+      ],
+      "explanationEn": "Algeria was a French colony (then French departments) from 1830 until its independence in 1962."
     },
     {
       "id": "csp-hgc-q18",
@@ -217,7 +353,15 @@
         "Une résistante exécutée pendant la Seconde Guerre mondiale"
       ],
       "correctAnswer": 1,
-      "explanation": "Simone de Beauvoir est une figure majeure du féminisme et de la littérature française, auteure notamment du 'Deuxième Sexe'."
+      "explanation": "Simone de Beauvoir est une figure majeure du féminisme et de la littérature française, auteure notamment du 'Deuxième Sexe'.",
+      "questionEn": "Who was Simone de Beauvoir?",
+      "optionsEn": [
+        "A famous scientist, Nobel Prize winner in chemistry",
+        "A feminist philosopher and writer",
+        "A Queen of France in the Middle Ages",
+        "A resistance fighter executed during World War II"
+      ],
+      "explanationEn": "Simone de Beauvoir is a major figure in feminism and French literature, notably the author of 'The Second Sex'."
     },
     {
       "id": "csp-hgc-q19",
@@ -229,7 +373,15 @@
         "Un célèbre navigateur français"
       ],
       "correctAnswer": 0,
-      "explanation": "Albert Camus est un célèbre écrivain et philosophe français (auteur de 'L'Étranger'), qui a reçu le prix Nobel de littérature en 1957."
+      "explanation": "Albert Camus est un célèbre écrivain et philosophe français (auteur de 'L'Étranger'), qui a reçu le prix Nobel de littérature en 1957.",
+      "questionEn": "Who was Albert Camus?",
+      "optionsEn": [
+        "A writer and philosopher, Nobel Prize winner in Literature",
+        "The first president of the Fifth Republic",
+        "A general in World War I",
+        "A famous French navigator"
+      ],
+      "explanationEn": "Albert Camus was a famous French writer and philosopher (author of 'The Stranger'), who received the Nobel Prize in Literature in 1957."
     },
     {
       "id": "csp-hgc-q20",
@@ -241,7 +393,15 @@
         "Un peintre impressionniste et précurseur du cubisme"
       ],
       "correctAnswer": 3,
-      "explanation": "Paul Cézanne est un peintre français majeur, célèbre pour ses paysages de Provence et considéré comme le père de l'art moderne."
+      "explanation": "Paul Cézanne est un peintre français majeur, célèbre pour ses paysages de Provence et considéré comme le père de l'art moderne.",
+      "questionEn": "Who was Paul Cézanne?",
+      "optionsEn": [
+        "An architect who built the Eiffel Tower",
+        "A 19th-century politician",
+        "A classical music composer",
+        "An impressionist painter and a forerunner of cubism"
+      ],
+      "explanationEn": "Paul Cézanne was a major French painter, famous for his landscapes of Provence and considered the father of modern art."
     },
     {
       "id": "csp-hgc-q21",
@@ -253,7 +413,15 @@
         "Un champion olympique de natation"
       ],
       "correctAnswer": 0,
-      "explanation": "Marc Chagall était un peintre célèbre pour son style poétique et coloré. Il a notamment peint le plafond de l'Opéra Garnier à Paris."
+      "explanation": "Marc Chagall était un peintre célèbre pour son style poétique et coloré. Il a notamment peint le plafond de l'Opéra Garnier à Paris.",
+      "questionEn": "Who was Marc Chagall?",
+      "optionsEn": [
+        "A surrealist painter of Russian origin who became a French citizen",
+        "A famous haute couture fashion designer",
+        "A Minister of Culture under François Mitterrand",
+        "An Olympic swimming champion"
+      ],
+      "explanationEn": "Marc Chagall was a painter famous for his poetic and colourful style. He notably painted the ceiling of the Opéra Garnier in Paris."
     },
     {
       "id": "csp-hgc-q22",
@@ -265,7 +433,15 @@
         "Une artiste de music-hall et résistante entrée au Panthéon"
       ],
       "correctAnswer": 3,
-      "explanation": "Joséphine Baker était une chanteuse et danseuse franco-américaine, résistante durant la guerre et militante antiraciste. Elle est entrée au Panthéon en 2021."
+      "explanation": "Joséphine Baker était une chanteuse et danseuse franco-américaine, résistante durant la guerre et militante antiraciste. Elle est entrée au Panthéon en 2021.",
+      "questionEn": "Who was Joséphine Baker?",
+      "optionsEn": [
+        "A 17th-century writer",
+        "A scientist who discovered radium",
+        "The first female minister in France",
+        "A music-hall artist and resistance fighter who entered the Panthéon"
+      ],
+      "explanationEn": "Joséphine Baker was a French-American singer and dancer, a resistance fighter during the war and an anti-racism activist. She entered the Panthéon in 2021."
     },
     {
       "id": "csp-hgc-q23",
@@ -277,7 +453,15 @@
         "Jeanne d'Arc"
       ],
       "correctAnswer": 0,
-      "explanation": "Édith Piaf, surnommée 'la Môme', est l'une des chanteuses françaises les plus célèbres au monde, interprète de 'La Vie en rose'."
+      "explanation": "Édith Piaf, surnommée 'la Môme', est l'une des chanteuses françaises les plus célèbres au monde, interprète de 'La Vie en rose'.",
+      "questionEn": "Who was a famous French singer?",
+      "optionsEn": [
+        "Édith Piaf",
+        "Marie Curie",
+        "Coco Chanel",
+        "Joan of Arc (Jeanne d'Arc)"
+      ],
+      "explanationEn": "Édith Piaf, nicknamed 'la Môme' (the Kid), is one of the most famous French singers in the world, known for 'La Vie en rose'."
     },
     {
       "id": "csp-hgc-q24",
@@ -289,7 +473,15 @@
         "Paris"
       ],
       "correctAnswer": 0,
-      "explanation": "Marseille est la deuxième ville de France et le principal port français situé sur la côte méditerranéenne, au sud-est du pays."
+      "explanation": "Marseille est la deuxième ville de France et le principal port français situé sur la côte méditerranéenne, au sud-est du pays.",
+      "questionEn": "Which city is located on the Mediterranean Sea?",
+      "optionsEn": [
+        "Marseille",
+        "Strasbourg",
+        "Bordeaux",
+        "Paris"
+      ],
+      "explanationEn": "Marseille is the second largest city in France and the main French port located on the Mediterranean coast, in the south-east of the country."
     },
     {
       "id": "csp-hgc-q25",
@@ -301,7 +493,15 @@
         "Dans l'océan Atlantique"
       ],
       "correctAnswer": 1,
-      "explanation": "La Corse est une île et une collectivité territoriale française située en mer Méditerranée, au sud-est de la France continentale."
+      "explanation": "La Corse est une île et une collectivité territoriale française située en mer Méditerranée, au sud-est de la France continentale.",
+      "questionEn": "Where is Corsica (la Corse) located?",
+      "optionsEn": [
+        "In the Caribbean",
+        "In the Mediterranean Sea",
+        "In the English Channel",
+        "In the Atlantic Ocean"
+      ],
+      "explanationEn": "Corsica is an island and a French territorial community located in the Mediterranean Sea, south-east of mainland France."
     },
     {
       "id": "csp-hgc-q26",
@@ -313,7 +513,15 @@
         "Les Pyrénées"
       ],
       "correctAnswer": 1,
-      "explanation": "Les Alpes forment la frontière naturelle entre la France et l'Italie. C'est là que se trouve le Mont Blanc, le plus haut sommet d'Europe occidentale."
+      "explanation": "Les Alpes forment la frontière naturelle entre la France et l'Italie. C'est là que se trouve le Mont Blanc, le plus haut sommet d'Europe occidentale.",
+      "questionEn": "Which mountain range is located between France and Italy?",
+      "optionsEn": [
+        "The Vosges",
+        "The Alps",
+        "The Massif Central",
+        "The Pyrenees"
+      ],
+      "explanationEn": "The Alps form the natural border between France and Italy. Mont Blanc, the highest peak in Western Europe, is located there."
     },
     {
       "id": "csp-hgc-q27",
@@ -325,7 +533,15 @@
         "Un comédien et dramaturge du XVIIème siècle"
       ],
       "correctAnswer": 3,
-      "explanation": "Jean-Baptiste Poquelin, dit Molière, est le plus célèbre auteur de pièces de théâtre comiques (comédies) sous le règne de Louis XIV."
+      "explanation": "Jean-Baptiste Poquelin, dit Molière, est le plus célèbre auteur de pièces de théâtre comiques (comédies) sous le règne de Louis XIV.",
+      "questionEn": "Who was Molière?",
+      "optionsEn": [
+        "A famous Renaissance painter",
+        "A King of France in the Middle Ages",
+        "One of Napoleon's generals",
+        "A 17th-century actor and playwright"
+      ],
+      "explanationEn": "Jean-Baptiste Poquelin, known as Molière, was the most famous writer of comic plays (comedies) during the reign of Louis XIV."
     },
     {
       "id": "csp-hgc-q28",
@@ -337,7 +553,15 @@
         "Un scientifique célèbre"
       ],
       "correctAnswer": 0,
-      "explanation": "Charles Baudelaire est un poète majeur du XIXème siècle, célèbre notamment pour son recueil 'Les Fleurs du mal'."
+      "explanation": "Charles Baudelaire est un poète majeur du XIXème siècle, célèbre notamment pour son recueil 'Les Fleurs du mal'.",
+      "questionEn": "Who was Charles Baudelaire?",
+      "optionsEn": [
+        "A 19th-century poet",
+        "A navigator and explorer",
+        "A president of the Republic",
+        "A famous scientist"
+      ],
+      "explanationEn": "Charles Baudelaire was a major 19th-century poet, notably famous for his collection 'Les Fleurs du mal' (The Flowers of Evil)."
     },
     {
       "id": "csp-hgc-q29",
@@ -349,7 +573,15 @@
         "Une célèbre scientifique"
       ],
       "correctAnswer": 2,
-      "explanation": "George Sand est le pseudonyme d'Aurore Dupin. C'était une grande romancière du XIXème siècle, connue pour ses œuvres littéraires et son engagement pour la liberté des femmes."
+      "explanation": "George Sand est le pseudonyme d'Aurore Dupin. C'était une grande romancière du XIXème siècle, connue pour ses œuvres littéraires et son engagement pour la liberté des femmes.",
+      "questionEn": "Who was George Sand?",
+      "optionsEn": [
+        "A revolutionary politician",
+        "A Queen of France",
+        "A female writer of the 19th century",
+        "A famous scientist"
+      ],
+      "explanationEn": "George Sand was the pen name of Aurore Dupin. She was a great 19th-century novelist, known for her literary works and her commitment to women's freedom."
     },
     {
       "id": "csp-hgc-q30",
@@ -361,7 +593,15 @@
         "Charlemagne"
       ],
       "correctAnswer": 0,
-      "explanation": "C'est Jules Ferry qui a fait voter les lois rendant l'école gratuite, laïque et obligatoire en 1881-1882, sous la IIIème République."
+      "explanation": "C'est Jules Ferry qui a fait voter les lois rendant l'école gratuite, laïque et obligatoire en 1881-1882, sous la IIIème République.",
+      "questionEn": "Who made school free, secular, and compulsory?",
+      "optionsEn": [
+        "Jules Ferry",
+        "Napoleon Bonaparte",
+        "Louis XIV",
+        "Charlemagne"
+      ],
+      "explanationEn": "Jules Ferry passed the laws that made school free, secular (laïque), and compulsory in 1881-1882, under the Third Republic."
     },
     {
       "id": "csp-hgc-q31",
@@ -373,7 +613,15 @@
         "1954 - 1962"
       ],
       "correctAnswer": 1,
-      "explanation": "Ce conflit mondial a débuté en 1939 et s'est terminé en 1945. En France, il inclut la période de l'Occupation et du régime de Vichy (1940-1944)."
+      "explanation": "Ce conflit mondial a débuté en 1939 et s'est terminé en 1945. En France, il inclut la période de l'Occupation et du régime de Vichy (1940-1944).",
+      "questionEn": "When did World War II take place?",
+      "optionsEn": [
+        "1914 - 1918",
+        "1939 - 1945",
+        "1870 - 1871",
+        "1954 - 1962"
+      ],
+      "explanationEn": "This world conflict began in 1939 and ended in 1945. In France, it includes the period of the Occupation and the Vichy regime (1940-1944)."
     },
     {
       "id": "csp-hgc-q32",
@@ -385,7 +633,15 @@
         "1939 - 1945"
       ],
       "correctAnswer": 2,
-      "explanation": "Déclenchée après l'attentat de Sarajevo, la Première Guerre mondiale s'étend de 1914 à l'armistice du 11 novembre 1918."
+      "explanation": "Déclenchée après l'attentat de Sarajevo, la Première Guerre mondiale s'étend de 1914 à l'armistice du 11 novembre 1918.",
+      "questionEn": "When did World War I take place?",
+      "optionsEn": [
+        "1789 - 1799",
+        "1870 - 1871",
+        "1914 - 1918",
+        "1939 - 1945"
+      ],
+      "explanationEn": "Triggered by the assassination in Sarajevo, World War I lasted from 1914 to the armistice on 11 November 1918."
     },
     {
       "id": "csp-hgc-q33",
@@ -397,7 +653,15 @@
         "1981"
       ],
       "correctAnswer": 1,
-      "explanation": "La CEE, ancêtre de l'Union européenne, a été créée par le traité de Rome en 1957 pour construire un marché commun."
+      "explanation": "La CEE, ancêtre de l'Union européenne, a été créée par le traité de Rome en 1957 pour construire un marché commun.",
+      "questionEn": "In what year was the European Economic Community (EEC) created?",
+      "optionsEn": [
+        "1945",
+        "1957",
+        "1992",
+        "1981"
+      ],
+      "explanationEn": "The EEC, the forerunner of the European Union, was created by the Treaty of Rome in 1957 to build a common market."
     },
     {
       "id": "csp-hgc-q34",
@@ -409,7 +673,15 @@
         "La prise de la Bastille (1789)"
       ],
       "correctAnswer": 1,
-      "explanation": "Le 11 novembre commémore la signature de l'armistice de 1918 qui a mis fin aux combats de la Première Guerre mondiale."
+      "explanation": "Le 11 novembre commémore la signature de l'armistice de 1918 qui a mis fin aux combats de la Première Guerre mondiale.",
+      "questionEn": "11 November is a public holiday. What does this date mark?",
+      "optionsEn": [
+        "The victory of World War II (1945)",
+        "The armistice of World War I (1918)",
+        "The abolition of slavery (1848)",
+        "The storming of the Bastille (1789)"
+      ],
+      "explanationEn": "11 November commemorates the signing of the armistice of 1918, which ended the fighting of World War I."
     },
     {
       "id": "csp-hgc-q35",
@@ -421,7 +693,15 @@
         "Valéry Giscard d'Estaing"
       ],
       "correctAnswer": 2,
-      "explanation": "Le général de Gaulle a fondé la Vème République en 1958 et en a été le premier président."
+      "explanation": "Le général de Gaulle a fondé la Vème République en 1958 et en a été le premier président.",
+      "questionEn": "Who was the first President elected under the Fifth Republic?",
+      "optionsEn": [
+        "Georges Pompidou",
+        "François Mitterrand",
+        "Charles de Gaulle",
+        "Valéry Giscard d'Estaing"
+      ],
+      "explanationEn": "General de Gaulle founded the Fifth Republic in 1958 and was its first president."
     },
     {
       "id": "csp-hgc-q36",
@@ -433,7 +713,15 @@
         "Paris"
       ],
       "correctAnswer": 3,
-      "explanation": "Paris est la capitale politique, économique et culturelle de la France. C'est là que siègent le Président de la République et le Gouvernement."
+      "explanation": "Paris est la capitale politique, économique et culturelle de la France. C'est là que siègent le Président de la République et le Gouvernement.",
+      "questionEn": "What is the capital of France?",
+      "optionsEn": [
+        "Brussels",
+        "Lyon",
+        "Marseille",
+        "Paris"
+      ],
+      "explanationEn": "Paris is the political, economic, and cultural capital of France. It is where the President of the Republic and the Government are based."
     },
     {
       "id": "csp-hgc-q37",
@@ -445,7 +733,15 @@
         "L'Europe"
       ],
       "correctAnswer": 3,
-      "explanation": "La France métropolitaine, c'est-à-dire la partie du territoire située sur le continent (souvent appelée l'Hexagone) et la Corse, se trouve en Europe de l'Ouest."
+      "explanation": "La France métropolitaine, c'est-à-dire la partie du territoire située sur le continent (souvent appelée l'Hexagone) et la Corse, se trouve en Europe de l'Ouest.",
+      "questionEn": "On which continent is mainland France (France métropolitaine) located?",
+      "optionsEn": [
+        "Africa",
+        "Asia",
+        "America",
+        "Europe"
+      ],
+      "explanationEn": "Mainland France, meaning the part of the country located on the continent (often called the Hexagone) and Corsica, is in Western Europe."
     },
     {
       "id": "csp-hgc-q38",
@@ -457,7 +753,15 @@
         "La Sicile"
       ],
       "correctAnswer": 1,
-      "explanation": "La Réunion est un département et une région d'outre-mer (DROM) situé dans l'océan Indien. La Corse est une île française, mais elle fait partie de la métropole."
+      "explanation": "La Réunion est un département et une région d'outre-mer (DROM) situé dans l'océan Indien. La Corse est une île française, mais elle fait partie de la métropole.",
+      "questionEn": "Which island is a French overseas department?",
+      "optionsEn": [
+        "Madagascar",
+        "La Réunion (Reunion Island)",
+        "Corsica",
+        "Sicily"
+      ],
+      "explanationEn": "La Réunion is an overseas department and region (DROM) located in the Indian Ocean. Corsica is a French island, but it is part of mainland France."
     },
     {
       "id": "csp-hgc-q39",
@@ -469,7 +773,15 @@
         "5"
       ],
       "correctAnswer": 2,
-      "explanation": "Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 régions (en incluant la Corse). Si l'on compte les régions d'outre-mer, le total est de 18."
+      "explanation": "Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 régions (en incluant la Corse). Si l'on compte les régions d'outre-mer, le total est de 18.",
+      "questionEn": "How many regions are there in mainland France?",
+      "optionsEn": [
+        "22",
+        "96",
+        "13",
+        "5"
+      ],
+      "explanationEn": "Since the territorial reform of 2016, mainland France has 13 regions (including Corsica). If you count the overseas regions, the total is 18."
     },
     {
       "id": "csp-hgc-q40",
@@ -481,7 +793,15 @@
         "Paris"
       ],
       "correctAnswer": 0,
-      "explanation": "Marseille est le plus grand port maritime de France, situé sur la côte méditerranéenne. Le Havre est également un grand port important."
+      "explanation": "Marseille est le plus grand port maritime de France, situé sur la côte méditerranéenne. Le Havre est également un grand port important.",
+      "questionEn": "Which city is a major seaport?",
+      "optionsEn": [
+        "Marseille",
+        "Strasbourg",
+        "Clermont-Ferrand",
+        "Paris"
+      ],
+      "explanationEn": "Marseille is the largest seaport in France, located on the Mediterranean coast. Le Havre is also a major important port."
     },
     {
       "id": "csp-hgc-q41",
@@ -493,7 +813,15 @@
         "La mer du Nord"
       ],
       "correctAnswer": 1,
-      "explanation": "La mer Méditerranée borde le sud-est de la France. À l'ouest se trouve l'océan Atlantique, et au nord la Manche et la mer du Nord."
+      "explanation": "La mer Méditerranée borde le sud-est de la France. À l'ouest se trouve l'océan Atlantique, et au nord la Manche et la mer du Nord.",
+      "questionEn": "What is the sea to the south of mainland France?",
+      "optionsEn": [
+        "The Atlantic Ocean",
+        "The Mediterranean Sea",
+        "The English Channel",
+        "The North Sea"
+      ],
+      "explanationEn": "The Mediterranean Sea borders the south-east of France. To the west is the Atlantic Ocean, and to the north are the English Channel and the North Sea."
     },
     {
       "id": "csp-hgc-q42",
@@ -505,7 +833,15 @@
         "La Première Guerre mondiale"
       ],
       "correctAnswer": 3,
-      "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918. Elle s'est achevée par l'Armistice signé le 11 novembre 1918."
+      "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918. Elle s'est achevée par l'Armistice signé le 11 novembre 1918.",
+      "questionEn": "Which war took place between 1914 and 1918?",
+      "optionsEn": [
+        "The Hundred Years' War",
+        "The Algerian War",
+        "World War II",
+        "World War I"
+      ],
+      "explanationEn": "World War I took place from 1914 to 1918. It ended with the Armistice signed on 11 November 1918."
     },
     {
       "id": "csp-hgc-q43",
@@ -517,7 +853,15 @@
         "C'est l'abolition de la peine de mort"
       ],
       "correctAnswer": 1,
-      "explanation": "Depuis 1958, le régime politique de la France est celui de la Vème République, fondée sous l'impulsion du général de Gaulle."
+      "explanation": "Depuis 1958, le régime politique de la France est celui de la Vème République, fondée sous l'impulsion du général de Gaulle.",
+      "questionEn": "Why is the year 1958 important for France?",
+      "optionsEn": [
+        "It is the end of the monarchy",
+        "It is the birth of the Fifth Republic",
+        "It is the beginning of the French Revolution",
+        "It is the abolition of the death penalty"
+      ],
+      "explanationEn": "Since 1958, the political system of France has been the Fifth Republic, founded under the leadership of General de Gaulle."
     },
     {
       "id": "csp-hgc-q44",
@@ -529,7 +873,15 @@
         "Le Nil"
       ],
       "correctAnswer": 0,
-      "explanation": "La Loire est le plus long fleuve de France. Les autres grands fleuves français sont la Seine, le Rhône, la Garonne et le Rhin."
+      "explanation": "La Loire est le plus long fleuve de France. Les autres grands fleuves français sont la Seine, le Rhône, la Garonne et le Rhin.",
+      "questionEn": "Which river flows in France?",
+      "optionsEn": [
+        "The Loire",
+        "The Amazon",
+        "The Danube",
+        "The Nile"
+      ],
+      "explanationEn": "The Loire is the longest river in France. The other major French rivers are the Seine, the Rhône, the Garonne, and the Rhine."
     },
     {
       "id": "csp-hgc-q45",
@@ -541,7 +893,15 @@
         "Barcelone"
       ],
       "correctAnswer": 0,
-      "explanation": "Bordeaux est une grande ville située dans le sud-ouest de la France. Les autres villes citées se trouvent en Espagne, en Belgique et en Suisse."
+      "explanation": "Bordeaux est une grande ville située dans le sud-ouest de la France. Les autres villes citées se trouvent en Espagne, en Belgique et en Suisse.",
+      "questionEn": "Which city is French?",
+      "optionsEn": [
+        "Bordeaux",
+        "Geneva",
+        "Brussels",
+        "Barcelona"
+      ],
+      "explanationEn": "Bordeaux is a large city in the south-west of France. The other cities mentioned are in Spain, Belgium, and Switzerland."
     },
     {
       "id": "csp-hgc-q46",
@@ -553,7 +913,15 @@
         "L'océan Indien"
       ],
       "correctAnswer": 1,
-      "explanation": "La France métropolitaine est bordée à l'ouest par l'océan Atlantique."
+      "explanation": "La France métropolitaine est bordée à l'ouest par l'océan Atlantique.",
+      "questionEn": "Which ocean borders the western coast of France?",
+      "optionsEn": [
+        "The Pacific Ocean",
+        "The Atlantic Ocean",
+        "The Arctic Ocean",
+        "The Indian Ocean"
+      ],
+      "explanationEn": "Mainland France is bordered to the west by the Atlantic Ocean."
     },
     {
       "id": "csp-hgc-q47",
@@ -565,7 +933,17 @@
         "Un pays voisin de la France"
       ],
       "correctAnswer": 0,
-      "explanation": "Paris est la capitale politique et administrative de la République française."
+      "explanation": "Paris est la capitale politique et administrative de la République française.",
+      "questionEn": "What is Paris?",
+      "optionsEn": [
+        "The capital of France",
+        "An overseas region",
+        "A mountain range",
+        "A neighbouring country of France"
+      ],
+      "explanationEn": "Paris is the political and administrative capital of the French Republic."
     }
-  ]
+  ],
+  "titleEn": "CSP - History, Geography and Culture",
+  "descriptionEn": "Official CSP quiz (Contrat de Séjour Pluriannuel - Multi-Year Residence Contract) – History, Geography and Culture. Official exam questions."
 }

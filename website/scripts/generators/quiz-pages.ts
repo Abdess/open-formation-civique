@@ -11,6 +11,31 @@ import {
   officialIdPrefixMap,
 } from './utils.js';
 
+function normalizeForMatch(text: string): string {
+  return text.normalize('NFKC').replace(/[\u2018\u2019\u201A\u201B]/g, "'").replace(/[\u201C\u201D\u201E\u201F]/g, '"');
+}
+
+function mergeExistingTranslations(quizJson: Record<string, unknown>, filePath: string): void {
+  if (!existsSync(filePath)) return;
+
+  const existing = JSON.parse(readFileSync(filePath, 'utf-8'));
+
+  if (existing.titleEn) quizJson.titleEn = existing.titleEn;
+  if (existing.descriptionEn) quizJson.descriptionEn = existing.descriptionEn;
+
+  const translationMap = new Map<string, { questionEn: string; optionsEn: string[]; explanationEn: string }>();
+  for (const q of existing.questions || []) {
+    if (q.questionEn && q.optionsEn && q.explanationEn) {
+      translationMap.set(normalizeForMatch(q.question), { questionEn: q.questionEn, optionsEn: q.optionsEn, explanationEn: q.explanationEn });
+    }
+  }
+
+  for (const q of (quizJson.questions as Record<string, unknown>[])) {
+    const t = translationMap.get(normalizeForMatch(q.question as string));
+    if (t) Object.assign(q, t);
+  }
+}
+
 export function generateQuizPages(
   data: CrawlerData,
   contentDir: string,
@@ -67,10 +92,9 @@ export function generateQuizPages(
         })),
       };
 
-      writeFileSync(
-        join(quizzesDir, `${thematicDir}.json`),
-        JSON.stringify(quizJson, null, 2) + '\n'
-      );
+      const thematicFilePath = join(quizzesDir, `${thematicDir}.json`);
+      mergeExistingTranslations(quizJson, thematicFilePath);
+      writeFileSync(thematicFilePath, JSON.stringify(quizJson, null, 2) + '\n');
       console.log(`✓ Generated ${thematicDir}.json (${questions!.length} questions)`);
     });
   } else {
@@ -127,6 +151,35 @@ import quizData from '../../../data/quizzes/${quizId}.json';
     writeFileSync(join(quizContentDir, `${quizId}.mdx`), quizPageContent);
     console.log(`✓ Created quiz/${quizId}.mdx`);
   });
+
+  const reviewPageContent = `---
+title: "Révision espacée"
+description: "Révisez les questions qui ont besoin d'être renforcées grâce à la répétition espacée."
+tableOfContents: false
+---
+
+import ReviewQuiz from '../../../components/ReviewQuiz.astro';
+
+<ReviewQuiz />
+`;
+
+  writeFileSync(join(quizContentDir, 'review.mdx'), reviewPageContent);
+  console.log('✓ Created quiz/review.mdx');
+
+  // Exam simulation page
+  const examPageContent = `---
+title: "Simulation d'examen civique"
+description: "Entraînez-vous en conditions réelles : 40 questions, 45 minutes, seuil de réussite à 80%."
+tableOfContents: false
+---
+
+import ExamSimulation from '../../../components/ExamSimulation.astro';
+
+<ExamSimulation />
+`;
+
+  writeFileSync(join(quizContentDir, 'exam.mdx'), examPageContent);
+  console.log('✓ Created quiz/exam.mdx');
 }
 
 function generateOfficialQuizFiles(
@@ -172,10 +225,9 @@ function generateOfficialQuizFiles(
       })),
     };
 
-    writeFileSync(
-      join(quizzesDir, `${quizDir}.json`),
-      JSON.stringify(quizJson, null, 2) + '\n',
-    );
+    const officialFilePath = join(quizzesDir, `${quizDir}.json`);
+    mergeExistingTranslations(quizJson, officialFilePath);
+    writeFileSync(officialFilePath, JSON.stringify(quizJson, null, 2) + '\n');
     console.log(`✓ Generated ${quizDir}.json (${questions.length} questions)`);
   }
 }

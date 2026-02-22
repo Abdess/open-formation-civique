@@ -1,7 +1,7 @@
 {
   "id": "histoire-geographie-culture",
   "title": "Histoire, géographie et culture",
-  "description": "Testez vos connaissances : Histoire • Géographie • Culture",
+  "description": "Quiz – Histoire • Géographie • Culture. Testez vos connaissances avec des questions générées à partir des fiches thématiques officielles.",
   "questions": [
     {
       "id": "hgc-q1",
@@ -13,7 +13,15 @@
         "Une dictature militaire"
       ],
       "correctAnswer": 1,
-      "explanation": "Avant 1789, la France était sous l'Ancien Régime, caractérisé par une monarchie absolue où le roi tenait son pouvoir de Dieu."
+      "explanation": "Avant 1789, la France était sous l'Ancien Régime, caractérisé par une monarchie absolue où le roi tenait son pouvoir de Dieu.",
+      "questionEn": "What was the political system in France before the 1789 Revolution?",
+      "optionsEn": [
+        "A democratic republic",
+        "An absolute monarchy by divine right",
+        "An empire",
+        "A military dictatorship"
+      ],
+      "explanationEn": "Before 1789, France was under the Ancien Régime (Old Regime), an absolute monarchy where the king held his power from God."
     },
     {
       "id": "hgc-q2",
@@ -25,7 +33,15 @@
         "Le début de la Vème République"
       ],
       "correctAnswer": 2,
-      "explanation": "La Révolution française débute en 1789 et c'est cette année-là que la Déclaration des droits de l’homme et du citoyen est publiée."
+      "explanation": "La Révolution française débute en 1789 et c'est cette année-là que la Déclaration des droits de l’homme et du citoyen est publiée.",
+      "questionEn": "What important event happened in 1789?",
+      "optionsEn": [
+        "The creation of Social Security",
+        "The Paris Commune uprising",
+        "The publication of the Déclaration des droits de l'homme et du citoyen (Declaration of the Rights of Man and of the Citizen)",
+        "The start of the Fifth Republic"
+      ],
+      "explanationEn": "The French Revolution began in 1789, and it was that year that the Declaration of the Rights of Man and of the Citizen was published."
     },
     {
       "id": "hgc-q3",
@@ -37,7 +53,15 @@
         "La Vème République"
       ],
       "correctAnswer": 3,
-      "explanation": "Depuis 1958, la France vit sous le régime de la Vème République."
+      "explanation": "Depuis 1958, la France vit sous le régime de la Vème République.",
+      "questionEn": "What is the current political system of France since 1958?",
+      "optionsEn": [
+        "The Third Republic",
+        "The Second Empire",
+        "The Fourth Republic",
+        "The Fifth Republic"
+      ],
+      "explanationEn": "Since 1958, France has been under the Fifth Republic."
     },
     {
       "id": "hgc-q4",
@@ -49,7 +73,15 @@
         "L'école obligatoire"
       ],
       "correctAnswer": 1,
-      "explanation": "La Sécurité sociale a été créée au début de la IVème République pour protéger les citoyens."
+      "explanation": "La Sécurité sociale a été créée au début de la IVème République pour protéger les citoyens.",
+      "questionEn": "What major social achievement was created under the Fourth Republic (1946-1958)?",
+      "optionsEn": [
+        "The Civil Code",
+        "Social Security",
+        "Women's right to vote",
+        "Compulsory schooling"
+      ],
+      "explanationEn": "Social Security was created at the start of the Fourth Republic to protect citizens."
     },
     {
       "id": "hgc-q5",
@@ -60,7 +92,14 @@
         "Les Gaulois"
       ],
       "correctAnswer": 1,
-      "explanation": "Ce sont les Francs, un peuple barbare qui a envahi la Gaule après les Romains, qui ont donné leur nom à la France."
+      "explanation": "Ce sont les Francs, un peuple barbare qui a envahi la Gaule après les Romains, qui ont donné leur nom à la France.",
+      "questionEn": "Which people gave their name to France?",
+      "optionsEn": [
+        "The Romans",
+        "The Franks",
+        "The Gauls"
+      ],
+      "explanationEn": "The Franks, a barbarian people who invaded Gaul after the Romans, gave their name to France."
     },
     {
       "id": "hgc-q6",
@@ -72,7 +111,15 @@
         "Hugues Capet"
       ],
       "correctAnswer": 3,
-      "explanation": "Hugues Capet est sacré roi en 987 et fonde la dynastie des Capétiens, qui va consolider la monarchie française."
+      "explanation": "Hugues Capet est sacré roi en 987 et fonde la dynastie des Capétiens, qui va consolider la monarchie française.",
+      "questionEn": "Who is the founding king of the Capetian dynasty, crowned in 987?",
+      "optionsEn": [
+        "Julius Caesar",
+        "Charlemagne",
+        "Clovis",
+        "Hugues Capet"
+      ],
+      "explanationEn": "Hugues Capet was crowned king in 987 and founded the Capetian dynasty, which strengthened the French monarchy."
     },
     {
       "id": "hgc-q7",
@@ -83,7 +130,14 @@
         "La construction des châteaux forts"
       ],
       "correctAnswer": 0,
-      "explanation": "Même si elle a été longue et meurtrière, la guerre de Cent Ans (à partir de 1337) a aidé à éveiller un sentiment d'unité nationale chez les Français."
+      "explanation": "Même si elle a été longue et meurtrière, la guerre de Cent Ans (à partir de 1337) a aidé à éveiller un sentiment d'unité nationale chez les Français.",
+      "questionEn": "Which event helped create a feeling of national unity in France?",
+      "optionsEn": [
+        "The Hundred Years' War",
+        "The conquest of Gaul by Julius Caesar",
+        "The building of fortified castles"
+      ],
+      "explanationEn": "Even though it was long and deadly, the Hundred Years' War (starting in 1337) helped awaken a feeling of national unity among the French people."
     },
     {
       "id": "hgc-q8",
@@ -94,7 +148,14 @@
         "Le début de l'organisation administrative du territoire"
       ],
       "correctAnswer": 2,
-      "explanation": "L'organisation du territoire sous l'autorité du roi à cette époque est à l'origine du système administratif français actuel."
+      "explanation": "L'organisation du territoire sous l'autorité du roi à cette époque est à l'origine du système administratif français actuel.",
+      "questionEn": "What is one of the main contributions of this period to today's France?",
+      "optionsEn": [
+        "The creation of modern democracy",
+        "The invention of public schools",
+        "The beginning of the administrative organization of the territory"
+      ],
+      "explanationEn": "The organization of the territory under the king's authority during this period is the origin of the current French administrative system."
     },
     {
       "id": "hgc-q9",
@@ -106,7 +167,15 @@
         "Un système où l'Église dirige le pays à la place du roi"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est un régime où le roi a tous les pouvoirs ('absolue') et où l'on croit que son autorité vient de la volonté de Dieu ('droit divin')."
+      "explanation": "C'est un régime où le roi a tous les pouvoirs ('absolue') et où l'on croit que son autorité vient de la volonté de Dieu ('droit divin').",
+      "questionEn": "What is an absolute monarchy by divine right?",
+      "optionsEn": [
+        "A system where the king is elected by the people",
+        "A system where the king shares power with the nobles",
+        "A system where the king holds all powers because they are believed to come from God",
+        "A system where the Church rules the country instead of the king"
+      ],
+      "explanationEn": "It is a system where the king has all powers ('absolute') and where people believe his authority comes from the will of God ('divine right')."
     },
     {
       "id": "hgc-q10",
@@ -118,7 +187,15 @@
         "Il n'y avait pas de division, tout le monde était égal"
       ],
       "correctAnswer": 1,
-      "explanation": "La société était strictement divisée en trois ordres : le clergé (religieux), la noblesse (seigneurs) et le tiers état (le reste du peuple)."
+      "explanation": "La société était strictement divisée en trois ordres : le clergé (religieux), la noblesse (seigneurs) et le tiers état (le reste du peuple).",
+      "questionEn": "How was society divided under the Ancien Régime (Old Regime)?",
+      "optionsEn": [
+        "Into two groups: the rich and the poor",
+        "Into three orders: the clergy, the nobility, and the third estate",
+        "Into four classes based on profession",
+        "There was no division, everyone was equal"
+      ],
+      "explanationEn": "Society was strictly divided into three orders: the clergy (religious leaders), the nobility (lords), and the third estate (the rest of the people)."
     },
     {
       "id": "hgc-q11",
@@ -130,7 +207,15 @@
         "Il dirigeait le pays avec le roi"
       ],
       "correctAnswer": 2,
-      "explanation": "Contrairement à la noblesse et au clergé, le tiers état n'avait pas de privilèges héréditaires et devait payer la plupart des impôts."
+      "explanation": "Contrairement à la noblesse et au clergé, le tiers état n'avait pas de privilèges héréditaires et devait payer la plupart des impôts.",
+      "questionEn": "What was the situation of the third estate (90% of the population)?",
+      "optionsEn": [
+        "They did not pay taxes",
+        "They had the same privileges as the nobility",
+        "They had no privileges and paid most of the taxes",
+        "They ruled the country with the king"
+      ],
+      "explanationEn": "Unlike the nobility and the clergy, the third estate had no hereditary privileges and had to pay most of the taxes."
     },
     {
       "id": "hgc-q12",
@@ -142,7 +227,15 @@
         "Le pouvoir absolu du président"
       ],
       "correctAnswer": 1,
-      "explanation": "L'Ancien Régime a laissé en héritage une administration unifiée et une forte autorité centrale, c'est ce qu'on appelle la centralisation."
+      "explanation": "L'Ancien Régime a laissé en héritage une administration unifiée et une forte autorité centrale, c'est ce qu'on appelle la centralisation.",
+      "questionEn": "What legacy of the Ancien Régime can be found in today's French system?",
+      "optionsEn": [
+        "The right to vote for everyone",
+        "The centralization of power and administration",
+        "Inequality before the law",
+        "The absolute power of the president"
+      ],
+      "explanationEn": "The Ancien Régime left a legacy of unified administration and strong central authority, which is called centralization."
     },
     {
       "id": "hgc-q13",
@@ -154,7 +247,15 @@
         "La création des départements français"
       ],
       "correctAnswer": 0,
-      "explanation": "Le 17 juin 1789, le tiers état proclame l'Assemblée nationale, ce qui met fin au pouvoir absolu du roi."
+      "explanation": "Le 17 juin 1789, le tiers état proclame l'Assemblée nationale, ce qui met fin au pouvoir absolu du roi.",
+      "questionEn": "What event marks the end of absolute monarchy in 1789?",
+      "optionsEn": [
+        "The proclamation of the National Assembly by the third estate",
+        "The election of the President of the Republic",
+        "The escape of King Louis XVI abroad",
+        "The creation of French departments"
+      ],
+      "explanationEn": "On June 17, 1789, the third estate proclaimed the National Assembly, ending the king's absolute power."
     },
     {
       "id": "hgc-q14",
@@ -166,7 +267,15 @@
         "La Constitution de la Ve République"
       ],
       "correctAnswer": 1,
-      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 pose les bases des droits fondamentaux comme la liberté et l'égalité devant la loi."
+      "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 pose les bases des droits fondamentaux comme la liberté et l'égalité devant la loi.",
+      "questionEn": "What important text was adopted in 1789 to declare the principles of liberty and equality?",
+      "optionsEn": [
+        "The Civil Code",
+        "The Déclaration des droits de l'homme et du citoyen (Declaration of the Rights of Man and of the Citizen)",
+        "The Treaty of Versailles",
+        "The Constitution of the Fifth Republic"
+      ],
+      "explanationEn": "The Declaration of the Rights of Man and of the Citizen of 1789 established the foundations of fundamental rights such as liberty and equality before the law."
     },
     {
       "id": "hgc-q15",
@@ -178,7 +287,15 @@
         "Le roi décidait qui pouvait voter"
       ],
       "correctAnswer": 2,
-      "explanation": "Le droit de vote a été instauré mais restait limité : seuls les hommes de plus de 25 ans payant un impôt pouvaient voter."
+      "explanation": "Le droit de vote a été instauré mais restait limité : seuls les hommes de plus de 25 ans payant un impôt pouvaient voter.",
+      "questionEn": "Who had the right to vote at the beginning of the French Revolution?",
+      "optionsEn": [
+        "All women and men over 18 years old",
+        "Only nobles and clergy",
+        "Men over 25 years old who paid a tax",
+        "The king decided who could vote"
+      ],
+      "explanationEn": "The right to vote was introduced but remained limited: only men over 25 who paid a tax could vote."
     },
     {
       "id": "hgc-q16",
@@ -190,7 +307,15 @@
         "Elle a rétabli la monarchie absolue pour toujours"
       ],
       "correctAnswer": 1,
-      "explanation": "La Révolution a mis fin à la division de la société en trois ordres (clergé, noblesse, tiers état) et a supprimé les privilèges liés à la naissance."
+      "explanation": "La Révolution a mis fin à la division de la société en trois ordres (clergé, noblesse, tiers état) et a supprimé les privilèges liés à la naissance.",
+      "questionEn": "What major change did this period bring to French society?",
+      "optionsEn": [
+        "It gave all power to the clergy",
+        "It abolished the society of orders and hereditary privileges",
+        "It banned religion in France",
+        "It restored absolute monarchy forever"
+      ],
+      "explanationEn": "The Revolution ended the division of society into three orders (clergy, nobility, third estate) and removed privileges linked to birth."
     },
     {
       "id": "hgc-q17",
@@ -202,7 +327,15 @@
         "En 1799"
       ],
       "correctAnswer": 1,
-      "explanation": "La Ière République est proclamée le 22 septembre 1792, succédant à la monarchie constitutionnelle."
+      "explanation": "La Ière République est proclamée le 22 septembre 1792, succédant à la monarchie constitutionnelle.",
+      "questionEn": "When was the First Republic proclaimed in France?",
+      "optionsEn": [
+        "July 14, 1789",
+        "September 22, 1792",
+        "May 18, 1804",
+        "In 1799"
+      ],
+      "explanationEn": "The First Republic was proclaimed on September 22, 1792, replacing the constitutional monarchy."
     },
     {
       "id": "hgc-q18",
@@ -214,7 +347,15 @@
         "La création des frontières actuelles"
       ],
       "correctAnswer": 1,
-      "explanation": "La Ière République a réorganisé l'administration du territoire en créant les départements pour mieux gérer les régions."
+      "explanation": "La Ière République a réorganisé l'administration du territoire en créant les départements pour mieux gérer les régions.",
+      "questionEn": "What important measure for organizing French territory was introduced under the First Republic?",
+      "optionsEn": [
+        "The creation of regions",
+        "The creation of departments",
+        "The creation of communes",
+        "The creation of current borders"
+      ],
+      "explanationEn": "The First Republic reorganized territorial administration by creating departments to better manage the regions."
     },
     {
       "id": "hgc-q19",
@@ -226,7 +367,15 @@
         "Il est obligé de rejoindre l'armée"
       ],
       "correctAnswer": 2,
-      "explanation": "Le citoyen n'est plus un sujet soumis à un roi, mais un membre actif de la République dont le pouvoir émane du peuple."
+      "explanation": "Le citoyen n'est plus un sujet soumis à un roi, mais un membre actif de la République dont le pouvoir émane du peuple.",
+      "questionEn": "What important change concerned the status of citizens under the First Republic?",
+      "optionsEn": [
+        "They became subjects of the king",
+        "They lost all their rights",
+        "They became members of a Republic where power comes from the people",
+        "They were forced to join the army"
+      ],
+      "explanationEn": "The citizen was no longer a subject under a king, but an active member of the Republic where power comes from the people."
     },
     {
       "id": "hgc-q20",
@@ -238,7 +387,15 @@
         "La liberté de la presse"
       ],
       "correctAnswer": 2,
-      "explanation": "La volonté de séparer l'Église et l'État durant cette période annonce l'introduction progressive de la laïcité en France."
+      "explanation": "La volonté de séparer l'Église et l'État durant cette période annonce l'introduction progressive de la laïcité en France.",
+      "questionEn": "Which current principle of France began to appear with the separation of Church and State?",
+      "optionsEn": [
+        "Fraternity",
+        "Monarchy",
+        "Laïcité (secularism)",
+        "Freedom of the press"
+      ],
+      "explanationEn": "The desire to separate the Church and the State during this period marks the gradual introduction of laïcité (secularism) in France."
     },
     {
       "id": "hgc-q21",
@@ -250,7 +407,15 @@
         "Les préfets"
       ],
       "correctAnswer": 1,
-      "explanation": "Bien qu'il y ait trois consuls, c'est le Premier Consul, Napoléon Bonaparte, qui concentre l'essentiel du pouvoir exécutif, militaire et diplomatique."
+      "explanation": "Bien qu'il y ait trois consuls, c'est le Premier Consul, Napoléon Bonaparte, qui concentre l'essentiel du pouvoir exécutif, militaire et diplomatique.",
+      "questionEn": "Who held most of the power under the Consulate?",
+      "optionsEn": [
+        "The three consuls equally",
+        "The First Consul, Napoleon Bonaparte",
+        "The National Assembly",
+        "The prefects"
+      ],
+      "explanationEn": "Although there were three consuls, it was the First Consul, Napoleon Bonaparte, who held most of the executive, military, and diplomatic power."
     },
     {
       "id": "hgc-q22",
@@ -262,7 +427,15 @@
         "Le juge"
       ],
       "correctAnswer": 2,
-      "explanation": "Le préfet a été créé en 1800 pour diriger chaque département et représenter le gouvernement de manière centralisée."
+      "explanation": "Le préfet a été créé en 1800 pour diriger chaque département et représenter le gouvernement de manière centralisée.",
+      "questionEn": "What important administrative role, still existing today, was created in 1800 under the Consulate?",
+      "optionsEn": [
+        "The mayor",
+        "The deputy",
+        "The prefect",
+        "The judge"
+      ],
+      "explanationEn": "The prefect was created in 1800 to lead each department and represent the government in a centralized way."
     },
     {
       "id": "hgc-q23",
@@ -274,7 +447,15 @@
         "Le peuple vote toutes les lois directement"
       ],
       "correctAnswer": 1,
-      "explanation": "Sous le Consulat, le pouvoir législatif est affaibli et divisé, laissant le pouvoir exécutif (dirigé par le Premier Consul) dominer le régime."
+      "explanation": "Sous le Consulat, le pouvoir législatif est affaibli et divisé, laissant le pouvoir exécutif (dirigé par le Premier Consul) dominer le régime.",
+      "questionEn": "What is the main characteristic of power under the Consulate?",
+      "optionsEn": [
+        "The legislative power is stronger than the executive power",
+        "The executive power is stronger than the legislative power",
+        "The powers are perfectly balanced",
+        "The people vote on all laws directly"
+      ],
+      "explanationEn": "Under the Consulate, the legislative power was weakened and divided, letting the executive power (led by the First Consul) dominate."
     },
     {
       "id": "hgc-q24",
@@ -286,7 +467,15 @@
         "François Gérard"
       ],
       "correctAnswer": 1,
-      "explanation": "Napoléon Bonaparte, sous le nom de Napoléon 1er, est le fondateur et le chef du 1er Empire. Il a concentré tous les pouvoirs entre ses mains."
+      "explanation": "Napoléon Bonaparte, sous le nom de Napoléon 1er, est le fondateur et le chef du 1er Empire. Il a concentré tous les pouvoirs entre ses mains.",
+      "questionEn": "Who is the central figure and founder of the First Empire?",
+      "optionsEn": [
+        "Louis XIV",
+        "Napoleon Bonaparte",
+        "Charlemagne",
+        "François Gérard"
+      ],
+      "explanationEn": "Napoleon Bonaparte, under the name Napoleon I, is the founder and leader of the First Empire. He held all powers in his hands."
     },
     {
       "id": "hgc-q25",
@@ -298,7 +487,15 @@
         "Le Traité de Versailles"
       ],
       "correctAnswer": 1,
-      "explanation": "Le Code civil de 1804 est un héritage majeur du 1er Empire. Il garantit l'égalité devant la loi et fixe les règles sur la famille et la propriété."
+      "explanation": "Le Code civil de 1804 est un héritage majeur du 1er Empire. Il garantit l'égalité devant la loi et fixe les règles sur la famille et la propriété.",
+      "questionEn": "What important law, created in 1804, sets common rules for all citizens?",
+      "optionsEn": [
+        "The Declaration of the Rights of Man",
+        "The Civil Code",
+        "The Constitution of the Fifth Republic",
+        "The Treaty of Versailles"
+      ],
+      "explanationEn": "The Civil Code of 1804 is a major legacy of the First Empire. It guarantees equality before the law and sets rules about family and property."
     },
     {
       "id": "hgc-q26",
@@ -310,7 +507,15 @@
         "Le pouvoir est partagé équitablement entre tous"
       ],
       "correctAnswer": 2,
-      "explanation": "Sous l'Empire, Napoléon centralise le pouvoir, contrôle la presse et limite les opposants politiques."
+      "explanation": "Sous l'Empire, Napoléon centralise le pouvoir, contrôle la presse et limite les opposants politiques.",
+      "questionEn": "What were political freedoms like under the First Empire?",
+      "optionsEn": [
+        "Citizens had total freedom of expression",
+        "The press was free and independent",
+        "Freedoms were limited and the press was controlled",
+        "Power was shared equally among everyone"
+      ],
+      "explanationEn": "Under the Empire, Napoleon centralized power, controlled the press, and limited political opponents."
     },
     {
       "id": "hgc-q27",
@@ -321,7 +526,14 @@
         "Le lycée et le baccalauréat"
       ],
       "correctAnswer": 2,
-      "explanation": "Le 1er Empire a créé le lycée et le baccalauréat, qui structurent toujours le système éducatif français actuel."
+      "explanation": "Le 1er Empire a créé le lycée et le baccalauréat, qui structurent toujours le système éducatif français actuel.",
+      "questionEn": "Which educational institutions created under the First Empire still exist today?",
+      "optionsEn": [
+        "Kindergarten and middle school",
+        "University and doctorate",
+        "The lycée (high school) and the baccalauréat (high school diploma)"
+      ],
+      "explanationEn": "The First Empire created the lycée (high school) and the baccalauréat (final exam), which still structure the French education system today."
     },
     {
       "id": "hgc-q28",
@@ -333,7 +545,15 @@
         "Il n'y a aucune différence, ce sont exactement les mêmes régimes."
       ],
       "correctAnswer": 1,
-      "explanation": "La Monarchie de Juillet, dirigée par Louis-Philippe, se veut plus libérale que la Restauration. Elle renforce les libertés publiques et le pouvoir du Parlement, même si le vote reste limité."
+      "explanation": "La Monarchie de Juillet, dirigée par Louis-Philippe, se veut plus libérale que la Restauration. Elle renforce les libertés publiques et le pouvoir du Parlement, même si le vote reste limité.",
+      "questionEn": "What is the main difference between the Restoration and the July Monarchy regarding power?",
+      "optionsEn": [
+        "The July Monarchy completely removes Parliament.",
+        "The July Monarchy is more liberal and strengthens Parliament's role.",
+        "The Restoration gives the right to vote to all citizens.",
+        "There is no difference, they are exactly the same."
+      ],
+      "explanationEn": "The July Monarchy, led by Louis-Philippe, was more liberal than the Restoration. It strengthened public freedoms and Parliament's power, even though voting rights remained limited."
     },
     {
       "id": "hgc-q29",
@@ -345,7 +565,15 @@
         "Uniquement les membres de la famille royale."
       ],
       "correctAnswer": 0,
-      "explanation": "Pendant la Restauration et la Monarchie de Juillet, le suffrage n'est pas universel. Le droit de vote est réservé aux citoyens qui paient le plus d'impôts (les plus riches)."
+      "explanation": "Pendant la Restauration et la Monarchie de Juillet, le suffrage n'est pas universel. Le droit de vote est réservé aux citoyens qui paient le plus d'impôts (les plus riches).",
+      "questionEn": "Who had the right to vote during these two periods (1815-1848)?",
+      "optionsEn": [
+        "Only the richest men.",
+        "All men and women.",
+        "All adult men.",
+        "Only members of the royal family."
+      ],
+      "explanationEn": "During the Restoration and the July Monarchy, voting was not universal. The right to vote was reserved for citizens who paid the most taxes (the wealthiest)."
     },
     {
       "id": "hgc-q30",
@@ -357,7 +585,15 @@
         "Par le retour de Napoléon Ier."
       ],
       "correctAnswer": 2,
-      "explanation": "Le régime de Louis-Philippe prend fin le 24 février 1848 suite à une révolution provoquée par le refus d'élargir le droit de vote et les inégalités sociales."
+      "explanation": "Le régime de Louis-Philippe prend fin le 24 février 1848 suite à une révolution provoquée par le refus d'élargir le droit de vote et les inégalités sociales.",
+      "questionEn": "How did the July Monarchy end in 1848?",
+      "optionsEn": [
+        "By the natural death of King Louis-Philippe.",
+        "By a peaceful presidential election.",
+        "By a new revolution caused by social inequalities.",
+        "By the return of Napoleon I."
+      ],
+      "explanationEn": "Louis-Philippe's regime ended on February 24, 1848, following a revolution caused by the refusal to expand voting rights and social inequalities."
     },
     {
       "id": "hgc-q31",
@@ -369,7 +605,15 @@
         "Victor Schœlcher"
       ],
       "correctAnswer": 1,
-      "explanation": "Louis-Napoléon Bonaparte, le neveu de Napoléon Ier, est élu président de la République après la proclamation de la IIème République."
+      "explanation": "Louis-Napoléon Bonaparte, le neveu de Napoléon Ier, est élu président de la République après la proclamation de la IIème République.",
+      "questionEn": "Who was elected president of the Second Republic in 1848?",
+      "optionsEn": [
+        "Louis-Philippe",
+        "Louis-Napoleon Bonaparte",
+        "Napoleon I",
+        "Victor Schoelcher"
+      ],
+      "explanationEn": "Louis-Napoleon Bonaparte, the nephew of Napoleon I, was elected president after the Second Republic was proclaimed."
     },
     {
       "id": "hgc-q32",
@@ -381,7 +625,15 @@
         "L'élection du roi"
       ],
       "correctAnswer": 1,
-      "explanation": "La IIème République a remplacé le suffrage censitaire par le suffrage universel pour tous les hommes âgés d'au moins 21 ans."
+      "explanation": "La IIème République a remplacé le suffrage censitaire par le suffrage universel pour tous les hommes âgés d'au moins 21 ans.",
+      "questionEn": "What great democratic achievement was introduced by the Second Republic?",
+      "optionsEn": [
+        "Women's right to vote",
+        "Universal male suffrage",
+        "Census suffrage (restricted to the rich)",
+        "Election of the king"
+      ],
+      "explanationEn": "The Second Republic replaced census suffrage with universal suffrage for all men aged at least 21."
     },
     {
       "id": "hgc-q33",
@@ -393,7 +645,15 @@
         "La création de nouveaux impôts"
       ],
       "correctAnswer": 0,
-      "explanation": "Grâce au décret rédigé par Victor Schœlcher le 27 avril 1848, l'esclavage a été définitivement aboli dans les colonies françaises."
+      "explanation": "Grâce au décret rédigé par Victor Schœlcher le 27 avril 1848, l'esclavage a été définitivement aboli dans les colonies françaises.",
+      "questionEn": "What important decision about French colonies was made in 1848?",
+      "optionsEn": [
+        "The definitive abolition of slavery",
+        "The sale of colonies",
+        "A travel ban",
+        "The creation of new taxes"
+      ],
+      "explanationEn": "Thanks to the decree written by Victor Schoelcher on April 27, 1848, slavery was definitively abolished in the French colonies."
     },
     {
       "id": "hgc-q34",
@@ -405,7 +665,15 @@
         "Par une guerre contre l'Angleterre"
       ],
       "correctAnswer": 2,
-      "explanation": "Le 2 décembre 1851, le président Louis-Napoléon Bonaparte a organisé un coup d'État pour conserver le pouvoir, ce qui a mis fin à la République."
+      "explanation": "Le 2 décembre 1851, le président Louis-Napoléon Bonaparte a organisé un coup d'État pour conserver le pouvoir, ce qui a mis fin à la République.",
+      "questionEn": "How did the Second Republic end in 1851?",
+      "optionsEn": [
+        "By a democratic election",
+        "By the president's resignation",
+        "By a coup d'état by Louis-Napoleon Bonaparte",
+        "By a war against England"
+      ],
+      "explanationEn": "On December 2, 1851, President Louis-Napoleon Bonaparte organized a coup d'état to keep power, ending the Republic."
     },
     {
       "id": "hgc-q35",
@@ -417,7 +685,15 @@
         "Charles de Gaulle"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est Louis-Napoléon Bonaparte, le neveu de Napoléon Ier, qui devient empereur sous le nom de Napoléon III après un coup d'État."
+      "explanation": "C'est Louis-Napoléon Bonaparte, le neveu de Napoléon Ier, qui devient empereur sous le nom de Napoléon III après un coup d'État.",
+      "questionEn": "Who ruled France under the name Napoleon III during the Second Empire?",
+      "optionsEn": [
+        "Napoleon I",
+        "Louis-Napoleon Bonaparte",
+        "Louis XIV",
+        "Charles de Gaulle"
+      ],
+      "explanationEn": "It was Louis-Napoleon Bonaparte, the nephew of Napoleon I, who became emperor under the name Napoleon III after a coup d'état."
     },
     {
       "id": "hgc-q36",
@@ -429,7 +705,15 @@
         "Par la mort naturelle de Napoléon III"
       ],
       "correctAnswer": 2,
-      "explanation": "Le régime s'effondre le 4 septembre 1870 suite à la défaite de l'armée française contre la Prusse."
+      "explanation": "Le régime s'effondre le 4 septembre 1870 suite à la défaite de l'armée française contre la Prusse.",
+      "questionEn": "How did the Second Empire end in 1870?",
+      "optionsEn": [
+        "By the voluntary resignation of the emperor",
+        "By a great popular revolution",
+        "By France's military defeat against Prussia",
+        "By the natural death of Napoleon III"
+      ],
+      "explanationEn": "The regime collapsed on September 4, 1870, after the French army was defeated by Prussia."
     },
     {
       "id": "hgc-q37",
@@ -441,7 +725,15 @@
         "Le droit à la sécurité sociale"
       ],
       "correctAnswer": 1,
-      "explanation": "En 1864, le Second Empire autorise partiellement le droit de grève, permettant aux ouvriers d'arrêter le travail pour revendiquer des droits."
+      "explanation": "En 1864, le Second Empire autorise partiellement le droit de grève, permettant aux ouvriers d'arrêter le travail pour revendiquer des droits.",
+      "questionEn": "What important right was partially allowed in 1864?",
+      "optionsEn": [
+        "Women's right to vote",
+        "The right to strike",
+        "The right to paid holidays",
+        "The right to social security"
+      ],
+      "explanationEn": "In 1864, the Second Empire partially allowed the right to strike, letting workers stop work to demand their rights."
     },
     {
       "id": "hgc-q38",
@@ -453,7 +745,15 @@
         "Il n'y a aucune élection pendant cette période"
       ],
       "correctAnswer": 0,
-      "explanation": "Le suffrage universel masculin existe toujours, mais le pouvoir surveille et encadre les élections pour s'assurer de gagner."
+      "explanation": "Le suffrage universel masculin existe toujours, mais le pouvoir surveille et encadre les élections pour s'assurer de gagner.",
+      "questionEn": "What was special about elections during the Second Empire?",
+      "optionsEn": [
+        "Universal male suffrage was kept but elections were controlled",
+        "Only the rich had the right to vote",
+        "Women gained the right to vote",
+        "There were no elections during this period"
+      ],
+      "explanationEn": "Universal male suffrage still existed, but the government watched over and controlled elections to make sure it would win."
     },
     {
       "id": "hgc-q39",
@@ -465,7 +765,15 @@
         "2017"
       ],
       "correctAnswer": 2,
-      "explanation": "La peine de mort a été totalement abolie en France en 1981, sous la présidence de François Mitterrand."
+      "explanation": "La peine de mort a été totalement abolie en France en 1981, sous la présidence de François Mitterrand.",
+      "questionEn": "In what year was the death penalty fully abolished in France?",
+      "optionsEn": [
+        "1789",
+        "1848",
+        "1981",
+        "2017"
+      ],
+      "explanationEn": "The death penalty was fully abolished in France in 1981, under President François Mitterrand."
     },
     {
       "id": "hgc-q40",
@@ -477,7 +785,15 @@
         "Charles de Gaulle"
       ],
       "correctAnswer": 0,
-      "explanation": "C'est Robert Badinter, alors ministre de la Justice, qui a soutenu et défendu l'abolition totale de la peine de mort."
+      "explanation": "C'est Robert Badinter, alors ministre de la Justice, qui a soutenu et défendu l'abolition totale de la peine de mort.",
+      "questionEn": "Which Minister of Justice supported the law to abolish the death penalty?",
+      "optionsEn": [
+        "Robert Badinter",
+        "Victor Hugo",
+        "François Mitterrand",
+        "Charles de Gaulle"
+      ],
+      "explanationEn": "It was Robert Badinter, then Minister of Justice, who supported and defended the total abolition of the death penalty."
     },
     {
       "id": "hgc-q41",
@@ -489,7 +805,15 @@
         "La peine de mort est remplacée par l'exil."
       ],
       "correctAnswer": 1,
-      "explanation": "Depuis la loi constitutionnelle de 2007, la Constitution affirme clairement que personne ne peut être condamné à mort en France."
+      "explanation": "Depuis la loi constitutionnelle de 2007, la Constitution affirme clairement que personne ne peut être condamné à mort en France.",
+      "questionEn": "What does Article 66-1 of the French Constitution say about the death penalty?",
+      "optionsEn": [
+        "The death penalty is allowed for very serious crimes.",
+        "No one may be sentenced to death.",
+        "The death penalty is decided by the President.",
+        "The death penalty is replaced by exile."
+      ],
+      "explanationEn": "Since the 2007 constitutional law, the Constitution clearly states that no one can be sentenced to death in France."
     },
     {
       "id": "hgc-q42",
@@ -501,7 +825,15 @@
         "Uniquement les femmes qui ont déjà des enfants"
       ],
       "correctAnswer": 2,
-      "explanation": "Chaque femme peut avoir recours à l'IVG, qu'elle soit majeure ou mineure. Les mineures n'ont pas besoin de l'autorisation de leurs parents."
+      "explanation": "Chaque femme peut avoir recours à l'IVG, qu'elle soit majeure ou mineure. Les mineures n'ont pas besoin de l'autorisation de leurs parents.",
+      "questionEn": "Who has the right to have an abortion (IVG) in France?",
+      "optionsEn": [
+        "Only women over 18 years old",
+        "Only married women",
+        "All women, with no age condition",
+        "Only women who already have children"
+      ],
+      "explanationEn": "Every woman can have an abortion, whether she is an adult or a minor. Minors do not need their parents' permission."
     },
     {
       "id": "hgc-q43",
@@ -513,7 +845,15 @@
         "La loi Parlementaire"
       ],
       "correctAnswer": 0,
-      "explanation": "C'est la loi présentée par Simone Veil le 17 janvier 1975 qui a dépénalisé l'avortement en France."
+      "explanation": "C'est la loi présentée par Simone Veil le 17 janvier 1975 qui a dépénalisé l'avortement en France.",
+      "questionEn": "Which law made abortion legal (not punished by law) in France in 1975?",
+      "optionsEn": [
+        "The Veil Law",
+        "The Social Security Law",
+        "The Constitutional Law",
+        "The Parliamentary Law"
+      ],
+      "explanationEn": "It was the law presented by Simone Veil on January 17, 1975, that decriminalized abortion in France."
     },
     {
       "id": "hgc-q44",
@@ -525,7 +865,15 @@
         "Le prix dépend de l'âge de la femme"
       ],
       "correctAnswer": 2,
-      "explanation": "L'État assure un accompagnement financier : l'avortement est pris en charge à 100% par la Sécurité sociale."
+      "explanation": "L'État assure un accompagnement financier : l'avortement est pris en charge à 100% par la Sécurité sociale.",
+      "questionEn": "How much does an abortion cost for a woman in France?",
+      "optionsEn": [
+        "It is very expensive and not reimbursed",
+        "It is covered at 50% by the State",
+        "It is free because it is 100% covered by Social Security",
+        "The price depends on the woman's age"
+      ],
+      "explanationEn": "The State provides financial support: abortion is 100% covered by Social Security."
     },
     {
       "id": "hgc-q45",
@@ -537,7 +885,15 @@
         "L'IVG est réservée aux personnes majeures"
       ],
       "correctAnswer": 1,
-      "explanation": "Le 4 mars 2024, la France est devenue le premier pays au monde à inscrire la liberté de recourir à l'IVG dans sa Constitution."
+      "explanation": "Le 4 mars 2024, la France est devenue le premier pays au monde à inscrire la liberté de recourir à l'IVG dans sa Constitution.",
+      "questionEn": "What important decision was made on March 4, 2024, about abortion (IVG)?",
+      "optionsEn": [
+        "Abortion was banned",
+        "The right to abortion was written into the French Constitution",
+        "Abortion became paid",
+        "Abortion is now only for adults"
+      ],
+      "explanationEn": "On March 4, 2024, France became the first country in the world to include the freedom to have an abortion in its Constitution."
     },
     {
       "id": "hgc-q46",
@@ -549,7 +905,15 @@
         "Aucune forme d'union n'était possible"
       ],
       "correctAnswer": 1,
-      "explanation": "Avant la loi de 2013, les couples de même sexe pouvaient seulement conclure un PACS, qui offre moins de droits que le mariage."
+      "explanation": "Avant la loi de 2013, les couples de même sexe pouvaient seulement conclure un PACS, qui offre moins de droits que le mariage.",
+      "questionEn": "Before 2013, what type of union was available to same-sex couples in France?",
+      "optionsEn": [
+        "Civil marriage",
+        "The PACS (Civil Solidarity Pact)",
+        "Religious marriage only",
+        "No form of union was possible"
+      ],
+      "explanationEn": "Before the 2013 law, same-sex couples could only enter a PACS, which offers fewer rights than marriage."
     },
     {
       "id": "hgc-q47",
@@ -561,7 +925,15 @@
         "Elle interdit les manifestations contre le mariage"
       ],
       "correctAnswer": 1,
-      "explanation": "Cette loi du 17 mai 2013 permet aux couples homosexuels de se marier civilement et d'adopter des enfants."
+      "explanation": "Cette loi du 17 mai 2013 permet aux couples homosexuels de se marier civilement et d'adopter des enfants.",
+      "questionEn": "What does the law of May 17, 2013, known as the 'marriage for all' law, allow?",
+      "optionsEn": [
+        "It only allows religious marriage for all",
+        "It opens marriage and adoption to same-sex couples",
+        "It creates the PACS to replace marriage",
+        "It bans protests against marriage"
+      ],
+      "explanationEn": "This law of May 17, 2013, allows same-sex couples to get married civilly and to adopt children."
     },
     {
       "id": "hgc-q48",
@@ -573,7 +945,15 @@
         "Rachida Dati"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est Christiane Taubira, alors ministre de la Justice, qui a porté et soutenu ce projet de loi."
+      "explanation": "C'est Christiane Taubira, alors ministre de la Justice, qui a porté et soutenu ce projet de loi.",
+      "questionEn": "Which Minister of Justice supported the 'marriage for all' law?",
+      "optionsEn": [
+        "Simone Veil",
+        "Christiane Taubira",
+        "Édith Cresson",
+        "Rachida Dati"
+      ],
+      "explanationEn": "It was Christiane Taubira, then Minister of Justice, who supported this bill."
     },
     {
       "id": "hgc-q49",
@@ -585,7 +965,15 @@
         "Emmanuel Macron"
       ],
       "correctAnswer": 0,
-      "explanation": "Charles de Gaulle a fondé la Vème République en 1958 et en a été le premier président."
+      "explanation": "Charles de Gaulle a fondé la Vème République en 1958 et en a été le premier président.",
+      "questionEn": "Who is the founder of the Fifth French Republic?",
+      "optionsEn": [
+        "Charles de Gaulle",
+        "François Mitterrand",
+        "Jacques Chirac",
+        "Emmanuel Macron"
+      ],
+      "explanationEn": "Charles de Gaulle founded the Fifth Republic in 1958 and was its first president."
     },
     {
       "id": "hgc-q50",
@@ -597,7 +985,15 @@
         "La fin de la guerre d'Algérie"
       ],
       "correctAnswer": 1,
-      "explanation": "Valéry Giscard d’Estaing a abaissé l'âge de la majorité civile et électorale à 18 ans (elle était à 21 ans auparavant)."
+      "explanation": "Valéry Giscard d’Estaing a abaissé l'âge de la majorité civile et électorale à 18 ans (elle était à 21 ans auparavant).",
+      "questionEn": "What important reform was carried out under President Valéry Giscard d'Estaing?",
+      "optionsEn": [
+        "The abolition of the death penalty",
+        "Lowering the age of majority to 18",
+        "Marriage for all",
+        "The end of the Algerian War"
+      ],
+      "explanationEn": "Valéry Giscard d'Estaing lowered the age of civil and electoral majority to 18 (it was 21 before)."
     },
     {
       "id": "hgc-q51",
@@ -608,7 +1004,14 @@
         "François Mitterrand"
       ],
       "correctAnswer": 2,
-      "explanation": "L'abolition de la peine de mort est une mesure historique prise par François Mitterrand en 1981."
+      "explanation": "L'abolition de la peine de mort est une mesure historique prise par François Mitterrand en 1981.",
+      "questionEn": "Which president abolished the death penalty in France?",
+      "optionsEn": [
+        "Georges Pompidou",
+        "Nicolas Sarkozy",
+        "François Mitterrand"
+      ],
+      "explanationEn": "The abolition of the death penalty was a historic measure taken by François Mitterrand in 1981."
     },
     {
       "id": "hgc-q52",
@@ -619,7 +1022,14 @@
         "Nicolas Sarkozy"
       ],
       "correctAnswer": 0,
-      "explanation": "C'est sous Jacques Chirac que la durée du mandat du président a été réduite à 5 ans."
+      "explanation": "C'est sous Jacques Chirac que la durée du mandat du président a été réduite à 5 ans.",
+      "questionEn": "Under which president was the presidential term changed from 7 years to 5 years (the quinquennat)?",
+      "optionsEn": [
+        "Jacques Chirac",
+        "François Hollande",
+        "Nicolas Sarkozy"
+      ],
+      "explanationEn": "It was under Jacques Chirac that the president's term was reduced to 5 years."
     },
     {
       "id": "hgc-q53",
@@ -631,7 +1041,15 @@
         "La révolution russe"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est l'assassinat de l'archiduc François-Ferdinand, héritier de l'empire d'Autriche-Hongrie, le 28 juin 1914, qui a provoqué le début du conflit."
+      "explanation": "C'est l'assassinat de l'archiduc François-Ferdinand, héritier de l'empire d'Autriche-Hongrie, le 28 juin 1914, qui a provoqué le début du conflit.",
+      "questionEn": "What event triggered the start of World War I in 1914?",
+      "optionsEn": [
+        "The United States entering the war",
+        "The signing of the Treaty of Versailles",
+        "The assassination of Archduke Franz Ferdinand in Sarajevo",
+        "The Russian Revolution"
+      ],
+      "explanationEn": "It was the assassination of Archduke Franz Ferdinand, heir to the Austro-Hungarian Empire, on June 28, 1914, that triggered the conflict."
     },
     {
       "id": "hgc-q54",
@@ -643,7 +1061,15 @@
         "Le Royaume-Uni et l'Italie uniquement"
       ],
       "correctAnswer": 0,
-      "explanation": "La Triple Entente était l'alliance formée par la France, le Royaume-Uni et la Russie face à la Triple Alliance (Allemagne, Autriche-Hongrie, Italie)."
+      "explanation": "La Triple Entente était l'alliance formée par la France, le Royaume-Uni et la Russie face à la Triple Alliance (Allemagne, Autriche-Hongrie, Italie).",
+      "questionEn": "Which countries were part of the 'Triple Entente' at the start of the war?",
+      "optionsEn": [
+        "France, the United Kingdom, and Russia",
+        "Germany, Austria-Hungary, and Italy",
+        "France, Germany, and the United States",
+        "The United Kingdom and Italy only"
+      ],
+      "explanationEn": "The Triple Entente was the alliance of France, the United Kingdom, and Russia, against the Triple Alliance (Germany, Austria-Hungary, Italy)."
     },
     {
       "id": "hgc-q55",
@@ -655,7 +1081,15 @@
         "La guerre éclair"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est la guerre de tranchées (ou guerre de position). C'était une période longue et très difficile pour les soldats, surnommés les \"Poilus\"."
+      "explanation": "C'est la guerre de tranchées (ou guerre de position). C'était une période longue et très difficile pour les soldats, surnommés les \"Poilus\".",
+      "questionEn": "What is the name of the phase of the war when soldiers dug in to protect themselves (November 1914 to March 1918)?",
+      "optionsEn": [
+        "War of movement",
+        "Trench warfare",
+        "Cold War",
+        "Blitzkrieg"
+      ],
+      "explanationEn": "It was trench warfare (or positional warfare). It was a long and very difficult period for the soldiers, nicknamed the 'Poilus'."
     },
     {
       "id": "hgc-q56",
@@ -667,7 +1101,15 @@
         "Le 8 mai 1945"
       ],
       "correctAnswer": 1,
-      "explanation": "L'Armistice est signé le 11 novembre 1918. C'est un accord qui arrête les combats entre les pays en guerre."
+      "explanation": "L'Armistice est signé le 11 novembre 1918. C'est un accord qui arrête les combats entre les pays en guerre.",
+      "questionEn": "What date marks the signing of the Armistice and the end of fighting?",
+      "optionsEn": [
+        "June 28, 1914",
+        "November 11, 1918",
+        "July 14, 1789",
+        "May 8, 1945"
+      ],
+      "explanationEn": "The Armistice was signed on November 11, 1918. It is an agreement that stopped the fighting between the countries at war."
     },
     {
       "id": "hgc-q57",
@@ -679,7 +1121,15 @@
         "Parce qu'elle s'est déroulée uniquement en France"
       ],
       "correctAnswer": 0,
-      "explanation": "Une guerre totale signifie que toute la société participe à l'effort de guerre, pas seulement les soldats, mais aussi l'économie et la propagande."
+      "explanation": "Une guerre totale signifie que toute la société participe à l'effort de guerre, pas seulement les soldats, mais aussi l'économie et la propagande.",
+      "questionEn": "Why is World War I called a 'total' war?",
+      "optionsEn": [
+        "Because it mobilized all of society, the economy, and culture",
+        "Because it lasted a total of 10 years",
+        "Because all countries in the world were forced to fight",
+        "Because it took place only in France"
+      ],
+      "explanationEn": "A total war means that all of society takes part in the war effort, not just soldiers, but also the economy and propaganda."
     },
     {
       "id": "hgc-q58",
@@ -691,7 +1141,15 @@
         "50 millions de morts"
       ],
       "correctAnswer": 1,
-      "explanation": "La guerre a été très meurtrière avec plus de 10 millions de morts (dont 9 millions de soldats) et de nombreux blessés et traumatisés."
+      "explanation": "La guerre a été très meurtrière avec plus de 10 millions de morts (dont 9 millions de soldats) et de nombreux blessés et traumatisés.",
+      "questionEn": "What was the human cost of World War I?",
+      "optionsEn": [
+        "About 1 million dead",
+        "More than 10 million dead and millions wounded",
+        "No deaths, only wounded",
+        "50 million dead"
+      ],
+      "explanationEn": "The war was very deadly with more than 10 million dead (including 9 million soldiers) and many wounded and traumatized people."
     },
     {
       "id": "hgc-q59",
@@ -703,7 +1161,15 @@
         "L'OTAN"
       ],
       "correctAnswer": 2,
-      "explanation": "Le traité de Versailles a fondé la Société des Nations, dont le but était de maintenir la paix dans le monde après la guerre."
+      "explanation": "Le traité de Versailles a fondé la Société des Nations, dont le but était de maintenir la paix dans le monde après la guerre.",
+      "questionEn": "What organization was created by the Treaty of Versailles to maintain peace?",
+      "optionsEn": [
+        "The United Nations (UN)",
+        "The European Union",
+        "The League of Nations",
+        "NATO"
+      ],
+      "explanationEn": "The Treaty of Versailles founded the League of Nations, whose goal was to maintain world peace after the war."
     },
     {
       "id": "hgc-q60",
@@ -715,7 +1181,15 @@
         "L'Allemagne est devenue la première puissance mondiale"
       ],
       "correctAnswer": 2,
-      "explanation": "Le traité de Versailles a rendu l'Allemagne responsable du conflit. Elle a perdu des territoires et a dû payer de lourdes sommes d'argent."
+      "explanation": "Le traité de Versailles a rendu l'Allemagne responsable du conflit. Elle a perdu des territoires et a dû payer de lourdes sommes d'argent.",
+      "questionEn": "What consequence did the Treaty of Versailles have for Germany?",
+      "optionsEn": [
+        "Germany gained new territories",
+        "Germany was thanked for its help",
+        "Germany was held responsible and had to pay reparations",
+        "Germany became the world's first power"
+      ],
+      "explanationEn": "The Treaty of Versailles held Germany responsible for the conflict. It lost territories and had to pay large sums of money."
     },
     {
       "id": "hgc-q61",
@@ -727,7 +1201,15 @@
         "La signature du Traité de Versailles"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est l'invasion de la Pologne par l'armée allemande le 1er septembre 1939 qui marque le début officiel du conflit."
+      "explanation": "C'est l'invasion de la Pologne par l'armée allemande le 1er septembre 1939 qui marque le début officiel du conflit.",
+      "questionEn": "What event triggered World War II on September 1, 1939?",
+      "optionsEn": [
+        "Japan's attack on Pearl Harbor",
+        "The invasion of Poland by Germany",
+        "The Allied landing in Normandy",
+        "The signing of the Treaty of Versailles"
+      ],
+      "explanationEn": "It was the invasion of Poland by the German army on September 1, 1939, that officially started the conflict."
     },
     {
       "id": "hgc-q62",
@@ -739,7 +1221,15 @@
         "Une alliance militaire entre la France et le Royaume-Uni"
       ],
       "correctAnswer": 0,
-      "explanation": "Les régimes totalitaires (comme en Allemagne, Italie et URSS) sont des dictatures qui contrôlent l'ensemble de la société avec un parti unique et la terreur."
+      "explanation": "Les régimes totalitaires (comme en Allemagne, Italie et URSS) sont des dictatures qui contrôlent l'ensemble de la société avec un parti unique et la terreur.",
+      "questionEn": "What is a totalitarian regime, like those that appeared in Europe before the war?",
+      "optionsEn": [
+        "A dictatorship that controls all of society through terror and propaganda",
+        "A democracy where people vote for their representatives",
+        "An economic system based only on agriculture",
+        "A military alliance between France and the United Kingdom"
+      ],
+      "explanationEn": "Totalitarian regimes (like in Germany, Italy, and the USSR) are dictatorships that control all of society with a single party and terror."
     },
     {
       "id": "hgc-q63",
@@ -751,7 +1241,15 @@
         "Le 8 mai 1945"
       ],
       "correctAnswer": 3,
-      "explanation": "Le 8 mai 1945 correspond à la capitulation de l'Allemagne nazie. C'est un jour férié en France."
+      "explanation": "Le 8 mai 1945 correspond à la capitulation de l'Allemagne nazie. C'est un jour férié en France.",
+      "questionEn": "What date marks the surrender of Nazi Germany and the Allied victory in Europe?",
+      "optionsEn": [
+        "July 14, 1789",
+        "November 11, 1918",
+        "June 6, 1944",
+        "May 8, 1945"
+      ],
+      "explanationEn": "May 8, 1945, is the date of Nazi Germany's surrender. It is a public holiday in France."
     },
     {
       "id": "hgc-q64",
@@ -763,7 +1261,15 @@
         "Les bombardements atomiques sur le Japon"
       ],
       "correctAnswer": 1,
-      "explanation": "Le 6 juin 1944 est la date du débarquement des forces alliées sur les plages de Normandie pour libérer la France."
+      "explanation": "Le 6 juin 1944 est la date du débarquement des forces alliées sur les plages de Normandie pour libérer la France.",
+      "questionEn": "What major event took place on June 6, 1944?",
+      "optionsEn": [
+        "The armistice between France and Germany",
+        "The Allied landing in Normandy",
+        "The Battle of Stalingrad",
+        "The atomic bombings of Japan"
+      ],
+      "explanationEn": "June 6, 1944, is the date of the Allied forces' landing on the beaches of Normandy to liberate France."
     },
     {
       "id": "hgc-q65",
@@ -774,7 +1280,14 @@
         "Parce qu'elle s'est déroulée uniquement en Europe"
       ],
       "correctAnswer": 0,
-      "explanation": "C'est une guerre totale car elle ne concerne pas seulement les soldats, mais engage toute la population, l'économie et la propagande des pays impliqués."
+      "explanation": "C'est une guerre totale car elle ne concerne pas seulement les soldats, mais engage toute la population, l'économie et la propagande des pays impliqués.",
+      "questionEn": "Why is World War II called a 'total' war?",
+      "optionsEn": [
+        "Because it mobilized all of society, the economy, and culture",
+        "Because it lasted a very long time",
+        "Because it took place only in Europe"
+      ],
+      "explanationEn": "It is a total war because it involved not only soldiers but also the entire population, economy, and propaganda of the countries involved."
     },
     {
       "id": "hgc-q66",
@@ -786,7 +1299,15 @@
         "Moins de 100 000 morts"
       ],
       "correctAnswer": 1,
-      "explanation": "La guerre a été extrêmement meurtrière, causant la mort de plus de 60 millions de personnes, aussi bien des soldats que des civils."
+      "explanation": "La guerre a été extrêmement meurtrière, causant la mort de plus de 60 millions de personnes, aussi bien des soldats que des civils.",
+      "questionEn": "What is the approximate human cost of World War II?",
+      "optionsEn": [
+        "About 1 million dead",
+        "More than 60 million dead",
+        "About 10 million dead",
+        "Less than 100,000 dead"
+      ],
+      "explanationEn": "The war was extremely deadly, causing more than 60 million deaths, both soldiers and civilians."
     },
     {
       "id": "hgc-q67",
@@ -798,7 +1319,15 @@
         "La Croix-Rouge"
       ],
       "correctAnswer": 1,
-      "explanation": "L'ONU a été fondée en 1945 juste après la guerre avec pour objectif principal de maintenir la paix et la sécurité internationales."
+      "explanation": "L'ONU a été fondée en 1945 juste après la guerre avec pour objectif principal de maintenir la paix et la sécurité internationales.",
+      "questionEn": "What international organization was created in 1945 to maintain peace after the war?",
+      "optionsEn": [
+        "The European Union (EU)",
+        "The United Nations (UN)",
+        "The North Atlantic Treaty Organization (NATO)",
+        "The Red Cross"
+      ],
+      "explanationEn": "The UN was founded in 1945 right after the war, with the main goal of maintaining international peace and security."
     },
     {
       "id": "hgc-q68",
@@ -809,7 +1338,14 @@
         "Il a servi à élire le nouveau président américain"
       ],
       "correctAnswer": 0,
-      "explanation": "Le procès de Nuremberg est un événement historique majeur où les dirigeants du régime nazi ont été jugés pour leurs crimes de guerre et crimes contre l'humanité."
+      "explanation": "Le procès de Nuremberg est un événement historique majeur où les dirigeants du régime nazi ont été jugés pour leurs crimes de guerre et crimes contre l'humanité.",
+      "questionEn": "What characterizes the Nuremberg trials (1945-1946)?",
+      "optionsEn": [
+        "They judged Nazi leaders for their crimes",
+        "They decided on the reconstruction of France",
+        "They served to elect the new American president"
+      ],
+      "explanationEn": "The Nuremberg trials were a major historical event where leaders of the Nazi regime were judged for war crimes and crimes against humanity."
     },
     {
       "id": "hgc-q69",
@@ -821,7 +1357,15 @@
         "Parce que l'ONU a interdit le commerce avec les colonies."
       ],
       "correctAnswer": 0,
-      "explanation": "Après la guerre, des pays comme la France sont affaiblis. De plus, les promesses de droits et de réformes faites aux habitants des colonies n'ont pas été respectées, ce qui a provoqué leur colère."
+      "explanation": "Après la guerre, des pays comme la France sont affaiblis. De plus, les promesses de droits et de réformes faites aux habitants des colonies n'ont pas été respectées, ce qui a provoqué leur colère.",
+      "questionEn": "Why did colonies want independence after World War II?",
+      "optionsEn": [
+        "Because the European colonial powers were weakened and had not kept their promises.",
+        "Because the colonies wanted to join the European Union.",
+        "Because the United States forced France to sell its colonies.",
+        "Because the UN banned trade with colonies."
+      ],
+      "explanationEn": "After the war, countries like France were weakened. Also, promises of rights and reforms made to people in the colonies were not kept, which caused anger."
     },
     {
       "id": "hgc-q70",
@@ -833,7 +1377,15 @@
         "Elle finance la construction de nouvelles colonies."
       ],
       "correctAnswer": 1,
-      "explanation": "Créée en 1945, l'ONU soutient les mouvements d'indépendance en affirmant que chaque peuple a le droit de choisir son propre gouvernement (droit des peuples à disposer d'eux-mêmes)."
+      "explanation": "Créée en 1945, l'ONU soutient les mouvements d'indépendance en affirmant que chaque peuple a le droit de choisir son propre gouvernement (droit des peuples à disposer d'eux-mêmes).",
+      "questionEn": "What role does the UN play in decolonization?",
+      "optionsEn": [
+        "It sends soldiers to help colonial powers.",
+        "It defends the right of peoples to self-determination.",
+        "It stays neutral and gives no opinion.",
+        "It funds the building of new colonies."
+      ],
+      "explanationEn": "Created in 1945, the UN supports independence movements by affirming that every people has the right to choose its own government (right to self-determination)."
     },
     {
       "id": "hgc-q71",
@@ -845,7 +1397,15 @@
         "Grâce à l'intervention directe de l'armée américaine."
       ],
       "correctAnswer": 1,
-      "explanation": "L'indépendance de l'Algérie a été obtenue de manière violente après une guerre qui a duré 8 ans, de 1954 à 1962, opposant la France au Front de libération nationale."
+      "explanation": "L'indépendance de l'Algérie a été obtenue de manière violente après une guerre qui a duré 8 ans, de 1954 à 1962, opposant la France au Front de libération nationale.",
+      "questionEn": "How did Algeria become independent?",
+      "optionsEn": [
+        "Peacefully, after simple negotiations.",
+        "After a violent war against France (1954-1962).",
+        "In 1946, right after World War II.",
+        "Thanks to direct intervention by the American army."
+      ],
+      "explanationEn": "Algeria's independence was won violently after a war that lasted 8 years, from 1954 to 1962, opposing France and the National Liberation Front."
     },
     {
       "id": "hgc-q72",
@@ -857,7 +1417,15 @@
         "L'ONU a été créée cette année-là."
       ],
       "correctAnswer": 2,
-      "explanation": "L'année 1960 est une date clé car elle marque l'indépendance, obtenue pacifiquement par la négociation, de la plupart des colonies françaises d'Afrique subsaharienne et de Madagascar."
+      "explanation": "L'année 1960 est une date clé car elle marque l'indépendance, obtenue pacifiquement par la négociation, de la plupart des colonies françaises d'Afrique subsaharienne et de Madagascar.",
+      "questionEn": "What happened in 1960 for the French colonies?",
+      "optionsEn": [
+        "The Indochina War began.",
+        "France decided to keep all its colonies.",
+        "Sub-Saharan French Africa and Madagascar gained independence.",
+        "The UN was created that year."
+      ],
+      "explanationEn": "The year 1960 is a key date because it marks the independence, obtained peacefully through negotiation, of most French colonies in sub-Saharan Africa and Madagascar."
     },
     {
       "id": "hgc-q73",
@@ -869,7 +1437,15 @@
         "Supprimer les frontières de tous les pays du monde"
       ],
       "correctAnswer": 1,
-      "explanation": "L'idée d'une union est née après la guerre pour empêcher de nouveaux conflits entre les pays européens."
+      "explanation": "L'idée d'une union est née après la guerre pour empêcher de nouveaux conflits entre les pays européens.",
+      "questionEn": "What was the main goal of creating the European Union after World War II?",
+      "optionsEn": [
+        "To create a single army to conquer other countries",
+        "To avoid a new conflict and maintain peace on the continent",
+        "To impose the French language on all neighboring countries",
+        "To remove the borders of all countries in the world"
+      ],
+      "explanationEn": "The idea of a union was born after the war to prevent new conflicts between European countries."
     },
     {
       "id": "hgc-q74",
@@ -881,7 +1457,15 @@
         "Le traité de Berlin"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est le traité de Maastricht, signé en 1992, qui a créé l'Union Européenne (UE) et la citoyenneté européenne."
+      "explanation": "C'est le traité de Maastricht, signé en 1992, qui a créé l'Union Européenne (UE) et la citoyenneté européenne.",
+      "questionEn": "What treaty transformed the EEC into the European Union and created European citizenship in 1992?",
+      "optionsEn": [
+        "The Treaty of Rome",
+        "The Treaty of Paris",
+        "The Treaty of Maastricht",
+        "The Treaty of Berlin"
+      ],
+      "explanationEn": "It was the Treaty of Maastricht, signed in 1992, that created the European Union (EU) and European citizenship."
     },
     {
       "id": "hgc-q75",
@@ -893,7 +1477,15 @@
         "C'est le pays le plus riche qui impose sa loi"
       ],
       "correctAnswer": 2,
-      "explanation": "Le fonctionnement de l'UE repose sur la discussion et l'accord entre les États membres pour trouver un équilibre entre les intérêts de chacun."
+      "explanation": "Le fonctionnement de l'UE repose sur la discussion et l'accord entre les États membres pour trouver un équilibre entre les intérêts de chacun.",
+      "questionEn": "How are decisions made within the European Union?",
+      "optionsEn": [
+        "The president of France decides alone for everyone",
+        "Decisions are made very quickly without discussion",
+        "They must be considered and approved by the member states",
+        "The richest country imposes its law"
+      ],
+      "explanationEn": "The EU works through discussion and agreement between member states to find a balance between everyone's interests."
     },
     {
       "id": "hgc-q76",
@@ -905,7 +1497,15 @@
         "Le Royaume-Uni a signé le traité de Rome"
       ],
       "correctAnswer": 1,
-      "explanation": "Le 31 janvier 2020 marque le Brexit, c'est-à-dire la sortie officielle du Royaume-Uni de l'Union européenne."
+      "explanation": "Le 31 janvier 2020 marque le Brexit, c'est-à-dire la sortie officielle du Royaume-Uni de l'Union européenne.",
+      "questionEn": "What important event happened on January 31, 2020, regarding the United Kingdom?",
+      "optionsEn": [
+        "The United Kingdom adopted the euro as its currency",
+        "The United Kingdom left the European Union (Brexit)",
+        "The United Kingdom joined the European Union for the first time",
+        "The United Kingdom signed the Treaty of Rome"
+      ],
+      "explanationEn": "January 31, 2020, marks Brexit, the official departure of the United Kingdom from the European Union."
     },
     {
       "id": "hgc-q77",
@@ -917,7 +1517,15 @@
         "Moins de 5% des Français"
       ],
       "correctAnswer": 1,
-      "explanation": "Le texte indique qu'aujourd'hui, près d'un tiers (1/3) des Français est immigré, enfant ou petit-enfant d'immigré."
+      "explanation": "Le texte indique qu'aujourd'hui, près d'un tiers (1/3) des Français est immigré, enfant ou petit-enfant d'immigré.",
+      "questionEn": "What proportion of the French population today is an immigrant, child, or grandchild of an immigrant?",
+      "optionsEn": [
+        "About 1/10 of French people",
+        "Nearly 1/3 of French people",
+        "More than half of French people",
+        "Less than 5% of French people"
+      ],
+      "explanationEn": "Today, nearly one third (1/3) of French people is an immigrant, child, or grandchild of an immigrant."
     },
     {
       "id": "hgc-q78",
@@ -929,7 +1537,15 @@
         "Pour développer le tourisme"
       ],
       "correctAnswer": 0,
-      "explanation": "Après 1945, la France souhaitait se reconstruire et a signé des accords avec plusieurs pays pour faire venir de la main-d'œuvre."
+      "explanation": "Après 1945, la France souhaitait se reconstruire et a signé des accords avec plusieurs pays pour faire venir de la main-d'œuvre.",
+      "questionEn": "Why did France bring in foreign workers after 1945?",
+      "optionsEn": [
+        "To rebuild the country after World War II",
+        "To increase the rural population",
+        "To prepare for World War I",
+        "To develop tourism"
+      ],
+      "explanationEn": "After 1945, France wanted to rebuild and signed agreements with several countries to bring in workers."
     },
     {
       "id": "hgc-q79",
@@ -941,7 +1557,15 @@
         "La signature d'accords avec l'Espagne et le Portugal"
       ],
       "correctAnswer": 2,
-      "explanation": "En 1974, la France a décidé de suspendre l'immigration liée au travail, marquant un tournant dans sa politique migratoire."
+      "explanation": "En 1974, la France a décidé de suspendre l'immigration liée au travail, marquant un tournant dans sa politique migratoire.",
+      "questionEn": "What important change regarding immigration took place in 1974?",
+      "optionsEn": [
+        "The creation of the National Immigration Office (ONI)",
+        "The opening of the National Museum of Immigration",
+        "The suspension of work-related immigration",
+        "The signing of agreements with Spain and Portugal"
+      ],
+      "explanationEn": "In 1974, France decided to suspend work-related immigration, marking a turning point in its migration policy."
     },
     {
       "id": "hgc-q80",
@@ -952,7 +1576,15 @@
         "Un accord de paix signé en 1942"
       ],
       "correctAnswer": 0,
-      "explanation": "La Shoah désigne l'extermination systématique d'environ 6 millions de Juifs par le régime nazi et ses collaborateurs."
+      "explanation": "La Shoah désigne l'extermination systématique d'environ 6 millions de Juifs par le régime nazi et ses collaborateurs.",
+      "questionEn": "What is the Shoah (Holocaust)?",
+      "optionsEn": [
+        "An important battle in the Pacific",
+        "The code name for the Normandy landing",
+        "The genocide organized by the Nazis against Jews and other populations",
+        "A peace treaty signed between France and Germany"
+      ],
+      "explanationEn": "The Shoah (Holocaust) refers to the systematic extermination (genocide) of more than 6 million Jews and other populations deemed 'undesirable' by the Nazi regime."
     },
     {
       "id": "hgc-q81",
@@ -963,7 +1595,14 @@
         "Il est resté totalement neutre pendant la guerre"
       ],
       "correctAnswer": 1,
-      "explanation": "Le régime de Vichy a collaboré avec l'Allemagne, a voté des lois antisémites et la police française a aidé à arrêter les Juifs (comme lors de la rafle du Vel d'Hiv)."
+      "explanation": "Le régime de Vichy a collaboré avec l'Allemagne, a voté des lois antisémites et la police française a aidé à arrêter les Juifs (comme lors de la rafle du Vel d'Hiv).",
+      "questionEn": "What was the attitude of the Vichy regime led by Marshal Pétain?",
+      "optionsEn": [
+        "It protected all people in France from the Nazis",
+        "It collaborated with Germany and participated in the deportation of Jews",
+        "It remained completely neutral during the war"
+      ],
+      "explanationEn": "The Vichy regime collaborated with Germany, passed antisemitic laws, and the French police helped arrest Jews (as during the Vel d'Hiv roundup)."
     },
     {
       "id": "hgc-q82",
@@ -974,7 +1613,14 @@
         "Pour oublier ce moment douloureux de l'histoire"
       ],
       "correctAnswer": 1,
-      "explanation": "On étudie la Shoah pour respecter le devoir de mémoire et comprendre jusqu'où peuvent mener la haine et le rejet de l'autre."
+      "explanation": "On étudie la Shoah pour respecter le devoir de mémoire et comprendre jusqu'où peuvent mener la haine et le rejet de l'autre.",
+      "questionEn": "Why do we study the Shoah (Holocaust) today?",
+      "optionsEn": [
+        "To learn military strategy",
+        "To understand the consequences of racism and antisemitism",
+        "To forget this painful moment in history"
+      ],
+      "explanationEn": "We study the Shoah to respect the duty of remembrance and understand how far hatred and rejection of others can lead."
     },
     {
       "id": "hgc-q83",
@@ -985,7 +1631,14 @@
         "La France est immédiatement libérée par les Alliés"
       ],
       "correctAnswer": 1,
-      "explanation": "Après la défaite, le pays est coupé en deux. Le nord est occupé par l'Allemagne et le sud est dirigé par le maréchal Pétain (régime de Vichy)."
+      "explanation": "Après la défaite, le pays est coupé en deux. Le nord est occupé par l'Allemagne et le sud est dirigé par le maréchal Pétain (régime de Vichy).",
+      "questionEn": "What was France's situation after the defeat of June 1940?",
+      "optionsEn": [
+        "All of France remained free and continued fighting",
+        "France was divided in two: a zone occupied by Germany and a free zone led by the Vichy regime",
+        "France was immediately liberated by the Allies"
+      ],
+      "explanationEn": "After the defeat, the country was split in two. The north was occupied by Germany and the south was led by Marshal Pétain (Vichy regime)."
     },
     {
       "id": "hgc-q84",
@@ -997,7 +1650,15 @@
         "La fin de la guerre"
       ],
       "correctAnswer": 2,
-      "explanation": "Le 18 juin 1940, le général de Gaulle lance un appel à la radio depuis Londres pour encourager les Français à refuser la défaite et à continuer le combat."
+      "explanation": "Le 18 juin 1940, le général de Gaulle lance un appel à la radio depuis Londres pour encourager les Français à refuser la défaite et à continuer le combat.",
+      "questionEn": "What important event took place on June 18, 1940?",
+      "optionsEn": [
+        "The liberation of Paris",
+        "The signing of the armistice",
+        "General de Gaulle's call to resistance",
+        "The end of the war"
+      ],
+      "explanationEn": "On June 18, 1940, General de Gaulle made a radio appeal from London encouraging the French to refuse defeat and continue fighting."
     },
     {
       "id": "hgc-q85",
@@ -1008,7 +1669,14 @@
         "Il a commandé les armées américaines lors du débarquement"
       ],
       "correctAnswer": 1,
-      "explanation": "Jean Moulin est une figure clé de la Résistance car il a réussi à unifier les différents réseaux clandestins au sein du Conseil National de la Résistance (CNR) en 1943."
+      "explanation": "Jean Moulin est une figure clé de la Résistance car il a réussi à unifier les différents réseaux clandestins au sein du Conseil National de la Résistance (CNR) en 1943.",
+      "questionEn": "What major role did Jean Moulin play during the war?",
+      "optionsEn": [
+        "He led the Vichy regime",
+        "He unified the Resistance movements by creating the CNR",
+        "He commanded the American armies during the landing"
+      ],
+      "explanationEn": "Jean Moulin is a key figure of the Resistance because he managed to unify the different underground networks within the Conseil National de la Résistance (National Council of the Resistance, CNR) in 1943."
     },
     {
       "id": "hgc-q86",
@@ -1019,7 +1687,14 @@
         "Le 8 mai 1945"
       ],
       "correctAnswer": 2,
-      "explanation": "La guerre se termine officiellement en Europe le 8 mai 1945 avec la capitulation de l'Allemagne. C'est aujourd'hui un jour férié en France."
+      "explanation": "La guerre se termine officiellement en Europe le 8 mai 1945 avec la capitulation de l'Allemagne. C'est aujourd'hui un jour férié en France.",
+      "questionEn": "When did World War II end in Europe?",
+      "optionsEn": [
+        "June 18, 1940",
+        "In August 1944",
+        "May 8, 1945"
+      ],
+      "explanationEn": "The war officially ended in Europe on May 8, 1945, with Germany's surrender. It is a public holiday in France today."
     },
     {
       "id": "hgc-q87",
@@ -1031,7 +1706,15 @@
         "La zone européenne"
       ],
       "correctAnswer": 0,
-      "explanation": "Le territoire situé en Europe est appelé la France hexagonale ou la métropole. Les autres territoires sont situés outre-mer."
+      "explanation": "Le territoire situé en Europe est appelé la France hexagonale ou la métropole. Les autres territoires sont situés outre-mer.",
+      "questionEn": "What do we call the French territory located in Europe?",
+      "optionsEn": [
+        "Metropolitan France (or the hexagon)",
+        "The overseas territories",
+        "The territorial collectivities",
+        "The European zone"
+      ],
+      "explanationEn": "The territory located in Europe is called metropolitan France or the hexagon. The other territories are located overseas."
     },
     {
       "id": "hgc-q88",
@@ -1043,7 +1726,15 @@
         "Il n'y a aucune différence."
       ],
       "correctAnswer": 2,
-      "explanation": "Les Collectivités d'Outre-Mer (COM) ont plus d'autonomie que les DROM et leurs lois sont adaptées aux spécificités locales, alors que dans les DROM, les lois sont les mêmes qu'en métropole."
+      "explanation": "Les Collectivités d'Outre-Mer (COM) ont plus d'autonomie que les DROM et leurs lois sont adaptées aux spécificités locales, alors que dans les DROM, les lois sont les mêmes qu'en métropole.",
+      "questionEn": "What is the main difference between DROM (like Guadeloupe) and COM (like French Polynesia)?",
+      "optionsEn": [
+        "DROM do not have French laws.",
+        "COM are located in Europe.",
+        "COM have greater autonomy and adapted laws.",
+        "There is no difference."
+      ],
+      "explanationEn": "The Overseas Collectivities (COM) have more autonomy than the DROM and their laws are adapted to local needs, while in DROM, laws are the same as in metropolitan France."
     },
     {
       "id": "hgc-q89",
@@ -1055,7 +1746,15 @@
         "Le nord, le sud et l'ouest"
       ],
       "correctAnswer": 1,
-      "explanation": "Le territoire français est divisé administrativement en régions, départements et communes. On les appelle les collectivités territoriales."
+      "explanation": "Le territoire français est divisé administrativement en régions, départements et communes. On les appelle les collectivités territoriales.",
+      "questionEn": "What are the three main administrative divisions of French territory?",
+      "optionsEn": [
+        "Cities, villages, and countryside",
+        "Regions, departments, and communes",
+        "Europe, Africa, and America",
+        "North, south, and west"
+      ],
+      "explanationEn": "French territory is administratively divided into regions, departments, and communes. They are called territorial collectivities."
     },
     {
       "id": "hgc-q90",
@@ -1067,7 +1766,15 @@
         "35 000 départements"
       ],
       "correctAnswer": 1,
-      "explanation": "La France compte 101 départements au total : 96 en métropole et 5 en outre-mer."
+      "explanation": "La France compte 101 départements au total : 96 en métropole et 5 en outre-mer.",
+      "questionEn": "How many departments does France have in total (metropolitan and overseas)?",
+      "optionsEn": [
+        "96 departments",
+        "101 departments",
+        "18 departments",
+        "35,000 departments"
+      ],
+      "explanationEn": "France has 101 departments in total: 96 in metropolitan France and 5 overseas."
     },
     {
       "id": "hgc-q91",
@@ -1079,7 +1786,15 @@
         "10 pays"
       ],
       "correctAnswer": 2,
-      "explanation": "En Europe, la France partage ses frontières avec 8 pays : la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Andorre et Monaco."
+      "explanation": "En Europe, la France partage ses frontières avec 8 pays : la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Andorre et Monaco.",
+      "questionEn": "With how many countries does France share land borders in Europe?",
+      "optionsEn": [
+        "4 countries",
+        "6 countries",
+        "8 countries",
+        "10 countries"
+      ],
+      "explanationEn": "In Europe, France shares borders with 8 countries: Belgium, Luxembourg, Germany, Switzerland, Italy, Spain, Andorra, and Monaco."
     },
     {
       "id": "hgc-q92",
@@ -1091,7 +1806,15 @@
         "Les Vosges"
       ],
       "correctAnswer": 1,
-      "explanation": "Les Pyrénées forment une barrière montagneuse naturelle au sud, marquant la frontière entre la France et l'Espagne."
+      "explanation": "Les Pyrénées forment une barrière montagneuse naturelle au sud, marquant la frontière entre la France et l'Espagne.",
+      "questionEn": "Which mountain range separates France from Spain?",
+      "optionsEn": [
+        "The Alps",
+        "The Pyrenees",
+        "The Jura",
+        "The Vosges"
+      ],
+      "explanationEn": "The Pyrenees form a natural mountain barrier in the south, marking the border between France and Spain."
     },
     {
       "id": "hgc-q93",
@@ -1103,7 +1826,15 @@
         "La Martinique"
       ],
       "correctAnswer": 2,
-      "explanation": "La France partage une frontière terrestre avec le Brésil en Amérique du Sud grâce au département de la Guyane."
+      "explanation": "La France partage une frontière terrestre avec le Brésil en Amérique du Sud grâce au département de la Guyane.",
+      "questionEn": "Thanks to which territory does France share a border with Brazil?",
+      "optionsEn": [
+        "Guadeloupe",
+        "Réunion",
+        "French Guiana",
+        "Martinique"
+      ],
+      "explanationEn": "France shares a land border with Brazil in South America thanks to the department of French Guiana."
     },
     {
       "id": "hgc-q94",
@@ -1115,7 +1846,15 @@
         "Le Rhin"
       ],
       "correctAnswer": 3,
-      "explanation": "À l'est du pays, le Rhin sert de frontière naturelle séparant la France de l'Allemagne."
+      "explanation": "À l'est du pays, le Rhin sert de frontière naturelle séparant la France de l'Allemagne.",
+      "questionEn": "Which river marks part of the border between France and Germany?",
+      "optionsEn": [
+        "The Seine",
+        "The Rhône",
+        "The Loire",
+        "The Rhine"
+      ],
+      "explanationEn": "In the east, the Rhine serves as a natural border separating France from Germany."
     },
     {
       "id": "hgc-q95",
@@ -1127,7 +1866,15 @@
         "Dix fleuves"
       ],
       "correctAnswer": 1,
-      "explanation": "La France métropolitaine compte cinq fleuves principaux : la Seine, la Loire, la Garonne, le Rhône et le Rhin."
+      "explanation": "La France métropolitaine compte cinq fleuves principaux : la Seine, la Loire, la Garonne, le Rhône et le Rhin.",
+      "questionEn": "How many main rivers does metropolitan France have?",
+      "optionsEn": [
+        "Three rivers",
+        "Five rivers",
+        "Seven rivers",
+        "Ten rivers"
+      ],
+      "explanationEn": "Metropolitan France has five main rivers: the Seine, the Loire, the Garonne, the Rhône, and the Rhine."
     },
     {
       "id": "hgc-q96",
@@ -1139,7 +1886,15 @@
         "La Garonne"
       ],
       "correctAnswer": 2,
-      "explanation": "Avec une longueur de 1 020 kilomètres, la Loire est le plus long fleuve de France."
+      "explanation": "Avec une longueur de 1 020 kilomètres, la Loire est le plus long fleuve de France.",
+      "questionEn": "What is the longest river in France?",
+      "optionsEn": [
+        "The Seine",
+        "The Rhône",
+        "The Loire",
+        "The Garonne"
+      ],
+      "explanationEn": "At 1,020 kilometers long, the Loire is the longest river in France."
     },
     {
       "id": "hgc-q97",
@@ -1151,7 +1906,15 @@
         "La Loire"
       ],
       "correctAnswer": 0,
-      "explanation": "La Seine est le fleuve qui traverse Paris, ainsi que les villes de Troyes, Rouen et Le Havre."
+      "explanation": "La Seine est le fleuve qui traverse Paris, ainsi que les villes de Troyes, Rouen et Le Havre.",
+      "questionEn": "Which river flows through Paris?",
+      "optionsEn": [
+        "The Seine",
+        "The Rhine",
+        "The Garonne",
+        "The Loire"
+      ],
+      "explanationEn": "The Seine is the river that flows through Paris, as well as the cities of Troyes, Rouen, and Le Havre."
     },
     {
       "id": "hgc-q98",
@@ -1163,7 +1926,15 @@
         "Dans la mer du Nord"
       ],
       "correctAnswer": 2,
-      "explanation": "Le Rhône prend sa source en Suisse et termine sa course dans la mer Méditerranée."
+      "explanation": "Le Rhône prend sa source en Suisse et termine sa course dans la mer Méditerranée.",
+      "questionEn": "Into which sea or ocean does the Rhône flow?",
+      "optionsEn": [
+        "The Atlantic Ocean",
+        "The English Channel",
+        "The Mediterranean Sea",
+        "The North Sea"
+      ],
+      "explanationEn": "The Rhône starts in Switzerland and ends its course in the Mediterranean Sea."
     },
     {
       "id": "hgc-q99",
@@ -1175,7 +1946,15 @@
         "Environ 72 millions d'habitants"
       ],
       "correctAnswer": 2,
-      "explanation": "Au 1er janvier 2025, la France compte 68,6 millions d'habitants au total (66,4 millions en France hexagonale et 2,3 millions dans les DROM)."
+      "explanation": "Au 1er janvier 2025, la France compte 68,6 millions d'habitants au total (66,4 millions en France hexagonale et 2,3 millions dans les DROM).",
+      "questionEn": "What is the total population of France as of January 1, 2025?",
+      "optionsEn": [
+        "About 60 million people",
+        "About 66.4 million people",
+        "About 68.6 million people",
+        "About 72 million people"
+      ],
+      "explanationEn": "As of January 1, 2025, France has 68.6 million people in total (66.4 million in metropolitan France and 2.3 million in the DROM)."
     },
     {
       "id": "hgc-q100",
@@ -1187,7 +1966,15 @@
         "Il y a plus de personnes de moins de 20 ans que d'adultes"
       ],
       "correctAnswer": 1,
-      "explanation": "La France connaît un vieillissement de sa population. Le nombre de naissances diminue et la part des personnes de 65 ans et plus augmente (22 %)."
+      "explanation": "La France connaît un vieillissement de sa population. Le nombre de naissances diminue et la part des personnes de 65 ans et plus augmente (22 %).",
+      "questionEn": "What trend is observed regarding the age of the population in France?",
+      "optionsEn": [
+        "The population is getting younger because there are many births",
+        "The population is aging because there are fewer births and more elderly people",
+        "The age of the population has been stable for 50 years",
+        "There are more people under 20 than adults"
+      ],
+      "explanationEn": "France is experiencing an aging population. The number of births is decreasing and the share of people aged 65 and over is increasing (22%)."
     },
     {
       "id": "hgc-q101",
@@ -1199,7 +1986,15 @@
         "De manière parfaitement égale sur tout le territoire"
       ],
       "correctAnswer": 2,
-      "explanation": "La répartition est inégale : environ 81 % de la population vit en ville, notamment dans les grandes agglomérations comme Paris, Lyon ou Marseille."
+      "explanation": "La répartition est inégale : environ 81 % de la population vit en ville, notamment dans les grandes agglomérations comme Paris, Lyon ou Marseille.",
+      "questionEn": "Where does the majority of the French population live?",
+      "optionsEn": [
+        "In rural and mountainous areas",
+        "Only in overseas departments",
+        "In cities and large urban areas",
+        "Equally spread across the whole territory"
+      ],
+      "explanationEn": "The distribution is unequal: about 81% of the population lives in cities, especially in large urban areas like Paris, Lyon, or Marseille."
     },
     {
       "id": "hgc-q102",
@@ -1211,7 +2006,15 @@
         "90 ans"
       ],
       "correctAnswer": 2,
-      "explanation": "En 2024, l'espérance de vie des femmes est de 85,6 ans, tandis que celle des hommes est de 80 ans."
+      "explanation": "En 2024, l'espérance de vie des femmes est de 85,6 ans, tandis que celle des hommes est de 80 ans.",
+      "questionEn": "What is the average life expectancy of women in France in 2024?",
+      "optionsEn": [
+        "75 years",
+        "80 years",
+        "85.6 years",
+        "90 years"
+      ],
+      "explanationEn": "In 2024, the life expectancy of women is 85.6 years, while for men it is 80 years."
     },
     {
       "id": "hgc-q103",
@@ -1223,7 +2026,15 @@
         "D'une capitale et de plusieurs villages"
       ],
       "correctAnswer": 1,
-      "explanation": "Une aire urbaine est formée de trois espaces : la ville-centre (le cœur), la banlieue qui l'entoure, et la couronne périurbaine plus éloignée."
+      "explanation": "Une aire urbaine est formée de trois espaces : la ville-centre (le cœur), la banlieue qui l'entoure, et la couronne périurbaine plus éloignée.",
+      "questionEn": "What parts make up an urban area?",
+      "optionsEn": [
+        "Only a city center and its suburbs",
+        "A city center, suburbs, and a suburban ring",
+        "A rural zone and an industrial zone",
+        "A capital and several villages"
+      ],
+      "explanationEn": "An urban area is made up of three spaces: the city center (the core), the surrounding suburbs, and the more distant suburban ring."
     },
     {
       "id": "hgc-q104",
@@ -1234,7 +2045,14 @@
         "Environ 9 personnes sur 10"
       ],
       "correctAnswer": 2,
-      "explanation": "La très grande majorité des Français vit en ville ou à proximité : environ 9 personnes sur 10 habitent dans une aire urbaine."
+      "explanation": "La très grande majorité des Français vit en ville ou à proximité : environ 9 personnes sur 10 habitent dans une aire urbaine.",
+      "questionEn": "What proportion of the French population lives in an urban area?",
+      "optionsEn": [
+        "About 1 person in 10",
+        "About 5 people in 10",
+        "About 9 people in 10"
+      ],
+      "explanationEn": "The vast majority of French people live in or near cities: about 9 out of 10 people live in an urban area."
     },
     {
       "id": "hgc-q105",
@@ -1245,7 +2063,14 @@
         "La fermeture des gares et des aéroports dans les grandes villes"
       ],
       "correctAnswer": 1,
-      "explanation": "La métropolisation est le phénomène où les grandes villes (métropoles) regroupent la majorité des activités économiques, politiques et culturelles."
+      "explanation": "La métropolisation est le phénomène où les grandes villes (métropoles) regroupent la majorité des activités économiques, politiques et culturelles.",
+      "questionEn": "What is metropolization?",
+      "optionsEn": [
+        "The departure of city residents to the countryside",
+        "The concentration of population, jobs, and wealth in large cities",
+        "The closing of train stations and airports in large cities"
+      ],
+      "explanationEn": "Metropolization is the phenomenon where large cities (metropolises) concentrate the majority of economic, political, and cultural activities."
     },
     {
       "id": "hgc-q106",
@@ -1257,7 +2082,15 @@
         "La Métropole de Bordeaux"
       ],
       "correctAnswer": 0,
-      "explanation": "La Métropole du Grand Paris est la plus grande, avec environ 7 millions d'habitants et 130 communes."
+      "explanation": "La Métropole du Grand Paris est la plus grande, avec environ 7 millions d'habitants et 130 communes.",
+      "questionEn": "What is the largest metropolis in France by population?",
+      "optionsEn": [
+        "The Greater Paris Metropolis",
+        "The Lyon Metropolis",
+        "The Marseille Metropolis",
+        "The Bordeaux Metropolis"
+      ],
+      "explanationEn": "The Greater Paris Metropolis is the largest, with about 7 million inhabitants and 130 communes."
     },
     {
       "id": "hgc-q107",
@@ -1269,7 +2102,15 @@
         "Elle est la dernière puissance agricole de l'Union Européenne"
       ],
       "correctAnswer": 0,
-      "explanation": "La France est la première puissance agricole de l'UE, représentant 18% de la production totale."
+      "explanation": "La France est la première puissance agricole de l'UE, représentant 18% de la production totale.",
+      "questionEn": "What is France's position in European agriculture?",
+      "optionsEn": [
+        "It is the leading agricultural power in the European Union",
+        "It is a small producer that imports everything",
+        "It only produces wine",
+        "It is the last agricultural power in the European Union"
+      ],
+      "explanationEn": "France is the leading agricultural power in the EU, representing 18% of total production."
     },
     {
       "id": "hgc-q108",
@@ -1281,7 +2122,15 @@
         "La Champagne"
       ],
       "correctAnswer": 2,
-      "explanation": "La Bretagne et l'Ouest de la France sont les régions réputées pour l'élevage laitier et porcin."
+      "explanation": "La Bretagne et l'Ouest de la France sont les régions réputées pour l'élevage laitier et porcin.",
+      "questionEn": "Which region is especially known for dairy cow and pig farming?",
+      "optionsEn": [
+        "The South-East",
+        "The Paris Basin",
+        "Brittany and the West",
+        "Champagne"
+      ],
+      "explanationEn": "Brittany and western France are the regions known for dairy and pig farming."
     },
     {
       "id": "hgc-q109",
@@ -1293,7 +2142,15 @@
         "Le quart du territoire (25%)"
       ],
       "correctAnswer": 1,
-      "explanation": "La moitié du territoire français est consacrée à l'agriculture, ce qui façonne les paysages du pays."
+      "explanation": "La moitié du territoire français est consacrée à l'agriculture, ce qui façonne les paysages du pays.",
+      "questionEn": "What share of French territory is used for agriculture?",
+      "optionsEn": [
+        "Only 10% of the territory",
+        "About a third of the territory",
+        "Half of the territory",
+        "All of the territory"
+      ],
+      "explanationEn": "France has the largest agricultural area in the EU: half of its territory is devoted to agriculture."
     },
     {
       "id": "hgc-q110",
@@ -1305,7 +2162,15 @@
         "Supprimer toutes les machines agricoles"
       ],
       "correctAnswer": 2,
-      "explanation": "L'agriculture doit aujourd'hui s'adapter au changement climatique, réduire les produits chimiques et répondre aux attentes écologiques."
+      "explanation": "L'agriculture doit aujourd'hui s'adapter au changement climatique, réduire les produits chimiques et répondre aux attentes écologiques.",
+      "questionEn": "What is one of the new challenges for French agriculture today?",
+      "optionsEn": [
+        "Stop producing wheat entirely",
+        "Use more chemicals",
+        "Adapt to climate change",
+        "Eliminate all farming machinery"
+      ],
+      "explanationEn": "Agriculture must now adapt to climate change, reduce chemicals, and meet environmental expectations."
     },
     {
       "id": "hgc-q111",
@@ -1316,7 +2181,14 @@
         "C'est la 20ème puissance économique mondiale"
       ],
       "correctAnswer": 1,
-      "explanation": "La France est une grande puissance économique, classée 7ème au niveau mondial en 2025."
+      "explanation": "La France est une grande puissance économique, classée 7ème au niveau mondial en 2025.",
+      "questionEn": "What is France's position in the world economy in 2025?",
+      "optionsEn": [
+        "It is the 1st world economic power",
+        "It is the 7th world economic power",
+        "It is the 20th world economic power"
+      ],
+      "explanationEn": "France is a major economic power, ranked 7th in the world in 2025."
     },
     {
       "id": "hgc-q112",
@@ -1327,7 +2199,14 @@
         "Majoritairement avec les pays européens, comme l'Allemagne"
       ],
       "correctAnswer": 2,
-      "explanation": "La France est très ouverte sur l'Europe : 70% de ses échanges se font avec des pays européens. L'Allemagne est son premier partenaire."
+      "explanation": "La France est très ouverte sur l'Europe : 70% de ses échanges se font avec des pays européens. L'Allemagne est son premier partenaire.",
+      "questionEn": "With which countries does France trade the most?",
+      "optionsEn": [
+        "Mainly with Asian countries",
+        "Mostly with the United States and Canada",
+        "Mainly with European countries, like Germany"
+      ],
+      "explanationEn": "France is very open to Europe: 70% of its trade is with European countries. Germany is its top partner."
     },
     {
       "id": "hgc-q113",
@@ -1338,7 +2217,14 @@
         "Le secteur primaire (l'agriculture et la pêche)"
       ],
       "correctAnswer": 0,
-      "explanation": "En France, 80% des emplois se trouvent dans le secteur tertiaire, c'est-à-dire le secteur des services."
+      "explanation": "En France, 80% des emplois se trouvent dans le secteur tertiaire, c'est-à-dire le secteur des services.",
+      "questionEn": "In which sector do most people work in France?",
+      "optionsEn": [
+        "The tertiary sector (services: commerce, health, education...)",
+        "The secondary sector (industry and construction)",
+        "The primary sector (agriculture and fishing)"
+      ],
+      "explanationEn": "In France, 80% of jobs are in the tertiary sector, meaning the services sector."
     },
     {
       "id": "hgc-q114",
@@ -1349,7 +2235,14 @@
         "Les recettes de l'État sont supérieures à ses dépenses"
       ],
       "correctAnswer": 1,
-      "explanation": "La France a un déficit important car les dépenses publiques sont plus élevées que les recettes. Sa dette représente 113% de sa richesse (PIB)."
+      "explanation": "La France a un déficit important car les dépenses publiques sont plus élevées que les recettes. Sa dette représente 113% de sa richesse (PIB).",
+      "questionEn": "What is the situation of public debt in France?",
+      "optionsEn": [
+        "France has no debt",
+        "France is one of the most indebted countries in the European Union",
+        "Government revenues are higher than its expenses"
+      ],
+      "explanationEn": "France has a significant deficit because public spending is higher than revenue. Its debt represents 113% of its wealth (GDP)."
     },
     {
       "id": "hgc-q115",
@@ -1361,7 +2254,15 @@
         "Environ 50%"
       ],
       "correctAnswer": 1,
-      "explanation": "Le secteur industriel représente aujourd'hui environ 11% des emplois en France."
+      "explanation": "Le secteur industriel représente aujourd'hui environ 11% des emplois en France.",
+      "questionEn": "What percentage of jobs in France does the industrial sector represent approximately?",
+      "optionsEn": [
+        "About 5%",
+        "About 11%",
+        "About 25%",
+        "About 50%"
+      ],
+      "explanationEn": "The industrial sector today represents about 11% of jobs in France."
     },
     {
       "id": "hgc-q116",
@@ -1373,7 +2274,15 @@
         "La Bretagne"
       ],
       "correctAnswer": 0,
-      "explanation": "Le Sud-Ouest, et particulièrement la ville de Toulouse, est la région spécialisée dans l'industrie aéronautique."
+      "explanation": "Le Sud-Ouest, et particulièrement la ville de Toulouse, est la région spécialisée dans l'industrie aéronautique.",
+      "questionEn": "Which French region specializes in aeronautics (aircraft)?",
+      "optionsEn": [
+        "The South-West (around Toulouse)",
+        "Île-de-France",
+        "The North and East",
+        "Brittany"
+      ],
+      "explanationEn": "The South-West, and particularly the city of Toulouse, is the region specialized in the aeronautics industry."
     },
     {
       "id": "hgc-q117",
@@ -1385,7 +2294,15 @@
         "Délocaliser toutes les entreprises à l'étranger"
       ],
       "correctAnswer": 2,
-      "explanation": "L'industrie doit s'adapter au changement climatique (industrie verte) et se moderniser grâce aux nouvelles technologies (usines connectées)."
+      "explanation": "L'industrie doit s'adapter au changement climatique (industrie verte) et se moderniser grâce aux nouvelles technologies (usines connectées).",
+      "questionEn": "What are the two major current challenges for French industry?",
+      "optionsEn": [
+        "Close all factories and stop production",
+        "Produce only luxury goods and cosmetics",
+        "Adapt to climate change and modernize with new technologies",
+        "Move all businesses abroad"
+      ],
+      "explanationEn": "Industry must adapt to climate change (green industry) and modernize through new technologies (connected factories)."
     },
     {
       "id": "hgc-q118",
@@ -1396,7 +2313,14 @@
         "Elle cherche à vendre ses usines à d'autres pays"
       ],
       "correctAnswer": 0,
-      "explanation": "La France souhaite réindustrialiser le pays et faire revenir (relocaliser) des productions importantes comme la santé ou l'énergie."
+      "explanation": "La France souhaite réindustrialiser le pays et faire revenir (relocaliser) des productions importantes comme la santé ou l'énergie.",
+      "questionEn": "What is France trying to do in response to recent crises (health and energy)?",
+      "optionsEn": [
+        "It is trying to reindustrialize its territory by bringing back strategic production",
+        "It is trying to completely abandon the industrial sector",
+        "It is trying to sell its factories to other countries"
+      ],
+      "explanationEn": "France wants to reindustrialize the country and bring back (relocate) important production in areas like health and energy."
     },
     {
       "id": "hgc-q119",
@@ -1408,7 +2332,15 @@
         "Au nord de l'Amérique"
       ],
       "correctAnswer": 0,
-      "explanation": "La France se trouve à l'ouest du continent européen, ce qui en fait un carrefour géographique important."
+      "explanation": "La France se trouve à l'ouest du continent européen, ce qui en fait un carrefour géographique important.",
+      "questionEn": "Where is France located geographically?",
+      "optionsEn": [
+        "In western Europe",
+        "In southern Africa",
+        "In eastern Asia",
+        "In northern America"
+      ],
+      "explanationEn": "France is located in the west of the European continent, making it an important geographic crossroads."
     },
     {
       "id": "hgc-q120",
@@ -1420,7 +2352,15 @@
         "12 pays"
       ],
       "correctAnswer": 2,
-      "explanation": "La France partage ses frontières avec 8 pays : la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Andorre et Monaco."
+      "explanation": "La France partage ses frontières avec 8 pays : la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Andorre et Monaco.",
+      "questionEn": "With how many countries does France share land borders?",
+      "optionsEn": [
+        "3 countries",
+        "5 countries",
+        "8 countries",
+        "12 countries"
+      ],
+      "explanationEn": "France shares borders with 8 countries: Belgium, Luxembourg, Germany, Switzerland, Italy, Spain, Andorra, and Monaco."
     },
     {
       "id": "hgc-q121",
@@ -1432,7 +2372,15 @@
         "L'Allemagne"
       ],
       "correctAnswer": 3,
-      "explanation": "L'Allemagne est le pays le plus peuplé d'Europe avec 83,6 millions d'habitants. La France arrive en deuxième position."
+      "explanation": "L'Allemagne est le pays le plus peuplé d'Europe avec 83,6 millions d'habitants. La France arrive en deuxième position.",
+      "questionEn": "Which is the most populated country in Europe, just ahead of France?",
+      "optionsEn": [
+        "Italy",
+        "Spain",
+        "Poland",
+        "Germany"
+      ],
+      "explanationEn": "Germany is the most populated country in Europe with 83.6 million inhabitants. France is second."
     },
     {
       "id": "hgc-q122",
@@ -1444,7 +2392,15 @@
         "Il est le plus petit réseau routier d'Europe"
       ],
       "correctAnswer": 0,
-      "explanation": "La France possède l'un des réseaux routiers les plus denses au monde, ce qui facilite les échanges et le transport rapide des voyageurs et des marchandises avec les pays voisins."
+      "explanation": "La France possède l'un des réseaux routiers les plus denses au monde, ce qui facilite les échanges et le transport rapide des voyageurs et des marchandises avec les pays voisins.",
+      "questionEn": "Why is the French road network important for Europe?",
+      "optionsEn": [
+        "It is very dense and connects major French cities to neighboring countries",
+        "It is only for tourist cars",
+        "It does not allow transporting goods",
+        "It is the smallest road network in Europe"
+      ],
+      "explanationEn": "France has one of the densest road networks in the world, making it easy to exchange and transport travelers and goods with neighboring countries."
     },
     {
       "id": "hgc-q123",
@@ -1456,7 +2412,15 @@
         "Une zone interdite aux camions"
       ],
       "correctAnswer": 1,
-      "explanation": "L'Union européenne a créé des corridors (ou grands axes) qui traversent l'Europe pour améliorer et faciliter la circulation des personnes et des marchandises."
+      "explanation": "L'Union européenne a créé des corridors (ou grands axes) qui traversent l'Europe pour améliorer et faciliter la circulation des personnes et des marchandises.",
+      "questionEn": "What is a European corridor?",
+      "optionsEn": [
+        "A closed border between two countries",
+        "A major route for people and goods",
+        "A type of very fast train",
+        "A zone where trucks are banned"
+      ],
+      "explanationEn": "The European Union has created corridors (major routes) that cross Europe to improve and facilitate the movement of people and goods."
     },
     {
       "id": "hgc-q124",
@@ -1468,7 +2432,15 @@
         "Le corridor de l'Est"
       ],
       "correctAnswer": 2,
-      "explanation": "Le corridor Nord-ouest/Sud-est relie la Grande-Bretagne à l'Italie. Il passe par le tunnel sous la Manche, Paris et Lyon."
+      "explanation": "Le corridor Nord-ouest/Sud-est relie la Grande-Bretagne à l'Italie. Il passe par le tunnel sous la Manche, Paris et Lyon.",
+      "questionEn": "Which corridor connects Great Britain to Italy passing through France?",
+      "optionsEn": [
+        "The Atlantic corridor",
+        "The North Sea corridor",
+        "The Northwest/Southeast corridor",
+        "The Eastern corridor"
+      ],
+      "explanationEn": "The Northwest/Southeast corridor connects Great Britain to Italy. It passes through the Channel Tunnel, Paris, and Lyon."
     },
     {
       "id": "hgc-q125",
@@ -1480,7 +2452,15 @@
         "Parce que le climat est le même partout sur le territoire"
       ],
       "correctAnswer": 0,
-      "explanation": "La France a des paysages très variés (montagnes, forêts, littoraux) et des territoires d'outre-mer situés sous différents climats, ce qui permet à de nombreuses espèces de vivre."
+      "explanation": "La France a des paysages très variés (montagnes, forêts, littoraux) et des territoires d'outre-mer situés sous différents climats, ce qui permet à de nombreuses espèces de vivre.",
+      "questionEn": "Why is France the richest European country in animal and plant species?",
+      "optionsEn": [
+        "Because it has a great variety of landscapes and climates, including overseas",
+        "Because it imports many animals from other countries",
+        "Because there are no cities in France, only nature",
+        "Because the climate is the same everywhere on its territory"
+      ],
+      "explanationEn": "France has very varied landscapes (mountains, forests, coastlines) and overseas territories in different climates, allowing many species to live there."
     },
     {
       "id": "hgc-q126",
@@ -1492,7 +2472,15 @@
         "Un programme pour construire plus de villes"
       ],
       "correctAnswer": 1,
-      "explanation": "Natura 2000 est un réseau européen de sites naturels protégés pour préserver les espèces animales et végétales."
+      "explanation": "Natura 2000 est un réseau européen de sites naturels protégés pour préserver les espèces animales et végétales.",
+      "questionEn": "What is the Natura 2000 network?",
+      "optionsEn": [
+        "A highway network across Europe",
+        "A collection of protected natural sites across Europe",
+        "A French hunting association",
+        "A program to build more cities"
+      ],
+      "explanationEn": "Natura 2000 is a European network of protected natural sites to preserve animal and plant species."
     },
     {
       "id": "hgc-q127",
@@ -1504,7 +2492,15 @@
         "À interdire l'accès aux forêts et aux rivières"
       ],
       "correctAnswer": 2,
-      "explanation": "La trame verte (terre) et bleue (eau) permet de relier les espaces naturels pour que les animaux et les plantes puissent circuler et vivre ensemble."
+      "explanation": "La trame verte (terre) et bleue (eau) permet de relier les espaces naturels pour que les animaux et les plantes puissent circuler et vivre ensemble.",
+      "questionEn": "What is the purpose of the 'green and blue corridor' in France?",
+      "optionsEn": [
+        "To paint buildings green and blue",
+        "To separate land animals from water animals",
+        "To connect natural spaces so that species can move around",
+        "To ban access to forests and rivers"
+      ],
+      "explanationEn": "The green corridor (land) and blue corridor (water) connect natural spaces so that animals and plants can move and live together."
     },
     {
       "id": "hgc-q128",
@@ -1516,7 +2512,15 @@
         "Arrêter de collaborer avec les pays voisins"
       ],
       "correctAnswer": 2,
-      "explanation": "Lutter contre le changement climatique et réduire la pollution sont des défis importants qui demandent une collaboration entre tous les pays européens."
+      "explanation": "Lutter contre le changement climatique et réduire la pollution sont des défis importants qui demandent une collaboration entre tous les pays européens.",
+      "questionEn": "What is one of the major challenges for France and Europe regarding the environment?",
+      "optionsEn": [
+        "Increase air pollution",
+        "Reduce biodiversity in cities",
+        "Act against climate change",
+        "Stop collaborating with neighboring countries"
+      ],
+      "explanationEn": "Fighting climate change and reducing pollution are important challenges that require collaboration between all European countries."
     },
     {
       "id": "hgc-q129",
@@ -1528,7 +2532,15 @@
         "La France importe toute sa nourriture"
       ],
       "correctAnswer": 0,
-      "explanation": "La France est le premier producteur agricole européen. Elle représente 18% de la production totale de l'Union Européenne."
+      "explanation": "La France est le premier producteur agricole européen. Elle représente 18% de la production totale de l'Union Européenne.",
+      "questionEn": "What is France's position in European agricultural production?",
+      "optionsEn": [
+        "It is the leading agricultural producer in the European Union",
+        "It is the third producer, behind Germany and Italy",
+        "France produces very little compared to its neighbors",
+        "France imports all its food"
+      ],
+      "explanationEn": "France is the leading agricultural producer in Europe. It represents 18% of the European Union's total production."
     },
     {
       "id": "hgc-q130",
@@ -1540,7 +2552,15 @@
         "La totalité du territoire"
       ],
       "correctAnswer": 2,
-      "explanation": "La France a la plus grande surface agricole de l'UE : la moitié de son territoire est consacrée à l'agriculture."
+      "explanation": "La France a la plus grande surface agricole de l'UE : la moitié de son territoire est consacrée à l'agriculture.",
+      "questionEn": "What share of French territory is used for agriculture?",
+      "optionsEn": [
+        "Only 10% of the territory",
+        "About a third of the territory",
+        "Half of the territory",
+        "All of the territory"
+      ],
+      "explanationEn": "France has the largest agricultural area in the EU: half of its territory is devoted to agriculture."
     },
     {
       "id": "hgc-q131",
@@ -1552,7 +2572,15 @@
         "Le riz et le coton"
       ],
       "correctAnswer": 1,
-      "explanation": "Grâce à la variété de ses climats, la France produit principalement du vin, des céréales (comme le blé), du lait et de la viande."
+      "explanation": "Grâce à la variété de ses climats, la France produit principalement du vin, des céréales (comme le blé), du lait et de la viande.",
+      "questionEn": "What are the most important agricultural products in France?",
+      "optionsEn": [
+        "Coffee, cocoa, and bananas",
+        "Wine, cereals, milk, and meat",
+        "Only fruits and vegetables",
+        "Rice and cotton"
+      ],
+      "explanationEn": "Thanks to its variety of climates, France mainly produces wine, cereals (like wheat), milk, and meat."
     },
     {
       "id": "hgc-q132",
@@ -1564,7 +2592,15 @@
         "Ils dépendent uniquement des supermarchés"
       ],
       "correctAnswer": 1,
-      "explanation": "De nombreux agriculteurs se regroupent dans des 'organisations de producteurs' pour mettre en commun leurs moyens. La France en compte 724."
+      "explanation": "De nombreux agriculteurs se regroupent dans des 'organisations de producteurs' pour mettre en commun leurs moyens. La France en compte 724.",
+      "questionEn": "How do French farmers often organize to share their resources?",
+      "optionsEn": [
+        "They all work individually without help",
+        "They join producer organizations",
+        "They are all employed directly by the State",
+        "They depend only on supermarkets"
+      ],
+      "explanationEn": "Many farmers join 'producer organizations' to share their resources. France has 724 of them."
     },
     {
       "id": "hgc-q133",
@@ -1576,7 +2612,15 @@
         "41ème puissance économique"
       ],
       "correctAnswer": 1,
-      "explanation": "La France est la 7ème puissance économique mondiale en 2024, avec un PIB de 2 830 milliards de dollars."
+      "explanation": "La France est la 7ème puissance économique mondiale en 2024, avec un PIB de 2 830 milliards de dollars.",
+      "questionEn": "In 2024, what is France's rank among world economic powers?",
+      "optionsEn": [
+        "1st economic power",
+        "7th economic power",
+        "22nd economic power",
+        "41st economic power"
+      ],
+      "explanationEn": "France is the 7th world economic power in 2024, with a GDP of 2,830 billion dollars."
     },
     {
       "id": "hgc-q134",
@@ -1588,7 +2632,15 @@
         "340 millions d'habitants"
       ],
       "correctAnswer": 2,
-      "explanation": "La France compte environ 68,6 millions d'habitants, ce qui la place au 22ème rang mondial."
+      "explanation": "La France compte environ 68,6 millions d'habitants, ce qui la place au 22ème rang mondial.",
+      "questionEn": "How many inhabitants does France have approximately in 2025?",
+      "optionsEn": [
+        "41 million inhabitants",
+        "59 million inhabitants",
+        "68.6 million inhabitants",
+        "340 million inhabitants"
+      ],
+      "explanationEn": "France has about 68.6 million inhabitants, placing it at the 22nd rank worldwide."
     },
     {
       "id": "hgc-q135",
@@ -1600,7 +2652,15 @@
         "Environ 8,5 millions de km²"
       ],
       "correctAnswer": 1,
-      "explanation": "La France a une superficie d'environ 667 000 km², ce qui la classe au 41ème rang mondial, devant l'Espagne mais loin derrière le Brésil."
+      "explanation": "La France a une superficie d'environ 667 000 km², ce qui la classe au 41ème rang mondial, devant l'Espagne mais loin derrière le Brésil.",
+      "questionEn": "What is the area of French territory?",
+      "optionsEn": [
+        "About 506,000 km²",
+        "About 667,000 km²",
+        "About 2.8 million km²",
+        "About 8.5 million km²"
+      ],
+      "explanationEn": "France has an area of about 667,000 km², ranking it 41st in the world, ahead of Spain but far behind Brazil."
     },
     {
       "id": "hgc-q136",
@@ -1612,7 +2672,15 @@
         "Elle n'est pas membre du Conseil de sécurité"
       ],
       "correctAnswer": 1,
-      "explanation": "La France est l'un des cinq membres permanents du Conseil de sécurité de l'ONU, ce qui lui donne un droit de veto sur les décisions internationales."
+      "explanation": "La France est l'un des cinq membres permanents du Conseil de sécurité de l'ONU, ce qui lui donne un droit de veto sur les décisions internationales.",
+      "questionEn": "What special status does France have at the UN Security Council?",
+      "optionsEn": [
+        "It is an observer member without voting rights",
+        "It is a permanent member with veto power",
+        "It is a guest member only for European matters",
+        "It is not a member of the Security Council"
+      ],
+      "explanationEn": "France is one of the five permanent members of the UN Security Council, giving it veto power over international decisions."
     },
     {
       "id": "hgc-q137",
@@ -1624,7 +2692,15 @@
         "Parce qu'elle n'a pas de frontières terrestres"
       ],
       "correctAnswer": 1,
-      "explanation": "Grâce à ses territoires d'outre-mer répartis dans le monde, la France est présente sur tous les océans et possède la deuxième plus grande zone maritime (ZEE) mondiale."
+      "explanation": "Grâce à ses territoires d'outre-mer répartis dans le monde, la France est présente sur tous les océans et possède la deuxième plus grande zone maritime (ZEE) mondiale.",
+      "questionEn": "Why is France called a maritime power?",
+      "optionsEn": [
+        "Because it has the largest fishing fleet in the world",
+        "Because it is present in all oceans thanks to its overseas territories",
+        "Because it built the largest port in Europe",
+        "Because it has no land borders"
+      ],
+      "explanationEn": "Thanks to its overseas territories spread around the world, France is present in all oceans and has the second-largest maritime zone (EEZ) in the world."
     },
     {
       "id": "hgc-q138",
@@ -1636,7 +2712,15 @@
         "Elle ne possède pas l'arme nucléaire"
       ],
       "correctAnswer": 1,
-      "explanation": "La France est une puissance nucléaire depuis 1960. Sa stratégie repose sur la dissuasion pour protéger le pays."
+      "explanation": "La France est une puissance nucléaire depuis 1960. Sa stratégie repose sur la dissuasion pour protéger le pays.",
+      "questionEn": "Since when has France had nuclear weapons?",
+      "optionsEn": [
+        "Since 1945",
+        "Since 1960",
+        "Since 1989",
+        "France does not have nuclear weapons"
+      ],
+      "explanationEn": "France has been a nuclear power since 1960. Its strategy is based on deterrence to protect the country."
     },
     {
       "id": "hgc-q139",
@@ -1647,7 +2731,14 @@
         "Elle a fermé la plupart de ses ambassades pour faire des économies"
       ],
       "correctAnswer": 0,
-      "explanation": "La France dispose de l'un des réseaux diplomatiques les plus denses au monde, avec une présence dans plus de 150 pays via ses ambassades et consulats."
+      "explanation": "La France dispose de l'un des réseaux diplomatiques les plus denses au monde, avec une présence dans plus de 150 pays via ses ambassades et consulats.",
+      "questionEn": "What shows the importance of France's diplomatic network?",
+      "optionsEn": [
+        "It has embassies and consulates in more than 150 countries",
+        "It alone leads the European Union",
+        "It has closed most of its embassies to save money"
+      ],
+      "explanationEn": "France has one of the densest diplomatic networks in the world, with a presence in more than 150 countries through its embassies and consulates."
     },
     {
       "id": "hgc-q140",
@@ -1659,7 +2750,15 @@
         "Une zone frontalière où l'armée a tous les pouvoirs"
       ],
       "correctAnswer": 0,
-      "explanation": "La ZEE est un espace maritime sous la souveraineté d'un État côtier qui lui donne le droit d'exploiter et de gérer les ressources."
+      "explanation": "La ZEE est un espace maritime sous la souveraineté d'un État côtier qui lui donne le droit d'exploiter et de gérer les ressources.",
+      "questionEn": "What is an Exclusive Economic Zone (EEZ)?",
+      "optionsEn": [
+        "A maritime area where a state has exclusive rights over resources",
+        "A land zone reserved only for international trade",
+        "A maritime area where fishing is totally banned for everyone",
+        "A border zone where the army has all powers"
+      ],
+      "explanationEn": "The EEZ is a maritime area under a coastal state's sovereignty that gives it the right to exploit and manage resources."
     },
     {
       "id": "hgc-q141",
@@ -1671,7 +2770,15 @@
         "Elle se situe à la dixième place mondiale"
       ],
       "correctAnswer": 1,
-      "explanation": "Grâce à ses territoires d'outre-mer, la France possède la deuxième plus grande ZEE au monde, avec plus de 10 millions de km²."
+      "explanation": "Grâce à ses territoires d'outre-mer, la France possède la deuxième plus grande ZEE au monde, avec plus de 10 millions de km².",
+      "questionEn": "What is France's position in the world regarding its maritime area?",
+      "optionsEn": [
+        "It has the smallest maritime area in Europe",
+        "It is the second maritime power in the world, just after the United States",
+        "It has no access to the sea outside Europe",
+        "It ranks tenth in the world"
+      ],
+      "explanationEn": "Thanks to its overseas territories, France has the second-largest EEZ in the world, with more than 10 million km²."
     },
     {
       "id": "hgc-q142",
@@ -1683,7 +2790,15 @@
         "Elles servent uniquement à faire du tourisme"
       ],
       "correctAnswer": 1,
-      "explanation": "L'ouverture sur la mer favorise l'économie française en permettant l'exploitation des ressources comme la pêche et le contrôle des routes commerciales maritimes."
+      "explanation": "L'ouverture sur la mer favorise l'économie française en permettant l'exploitation des ressources comme la pêche et le contrôle des routes commerciales maritimes.",
+      "questionEn": "Why are France's vast maritime zones an economic asset?",
+      "optionsEn": [
+        "They allow building more airports",
+        "They are a source of wealth through fishing and maritime transport",
+        "They allow not paying taxes",
+        "They are used only for tourism"
+      ],
+      "explanationEn": "Access to the sea benefits the French economy by enabling the exploitation of resources like fishing and the control of maritime trade routes."
     },
     {
       "id": "hgc-q143",
@@ -1695,7 +2810,15 @@
         "L'océan Arctique"
       ],
       "correctAnswer": 2,
-      "explanation": "La France est présente dans l'océan Pacifique grâce à des territoires comme la Nouvelle-Calédonie, la Polynésie française et Wallis-et-Futuna."
+      "explanation": "La France est présente dans l'océan Pacifique grâce à des territoires comme la Nouvelle-Calédonie, la Polynésie française et Wallis-et-Futuna.",
+      "questionEn": "In which ocean is France present thanks to New Caledonia and Polynesia?",
+      "optionsEn": [
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Pacific Ocean",
+        "The Arctic Ocean"
+      ],
+      "explanationEn": "France is present in the Pacific Ocean thanks to territories like New Caledonia, French Polynesia, and Wallis and Futuna."
     },
     {
       "id": "hgc-q144",
@@ -1707,7 +2830,15 @@
         "Ils servent à stocker les marchandises sans les transporter"
       ],
       "correctAnswer": 1,
-      "explanation": "Les ports sont essentiels pour le commerce : ils traitent plus de 80% du trafic maritime de marchandises en France et connectent le pays au reste du monde."
+      "explanation": "Les ports sont essentiels pour le commerce : ils traitent plus de 80% du trafic maritime de marchandises en France et connectent le pays au reste du monde.",
+      "questionEn": "What is the main role of French ports in the economy?",
+      "optionsEn": [
+        "They are only used for vacation passenger transport",
+        "They handle the import and export of more than 80% of goods",
+        "They are mainly used for recreational fishing",
+        "They are used to store goods without transporting them"
+      ],
+      "explanationEn": "Ports are essential for trade: they handle more than 80% of maritime freight traffic in France and connect the country to the rest of the world."
     },
     {
       "id": "hgc-q145",
@@ -1719,7 +2850,15 @@
         "L'Union européenne"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est l'État qui gère directement les grands ports maritimes, car ils sont stratégiques pour l'économie nationale."
+      "explanation": "C'est l'État qui gère directement les grands ports maritimes, car ils sont stratégiques pour l'économie nationale.",
+      "questionEn": "Who directly manages France's major seaports?",
+      "optionsEn": [
+        "Private companies",
+        "The French State",
+        "The city halls of port cities",
+        "The European Union"
+      ],
+      "explanationEn": "It is the State that directly manages the major seaports because they are strategic for the national economy."
     },
     {
       "id": "hgc-q146",
@@ -1731,7 +2870,15 @@
         "66 grands ports"
       ],
       "correctAnswer": 1,
-      "explanation": "Il y a 7 grands ports en métropole (comme Le Havre, Marseille ou Bordeaux) et d'autres dans les territoires d'outre-mer."
+      "explanation": "Il y a 7 grands ports en métropole (comme Le Havre, Marseille ou Bordeaux) et d'autres dans les territoires d'outre-mer.",
+      "questionEn": "How many major seaports are located in metropolitan France?",
+      "optionsEn": [
+        "3 major ports",
+        "7 major ports",
+        "12 major ports",
+        "66 major ports"
+      ],
+      "explanationEn": "There are 7 major ports in metropolitan France (like Le Havre, Marseille, or Bordeaux) and others in overseas territories."
     },
     {
       "id": "hgc-q147",
@@ -1743,7 +2890,15 @@
         "Il n'y a pas de ports français en dehors de la métropole"
       ],
       "correctAnswer": 2,
-      "explanation": "La France possède 4 grands ports dans les territoires d'outre-mer (Guyane, Martinique, Guadeloupe, La Réunion) et un port d'intérêt national à Saint-Pierre-et-Miquelon."
+      "explanation": "La France possède 4 grands ports dans les territoires d'outre-mer (Guyane, Martinique, Guadeloupe, La Réunion) et un port d'intérêt national à Saint-Pierre-et-Miquelon.",
+      "questionEn": "Besides metropolitan France, where are other major French ports found?",
+      "optionsEn": [
+        "Only in Corsica",
+        "In neighboring countries like Spain and Italy",
+        "In overseas territories (like French Guiana or Martinique)",
+        "There are no French ports outside metropolitan France"
+      ],
+      "explanationEn": "France has 4 major ports in overseas territories (French Guiana, Martinique, Guadeloupe, Réunion) and a port of national interest in Saint-Pierre-et-Miquelon."
     },
     {
       "id": "hgc-q148",
@@ -1755,7 +2910,15 @@
         "Nice-Côte d’Azur"
       ],
       "correctAnswer": 1,
-      "explanation": "Paris-Charles de Gaulle est le premier aéroport français et le deuxième d'Europe, accueillant plus de 70 millions de passagers par an."
+      "explanation": "Paris-Charles de Gaulle est le premier aéroport français et le deuxième d'Europe, accueillant plus de 70 millions de passagers par an.",
+      "questionEn": "What is the largest airport in France by number of passengers?",
+      "optionsEn": [
+        "Marseille-Provence",
+        "Paris-Charles de Gaulle (CDG)",
+        "Lyon-Saint-Exupéry",
+        "Nice-Côte d'Azur"
+      ],
+      "explanationEn": "Paris-Charles de Gaulle is France's largest airport and the second in Europe, welcoming more than 70 million passengers per year."
     },
     {
       "id": "hgc-q149",
@@ -1767,7 +2930,15 @@
         "Il est gratuit pour tous les citoyens"
       ],
       "correctAnswer": 2,
-      "explanation": "Le transport aérien est stratégique car il connecte la France au monde, favorisant le tourisme, les échanges économiques et la logistique."
+      "explanation": "Le transport aérien est stratégique car il connecte la France au monde, favorisant le tourisme, les échanges économiques et la logistique.",
+      "questionEn": "Why is air transport important for the French economy?",
+      "optionsEn": [
+        "It only transports goods",
+        "It is only for presidential trips",
+        "It supports tourism, the economy, and international relations",
+        "It is free for all citizens"
+      ],
+      "explanationEn": "Air transport is strategic because it connects France to the world, promoting tourism, economic exchanges, and logistics."
     },
     {
       "id": "hgc-q150",
@@ -1778,7 +2949,14 @@
         "Une grande variété de métiers (mécaniciens, agents d'escale, ingénieurs, etc.)"
       ],
       "correctAnswer": 2,
-      "explanation": "Le secteur aérien crée de nombreux emplois diversifiés, allant de la maintenance à la logistique en passant par la sécurité."
+      "explanation": "Le secteur aérien crée de nombreux emplois diversifiés, allant de la maintenance à la logistique en passant par la sécurité.",
+      "questionEn": "What types of jobs does the aviation sector offer?",
+      "optionsEn": [
+        "Only pilots",
+        "Only flight attendants",
+        "A wide variety of jobs (mechanics, ground agents, engineers, etc.)"
+      ],
+      "explanationEn": "The aviation sector creates many diverse jobs, from maintenance to logistics to security."
     },
     {
       "id": "hgc-q151",
@@ -1789,7 +2967,14 @@
         "C'est la dixième destination touristique au monde"
       ],
       "correctAnswer": 0,
-      "explanation": "La France est la première destination touristique mondiale, attirant plus de 100 millions de voyageurs en 2024."
+      "explanation": "La France est la première destination touristique mondiale, attirant plus de 100 millions de voyageurs en 2024.",
+      "questionEn": "What is France's position in the world ranking of tourist destinations?",
+      "optionsEn": [
+        "It is the number one tourist destination in the world",
+        "It is the third tourist destination in the world",
+        "It is the tenth tourist destination in the world"
+      ],
+      "explanationEn": "France is the world's number one tourist destination, attracting more than 100 million travelers in 2024."
     },
     {
       "id": "hgc-q152",
@@ -1801,7 +2986,15 @@
         "Le Super Bowl"
       ],
       "correctAnswer": 1,
-      "explanation": "Le Tour de France (cyclisme) est un événement international majeur, tout comme le Festival de Cannes ou Roland-Garros."
+      "explanation": "Le Tour de France (cyclisme) est un événement international majeur, tout comme le Festival de Cannes ou Roland-Garros.",
+      "questionEn": "Among these options, which is an example of an international event organized in France?",
+      "optionsEn": [
+        "The Rio Carnival",
+        "The Tour de France",
+        "Oktoberfest",
+        "The Super Bowl"
+      ],
+      "explanationEn": "The Tour de France (cycling) is a major international event, along with the Cannes Film Festival and Roland-Garros."
     },
     {
       "id": "hgc-q153",
@@ -1812,7 +3005,14 @@
         "Il coûte plus d'argent qu'il n'en rapporte"
       ],
       "correctAnswer": 1,
-      "explanation": "Le tourisme est un secteur majeur qui représente 8% du PIB national et génère plus de 2 millions d'emplois."
+      "explanation": "Le tourisme est un secteur majeur qui représente 8% du PIB national et génère plus de 2 millions d'emplois.",
+      "questionEn": "What is the impact of tourism on the French economy?",
+      "optionsEn": [
+        "It brings almost nothing to the economy",
+        "It represents about 8% of gross domestic product (GDP)",
+        "It costs more money than it brings in"
+      ],
+      "explanationEn": "Tourism is a major sector that represents 8% of the national GDP and generates more than 2 million jobs."
     },
     {
       "id": "hgc-q154",
@@ -1824,7 +3024,15 @@
         "Au centre de la France, autour de Paris"
       ],
       "correctAnswer": 1,
-      "explanation": "La région est située dans le sud-est de la France et partage ses frontières avec la Suisse et l'Italie."
+      "explanation": "La région est située dans le sud-est de la France et partage ses frontières avec la Suisse et l'Italie.",
+      "questionEn": "Where is the Auvergne-Rhône-Alpes region located in France?",
+      "optionsEn": [
+        "In the northwest, near Belgium",
+        "In the southeast, bordering Switzerland and Italy",
+        "In the southwest, near Spain",
+        "In the center of France, around Paris"
+      ],
+      "explanationEn": "The region is located in the southeast of France and shares borders with Switzerland and Italy."
     },
     {
       "id": "hgc-q155",
@@ -1836,7 +3044,15 @@
         "Clermont-Ferrand"
       ],
       "correctAnswer": 2,
-      "explanation": "Lyon est la préfecture de la région, c'est la ville administrative principale."
+      "explanation": "Lyon est la préfecture de la région, c'est la ville administrative principale.",
+      "questionEn": "What is the main city (prefecture) of the Auvergne-Rhône-Alpes region?",
+      "optionsEn": [
+        "Grenoble",
+        "Saint-Étienne",
+        "Lyon",
+        "Clermont-Ferrand"
+      ],
+      "explanationEn": "Lyon is the prefecture of the region, meaning the main administrative city."
     },
     {
       "id": "hgc-q156",
@@ -1848,7 +3064,15 @@
         "C'est une région très peu peuplée avec peu d'activités"
       ],
       "correctAnswer": 2,
-      "explanation": "Avec 8,1 millions d'habitants, c'est la 2ème région la plus peuplée et son économie est forte dans l'industrie, le tourisme et le numérique."
+      "explanation": "Avec 8,1 millions d'habitants, c'est la 2ème région la plus peuplée et son économie est forte dans l'industrie, le tourisme et le numérique.",
+      "questionEn": "What is the economic feature of this region?",
+      "optionsEn": [
+        "It is a purely agricultural region with no industry",
+        "The unemployment rate is much higher than in the rest of France",
+        "It is the second most populated region with a dynamic economy (industry, tourism, digital)",
+        "It is a very sparsely populated region with few activities"
+      ],
+      "explanationEn": "With 8.1 million inhabitants, it is the 2nd most populated region and its economy is strong in industry, tourism, and digital technology."
     },
     {
       "id": "hgc-q157",
@@ -1860,7 +3084,15 @@
         "À l'ouest de la France, au bord de l'océan Atlantique"
       ],
       "correctAnswer": 1,
-      "explanation": "La région se trouve à l'est de la France et partage une frontière avec la Suisse."
+      "explanation": "La région se trouve à l'est de la France et partage une frontière avec la Suisse.",
+      "questionEn": "Where is the Bourgogne-Franche-Comté region located?",
+      "optionsEn": [
+        "In southern France, near Spain",
+        "In eastern France, on the border with Switzerland",
+        "In northern France, near Belgium",
+        "In western France, on the Atlantic coast"
+      ],
+      "explanationEn": "The region is located in eastern France and shares a border with Switzerland."
     },
     {
       "id": "hgc-q158",
@@ -1872,7 +3104,15 @@
         "Auxerre"
       ],
       "correctAnswer": 2,
-      "explanation": "Dijon est la préfecture de la région Bourgogne-Franche-Comté."
+      "explanation": "Dijon est la préfecture de la région Bourgogne-Franche-Comté.",
+      "questionEn": "What is the prefecture city of the region?",
+      "optionsEn": [
+        "Besançon",
+        "Belfort",
+        "Dijon",
+        "Auxerre"
+      ],
+      "explanationEn": "Dijon is the prefecture of the Bourgogne-Franche-Comté region."
     },
     {
       "id": "hgc-q159",
@@ -1884,7 +3124,15 @@
         "La finance et les banques internationales"
       ],
       "correctAnswer": 1,
-      "explanation": "L'économie repose notamment sur l'industrie (automobile), les célèbres vins de Bourgogne et l'horlogerie."
+      "explanation": "L'économie repose notamment sur l'industrie (automobile), les célèbres vins de Bourgogne et l'horlogerie.",
+      "questionEn": "What are the important economic sectors of this region?",
+      "optionsEn": [
+        "Fishing and shipbuilding",
+        "Automotive industry, winemaking, and watchmaking",
+        "Aeronautics and space",
+        "Finance and international banking"
+      ],
+      "explanationEn": "The economy is based notably on industry (automotive), the famous Burgundy wines, and watchmaking."
     },
     {
       "id": "hgc-q160",
@@ -1896,7 +3144,15 @@
         "À l'est de la France, près de l'Allemagne"
       ],
       "correctAnswer": 1,
-      "explanation": "La Bretagne est une péninsule située à l'extrême ouest de la France, bordée par la Manche et l'océan Atlantique."
+      "explanation": "La Bretagne est une péninsule située à l'extrême ouest de la France, bordée par la Manche et l'océan Atlantique.",
+      "questionEn": "Where is the Brittany region located?",
+      "optionsEn": [
+        "In southern France, near Italy",
+        "At the far west of France, on the ocean",
+        "In northern France, near Belgium",
+        "In eastern France, near Germany"
+      ],
+      "explanationEn": "Brittany is a peninsula located at the far west of France, bordered by the English Channel and the Atlantic Ocean."
     },
     {
       "id": "hgc-q161",
@@ -1908,7 +3164,15 @@
         "Lorient"
       ],
       "correctAnswer": 1,
-      "explanation": "Rennes est la préfecture de la région, c'est-à-dire la ville principale où se trouve l'administration régionale."
+      "explanation": "Rennes est la préfecture de la région, c'est-à-dire la ville principale où se trouve l'administration régionale.",
+      "questionEn": "What is the prefecture city of the Brittany region?",
+      "optionsEn": [
+        "Brest",
+        "Rennes",
+        "Saint-Malo",
+        "Lorient"
+      ],
+      "explanationEn": "Rennes is the prefecture of the region, meaning the main city where the regional administration is located."
     },
     {
       "id": "hgc-q162",
@@ -1920,7 +3184,15 @@
         "L'exploitation minière"
       ],
       "correctAnswer": 1,
-      "explanation": "La Bretagne est la première région de France pour le secteur agroalimentaire (transformation des produits de l'agriculture et de la pêche)."
+      "explanation": "La Bretagne est la première région de France pour le secteur agroalimentaire (transformation des produits de l'agriculture et de la pêche).",
+      "questionEn": "What is the most important economic sector in Brittany?",
+      "optionsEn": [
+        "The automotive industry",
+        "The agri-food industry",
+        "The luxury industry",
+        "Mining"
+      ],
+      "explanationEn": "Brittany is France's leading region for the agri-food sector (processing agricultural and fishing products)."
     },
     {
       "id": "hgc-q163",
@@ -1932,7 +3204,15 @@
         "Le marché du travail est en crise dans toutes les villes"
       ],
       "correctAnswer": 2,
-      "explanation": "La Bretagne a un taux de chômage plus bas que le reste de la France et offre des emplois, notamment dans les grandes villes."
+      "explanation": "La Bretagne a un taux de chômage plus bas que le reste de la France et offre des emplois, notamment dans les grandes villes.",
+      "questionEn": "How is the job market in Brittany?",
+      "optionsEn": [
+        "Unemployment is very high, above the national average",
+        "There are no jobs in digital technology",
+        "Unemployment is below the national average and the market is dynamic",
+        "The job market is in crisis in all cities"
+      ],
+      "explanationEn": "Brittany has a lower unemployment rate than the rest of France and offers jobs, especially in major cities."
     },
     {
       "id": "hgc-q164",
@@ -1944,7 +3224,15 @@
         "Chartres"
       ],
       "correctAnswer": 1,
-      "explanation": "Bien que Tours soit une grande ville, la préfecture de la région est Orléans."
+      "explanation": "Bien que Tours soit une grande ville, la préfecture de la région est Orléans.",
+      "questionEn": "What is the prefecture city of the Centre-Val de Loire region?",
+      "optionsEn": [
+        "Tours",
+        "Orléans",
+        "Bourges",
+        "Chartres"
+      ],
+      "explanationEn": "Although Tours is a large city, the prefecture of the region is Orléans."
     },
     {
       "id": "hgc-q165",
@@ -1956,7 +3244,15 @@
         "La finance et les assurances uniquement"
       ],
       "correctAnswer": 1,
-      "explanation": "La région est connue pour son industrie (pharmaceutique, cosmétique), son agriculture et le tourisme lié aux châteaux de la Loire."
+      "explanation": "La région est connue pour son industrie (pharmaceutique, cosmétique), son agriculture et le tourisme lié aux châteaux de la Loire.",
+      "questionEn": "What are the main economic sectors of this region?",
+      "optionsEn": [
+        "Fishing and shipbuilding",
+        "Pharmaceutical industry, agriculture, and tourism",
+        "Mining and steel industry",
+        "Finance and insurance only"
+      ],
+      "explanationEn": "The region is known for its industry (pharmaceutical, cosmetics), agriculture, and tourism linked to the Loire Valley châteaux."
     },
     {
       "id": "hgc-q166",
@@ -1967,7 +3263,14 @@
         "À l'est de l'Île-de-France"
       ],
       "correctAnswer": 0,
-      "explanation": "La région est située au centre-nord de la France, juste en dessous (au sud) de l'Île-de-France."
+      "explanation": "La région est située au centre-nord de la France, juste en dessous (au sud) de l'Île-de-France.",
+      "questionEn": "Where is the Centre-Val de Loire region located relative to Paris (Île-de-France)?",
+      "optionsEn": [
+        "South of Île-de-France",
+        "North of Île-de-France",
+        "East of Île-de-France"
+      ],
+      "explanationEn": "The region is located in north-central France, just below (south of) Île-de-France."
     },
     {
       "id": "hgc-q167",
@@ -1979,7 +3282,15 @@
         "C'est une région frontalière avec l'Allemagne"
       ],
       "correctAnswer": 1,
-      "explanation": "La Corse est une île située dans la mer Méditerranée, au sud-est de la France continentale."
+      "explanation": "La Corse est une île située dans la mer Méditerranée, au sud-est de la France continentale.",
+      "questionEn": "Where is the Corsica region located?",
+      "optionsEn": [
+        "It is an island in the Atlantic Ocean",
+        "It is an island in the Mediterranean Sea",
+        "It is a region north of Paris",
+        "It is a region bordering Germany"
+      ],
+      "explanationEn": "Corsica is an island located in the Mediterranean Sea, southeast of mainland France."
     },
     {
       "id": "hgc-q168",
@@ -1991,7 +3302,15 @@
         "Calvi"
       ],
       "correctAnswer": 1,
-      "explanation": "Ajaccio est la ville principale et la préfecture de la région Corse."
+      "explanation": "Ajaccio est la ville principale et la préfecture de la région Corse.",
+      "questionEn": "What is the prefecture city of Corsica?",
+      "optionsEn": [
+        "Bastia",
+        "Ajaccio",
+        "Porto-Vecchio",
+        "Calvi"
+      ],
+      "explanationEn": "Ajaccio is the main city and the prefecture of the Corsica region."
     },
     {
       "id": "hgc-q169",
@@ -2003,7 +3322,15 @@
         "C'est la région la plus industrielle de France"
       ],
       "correctAnswer": 2,
-      "explanation": "L'économie corse est fortement liée au tourisme, ce qui signifie qu'il y a moins de travail en dehors de la saison touristique."
+      "explanation": "L'économie corse est fortement liée au tourisme, ce qui signifie qu'il y a moins de travail en dehors de la saison touristique.",
+      "questionEn": "What is the special feature of the job market in Corsica?",
+      "optionsEn": [
+        "There are many car factories",
+        "Unemployment is very low all year",
+        "The economy depends heavily on tourism and seasons",
+        "It is the most industrial region in France"
+      ],
+      "explanationEn": "Corsica's economy is strongly tied to tourism, which means there is less work outside the tourist season."
     },
     {
       "id": "hgc-q170",
@@ -2015,7 +3342,15 @@
         "Elle est située au centre de la France, sans frontières extérieures"
       ],
       "correctAnswer": 1,
-      "explanation": "La région est située à l'est de la France et partage ses frontières avec la Belgique, le Luxembourg, l'Allemagne et la Suisse."
+      "explanation": "La région est située à l'est de la France et partage ses frontières avec la Belgique, le Luxembourg, l'Allemagne et la Suisse.",
+      "questionEn": "What is the geographic feature of the Grand Est region?",
+      "optionsEn": [
+        "It is in southern France, near Spain",
+        "It is in eastern France, bordering four countries",
+        "It is an island in the Atlantic Ocean",
+        "It is in central France, with no external borders"
+      ],
+      "explanationEn": "The region is located in eastern France and shares borders with Belgium, Luxembourg, Germany, and Switzerland."
     },
     {
       "id": "hgc-q171",
@@ -2027,7 +3362,15 @@
         "Nancy"
       ],
       "correctAnswer": 2,
-      "explanation": "Strasbourg est la préfecture de la région, bien que Reims, Metz et Nancy soient aussi des villes importantes."
+      "explanation": "Strasbourg est la préfecture de la région, bien que Reims, Metz et Nancy soient aussi des villes importantes.",
+      "questionEn": "What is the prefecture city of the Grand Est region?",
+      "optionsEn": [
+        "Reims",
+        "Metz",
+        "Strasbourg",
+        "Nancy"
+      ],
+      "explanationEn": "Strasbourg is the prefecture of the region, although Reims, Metz, and Nancy are also important cities."
     },
     {
       "id": "hgc-q172",
@@ -2039,7 +3382,15 @@
         "L'informatique et les nouvelles technologies uniquement"
       ],
       "correctAnswer": 1,
-      "explanation": "L'économie repose sur l'industrie (automobile, chimie), l'agriculture (vignes) et le tourisme lié à l'histoire des guerres mondiales."
+      "explanation": "L'économie repose sur l'industrie (automobile, chimie), l'agriculture (vignes) et le tourisme lié à l'histoire des guerres mondiales.",
+      "questionEn": "What are the main economic sectors of the region?",
+      "optionsEn": [
+        "Agriculture and fishing",
+        "Services, tourism, and high-tech industry",
+        "Mining",
+        "Mountain livestock farming"
+      ],
+      "explanationEn": "The region's economy is mainly based on services (finance, digital), tourism, culture, and high-tech industries."
     },
     {
       "id": "hgc-q173",
@@ -2051,7 +3402,15 @@
         "À l'est de la France, près de l'Allemagne"
       ],
       "correctAnswer": 2,
-      "explanation": "La région est située tout au nord du pays et partage une frontière avec la Belgique."
+      "explanation": "La région est située tout au nord du pays et partage une frontière avec la Belgique.",
+      "questionEn": "Where is the Hauts-de-France region located?",
+      "optionsEn": [
+        "In southern France, near Spain",
+        "In western France, on the Atlantic coast",
+        "In northern France, bordering Belgium",
+        "In eastern France, near Germany"
+      ],
+      "explanationEn": "The region is located in the far north of the country and shares a border with Belgium."
     },
     {
       "id": "hgc-q174",
@@ -2063,7 +3422,15 @@
         "Dunkerque"
       ],
       "correctAnswer": 1,
-      "explanation": "Lille est la préfecture et une des villes les plus importantes de la région."
+      "explanation": "Lille est la préfecture et une des villes les plus importantes de la région.",
+      "questionEn": "What is the prefecture (main city) of the Hauts-de-France region?",
+      "optionsEn": [
+        "Amiens",
+        "Lille",
+        "Calais",
+        "Dunkirk"
+      ],
+      "explanationEn": "Lille is the prefecture and one of the most important cities of the region."
     },
     {
       "id": "hgc-q175",
@@ -2075,7 +3442,15 @@
         "Il n'y a pas de grandes villes, seulement des villages"
       ],
       "correctAnswer": 2,
-      "explanation": "La région a un passé industriel fort mais connaît un taux de chômage supérieur à la moyenne nationale."
+      "explanation": "La région a un passé industriel fort mais connaît un taux de chômage supérieur à la moyenne nationale.",
+      "questionEn": "What is the economic and social situation of the region?",
+      "optionsEn": [
+        "Unemployment is very low and it is the richest region in France",
+        "It is a purely agricultural region with no industry",
+        "The unemployment rate is higher than the national average, despite active industry",
+        "There are no large cities, only villages"
+      ],
+      "explanationEn": "The region has a strong industrial history but has an unemployment rate higher than the national average."
     },
     {
       "id": "hgc-q176",
@@ -2087,7 +3462,15 @@
         "À l'ouest de la France, près de l'océan"
       ],
       "correctAnswer": 1,
-      "explanation": "L'Île-de-France est située au centre-nord du pays et entoure la capitale, Paris."
+      "explanation": "L'Île-de-France est située au centre-nord du pays et entoure la capitale, Paris.",
+      "questionEn": "Where is the Île-de-France region located?",
+      "optionsEn": [
+        "In southern France, near the sea",
+        "In north-central France, around Paris",
+        "In eastern France, near Germany",
+        "In western France, near the ocean"
+      ],
+      "explanationEn": "Île-de-France is located in north-central France and surrounds the capital, Paris."
     },
     {
       "id": "hgc-q177",
@@ -2099,7 +3482,15 @@
         "La population diminue chaque année"
       ],
       "correctAnswer": 2,
-      "explanation": "Avec environ 12,4 millions d'habitants, c'est la région qui compte le plus d'habitants en France."
+      "explanation": "Avec environ 12,4 millions d'habitants, c'est la région qui compte le plus d'habitants en France.",
+      "questionEn": "What is the demographic feature of Île-de-France?",
+      "optionsEn": [
+        "It is the least populated region in France",
+        "It is a mostly rural region",
+        "It is the most populated region in France",
+        "The population decreases every year"
+      ],
+      "explanationEn": "With about 12.4 million inhabitants, it is the most populated region in France."
     },
     {
       "id": "hgc-q178",
@@ -2111,7 +3502,15 @@
         "Créteil"
       ],
       "correctAnswer": 2,
-      "explanation": "Paris est à la fois la capitale de la France et la préfecture de la région Île-de-France."
+      "explanation": "Paris est à la fois la capitale de la France et la préfecture de la région Île-de-France.",
+      "questionEn": "What is the prefecture city of the Île-de-France region?",
+      "optionsEn": [
+        "Versailles",
+        "Saint-Denis",
+        "Paris",
+        "Créteil"
+      ],
+      "explanationEn": "Paris is both the capital of France and the prefecture of the Île-de-France region."
     },
     {
       "id": "hgc-q179",
@@ -2123,7 +3522,15 @@
         "L'élevage de montagne"
       ],
       "correctAnswer": 1,
-      "explanation": "L'économie de la région repose surtout sur les services (finance, numérique), le tourisme, la culture et les industries de haute technologie."
+      "explanation": "L'économie de la région repose surtout sur les services (finance, numérique), le tourisme, la culture et les industries de haute technologie.",
+      "questionEn": "What are the main economic sectors of the region?",
+      "optionsEn": [
+        "Agriculture and fishing",
+        "Services, tourism, and high-tech industry",
+        "Mining",
+        "Mountain livestock farming"
+      ],
+      "explanationEn": "The region's economy is mainly based on services (finance, digital), tourism, culture, and high-tech industries."
     },
     {
       "id": "hgc-q180",
@@ -2135,7 +3542,15 @@
         "À l'est de la France, près de l'Allemagne"
       ],
       "correctAnswer": 1,
-      "explanation": "La Normandie est située au nord-ouest de la France et possède une longue côte bordée par la Manche."
+      "explanation": "La Normandie est située au nord-ouest de la France et possède une longue côte bordée par la Manche.",
+      "questionEn": "Where is the Normandy region located?",
+      "optionsEn": [
+        "In southeastern France, near Italy",
+        "In northwestern France, bordered by the English Channel",
+        "In central France, far from the sea",
+        "In eastern France, near Germany"
+      ],
+      "explanationEn": "Normandy is in northwestern France and has a long coastline along the English Channel."
     },
     {
       "id": "hgc-q181",
@@ -2147,7 +3562,15 @@
         "Cherbourg"
       ],
       "correctAnswer": 2,
-      "explanation": "Rouen est la préfecture de la région, bien que Le Havre et Caen soient aussi des villes très importantes."
+      "explanation": "Rouen est la préfecture de la région, bien que Le Havre et Caen soient aussi des villes très importantes.",
+      "questionEn": "Which city is the prefecture of the Normandy region?",
+      "optionsEn": [
+        "Le Havre",
+        "Caen",
+        "Rouen",
+        "Cherbourg"
+      ],
+      "explanationEn": "Rouen is the prefecture of the region, although Le Havre and Caen are also very important cities."
     },
     {
       "id": "hgc-q182",
@@ -2159,7 +3582,15 @@
         "L'exploitation minière et forestière"
       ],
       "correctAnswer": 1,
-      "explanation": "L'économie normande repose sur l'industrie (automobile, énergie), la logistique grâce à ses ports, l'agriculture et le tourisme (mémoire, littoral)."
+      "explanation": "L'économie normande repose sur l'industrie (automobile, énergie), la logistique grâce à ses ports, l'agriculture et le tourisme (mémoire, littoral).",
+      "questionEn": "What are the key economic sectors of Normandy?",
+      "optionsEn": [
+        "Only agriculture and fishing",
+        "Industry, port logistics, and tourism",
+        "Finance and new technologies",
+        "Mining and forestry"
+      ],
+      "explanationEn": "Normandy's economy is based on industry (automotive, energy), logistics thanks to its ports, agriculture, and tourism (remembrance, coastline)."
     },
     {
       "id": "hgc-q183",
@@ -2171,7 +3602,15 @@
         "Elle ne borde aucun océan"
       ],
       "correctAnswer": 2,
-      "explanation": "La Nouvelle-Aquitaine est située dans le sud-ouest et c'est la plus grande région de France métropolitaine en superficie."
+      "explanation": "La Nouvelle-Aquitaine est située dans le sud-ouest et c'est la plus grande région de France métropolitaine en superficie.",
+      "questionEn": "What is the geographic feature of the Nouvelle-Aquitaine region?",
+      "optionsEn": [
+        "It is the smallest region in France",
+        "It is located in northern France",
+        "It is the largest region in metropolitan France",
+        "It does not border any ocean"
+      ],
+      "explanationEn": "Nouvelle-Aquitaine is located in the southwest and is the largest region in metropolitan France by area."
     },
     {
       "id": "hgc-q184",
@@ -2183,7 +3622,15 @@
         "La Rochelle"
       ],
       "correctAnswer": 1,
-      "explanation": "Bordeaux est la ville principale et la préfecture de la région Nouvelle-Aquitaine."
+      "explanation": "Bordeaux est la ville principale et la préfecture de la région Nouvelle-Aquitaine.",
+      "questionEn": "What is the prefecture city of Nouvelle-Aquitaine?",
+      "optionsEn": [
+        "Limoges",
+        "Bordeaux",
+        "Poitiers",
+        "La Rochelle"
+      ],
+      "explanationEn": "Bordeaux is the main city and the prefecture of the Nouvelle-Aquitaine region."
     },
     {
       "id": "hgc-q185",
@@ -2195,7 +3642,15 @@
         "La finance et les banques internationales"
       ],
       "correctAnswer": 1,
-      "explanation": "L'économie de la région repose sur plusieurs secteurs clés comme l'aéronautique, l'agriculture (vignes, élevage) et le tourisme."
+      "explanation": "L'économie de la région repose sur plusieurs secteurs clés comme l'aéronautique, l'agriculture (vignes, élevage) et le tourisme.",
+      "questionEn": "What are the important economic sectors in this region?",
+      "optionsEn": [
+        "Only fishing and shipbuilding",
+        "Aeronautics, agriculture, and tourism",
+        "Automotive industry and textiles",
+        "Finance and international banking"
+      ],
+      "explanationEn": "The region's economy is based on several key sectors like aeronautics, agriculture (vineyards, livestock), and tourism."
     },
     {
       "id": "hgc-q186",
@@ -2207,7 +3662,15 @@
         "Il est impossible de trouver du travail dans les départements du bord de mer"
       ],
       "correctAnswer": 0,
-      "explanation": "Le taux de chômage en Nouvelle-Aquitaine est inférieur à la moyenne nationale, même s'il existe des différences entre les départements."
+      "explanation": "Le taux de chômage en Nouvelle-Aquitaine est inférieur à la moyenne nationale, même s'il existe des différences entre les départements.",
+      "questionEn": "How does the job market in Nouvelle-Aquitaine compare to the rest of France?",
+      "optionsEn": [
+        "The unemployment rate is lower than the national average",
+        "There is no unemployment in this region",
+        "The unemployment rate is much higher than the national average",
+        "It is impossible to find work in coastal departments"
+      ],
+      "explanationEn": "The unemployment rate in Nouvelle-Aquitaine is lower than the national average, even though there are differences between departments."
     },
     {
       "id": "hgc-q187",
@@ -2219,7 +3682,15 @@
         "Le sport"
       ],
       "correctAnswer": 1,
-      "explanation": "Paris est une capitale mondiale de la mode, célèbre pour ses maisons de haute couture comme Chanel, Dior ou Saint Laurent."
+      "explanation": "Paris est une capitale mondiale de la mode, célèbre pour ses maisons de haute couture comme Chanel, Dior ou Saint Laurent.",
+      "questionEn": "In which field is France considered a world capital with fashion houses like Chanel or Dior?",
+      "optionsEn": [
+        "IT",
+        "Fashion",
+        "Agriculture",
+        "Sports"
+      ],
+      "explanationEn": "Paris is a world capital of fashion, famous for its haute couture houses like Chanel, Dior, and Saint Laurent."
     },
     {
       "id": "hgc-q188",
@@ -2231,7 +3702,15 @@
         "La Mostra de Venise"
       ],
       "correctAnswer": 0,
-      "explanation": "La France organise le Festival de Cannes, qui est l'un des événements les plus importants du cinéma mondial."
+      "explanation": "La France organise le Festival de Cannes, qui est l'un des événements les plus importants du cinéma mondial.",
+      "questionEn": "What major cinema event is organized in France?",
+      "optionsEn": [
+        "The Cannes Film Festival",
+        "The Oscars ceremony",
+        "The Berlin Film Festival",
+        "The Venice Film Festival"
+      ],
+      "explanationEn": "France hosts the Festival de Cannes (Cannes Film Festival), one of the most important cinema events in the world."
     },
     {
       "id": "hgc-q189",
@@ -2243,7 +3722,15 @@
         "Les boulangeries françaises"
       ],
       "correctAnswer": 1,
-      "explanation": "Les Alliances françaises et les Instituts français sont présents à l'étranger pour enseigner le français et organiser des événements culturels."
+      "explanation": "Les Alliances françaises et les Instituts français sont présents à l'étranger pour enseigner le français et organiser des événements culturels.",
+      "questionEn": "Which institutions spread the French language and culture in more than 130 countries?",
+      "optionsEn": [
+        "City halls and prefectures",
+        "The Alliances françaises and the Instituts français",
+        "National museums",
+        "French bakeries"
+      ],
+      "explanationEn": "The Alliances françaises and the Instituts français are present abroad to teach French and organize cultural events."
     },
     {
       "id": "hgc-q190",
@@ -2255,7 +3742,15 @@
         "Le château de Versailles"
       ],
       "correctAnswer": 2,
-      "explanation": "Le Louvre Abu Dhabi est le résultat d'un accord important entre la France et les Émirats arabes unis pour partager l'expertise culturelle française."
+      "explanation": "Le Louvre Abu Dhabi est le résultat d'un accord important entre la France et les Émirats arabes unis pour partager l'expertise culturelle française.",
+      "questionEn": "Which famous museum is an example of a cultural partnership between France and the United Arab Emirates?",
+      "optionsEn": [
+        "The Musée d'Orsay",
+        "The Centre Pompidou",
+        "The Louvre Abu Dhabi",
+        "The Palace of Versailles"
+      ],
+      "explanationEn": "The Louvre Abu Dhabi is the result of an important agreement between France and the United Arab Emirates to share French cultural expertise."
     },
     {
       "id": "hgc-q191",
@@ -2267,7 +3762,15 @@
         "Uniquement en France"
       ],
       "correctAnswer": 2,
-      "explanation": "Le français est une langue mondiale présente sur les 5 continents, avec plus de 300 millions de locuteurs."
+      "explanation": "Le français est une langue mondiale présente sur les 5 continents, avec plus de 300 millions de locuteurs.",
+      "questionEn": "On how many continents is the French language spoken?",
+      "optionsEn": [
+        "Only in Europe",
+        "On 3 continents",
+        "On all 5 continents",
+        "Only in France"
+      ],
+      "explanationEn": "French is a global language present on all 5 continents, with more than 300 million speakers."
     },
     {
       "id": "hgc-q192",
@@ -2279,7 +3782,15 @@
         "C'est une langue réservée aux touristes"
       ],
       "correctAnswer": 1,
-      "explanation": "Le français est une langue officielle de travail et de diplomatie dans de nombreuses organisations internationales."
+      "explanation": "Le français est une langue officielle de travail et de diplomatie dans de nombreuses organisations internationales.",
+      "questionEn": "What is the role of French in major international organizations like the UN or the European Union?",
+      "optionsEn": [
+        "It is a banned language",
+        "It is a diplomatic language used for work",
+        "It is a language only used during coffee breaks",
+        "It is a language reserved for tourists"
+      ],
+      "explanationEn": "French is an official working and diplomatic language in many international organizations."
     },
     {
       "id": "hgc-q193",
@@ -2291,7 +3802,15 @@
         "Un examen de langue française"
       ],
       "correctAnswer": 1,
-      "explanation": "La francophonie rassemble tous les hommes et les femmes qui parlent français à travers le monde."
+      "explanation": "La francophonie rassemble tous les hommes et les femmes qui parlent français à travers le monde.",
+      "questionEn": "What is la Francophonie?",
+      "optionsEn": [
+        "A French sports club",
+        "The community of peoples who speak French",
+        "A national holiday in France",
+        "A French language exam"
+      ],
+      "explanationEn": "La Francophonie brings together all the men and women who speak French around the world."
     },
     {
       "id": "hgc-q194",
@@ -2303,7 +3822,15 @@
         "Obliger tout le monde à parler français"
       ],
       "correctAnswer": 0,
-      "explanation": "L'OIF a plusieurs missions, dont la promotion de la paix, de la démocratie, des droits de l'Homme et de l'éducation."
+      "explanation": "L'OIF a plusieurs missions, dont la promotion de la paix, de la démocratie, des droits de l'Homme et de l'éducation.",
+      "questionEn": "What is one of the missions of the Organisation Internationale de la Francophonie (OIF)?",
+      "optionsEn": [
+        "To promote peace, democracy, and human rights",
+        "To organize only music concerts",
+        "To sell French products abroad",
+        "To force everyone to speak French"
+      ],
+      "explanationEn": "The OIF has several missions, including promoting peace, democracy, human rights, and education."
     },
     {
       "id": "hgc-q195",
@@ -2315,7 +3842,15 @@
         "Les parcs naturels et les forêts"
       ],
       "correctAnswer": 1,
-      "explanation": "Le patrimoine n'est pas seulement constitué de monuments (matériel), il comprend aussi des traditions vivantes, des savoir-faire et des pratiques sociales (immatériel)."
+      "explanation": "Le patrimoine n'est pas seulement constitué de monuments (matériel), il comprend aussi des traditions vivantes, des savoir-faire et des pratiques sociales (immatériel).",
+      "questionEn": "What is intangible heritage?",
+      "optionsEn": [
+        "Only castles and churches",
+        "Traditions like rituals, performing arts, or gastronomy",
+        "All French laws",
+        "Natural parks and forests"
+      ],
+      "explanationEn": "Heritage is not only made of monuments (tangible); it also includes living traditions, know-how, and social practices (intangible)."
     },
     {
       "id": "hgc-q196",
@@ -2327,7 +3862,15 @@
         "Pour les transformer en hôtels de luxe"
       ],
       "correctAnswer": 0,
-      "explanation": "Ce statut juridique sert à protéger les monuments contre la destruction ou des modifications inappropriées, afin de préserver l'histoire du pays."
+      "explanation": "Ce statut juridique sert à protéger les monuments contre la destruction ou des modifications inappropriées, afin de préserver l'histoire du pays.",
+      "questionEn": "Why do some historic monuments have a special legal status?",
+      "optionsEn": [
+        "To protect them and preserve France's cultural history",
+        "To ban tourists from visiting them",
+        "To be able to sell them for more abroad",
+        "To turn them into luxury hotels"
+      ],
+      "explanationEn": "This legal status serves to protect monuments from destruction or inappropriate changes, in order to preserve the country's history."
     },
     {
       "id": "hgc-q197",
@@ -2339,7 +3882,15 @@
         "Les vacances d'été"
       ],
       "correctAnswer": 1,
-      "explanation": "La gastronomie française, qui est une façon de se rassembler autour d'un bon repas lors d'événements importants, est reconnue par l'UNESCO."
+      "explanation": "La gastronomie française, qui est une façon de se rassembler autour d'un bon repas lors d'événements importants, est reconnue par l'UNESCO.",
+      "questionEn": "Which French tradition is listed as UNESCO World Heritage?",
+      "optionsEn": [
+        "The afternoon nap",
+        "The gastronomic meal of the French",
+        "Driving on the right",
+        "Summer holidays"
+      ],
+      "explanationEn": "French gastronomy, which is a way of gathering around a good meal for important events, is recognized by UNESCO."
     },
     {
       "id": "hgc-q198",
@@ -2351,7 +3902,15 @@
         "Au bord de la mer Méditerranée"
       ],
       "correctAnswer": 0,
-      "explanation": "La basilique de Fourvière est située sur la colline de Fourvière, qui domine la ville de Lyon."
+      "explanation": "La basilique de Fourvière est située sur la colline de Fourvière, qui domine la ville de Lyon.",
+      "questionEn": "Where is the Basilica of Fourvière located?",
+      "optionsEn": [
+        "On the highest hill of Lyon",
+        "In the center of Paris",
+        "In a ski resort in the Alps",
+        "On the Mediterranean coast"
+      ],
+      "explanationEn": "The Basilica of Fourvière is located on the Fourvière hill, which overlooks the city of Lyon."
     },
     {
       "id": "hgc-q199",
@@ -2363,7 +3922,15 @@
         "Le marché de Noël"
       ],
       "correctAnswer": 2,
-      "explanation": "En décembre, lors de la Fête des Lumières, la basilique et la ville de Lyon sont illuminées par des projections."
+      "explanation": "En décembre, lors de la Fête des Lumières, la basilique et la ville de Lyon sont illuminées par des projections.",
+      "questionEn": "What famous event lights up the Basilica of Fourvière in December?",
+      "optionsEn": [
+        "The Fête de la Musique (Music Festival)",
+        "July 14th celebrations",
+        "The Fête des Lumières (Festival of Lights)",
+        "The Christmas market"
+      ],
+      "explanationEn": "In December, during the Fête des Lumières (Festival of Lights), the basilica and the city of Lyon are illuminated with projections."
     },
     {
       "id": "hgc-q200",
@@ -2375,7 +3942,15 @@
         "Des pommes de terre et du jambon"
       ],
       "correctAnswer": 1,
-      "explanation": "La fondue savoyarde est un plat à base de fromages fondus (comme le comté ou le beaufort) dans lequel on trempe des morceaux de pain."
+      "explanation": "La fondue savoyarde est un plat à base de fromages fondus (comme le comté ou le beaufort) dans lequel on trempe des morceaux de pain.",
+      "questionEn": "What are the main ingredients of fondue savoyarde (Savoy fondue)?",
+      "optionsEn": [
+        "Meat and vegetables",
+        "Melted cheese and bread",
+        "Fish and rice",
+        "Potatoes and ham"
+      ],
+      "explanationEn": "Fondue savoyarde is a dish made with melted cheeses (like Comté or Beaufort) into which you dip pieces of bread."
     },
     {
       "id": "hgc-q201",
@@ -2387,7 +3962,15 @@
         "C'est un musée d'art moderne"
       ],
       "correctAnswer": 1,
-      "explanation": "L'abbaye de Fontenay a été fondée en 1118 et est l'un des plus anciens monastères de France, remarquablement conservé."
+      "explanation": "L'abbaye de Fontenay a été fondée en 1118 et est l'un des plus anciens monastères de France, remarquablement conservé.",
+      "questionEn": "What is special about the Abbey of Fontenay?",
+      "optionsEn": [
+        "It is a fortress built for a king",
+        "It is one of the oldest monasteries in France still standing",
+        "It is a cathedral in the center of Paris",
+        "It is a modern art museum"
+      ],
+      "explanationEn": "The Abbey of Fontenay was founded in 1118 and is one of the oldest monasteries in France, remarkably well preserved."
     },
     {
       "id": "hgc-q202",
@@ -2399,7 +3982,15 @@
         "Elle a reçu une étoile au guide Michelin"
       ],
       "correctAnswer": 2,
-      "explanation": "L'UNESCO a classé l'abbaye au patrimoine mondial en 1981 pour protéger ce site historique exceptionnel."
+      "explanation": "L'UNESCO a classé l'abbaye au patrimoine mondial en 1981 pour protéger ce site historique exceptionnel.",
+      "questionEn": "What international recognition did the Abbey of Fontenay receive in 1981?",
+      "optionsEn": [
+        "It was voted the French people's favorite monument",
+        "It was turned into a luxury hotel",
+        "It was listed as a UNESCO World Heritage Site",
+        "It received a Michelin star"
+      ],
+      "explanationEn": "UNESCO listed the abbey as a World Heritage Site in 1981 to protect this exceptional historic site."
     },
     {
       "id": "hgc-q203",
@@ -2411,7 +4002,15 @@
         "De l'agneau grillé avec des pommes de terre"
       ],
       "correctAnswer": 2,
-      "explanation": "Le bœuf bourguignon est un plat composé de morceaux de bœuf cuits longuement dans du vin rouge de Bourgogne, avec des oignons, des carottes et des champignons."
+      "explanation": "Le bœuf bourguignon est un plat composé de morceaux de bœuf cuits longuement dans du vin rouge de Bourgogne, avec des oignons, des carottes et des champignons.",
+      "questionEn": "What are the main ingredients of boeuf bourguignon (Burgundy beef stew)?",
+      "optionsEn": [
+        "Fish and white wine",
+        "Chicken and cream",
+        "Beef braised in red wine with vegetables",
+        "Grilled lamb with potatoes"
+      ],
+      "explanationEn": "Boeuf bourguignon is a dish of beef pieces slowly cooked in Burgundy red wine, with onions, carrots, and mushrooms."
     },
     {
       "id": "hgc-q204",
@@ -2423,7 +4022,15 @@
         "Pour stocker du poisson"
       ],
       "correctAnswer": 1,
-      "explanation": "Le Fort National a été construit au 17ème siècle dans un but militaire, pour protéger la ville de Saint-Malo."
+      "explanation": "Le Fort National a été construit au 17ème siècle dans un but militaire, pour protéger la ville de Saint-Malo.",
+      "questionEn": "Why was the Fort National of Saint-Malo built in the 17th century?",
+      "optionsEn": [
+        "To serve as a prison",
+        "To protect the city",
+        "To welcome tourists",
+        "To store fish"
+      ],
+      "explanationEn": "The Fort National was built in the 17th century for military purposes, to protect the city of Saint-Malo."
     },
     {
       "id": "hgc-q205",
@@ -2435,7 +4042,15 @@
         "Il n'y a aucune différence, c'est la même chose"
       ],
       "correctAnswer": 2,
-      "explanation": "Les crêpes sont généralement sucrées et faites avec de la farine de blé, tandis que les galettes sont salées et faites avec de la farine de sarrasin (blé noir)."
+      "explanation": "Les crêpes sont généralement sucrées et faites avec de la farine de blé, tandis que les galettes sont salées et faites avec de la farine de sarrasin (blé noir).",
+      "questionEn": "What is the main difference between a crêpe and a Breton galette?",
+      "optionsEn": [
+        "The crêpe is savory and the galette is sweet",
+        "The crêpe is square and the galette is round",
+        "The crêpe is sweet (wheat flour) and the galette is savory (buckwheat flour)",
+        "There is no difference, they are the same thing"
+      ],
+      "explanationEn": "Crêpes are usually sweet and made with wheat flour, while galettes are savory and made with buckwheat flour."
     },
     {
       "id": "hgc-q206",
@@ -2447,7 +4062,15 @@
         "C'était une capitale européenne"
       ],
       "correctAnswer": 0,
-      "explanation": "La présence de grands remparts et de canons montre que Saint-Malo était un port régional important qu'il fallait défendre."
+      "explanation": "La présence de grands remparts et de canons montre que Saint-Malo était un port régional important qu'il fallait défendre.",
+      "questionEn": "What can we say about Saint-Malo from its ramparts and cannons?",
+      "optionsEn": [
+        "It was an important regional port",
+        "It was a city without history",
+        "It was an agricultural city",
+        "It was a European capital"
+      ],
+      "explanationEn": "The presence of large ramparts and cannons shows that Saint-Malo was an important regional port that needed to be defended."
     },
     {
       "id": "hgc-q207",
@@ -2459,7 +4082,15 @@
         "Charlemagne"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est le roi François 1er qui a ordonné la construction de ce château au bord de la Loire, vers l'année 1500."
+      "explanation": "C'est le roi François 1er qui a ordonné la construction de ce château au bord de la Loire, vers l'année 1500.",
+      "questionEn": "Which King of France ordered the construction of Château de Chambord?",
+      "optionsEn": [
+        "Louis XIV",
+        "François I",
+        "Napoleon",
+        "Charlemagne"
+      ],
+      "explanationEn": "It was King François I who ordered the construction of this château on the banks of the Loire, around the year 1500."
     },
     {
       "id": "hgc-q208",
@@ -2471,7 +4102,15 @@
         "Elle est cuite au micro-ondes"
       ],
       "correctAnswer": 0,
-      "explanation": "La tarte Tatin est une tarte aux pommes caramélisées qui se cuit à l'envers : on met la pâte sur les pommes, puis on la retourne après la cuisson."
+      "explanation": "La tarte Tatin est une tarte aux pommes caramélisées qui se cuit à l'envers : on met la pâte sur les pommes, puis on la retourne après la cuisson.",
+      "questionEn": "What is special about how the Tarte Tatin is baked?",
+      "optionsEn": [
+        "It is baked upside down",
+        "It is cooked in water",
+        "It is cooked without pastry",
+        "It is cooked in a microwave"
+      ],
+      "explanationEn": "The Tarte Tatin is a caramelized apple tart baked upside down: you put the pastry on top of the apples, then flip it over after baking."
     },
     {
       "id": "hgc-q209",
@@ -2483,7 +4122,15 @@
         "Le style Romain"
       ],
       "correctAnswer": 2,
-      "explanation": "Le château de Chambord est un chef-d'œuvre de l'architecture de la Renaissance, célèbre notamment pour son escalier en spirale."
+      "explanation": "Le château de Chambord est un chef-d'œuvre de l'architecture de la Renaissance, célèbre notamment pour son escalier en spirale.",
+      "questionEn": "For which architectural style is Château de Chambord famous?",
+      "optionsEn": [
+        "Gothic style",
+        "Modern style",
+        "Renaissance style",
+        "Roman style"
+      ],
+      "explanationEn": "Château de Chambord is a masterpiece of Renaissance architecture, especially famous for its spiral staircase."
     },
     {
       "id": "hgc-q210",
@@ -2494,7 +4141,14 @@
         "Pour stocker le fromage produit dans la région"
       ],
       "correctAnswer": 0,
-      "explanation": "Au Moyen Âge, cette forteresse perchée sur la falaise servait à défendre la ville contre les attaques maritimes."
+      "explanation": "Au Moyen Âge, cette forteresse perchée sur la falaise servait à défendre la ville contre les attaques maritimes.",
+      "questionEn": "Why was the citadel of Bonifacio built in the Middle Ages?",
+      "optionsEn": [
+        "To protect the city from attacks coming from the sea",
+        "To serve as a prison for the kings of France",
+        "To store the cheese produced in the region"
+      ],
+      "explanationEn": "In the Middle Ages, this fortress perched on a cliff was used to defend the city against maritime attacks."
     },
     {
       "id": "hgc-q211",
@@ -2506,7 +4160,15 @@
         "Un vin rouge produit sur l'île"
       ],
       "correctAnswer": 1,
-      "explanation": "Le brocciu est un fromage frais traditionnel corse, fabriqué à partir de lait de brebis ou de chèvre."
+      "explanation": "Le brocciu est un fromage frais traditionnel corse, fabriqué à partir de lait de brebis ou de chèvre.",
+      "questionEn": "What is brocciu?",
+      "optionsEn": [
+        "A traditional chocolate cake",
+        "A fresh cheese typical of Corsica",
+        "A Mediterranean fish soup",
+        "A red wine produced on the island"
+      ],
+      "explanationEn": "Brocciu is a traditional Corsican fresh cheese, made from sheep's or goat's milk."
     },
     {
       "id": "hgc-q212",
@@ -2517,7 +4179,14 @@
         "Nature, avec du miel, ou cuisiné dans des recettes comme l'omelette"
       ],
       "correctAnswer": 2,
-      "explanation": "Le brocciu se mange de plusieurs façons : nature, en dessert avec du miel, ou cuisiné dans des plats comme des omelettes ou des raviolis."
+      "explanation": "Le brocciu se mange de plusieurs façons : nature, en dessert avec du miel, ou cuisiné dans des plats comme des omelettes ou des raviolis.",
+      "questionEn": "How can you eat brocciu?",
+      "optionsEn": [
+        "Only plain, without adding anything",
+        "Only cooked in hot dishes",
+        "Plain, with honey, or cooked in recipes like omelette"
+      ],
+      "explanationEn": "Brocciu can be eaten in several ways: plain, as a dessert with honey, or cooked in dishes like omelettes or ravioli."
     },
     {
       "id": "hgc-q213",
@@ -2528,7 +4197,14 @@
         "Un centre commercial moderne construit en 2000"
       ],
       "correctAnswer": 1,
-      "explanation": "La place Stanislas est une place historique située au cœur de Nancy, célèbre pour son architecture du 18ème siècle et classée à l'UNESCO."
+      "explanation": "La place Stanislas est une place historique située au cœur de Nancy, célèbre pour son architecture du 18ème siècle et classée à l'UNESCO.",
+      "questionEn": "What is the Place Stanislas in Nancy?",
+      "optionsEn": [
+        "A large forest outside the city",
+        "A famous square listed as a UNESCO World Heritage Site",
+        "A modern shopping center built in 2000"
+      ],
+      "explanationEn": "Place Stanislas is a historic square in the heart of Nancy, famous for its 18th-century architecture and listed by UNESCO."
     },
     {
       "id": "hgc-q214",
@@ -2540,7 +4216,15 @@
         "Le riz"
       ],
       "correctAnswer": 0,
-      "explanation": "La choucroute est un plat traditionnel préparé à base de chou fermenté, souvent accompagné de viandes comme des saucisses ou du lard."
+      "explanation": "La choucroute est un plat traditionnel préparé à base de chou fermenté, souvent accompagné de viandes comme des saucisses ou du lard.",
+      "questionEn": "What is the main ingredient of Alsatian choucroute (sauerkraut)?",
+      "optionsEn": [
+        "Fermented cabbage",
+        "Potato",
+        "Fish",
+        "Rice"
+      ],
+      "explanationEn": "Choucroute (sauerkraut) is a traditional dish made with fermented cabbage, often served with meats like sausages or bacon."
     },
     {
       "id": "hgc-q215",
@@ -2552,7 +4236,15 @@
         "Uniquement au printemps"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est un plat consistant et chaud, on le mange donc principalement en hiver ou lors des repas de fête."
+      "explanation": "C'est un plat consistant et chaud, on le mange donc principalement en hiver ou lors des repas de fête.",
+      "questionEn": "At what time of year is choucroute mainly eaten in Alsace?",
+      "optionsEn": [
+        "In summer, when it is hot",
+        "All year round, at breakfast",
+        "In winter",
+        "Only in spring"
+      ],
+      "explanationEn": "It is a hearty, warm dish, so it is mainly eaten in winter or during festive meals."
     },
     {
       "id": "hgc-q216",
@@ -2564,7 +4256,15 @@
         "Il sert de prison pour la ville"
       ],
       "correctAnswer": 0,
-      "explanation": "Inauguré en 1932, le beffroi de Lille est le plus haut beffroi civil d'Europe et offre une vue panoramique sur la ville."
+      "explanation": "Inauguré en 1932, le beffroi de Lille est le plus haut beffroi civil d'Europe et offre une vue panoramique sur la ville.",
+      "questionEn": "What is special about the Belfry of Lille?",
+      "optionsEn": [
+        "It is the tallest civic belfry in Europe",
+        "It is the oldest castle in France",
+        "It was built in the Middle Ages",
+        "It is used as the city prison"
+      ],
+      "explanationEn": "Opened in 1932, the Belfry of Lille is the tallest civic belfry in Europe and offers a panoramic view of the city."
     },
     {
       "id": "hgc-q217",
@@ -2576,7 +4276,15 @@
         "Une danse traditionnelle des Hauts-de-France"
       ],
       "correctAnswer": 2,
-      "explanation": "Le maroilles est un fromage traditionnel des Hauts-de-France, connu pour son odeur puissante et son goût fort."
+      "explanation": "Le maroilles est un fromage traditionnel des Hauts-de-France, connu pour son odeur puissante et son goût fort.",
+      "questionEn": "What is Maroilles?",
+      "optionsEn": [
+        "A sweet cake typical of the north",
+        "A local alcoholic drink",
+        "A soft cheese with a strong taste",
+        "A traditional dance from Hauts-de-France"
+      ],
+      "explanationEn": "Maroilles is a traditional cheese from Hauts-de-France, known for its powerful smell and strong taste."
     },
     {
       "id": "hgc-q218",
@@ -2587,7 +4295,14 @@
         "Seulement le matin au petit-déjeuner"
       ],
       "correctAnswer": 1,
-      "explanation": "Le maroilles se mange aussi bien avec du pain que cuisiné dans des plats chauds comme la tarte au maroilles (appelée flamiche) ou la fondue."
+      "explanation": "Le maroilles se mange aussi bien avec du pain que cuisiné dans des plats chauds comme la tarte au maroilles (appelée flamiche) ou la fondue.",
+      "questionEn": "How can you eat Maroilles?",
+      "optionsEn": [
+        "Only cold with salad",
+        "With bread or cooked in a tart (flamiche)",
+        "Only in the morning for breakfast"
+      ],
+      "explanationEn": "Maroilles can be eaten with bread or cooked in hot dishes like the Maroilles tart (called flamiche) or fondue."
     },
     {
       "id": "hgc-q219",
@@ -2599,7 +4314,15 @@
         "L'OTAN contre le Pacte de Varsovie"
       ],
       "correctAnswer": 0,
-      "explanation": "La guerre oppose les puissances de l'Axe (dirigées par des régimes totalitaires) aux Alliés (démocraties et URSS)."
+      "explanation": "La guerre oppose les puissances de l'Axe (dirigées par des régimes totalitaires) aux Alliés (démocraties et URSS).",
+      "questionEn": "What are the two sides that fought during World War II?",
+      "optionsEn": [
+        "The Axis (Germany, Italy, Japan) against the Allies (United Kingdom, United States, USSR)",
+        "Northern Europe against Southern Europe",
+        "France and Germany against the United States",
+        "NATO against the Warsaw Pact"
+      ],
+      "explanationEn": "The war opposed the Axis powers (led by totalitarian regimes) against the Allies (democracies and the USSR)."
     },
     {
       "id": "hgc-q220",
@@ -2611,7 +4334,15 @@
         "La signature du traité de Versailles"
       ],
       "correctAnswer": 1,
-      "explanation": "L'Allemagne nazie capitule le 8 mai 1945, ce qui marque la victoire des Alliés en Europe."
+      "explanation": "L'Allemagne nazie capitule le 8 mai 1945, ce qui marque la victoire des Alliés en Europe.",
+      "questionEn": "What event marks the end of World War II in Europe?",
+      "optionsEn": [
+        "General de Gaulle's appeal of June 18",
+        "Germany's surrender on May 8, 1945",
+        "The Battle of Stalingrad",
+        "The signing of the Treaty of Versailles"
+      ],
+      "explanationEn": "Nazi Germany surrendered on May 8, 1945, marking the Allied victory in Europe."
     },
     {
       "id": "hgc-q221",
@@ -2623,7 +4354,15 @@
         "Un traité de paix signé entre la France et l'Allemagne"
       ],
       "correctAnswer": 2,
-      "explanation": "La Shoah désigne l'extermination systématique (génocide) de plus de 6 millions de Juifs et d'autres populations jugées « indésirables » par le régime nazi."
+      "explanation": "La Shoah désigne l'extermination systématique (génocide) de plus de 6 millions de Juifs et d'autres populations jugées « indésirables » par le régime nazi.",
+      "questionEn": "What is the Shoah (Holocaust)?",
+      "optionsEn": [
+        "An important battle in the Pacific",
+        "The code name for the Normandy landing",
+        "The genocide organized by the Nazis against Jews and other populations",
+        "A peace treaty signed between France and Germany"
+      ],
+      "explanationEn": "The Shoah (Holocaust) refers to the systematic extermination (genocide) of more than 6 million Jews and other populations deemed 'undesirable' by the Nazi regime."
     },
     {
       "id": "hgc-q222",
@@ -2635,7 +4374,15 @@
         "Il déclare la guerre aux États-Unis"
       ],
       "correctAnswer": 2,
-      "explanation": "Le régime de Vichy, installé en zone libre, est un régime autoritaire qui a choisi de collaborer avec l'occupant allemand (arrestations, déportations, travail forcé)."
+      "explanation": "Le régime de Vichy, installé en zone libre, est un régime autoritaire qui a choisi de collaborer avec l'occupant allemand (arrestations, déportations, travail forcé).",
+      "questionEn": "What was the attitude of the Vichy regime led by Marshal Pétain?",
+      "optionsEn": [
+        "It organized the Resistance from London",
+        "It remained completely neutral without helping anyone",
+        "It collaborated with Nazi Germany",
+        "It declared war on the United States"
+      ],
+      "explanationEn": "The Vichy regime, based in the free zone, was an authoritarian regime that chose to collaborate with the German occupier (arrests, deportations, forced labor)."
     },
     {
       "id": "hgc-q223",
@@ -2647,7 +4394,15 @@
         "Un accord politique entre la France, l'Espagne et l'Angleterre"
       ],
       "correctAnswer": 1,
-      "explanation": "Le commerce triangulaire désigne les échanges dans l'Océan Atlantique entre l'Europe (marchandises), l'Afrique (esclaves) et les Amériques (produits coloniaux)."
+      "explanation": "Le commerce triangulaire désigne les échanges dans l'Océan Atlantique entre l'Europe (marchandises), l'Afrique (esclaves) et les Amériques (produits coloniaux).",
+      "questionEn": "What is the 'triangular trade'?",
+      "optionsEn": [
+        "Trade between three French cities: Paris, Lyon, and Marseille",
+        "Maritime trade between Europe, Africa, and the Americas",
+        "A trade based only on three products: sugar, coffee, and cotton",
+        "A political agreement between France, Spain, and England"
+      ],
+      "explanationEn": "The triangular trade refers to exchanges in the Atlantic Ocean between Europe (goods), Africa (enslaved people), and the Americas (colonial products)."
     },
     {
       "id": "hgc-q224",
@@ -2659,7 +4414,15 @@
         "2001"
       ],
       "correctAnswer": 2,
-      "explanation": "Bien qu'aboli une première fois en 1794 puis rétabli, l'esclavage a été définitivement aboli en France en 1848."
+      "explanation": "Bien qu'aboli une première fois en 1794 puis rétabli, l'esclavage a été définitivement aboli en France en 1848.",
+      "questionEn": "In what year was slavery definitively abolished in France?",
+      "optionsEn": [
+        "1794",
+        "1802",
+        "1848",
+        "2001"
+      ],
+      "explanationEn": "Although abolished once in 1794 and then restored, slavery was definitively abolished in France in 1848."
     },
     {
       "id": "hgc-q225",
@@ -2671,7 +4434,15 @@
         "L'Égypte"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est l'Algérie qui est conquise par l'armée française à partir de 1830. Le Maroc et la Tunisie deviendront des protectorats plus tard."
+      "explanation": "C'est l'Algérie qui est conquise par l'armée française à partir de 1830. Le Maroc et la Tunisie deviendront des protectorats plus tard.",
+      "questionEn": "Which North African territory was conquered by the French army in 1830?",
+      "optionsEn": [
+        "Morocco",
+        "Algeria",
+        "Tunisia",
+        "Egypt"
+      ],
+      "explanationEn": "It was Algeria that was conquered by the French army starting in 1830. Morocco and Tunisia became protectorates later."
     },
     {
       "id": "hgc-q226",
@@ -2683,7 +4454,17 @@
         "La Nouvelle-Calédonie et la Polynésie"
       ],
       "correctAnswer": 2,
-      "explanation": "La Guadeloupe et la Martinique deviennent des territoires français en 1635, lors de la première phase de colonisation."
+      "explanation": "La Guadeloupe et la Martinique deviennent des territoires français en 1635, lors de la première phase de colonisation.",
+      "questionEn": "Among these territories, which were among the first French colonies in the 17th century?",
+      "optionsEn": [
+        "Indochina and Madagascar",
+        "Algeria and Morocco",
+        "Guadeloupe and Martinique",
+        "New Caledonia and Polynesia"
+      ],
+      "explanationEn": "Guadeloupe and Martinique became French territories in 1635, during the first phase of colonization."
     }
-  ]
+  ],
+  "titleEn": "History, Geography and Culture",
+  "descriptionEn": "Quiz – History • Geography • Culture. Test your knowledge with questions based on the official thematic guides."
 }

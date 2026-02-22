@@ -1,7 +1,7 @@
 {
   "id": "cr-principes-et-valeurs",
   "title": "CR - Principes et valeurs de la République",
-  "description": "Quiz officiel CR : Principes et valeurs de la République",
+  "description": "Quiz officiel CR (Carte de Résident) – Principes et valeurs de la République. Questions officielles de l'examen de connaissance.",
   "questions": [
     {
       "id": "cr-pv-q1",
@@ -13,7 +13,15 @@
         "Oui, mais seulement avec l'autorisation de la mairie"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, la liberté de conscience est un droit fondamental. Chacun est libre de croire, de ne pas croire, ou de changer de religion à tout moment."
+      "explanation": "En France, la liberté de conscience est un droit fondamental. Chacun est libre de croire, de ne pas croire, ou de changer de religion à tout moment.",
+      "questionEn": "Do you have the right to change your religion?",
+      "optionsEn": [
+        "No, you must keep your parents' religion",
+        "Yes, freedom of conscience allows you to have a religion, change it, or have none",
+        "No, once you have chosen a religion, it is permanent",
+        "Yes, but only with the permission of the town hall"
+      ],
+      "explanationEn": "In France, freedom of conscience is a fundamental right. Everyone is free to believe, not believe, or change their religion at any time."
     },
     {
       "id": "cr-pv-q2",
@@ -25,7 +33,15 @@
         "La neutralité de l'État et la liberté de conscience pour tous"
       ],
       "correctAnswer": 3,
-      "explanation": "La laïcité garantit la séparation des Églises et de l'État. L'État est neutre et ne finance aucun culte, mais il garantit à chacun la liberté de croire ou de ne pas croire."
+      "explanation": "La laïcité garantit la séparation des Églises et de l'État. L'État est neutre et ne finance aucun culte, mais il garantit à chacun la liberté de croire ou de ne pas croire.",
+      "questionEn": "What does laïcité (secularism) mean?",
+      "optionsEn": [
+        "The obligation for all citizens to be atheists",
+        "The promotion of one official religion by the State",
+        "The ban on all religions in France",
+        "The neutrality of the State and freedom of conscience for everyone"
+      ],
+      "explanationEn": "Laïcité (secularism) guarantees the separation of churches and the State. The State is neutral and does not fund any religion, but it guarantees everyone the freedom to believe or not believe."
     },
     {
       "id": "cr-pv-q3",
@@ -37,7 +53,15 @@
         "Le fait de parler de religion pendant la récréation"
       ],
       "correctAnswer": 2,
-      "explanation": "Depuis la loi de 2004, il est interdit dans les écoles, collèges et lycées publics de porter des signes religieux ostensibles (visibles) pour protéger les élèves de toute pression."
+      "explanation": "Depuis la loi de 2004, il est interdit dans les écoles, collèges et lycées publics de porter des signes religieux ostensibles (visibles) pour protéger les élèves de toute pression.",
+      "questionEn": "What is forbidden by the Secularism Charter in schools?",
+      "optionsEn": [
+        "Studying the history of religions in class",
+        "Wearing blue, white, or red clothing",
+        "Wearing signs or clothing through which students clearly show a religious affiliation",
+        "Talking about religion during break time"
+      ],
+      "explanationEn": "Since the 2004 law, it is forbidden in public schools to wear visible religious signs in order to protect students from any pressure."
     },
     {
       "id": "cr-pv-q4",
@@ -49,7 +73,15 @@
         "La devise de la République est Travail, Famille, Patrie"
       ],
       "correctAnswer": 1,
-      "explanation": "L'article 1er définit les piliers de la République. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion."
+      "explanation": "L'article 1er définit les piliers de la République. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.",
+      "questionEn": "What does Article 1 of the French Constitution say?",
+      "optionsEn": [
+        "The language of the Republic is English",
+        "France is an indivisible, secular, democratic, and social Republic",
+        "France is a constitutional monarchy",
+        "The motto of the Republic is Work, Family, Fatherland"
+      ],
+      "explanationEn": "Article 1 defines the pillars of the Republic. It ensures equality before the law for all citizens, without distinction of origin, race, or religion."
     },
     {
       "id": "cr-pv-q5",
@@ -61,7 +93,15 @@
         "Le jour de gloire est arrivé"
       ],
       "correctAnswer": 3,
-      "explanation": "Le premier couplet de l'hymne national français, La Marseillaise, commence par : « Allons enfants de la Patrie, Le jour de gloire est arrivé ! »."
+      "explanation": "Le premier couplet de l'hymne national français, La Marseillaise, commence par : « Allons enfants de la Patrie, Le jour de gloire est arrivé ! ».",
+      "questionEn": "Complete the lyrics of La Marseillaise: \"Allons enfants de la patrie [...] (Come, children of the fatherland [...])\"",
+      "optionsEn": [
+        "The day of liberty has arrived",
+        "The day of celebration has arrived",
+        "The day of peace has arrived",
+        "The day of glory has arrived"
+      ],
+      "explanationEn": "The first verse of the French national anthem, La Marseillaise, begins with: \"Allons enfants de la Patrie, Le jour de gloire est arrivé!\" (Come, children of the fatherland, the day of glory has arrived!)."
     },
     {
       "id": "cr-pv-q6",
@@ -73,7 +113,15 @@
         "Choisir son conjoint"
       ],
       "correctAnswer": 3,
-      "explanation": "La liberté individuelle permet à chacun de vivre comme il le souhaite (choisir son conjoint, ses opinions, etc.), tant que cela respecte la loi et la liberté des autres."
+      "explanation": "La liberté individuelle permet à chacun de vivre comme il le souhaite (choisir son conjoint, ses opinions, etc.), tant que cela respecte la loi et la liberté des autres.",
+      "questionEn": "Based on individual freedom, which statement is correct? A person can:",
+      "optionsEn": [
+        "Refuse to pay taxes",
+        "Drive without a license",
+        "Build a house without permission",
+        "Choose their spouse"
+      ],
+      "explanationEn": "Individual freedom allows everyone to live as they wish (choose their spouse, their opinions, etc.), as long as it respects the law and the freedom of others."
     },
     {
       "id": "cr-pv-q7",
@@ -85,7 +133,15 @@
         "La pratique religieuse est interdite dans la rue"
       ],
       "correctAnswer": 1,
-      "explanation": "La France garantit la liberté de conscience. Chacun est libre de croire ou de ne pas croire, et de pratiquer sa religion, tant que cela ne trouble pas l'ordre public."
+      "explanation": "La France garantit la liberté de conscience. Chacun est libre de croire ou de ne pas croire, et de pratiquer sa religion, tant que cela ne trouble pas l'ordre public.",
+      "questionEn": "Regarding the practice of religion, which statement is correct?",
+      "optionsEn": [
+        "Only the Catholic religion is allowed in public",
+        "Everyone is free to practice their religion while respecting public order",
+        "It is mandatory to have a religion in France",
+        "Religious practice is forbidden in the street"
+      ],
+      "explanationEn": "France guarantees freedom of conscience. Everyone is free to believe or not believe, and to practice their religion, as long as it does not disturb public order."
     },
     {
       "id": "cr-pv-q8",
@@ -97,7 +153,15 @@
         "Non, les enseignements sont obligatoires et la mixité est une valeur de l'école républicaine"
       ],
       "correctAnswer": 3,
-      "explanation": "À l'école publique, les enseignements sont obligatoires pour tous les élèves. On ne peut pas contester un enseignement ou demander une adaptation (comme la non-mixité) au nom de convictions religieuses."
+      "explanation": "À l'école publique, les enseignements sont obligatoires pour tous les élèves. On ne peut pas contester un enseignement ou demander une adaptation (comme la non-mixité) au nom de convictions religieuses.",
+      "questionEn": "As a parent, can you refuse to let your child participate in school sports classes because boys and girls are mixed?",
+      "optionsEn": [
+        "Yes, but only for swimming",
+        "No, unless the child agrees",
+        "Yes, if it goes against the family's religious beliefs",
+        "No, school lessons are mandatory and mixed-gender education is a value of the French public school"
+      ],
+      "explanationEn": "In public school, all lessons are mandatory for every student. You cannot challenge a lesson or ask for changes (such as gender separation) based on religious beliefs."
     },
     {
       "id": "cr-pv-q9",
@@ -109,7 +173,15 @@
         "Travail, Famille, Patrie"
       ],
       "correctAnswer": 2,
-      "explanation": "La devise officielle de la République française est « Liberté, Égalité, Fraternité ». Elle est inscrite dans la Constitution et sur les bâtiments publics."
+      "explanation": "La devise officielle de la République française est « Liberté, Égalité, Fraternité ». Elle est inscrite dans la Constitution et sur les bâtiments publics.",
+      "questionEn": "What is the motto of France?",
+      "optionsEn": [
+        "Honor and Fatherland",
+        "Unity, Indivisibility, Solidarity",
+        "Liberté, Égalité, Fraternité (Liberty, Equality, Fraternity)",
+        "Work, Family, Fatherland"
+      ],
+      "explanationEn": "The official motto of the French Republic is \"Liberté, Égalité, Fraternité\" (Liberty, Equality, Fraternity). It is written in the Constitution and on public buildings."
     },
     {
       "id": "cr-pv-q10",
@@ -121,7 +193,15 @@
         "Autorisée avec l'accord d'un juge"
       ],
       "correctAnswer": 0,
-      "explanation": "La répudiation est interdite en France car elle est contraire au principe d'égalité entre les femmes et les hommes. Seul le divorce prononcé légalement est reconnu."
+      "explanation": "La répudiation est interdite en France car elle est contraire au principe d'égalité entre les femmes et les hommes. Seul le divorce prononcé légalement est reconnu.",
+      "questionEn": "Repudiation (a husband rejecting his wife) is:",
+      "optionsEn": [
+        "Forbidden in France",
+        "Allowed for religious reasons",
+        "Allowed if the marriage took place abroad",
+        "Allowed with a judge's approval"
+      ],
+      "explanationEn": "Repudiation is forbidden in France because it goes against the principle of equality between men and women. Only a legally pronounced divorce is recognized."
     },
     {
       "id": "cr-pv-q11",
@@ -133,7 +213,15 @@
         "C'est l'hymne national de la France"
       ],
       "correctAnswer": 3,
-      "explanation": "La Marseillaise est l'hymne national de la France. C'est un chant patriotique composé en 1792 pendant la Révolution française."
+      "explanation": "La Marseillaise est l'hymne national de la France. C'est un chant patriotique composé en 1792 pendant la Révolution française.",
+      "questionEn": "What is La Marseillaise?",
+      "optionsEn": [
+        "It is the motto of the Republic",
+        "It is the name of the French flag",
+        "It is a traditional dance from southern France",
+        "It is the national anthem of France"
+      ],
+      "explanationEn": "La Marseillaise is the national anthem of France. It is a patriotic song composed in 1792 during the French Revolution."
     },
     {
       "id": "cr-pv-q12",
@@ -145,7 +233,15 @@
         "Sur les timbres et les pièces de monnaie"
       ],
       "correctAnswer": 3,
-      "explanation": "Marianne, symbole de la République, est représentée sur les timbres, les pièces de monnaie et les documents officiels comme la carte d'identité."
+      "explanation": "Marianne, symbole de la République, est représentée sur les timbres, les pièces de monnaie et les documents officiels comme la carte d'identité.",
+      "questionEn": "On which document can you see Marianne?",
+      "optionsEn": [
+        "On restaurant menus",
+        "On the driving license only",
+        "On train tickets",
+        "On stamps and coins"
+      ],
+      "explanationEn": "Marianne, a symbol of the Republic, appears on stamps, coins, and official documents such as the national identity card."
     },
     {
       "id": "cr-pv-q13",
@@ -157,7 +253,15 @@
         "C'est autorisé si l'employeur préfère travailler avec des hommes"
       ],
       "correctAnswer": 1,
-      "explanation": "La discrimination à l'embauche fondée sur le sexe est interdite. La loi garantit aux femmes des droits égaux à ceux des hommes dans tous les domaines, y compris le travail."
+      "explanation": "La discrimination à l'embauche fondée sur le sexe est interdite. La loi garantit aux femmes des droits égaux à ceux des hommes dans tous les domaines, y compris le travail.",
+      "questionEn": "An employer refuses to hire women in his company. What does the law say?",
+      "optionsEn": [
+        "It is allowed in small companies only",
+        "It is forbidden, because the law guarantees professional equality between women and men",
+        "It is allowed if the work is difficult",
+        "It is allowed if the employer prefers working with men"
+      ],
+      "explanationEn": "Hiring discrimination based on gender is forbidden. The law guarantees women equal rights to men in all areas, including employment."
     },
     {
       "id": "cr-pv-q14",
@@ -169,7 +273,15 @@
         "Tout le monde doit avoir le même salaire"
       ],
       "correctAnswer": 1,
-      "explanation": "L'égalité signifie que la loi est la même pour tous (égalité devant la loi) et que tous les citoyens ont les mêmes droits civiques et sociaux, sans distinction d'origine ou de religion."
+      "explanation": "L'égalité signifie que la loi est la même pour tous (égalité devant la loi) et que tous les citoyens ont les mêmes droits civiques et sociaux, sans distinction d'origine ou de religion.",
+      "questionEn": "One of the values of the Republic's motto is equality. What does this mean?",
+      "optionsEn": [
+        "Everyone must have the same political opinions",
+        "All citizens have the same rights and the same duties",
+        "All citizens must live in the same city",
+        "Everyone must have the same salary"
+      ],
+      "explanationEn": "Equality means the law is the same for everyone (equality before the law) and all citizens have the same civic and social rights, regardless of origin or religion."
     },
     {
       "id": "cr-pv-q15",
@@ -181,7 +293,15 @@
         "C'est la seule langue officielle de la République"
       ],
       "correctAnswer": 3,
-      "explanation": "Selon la Constitution, le français est la langue de la République. C'est la seule langue officielle utilisée dans l'administration, la justice et les services publics."
+      "explanation": "Selon la Constitution, le français est la langue de la République. C'est la seule langue officielle utilisée dans l'administration, la justice et les services publics.",
+      "questionEn": "What is the place of the French language in the Republic?",
+      "optionsEn": [
+        "It has the same official status as regional languages",
+        "It is an optional language in government offices",
+        "It is only mandatory for school",
+        "It is the only official language of the Republic"
+      ],
+      "explanationEn": "According to the Constitution, French is the language of the Republic. It is the only official language used in government offices, courts, and public services."
     },
     {
       "id": "cr-pv-q16",
@@ -193,7 +313,15 @@
         "Le drapeau européen et l'hymne à la joie"
       ],
       "correctAnswer": 2,
-      "explanation": "Les symboles officiels de la République incluent le drapeau bleu-blanc-rouge, l'hymne national (La Marseillaise), la figure de Marianne et la devise (Liberté, Égalité, Fraternité)."
+      "explanation": "Les symboles officiels de la République incluent le drapeau bleu-blanc-rouge, l'hymne national (La Marseillaise), la figure de Marianne et la devise (Liberté, Égalité, Fraternité).",
+      "questionEn": "What are official symbols of the French Republic?",
+      "optionsEn": [
+        "The Eiffel Tower and Mont Saint-Michel",
+        "The rooster, the beret, and the baguette",
+        "The tricolor flag, La Marseillaise, and Marianne",
+        "The European flag and Ode to Joy"
+      ],
+      "explanationEn": "The official symbols of the Republic include the blue-white-red flag, the national anthem (La Marseillaise), the figure of Marianne, and the motto Liberté, Égalité, Fraternité (Liberty, Equality, Fraternity)."
     },
     {
       "id": "cr-pv-q17",
@@ -205,7 +333,15 @@
         "Non, sauf si c'est sur les réseaux sociaux"
       ],
       "correctAnswer": 2,
-      "explanation": "La liberté d'expression a des limites. La loi punit les insultes, les propos haineux et les discriminations envers des personnes en raison de leur religion, leur origine, leur sexe ou leur handicap."
+      "explanation": "La liberté d'expression a des limites. La loi punit les insultes, les propos haineux et les discriminations envers des personnes en raison de leur religion, leur origine, leur sexe ou leur handicap.",
+      "questionEn": "Is it allowed to publicly insult someone because they are different (disability, physical appearance, gender...)?",
+      "optionsEn": [
+        "Yes, because freedom of expression is unlimited in France",
+        "Yes, if it is done as a joke",
+        "No, it is forbidden and punished by law",
+        "No, except on social media"
+      ],
+      "explanationEn": "Freedom of expression has limits. The law punishes insults, hate speech, and discrimination against people because of their religion, origin, gender, or disability."
     },
     {
       "id": "cr-pv-q18",
@@ -217,7 +353,15 @@
         "Une monarchie constitutionnelle"
       ],
       "correctAnswer": 1,
-      "explanation": "La France est une République indivisible, laïque, démocratique et sociale. Elle est fondée sur la volonté du peuple (démocratie) et n'a pas de roi."
+      "explanation": "La France est une République indivisible, laïque, démocratique et sociale. Elle est fondée sur la volonté du peuple (démocratie) et n'a pas de roi.",
+      "questionEn": "The political system of France is:",
+      "optionsEn": [
+        "A theocracy",
+        "A democratic republic",
+        "An empire",
+        "A constitutional monarchy"
+      ],
+      "explanationEn": "France is an indivisible, secular, democratic, and social Republic. It is based on the will of the people (democracy) and has no king."
     },
     {
       "id": "cr-pv-q19",
@@ -229,7 +373,15 @@
         "Pour interdire aux élèves d'avoir une religion chez eux"
       ],
       "correctAnswer": 1,
-      "explanation": "L'école publique est un lieu neutre. La laïcité y protège les élèves de toute pression religieuse (prosélytisme) afin qu'ils puissent se forger leur propre opinion librement."
+      "explanation": "L'école publique est un lieu neutre. La laïcité y protège les élèves de toute pression religieuse (prosélytisme) afin qu'ils puissent se forger leur propre opinion librement.",
+      "questionEn": "Why must the principle of laïcité (secularism) be respected at school?",
+      "optionsEn": [
+        "To teach only the Catholic religion",
+        "To protect students' conscience and prevent religious pressure",
+        "To force all students to become atheists",
+        "To forbid students from having a religion at home"
+      ],
+      "explanationEn": "Public school is a neutral place. Laïcité protects students from any religious pressure so they can freely form their own opinions."
     },
     {
       "id": "cr-pv-q20",
@@ -241,7 +393,15 @@
         "1958"
       ],
       "correctAnswer": 2,
-      "explanation": "La loi de 1905 est le pilier de la laïcité en France. Elle sépare les Églises et l'État : l'État ne finance ni ne reconnait aucune religion officielle."
+      "explanation": "La loi de 1905 est le pilier de la laïcité en France. Elle sépare les Églises et l'État : l'État ne finance ni ne reconnait aucune religion officielle.",
+      "questionEn": "In what year was the law separating churches and the State passed?",
+      "optionsEn": [
+        "1882",
+        "1789",
+        "1905",
+        "1958"
+      ],
+      "explanationEn": "The 1905 law is the foundation of laïcité (secularism) in France. It separates churches and the State: the State does not fund or officially recognize any religion."
     },
     {
       "id": "cr-pv-q21",
@@ -253,7 +413,15 @@
         "Non, il est obligatoire d'avoir une religion"
       ],
       "correctAnswer": 2,
-      "explanation": "La liberté de conscience, garantie par la laïcité, donne le droit de croire en une religion, d'en changer, ou de ne pas croire du tout (être athée)."
+      "explanation": "La liberté de conscience, garantie par la laïcité, donne le droit de croire en une religion, d'en changer, ou de ne pas croire du tout (être athée).",
+      "questionEn": "Does a person have the right to not believe in any religion?",
+      "optionsEn": [
+        "No, unless they are a foreigner",
+        "Yes, but they must pay a special tax",
+        "Yes, this is freedom of conscience",
+        "No, it is mandatory to have a religion"
+      ],
+      "explanationEn": "Freedom of conscience, guaranteed by laïcité, gives the right to believe in a religion, change religion, or not believe at all (be an atheist)."
     },
     {
       "id": "cr-pv-q22",
@@ -265,7 +433,15 @@
         "Le droit d'interdire les religions dans la rue"
       ],
       "correctAnswer": 2,
-      "explanation": "La laïcité garantit à chacun la liberté de croire ou de ne pas croire, et de pratiquer sa religion librement, tant que cela ne trouble pas l'ordre public."
+      "explanation": "La laïcité garantit à chacun la liberté de croire ou de ne pas croire, et de pratiquer sa religion librement, tant que cela ne trouble pas l'ordre public.",
+      "questionEn": "What right is guaranteed by laïcité (secularism)?",
+      "optionsEn": [
+        "The right to refuse to obey the law for religious reasons",
+        "The right to impose your religion on others",
+        "Freedom of conscience and the right to practice your religion",
+        "The right to ban religions in the street"
+      ],
+      "explanationEn": "Laïcité guarantees everyone the freedom to believe or not believe, and to practice their religion freely, as long as it does not disturb public order."
     },
     {
       "id": "cr-pv-q23",
@@ -277,7 +453,15 @@
         "Ils sont payés uniquement par les entreprises, pas par les citoyens"
       ],
       "correctAnswer": 1,
-      "explanation": "Selon l'article 13 de la Déclaration des droits de l'homme, une contribution commune est indispensable pour l'entretien de la force publique et les dépenses d'administration."
+      "explanation": "Selon l'article 13 de la Déclaration des droits de l'homme, une contribution commune est indispensable pour l'entretien de la force publique et les dépenses d'administration.",
+      "questionEn": "Taxes fund public spending. Which statement is correct?",
+      "optionsEn": [
+        "They are optional, you can choose not to pay them",
+        "They fund public services such as hospitals, schools, and the police",
+        "They only pay the President's salary",
+        "They are only paid by businesses, not by citizens"
+      ],
+      "explanationEn": "According to Article 13 of the Declaration of the Rights of Man, a common contribution is necessary to maintain public services and government operations."
     },
     {
       "id": "cr-pv-q24",
@@ -289,7 +473,15 @@
         "Oui, mais seulement lors des manifestations sportives"
       ],
       "correctAnswer": 0,
-      "explanation": "Le drapeau tricolore est un symbole de la République. La loi interdit de le détruire ou de l'utiliser de manière dégradante en public (outrage au drapeau)."
+      "explanation": "Le drapeau tricolore est un symbole de la République. La loi interdit de le détruire ou de l'utiliser de manière dégradante en public (outrage au drapeau).",
+      "questionEn": "Can you publicly burn a French flag?",
+      "optionsEn": [
+        "No, it is forbidden to disrespect the French flag",
+        "No, unless the flag is old and damaged",
+        "Yes, it is a form of total freedom of expression",
+        "Yes, but only during sports events"
+      ],
+      "explanationEn": "The tricolor flag is a symbol of the Republic. The law forbids destroying it or using it in a disrespectful way in public (flag desecration)."
     },
     {
       "id": "cr-pv-q25",
@@ -301,7 +493,15 @@
         "Il conseille simplement d'être gentil, sans faire de lois"
       ],
       "correctAnswer": 1,
-      "explanation": "L'égalité est un principe fondamental. La loi interdit et punit le fait de limiter l'accès aux droits ou aux services selon l'origine, le sexe, le handicap ou l'orientation sexuelle."
+      "explanation": "L'égalité est un principe fondamental. La loi interdit et punit le fait de limiter l'accès aux droits ou aux services selon l'origine, le sexe, le handicap ou l'orientation sexuelle.",
+      "questionEn": "What does the State do to fight discrimination?",
+      "optionsEn": [
+        "It allows discrimination if justified by religion",
+        "It punishes acts of discrimination by law (racism, sexism, disability...)",
+        "It bans women from certain professions",
+        "It simply advises being nice, without making laws"
+      ],
+      "explanationEn": "Equality is a fundamental principle. The law forbids and punishes limiting access to rights or services based on origin, gender, disability, or sexual orientation."
     },
     {
       "id": "cr-pv-q26",
@@ -313,7 +513,15 @@
         "Elle représente uniquement la ville de Paris"
       ],
       "correctAnswer": 1,
-      "explanation": "Marianne est une figure symbolique de la République apparue sous la Révolution. Son bonnet phrygien symbolise la liberté retrouvée (comme les esclaves affranchis de l'Antiquité)."
+      "explanation": "Marianne est une figure symbolique de la République apparue sous la Révolution. Son bonnet phrygien symbolise la liberté retrouvée (comme les esclaves affranchis de l'Antiquité).",
+      "questionEn": "What does Marianne represent?",
+      "optionsEn": [
+        "She is a religious saint who protects France",
+        "She represents the French Republic and its values (liberty, democracy)",
+        "She is the wife of the first President of the Republic",
+        "She only represents the city of Paris"
+      ],
+      "explanationEn": "Marianne is a symbolic figure of the Republic that appeared during the Revolution. Her Phrygian cap symbolizes regained freedom (like freed slaves in ancient times)."
     },
     {
       "id": "cr-pv-q27",
@@ -325,7 +533,15 @@
         "Le droit de ne pas respecter les lois en groupe"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est une liberté collective qui permet aux citoyens de se rassembler, de participer à des manifestations ou d'adhérer à un syndicat pour défendre des causes communes."
+      "explanation": "C'est une liberté collective qui permet aux citoyens de se rassembler, de participer à des manifestations ou d'adhérer à un syndicat pour défendre des causes communes.",
+      "questionEn": "What is freedom of association?",
+      "optionsEn": [
+        "The ban on gathering in groups of more than three people",
+        "The right to meet and create groups to defend common interests",
+        "The obligation to join a political party",
+        "The right to not follow laws as a group"
+      ],
+      "explanationEn": "This is a collective freedom that allows citizens to gather, participate in demonstrations, or join a union to defend common causes."
     },
     {
       "id": "cr-pv-q28",
@@ -337,7 +553,15 @@
         "C'est le droit de faire absolument tout ce qu'on veut, sans limite"
       ],
       "correctAnswer": 2,
-      "explanation": "Selon la Déclaration des droits de l'homme (art. 4), la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui. La loi pose des limites pour que la liberté des uns n'empêche pas celle des autres."
+      "explanation": "Selon la Déclaration des droits de l'homme (art. 4), la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui. La loi pose des limites pour que la liberté des uns n'empêche pas celle des autres.",
+      "questionEn": "What is liberty?",
+      "optionsEn": [
+        "It is the ability to not pay taxes",
+        "It is the right to force your opinion on others",
+        "It is being able to do anything that does not harm others",
+        "It is the right to do absolutely anything you want, without limits"
+      ],
+      "explanationEn": "According to the Declaration of the Rights of Man (Article 4), liberty means being able to do anything that does not harm others. The law sets limits so that one person's freedom does not take away another person's freedom."
     },
     {
       "id": "cr-pv-q29",
@@ -349,7 +573,15 @@
         "Le directeur de l'école"
       ],
       "correctAnswer": 1,
-      "explanation": "Depuis la loi de 2004, il est interdit aux élèves de porter des signes religieux ostensibles (très visibles) dans les écoles publiques. Les enseignants, en tant qu'agents de l'État, sont également soumis à une stricte neutralité."
+      "explanation": "Depuis la loi de 2004, il est interdit aux élèves de porter des signes religieux ostensibles (très visibles) dans les écoles publiques. Les enseignants, en tant qu'agents de l'État, sont également soumis à une stricte neutralité.",
+      "questionEn": "In public school, who can wear very visible religious signs?",
+      "optionsEn": [
+        "The students",
+        "Nobody (neither students nor staff)",
+        "The teachers",
+        "The school principal"
+      ],
+      "explanationEn": "Since the 2004 law, students are not allowed to wear visible religious signs in public schools. Teachers, as State employees, must also be strictly neutral."
     },
     {
       "id": "cr-pv-q30",
@@ -361,7 +593,15 @@
         "L'État choisit les chefs religieux"
       ],
       "correctAnswer": 2,
-      "explanation": "Depuis la loi de 1905 de séparation des Églises et de l'État, la République ne reconnaît, ne salarie ni ne subventionne aucun culte."
+      "explanation": "Depuis la loi de 1905 de séparation des Églises et de l'État, la République ne reconnaît, ne salarie ni ne subventionne aucun culte.",
+      "questionEn": "According to the principle of laïcité, what does State neutrality mean?",
+      "optionsEn": [
+        "The State forbids religious practice in the street",
+        "The State funds all religions equally",
+        "The State is independent from religions and does not fund any of them",
+        "The State chooses religious leaders"
+      ],
+      "explanationEn": "Since the 1905 law separating churches and the State, the Republic does not recognize, pay, or fund any religion."
     },
     {
       "id": "cr-pv-q31",
@@ -373,7 +613,15 @@
         "Il doit obligatoirement cacher sa religion"
       ],
       "correctAnswer": 2,
-      "explanation": "La neutralité s'impose aux agents, pas aux usagers. Un usager peut porter un signe religieux tant qu'il ne trouble pas l'ordre public et respecte les règles de sécurité (visage découvert)."
+      "explanation": "La neutralité s'impose aux agents, pas aux usagers. Un usager peut porter un signe religieux tant qu'il ne trouble pas l'ordre public et respecte les règles de sécurité (visage découvert).",
+      "questionEn": "What can a user of public services do in a town hall?",
+      "optionsEn": [
+        "He can demand that the public employee share his religion",
+        "He can refuse to talk to an employee of the opposite gender",
+        "He can wear a religious sign",
+        "He must always hide his religion"
+      ],
+      "explanationEn": "Neutrality applies to government employees, not to the public. A visitor can wear a religious sign as long as it does not disturb public order and follows safety rules (face uncovered)."
     },
     {
       "id": "cr-pv-q32",
@@ -385,7 +633,15 @@
         "Les agents qui y travaillent"
       ],
       "correctAnswer": 3,
-      "explanation": "Les agents du service public (comme ceux d'une préfecture) représentent l'État. Ils ne doivent pas manifester leurs convictions religieuses, politiques ou philosophiques dans le cadre de leur travail."
+      "explanation": "Les agents du service public (comme ceux d'une préfecture) représentent l'État. Ils ne doivent pas manifester leurs convictions religieuses, politiques ou philosophiques dans le cadre de leur travail.",
+      "questionEn": "Who must respect the principle of religious neutrality in a préfecture (government office)?",
+      "optionsEn": [
+        "The members of the public who come to make a request",
+        "The people who accompany members of the public",
+        "Only the préfet (prefect)",
+        "The employees who work there"
+      ],
+      "explanationEn": "Public service employees (such as those in a préfecture) represent the State. They must not show their religious, political, or philosophical beliefs while at work."
     },
     {
       "id": "cr-pv-q33",
@@ -397,7 +653,15 @@
         "Non, ils peuvent essayer de convaincre les usagers de changer de religion"
       ],
       "correctAnswer": 0,
-      "explanation": "La neutralité des agents permet de garantir que tous les usagers sont traités de la même manière, quelles que soient leurs croyances ou leurs opinions."
+      "explanation": "La neutralité des agents permet de garantir que tous les usagers sont traités de la même manière, quelles que soient leurs croyances ou leurs opinions.",
+      "questionEn": "Does laïcité require public employees to be neutral toward users of public services?",
+      "optionsEn": [
+        "Yes, they must not show their beliefs in order to treat all users equally",
+        "Yes, but only if they work in a school",
+        "No, neutrality only applies to buildings, not people",
+        "No, they can try to convince users to change religion"
+      ],
+      "explanationEn": "The neutrality of public employees ensures that all users are treated the same way, regardless of their beliefs or opinions."
     },
     {
       "id": "cr-pv-q34",
@@ -409,7 +673,15 @@
         "L'obligation d'avoir une religion"
       ],
       "correctAnswer": 0,
-      "explanation": "La laïcité repose sur la liberté de conscience : chaque citoyen est libre d'avoir une religion, d'en changer ou de ne pas en avoir."
+      "explanation": "La laïcité repose sur la liberté de conscience : chaque citoyen est libre d'avoir une religion, d'en changer ou de ne pas en avoir.",
+      "questionEn": "What does the principle of laïcité (secularism) guarantee?",
+      "optionsEn": [
+        "Freedom of conscience (to believe or not to believe)",
+        "The removal of places of worship",
+        "The ban on believing in God",
+        "The obligation to have a religion"
+      ],
+      "explanationEn": "Laïcité is based on freedom of conscience: every citizen is free to have a religion, change religion, or have no religion."
     },
     {
       "id": "cr-pv-q35",
@@ -421,7 +693,15 @@
         "Posséder un permis de conduire"
       ],
       "correctAnswer": 1,
-      "explanation": "La participation citoyenne inclut des actions collectives comme adhérer à un syndicat pour défendre des intérêts communs ou participer à la vie associative."
+      "explanation": "La participation citoyenne inclut des actions collectives comme adhérer à un syndicat pour défendre des intérêts communs ou participer à la vie associative.",
+      "questionEn": "Which of the following is an example of civic participation?",
+      "optionsEn": [
+        "Watching television",
+        "Joining an association or a union",
+        "Doing your shopping on Sunday",
+        "Having a driving license"
+      ],
+      "explanationEn": "Civic participation includes collective actions such as joining a union to defend common interests or participating in community life."
     },
     {
       "id": "cr-pv-q36",
@@ -433,7 +713,15 @@
         "Le droit de diffuser de fausses informations"
       ],
       "correctAnswer": 2,
-      "explanation": "La liberté d'expression permet à chacun de parler, écrire et publier librement ses opinions, dans les limites définies par la loi (pas d'incitation à la haine, etc.)."
+      "explanation": "La liberté d'expression permet à chacun de parler, écrire et publier librement ses opinions, dans les limites définies par la loi (pas d'incitation à la haine, etc.).",
+      "questionEn": "What does freedom of expression guarantee?",
+      "optionsEn": [
+        "The right to insult others on the internet",
+        "The right to force your ideas on others",
+        "The right to say, write, and publish your opinions",
+        "The right to spread false information"
+      ],
+      "explanationEn": "Freedom of expression allows everyone to speak, write, and publish their opinions freely, within the limits set by law (no incitement to hatred, etc.)."
     },
     {
       "id": "cr-pv-q37",
@@ -444,7 +732,14 @@
         "À prouver qu'un étranger a le droit de résider en France"
       ],
       "correctAnswer": 2,
-      "explanation": "Le titre de séjour est un document officiel qui autorise une personne étrangère à vivre légalement sur le territoire français."
+      "explanation": "Le titre de séjour est un document officiel qui autorise une personne étrangère à vivre légalement sur le territoire français.",
+      "questionEn": "What is a titre de séjour (residence permit) for?",
+      "optionsEn": [
+        "To travel for free on public transport",
+        "To automatically get French nationality",
+        "To prove that a foreigner has the right to live in France"
+      ],
+      "explanationEn": "A titre de séjour (residence permit) is an official document that allows a foreign person to live legally in France."
     },
     {
       "id": "cr-pv-q38",
@@ -455,7 +750,14 @@
         "Se déplacer librement sur le territoire"
       ],
       "correctAnswer": 2,
-      "explanation": "La liberté de circulation garantit le droit d'aller et venir partout sur le territoire français, sous réserve d'avoir les documents nécessaires (comme un titre de séjour)."
+      "explanation": "La liberté de circulation garantit le droit d'aller et venir partout sur le territoire français, sous réserve d'avoir les documents nécessaires (comme un titre de séjour).",
+      "questionEn": "Freedom of movement allows any person to:",
+      "optionsEn": [
+        "Enter private property without permission",
+        "Drive a vehicle without a license",
+        "Move freely across the country"
+      ],
+      "explanationEn": "Freedom of movement guarantees the right to go anywhere in France, provided you have the required documents (such as a residence permit)."
     },
     {
       "id": "cr-pv-q39",
@@ -466,7 +768,14 @@
         "Sur les blogs personnels"
       ],
       "correctAnswer": 0,
-      "explanation": "Les symboles de la République, comme Marianne, figurent sur les documents officiels et les sites internet de l'État et de l'administration (finissant par .gouv.fr)."
+      "explanation": "Les symboles de la République, comme Marianne, figurent sur les documents officiels et les sites internet de l'État et de l'administration (finissant par .gouv.fr).",
+      "questionEn": "On which type of website can you find the symbol of the French Republic?",
+      "optionsEn": [
+        "On official government websites (.gouv.fr)",
+        "On online shopping websites",
+        "On personal blogs"
+      ],
+      "explanationEn": "Republic symbols, like Marianne, appear on official documents and government websites (ending in .gouv.fr)."
     },
     {
       "id": "cr-pv-q40",
@@ -478,7 +787,17 @@
         "soldats"
       ],
       "correctAnswer": 0,
-      "explanation": "Le refrain de l'hymne national appelle les 'citoyens' à défendre la patrie et les valeurs de la République."
+      "explanation": "Le refrain de l'hymne national appelle les 'citoyens' à défendre la patrie et les valeurs de la République.",
+      "questionEn": "Complete these lyrics from La Marseillaise: \"Aux armes [...] ! Formez vos bataillons\" (To arms [...] ! Form your battalions)",
+      "optionsEn": [
+        "citizens (citoyens)",
+        "children (enfants)",
+        "inhabitants (habitants)",
+        "soldiers (soldats)"
+      ],
+      "explanationEn": "The chorus of the national anthem calls on 'citizens' (citoyens) to defend the fatherland and the values of the Republic."
     }
-  ]
+  ],
+  "titleEn": "CR - Principles and Values of the Republic",
+  "descriptionEn": "Official CR (Carte de Résident / Resident Card) quiz – Principles and values of the Republic. Official exam questions."
 }

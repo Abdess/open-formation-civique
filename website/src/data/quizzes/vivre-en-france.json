@@ -1,7 +1,7 @@
 {
   "id": "vivre-en-france",
   "title": "Vivre dans la société française",
-  "description": "Testez vos connaissances : Démarches Administratives • Santé • Emploi • Parentalité",
+  "description": "Quiz – Démarches Administratives • Santé • Emploi • Parentalité. Testez vos connaissances avec des questions générées à partir des fiches thématiques officielles.",
   "questions": [
     {
       "id": "vf-q1",
@@ -13,7 +13,15 @@
         "À obtenir la nationalité française automatiquement"
       ],
       "correctAnswer": 1,
-      "explanation": "La domiciliation permet d'avoir une adresse administrative pour recevoir son courrier et accéder aux droits civils et sociaux (banque, préfecture, impôts, etc.)."
+      "explanation": "La domiciliation permet d'avoir une adresse administrative pour recevoir son courrier et accéder aux droits civils et sociaux (banque, préfecture, impôts, etc.).",
+      "questionEn": "What is the purpose of domiciliation (official address registration)?",
+      "optionsEn": [
+        "To get social housing immediately",
+        "To have an official address to receive mail and access your rights",
+        "To avoid paying taxes in France",
+        "To automatically get French nationality"
+      ],
+      "explanationEn": "Domiciliation gives you an official address so you can receive mail and access your civil and social rights (bank, prefecture, taxes, etc.)."
     },
     {
       "id": "vf-q2",
@@ -24,7 +32,14 @@
         "Seulement les étudiants étrangers"
       ],
       "correctAnswer": 1,
-      "explanation": "La domiciliation est destinée aux personnes sans domicile fixe, en habitat mobile ou précaire qui ne peuvent pas recevoir de courrier de façon constante."
+      "explanation": "La domiciliation est destinée aux personnes sans domicile fixe, en habitat mobile ou précaire qui ne peuvent pas recevoir de courrier de façon constante.",
+      "questionEn": "Who needs domiciliation?",
+      "optionsEn": [
+        "Only people who own their home",
+        "People who do not have a stable address to receive their mail",
+        "Only foreign students"
+      ],
+      "explanationEn": "Domiciliation is for people without a fixed home, in mobile housing, or in unstable housing who cannot receive mail regularly."
     },
     {
       "id": "vf-q3",
@@ -36,7 +51,15 @@
         "1 an"
       ],
       "correctAnswer": 2,
-      "explanation": "Le changement d'adresse doit être effectué le plus rapidement possible, au maximum 3 mois après le déménagement."
+      "explanation": "Le changement d'adresse doit être effectué le plus rapidement possible, au maximum 3 mois après le déménagement.",
+      "questionEn": "If you move, what is the maximum time to report your change of address?",
+      "optionsEn": [
+        "1 week",
+        "1 month",
+        "3 months",
+        "1 year"
+      ],
+      "explanationEn": "The change of address must be done as quickly as possible, within a maximum of 3 months after moving."
     },
     {
       "id": "vf-q4",
@@ -48,7 +71,15 @@
         "En attendant qu'ils vous contactent"
       ],
       "correctAnswer": 2,
-      "explanation": "Le site service-public.fr permet de faire un changement d'adresse qui informe simultanément plusieurs services publics comme la CAF, les impôts et la Sécurité sociale."
+      "explanation": "Le site service-public.fr permet de faire un changement d'adresse qui informe simultanément plusieurs services publics comme la CAF, les impôts et la Sécurité sociale.",
+      "questionEn": "How can you inform several public services (CAF, taxes, Social Security) at the same time when you move?",
+      "optionsEn": [
+        "By sending a letter to each service individually",
+        "By going to the town hall",
+        "By using the website service-public.fr",
+        "By waiting for them to contact you"
+      ],
+      "explanationEn": "The website service-public.fr lets you change your address and notify several public services at once, like CAF (family benefits), taxes, and Social Security."
     },
     {
       "id": "vf-q5",
@@ -60,7 +91,15 @@
         "Cela permet d'éviter de payer des impôts"
       ],
       "correctAnswer": 0,
-      "explanation": "Le compte bancaire sécurise votre argent et est indispensable pour travailler (recevoir un salaire) et pour de nombreuses démarches administratives."
+      "explanation": "Le compte bancaire sécurise votre argent et est indispensable pour travailler (recevoir un salaire) et pour de nombreuses démarches administratives.",
+      "questionEn": "Why is it useful to have a bank account in France?",
+      "optionsEn": [
+        "It is required to receive your salary and do administrative tasks",
+        "It is only for rich people",
+        "It is required to have the right to vote",
+        "It allows you to avoid paying taxes"
+      ],
+      "explanationEn": "A bank account keeps your money safe and is essential for working (receiving your salary) and for many administrative tasks."
     },
     {
       "id": "vf-q6",
@@ -72,7 +111,15 @@
         "Un certificat médical"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour ouvrir un compte, la banque doit vérifier votre identité. Il faut donc présenter une pièce d'identité officielle comportant une photographie."
+      "explanation": "Pour ouvrir un compte, la banque doit vérifier votre identité. Il faut donc présenter une pièce d'identité officielle comportant une photographie.",
+      "questionEn": "What document is needed to open a bank account?",
+      "optionsEn": [
+        "A university diploma",
+        "An official ID with a photo",
+        "A cover letter",
+        "A medical certificate"
+      ],
+      "explanationEn": "To open an account, the bank must verify your identity. You need to show an official ID with a photo."
     },
     {
       "id": "vf-q7",
@@ -84,7 +131,15 @@
         "Vous devez obligatoirement ouvrir un compte à l'étranger"
       ],
       "correctAnswer": 2,
-      "explanation": "Si une banque refuse, vous pouvez exercer votre 'droit au compte' en contactant la Banque de France, qui désignera une banque obligée de vous ouvrir un compte."
+      "explanation": "Si une banque refuse, vous pouvez exercer votre 'droit au compte' en contactant la Banque de France, qui désignera une banque obligée de vous ouvrir un compte.",
+      "questionEn": "What can you do if a bank refuses to open an account for you?",
+      "optionsEn": [
+        "You can never have an account in France",
+        "You must pay a fine to the bank",
+        "You can contact the Banque de France to use your 'right to a bank account'",
+        "You must open an account in another country"
+      ],
+      "explanationEn": "If a bank refuses, you can use your 'right to a bank account' by contacting the Banque de France, which will assign a bank that must open an account for you."
     },
     {
       "id": "vf-q8",
@@ -95,7 +150,14 @@
         "Le prix dépend de votre nationalité"
       ],
       "correctAnswer": 0,
-      "explanation": "L'acte d'ouvrir un compte bancaire est gratuit, même si la banque peut ensuite facturer des frais pour la gestion du compte."
+      "explanation": "L'acte d'ouvrir un compte bancaire est gratuit, même si la banque peut ensuite facturer des frais pour la gestion du compte.",
+      "questionEn": "How much does it cost to open a bank account?",
+      "optionsEn": [
+        "It is always free",
+        "It costs about 50 euros",
+        "The price depends on your nationality"
+      ],
+      "explanationEn": "Opening a bank account is free, although the bank may charge fees later for managing the account."
     },
     {
       "id": "vf-q9",
@@ -107,7 +169,15 @@
         "Une assurance uniquement pour les accidents de voiture"
       ],
       "correctAnswer": 0,
-      "explanation": "La responsabilité civile est l'obligation légale de réparer les torts (matériels, corporels ou moraux) que l'on cause à autrui sans le vouloir."
+      "explanation": "La responsabilité civile est l'obligation légale de réparer les torts (matériels, corporels ou moraux) que l'on cause à autrui sans le vouloir.",
+      "questionEn": "What is civil liability (responsabilité civile)?",
+      "optionsEn": [
+        "The duty to pay for damage you accidentally cause to other people",
+        "A fine you pay to the State every year",
+        "The right to file a complaint against your neighbors",
+        "Insurance only for car accidents"
+      ],
+      "explanationEn": "Civil liability is the legal duty to pay for harm (material, physical, or emotional) that you accidentally cause to others."
     },
     {
       "id": "vf-q10",
@@ -119,7 +189,15 @@
         "Uniquement si vous conduisez une voiture"
       ],
       "correctAnswer": 1,
-      "explanation": "Vous êtes responsable des dommages causés par vous-même, mais aussi par vos enfants mineurs, vos animaux domestiques ou les objets sous votre garde."
+      "explanation": "Vous êtes responsable des dommages causés par vous-même, mais aussi par vos enfants mineurs, vos animaux domestiques ou les objets sous votre garde.",
+      "questionEn": "In what situation are you civilly liable?",
+      "optionsEn": [
+        "Only if you cause an accident at work",
+        "If your minor child or your pet causes damage",
+        "Only if you hurt someone on purpose",
+        "Only if you drive a car"
+      ],
+      "explanationEn": "You are responsible for damage caused by yourself, but also by your minor children, your pets, or objects in your care."
     },
     {
       "id": "vf-q11",
@@ -131,7 +209,15 @@
         "Elle est obligatoire seulement pour les propriétaires de maison"
       ],
       "correctAnswer": 1,
-      "explanation": "L'assurance responsabilité civile est obligatoire pour garantir la protection des autres et elle est payante."
+      "explanation": "L'assurance responsabilité civile est obligatoire pour garantir la protection des autres et elle est payante.",
+      "questionEn": "Is civil liability insurance mandatory?",
+      "optionsEn": [
+        "No, it is optional",
+        "Yes, it is mandatory and you must pay for it",
+        "It is free for everyone",
+        "It is mandatory only for homeowners"
+      ],
+      "explanationEn": "Civil liability insurance is mandatory to protect others, and you must pay for it."
     },
     {
       "id": "vf-q12",
@@ -143,7 +229,15 @@
         "À financer les vacances des citoyens"
       ],
       "correctAnswer": 1,
-      "explanation": "L'impôt permet à l'État de faire fonctionner le pays en finançant des services gratuits comme l'école, l'entretien des routes et la solidarité via les aides sociales."
+      "explanation": "L'impôt permet à l'État de faire fonctionner le pays en finançant des services gratuits comme l'école, l'entretien des routes et la solidarité via les aides sociales.",
+      "questionEn": "What is tax money used for in France?",
+      "optionsEn": [
+        "Only to pay ministers' salaries",
+        "To fund public services (schools, roads) and social benefits",
+        "To pay off debts of private companies",
+        "To fund citizens' vacations"
+      ],
+      "explanationEn": "Taxes allow the State to run the country by funding free services like schools, road maintenance, and social benefits for people in need."
     },
     {
       "id": "vf-q13",
@@ -155,7 +249,15 @@
         "Uniquement les personnes riches"
       ],
       "correctAnswer": 2,
-      "explanation": "La déclaration est obligatoire pour toute personne majeure vivant en France, qu'elle soit française ou étrangère, et même si elle ne gagne pas d'argent (il faut alors déclarer 0 euro)."
+      "explanation": "La déclaration est obligatoire pour toute personne majeure vivant en France, qu'elle soit française ou étrangère, et même si elle ne gagne pas d'argent (il faut alors déclarer 0 euro).",
+      "questionEn": "Who is required to declare their income in France?",
+      "optionsEn": [
+        "Only people who have a job",
+        "Only French citizens",
+        "Every person over 18 living in France, even without income",
+        "Only rich people"
+      ],
+      "explanationEn": "The tax declaration is required for every adult living in France, whether French or foreign, even if they earn no money (you must declare 0 euros)."
     },
     {
       "id": "vf-q14",
@@ -167,7 +269,15 @@
         "Seulement quand vous changez de travail"
       ],
       "correctAnswer": 1,
-      "explanation": "La déclaration de revenus est annuelle. Elle se fait entre avril et mai pour déclarer l'argent gagné l'année précédente."
+      "explanation": "La déclaration de revenus est annuelle. Elle se fait entre avril et mai pour déclarer l'argent gagné l'année précédente.",
+      "questionEn": "When must you file your income tax declaration?",
+      "optionsEn": [
+        "Every month",
+        "Once a year, usually between April and May",
+        "Once every 5 years",
+        "Only when you change jobs"
+      ],
+      "explanationEn": "The income tax declaration is annual. It is done between April and May to declare the money earned the previous year."
     },
     {
       "id": "vf-q15",
@@ -179,7 +289,15 @@
         "L'obligation de quitter le territoire immédiatement"
       ],
       "correctAnswer": 2,
-      "explanation": "Ne pas déclarer ses revenus peut entraîner des amendes, le remboursement des aides déjà reçues et des difficultés pour accéder à de nouveaux droits."
+      "explanation": "Ne pas déclarer ses revenus peut entraîner des amendes, le remboursement des aides déjà reçues et des difficultés pour accéder à de nouveaux droits.",
+      "questionEn": "What can happen if you do not declare your income?",
+      "optionsEn": [
+        "Nothing at all",
+        "Just a warning letter with no consequences",
+        "Financial penalties and loss of some social benefits",
+        "Being forced to leave the country immediately"
+      ],
+      "explanationEn": "Not declaring your income can lead to fines, having to pay back benefits you already received, and difficulty accessing new benefits."
     },
     {
       "id": "vf-q16",
@@ -190,7 +308,14 @@
         "De votre niveau de français uniquement"
       ],
       "correctAnswer": 1,
-      "explanation": "Le texte indique que le type de titre de séjour varie en fonction de la durée et du motif de l'installation en France."
+      "explanation": "Le texte indique que le type de titre de séjour varie en fonction de la durée et du motif de l'installation en France.",
+      "questionEn": "What determines the type of residence permit you can get?",
+      "optionsEn": [
+        "Your age and the city where you live",
+        "The length and the reason for your stay in France",
+        "Your French language level only"
+      ],
+      "explanationEn": "The type of residence permit depends on how long you plan to stay and the reason for living in France."
     },
     {
       "id": "vf-q17",
@@ -201,7 +326,14 @@
         "Un an avant la fin de validité de votre titre"
       ],
       "correctAnswer": 1,
-      "explanation": "Il est impératif de déposer le dossier complet au moins 3 mois avant que votre titre de séjour actuel ne soit plus valide."
+      "explanation": "Il est impératif de déposer le dossier complet au moins 3 mois avant que votre titre de séjour actuel ne soit plus valide.",
+      "questionEn": "When should you apply to renew your residence permit?",
+      "optionsEn": [
+        "The day your permit expires",
+        "At least 3 months before your permit expires",
+        "One year before your permit expires"
+      ],
+      "explanationEn": "You must submit your complete application at least 3 months before your current residence permit expires."
     },
     {
       "id": "vf-q18",
@@ -212,7 +344,14 @@
         "Tout voyage hors de France de moins d'une semaine"
       ],
       "correctAnswer": 0,
-      "explanation": "Le texte précise qu'il faut informer la Préfecture de tout changement d'adresse ou de domiciliation."
+      "explanation": "Le texte précise qu'il faut informer la Préfecture de tout changement d'adresse ou de domiciliation.",
+      "questionEn": "What information must you report to the Prefecture?",
+      "optionsEn": [
+        "Any change of address or domiciliation",
+        "Any change of phone number",
+        "Any trip outside France shorter than one week"
+      ],
+      "explanationEn": "You must inform the Prefecture of any change of address or domiciliation."
     },
     {
       "id": "vf-q19",
@@ -224,7 +363,15 @@
         "Le niveau B2"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour les demandes de titre de séjour de plus de 1 an, une certification linguistique de niveau A2 est demandée dans le dossier."
+      "explanation": "Pour les demandes de titre de séjour de plus de 1 an, une certification linguistique de niveau A2 est demandée dans le dossier.",
+      "questionEn": "What French language level is usually required to renew a residence permit of more than one year?",
+      "optionsEn": [
+        "A1 level",
+        "A2 level",
+        "B1 level",
+        "B2 level"
+      ],
+      "explanationEn": "For residence permits longer than 1 year, an A2 French language certificate is required in your application."
     },
     {
       "id": "vf-q20",
@@ -236,7 +383,15 @@
         "Par examen écrit ou par concours"
       ],
       "correctAnswer": 1,
-      "explanation": "Il existe deux voies principales : la naturalisation par décret (après 5 ans de résidence) ou la déclaration (par exemple en cas de mariage avec un Français)."
+      "explanation": "Il existe deux voies principales : la naturalisation par décret (après 5 ans de résidence) ou la déclaration (par exemple en cas de mariage avec un Français).",
+      "questionEn": "What are the two main ways for a foreign adult to become French?",
+      "optionsEn": [
+        "By lottery or by vote",
+        "By naturalization decree or by declaration",
+        "By purchase or by inheritance",
+        "By written exam or by competition"
+      ],
+      "explanationEn": "There are two main ways: naturalization by decree (after 5 years of residence) or by declaration (for example, through marriage with a French person)."
     },
     {
       "id": "vf-q21",
@@ -248,7 +403,15 @@
         "Le nombre d'amis français"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour devenir français, il est obligatoire d'adhérer aux valeurs essentielles de la République, ce qui est vérifié lors d'un entretien."
+      "explanation": "Pour devenir français, il est obligatoire d'adhérer aux valeurs essentielles de la République, ce qui est vérifié lors d'un entretien.",
+      "questionEn": "What is checked during the assimilation interview at the prefecture?",
+      "optionsEn": [
+        "The applicant's financial wealth",
+        "Commitment to the principles and values of the Republic",
+        "The ability to cook French dishes",
+        "The number of French friends"
+      ],
+      "explanationEn": "To become French, you must agree with the essential values of the Republic. This is checked during an interview."
     },
     {
       "id": "vf-q22",
@@ -260,7 +423,15 @@
         "Par téléphone"
       ],
       "correctAnswer": 2,
-      "explanation": "La demande de naturalisation par décret se fait désormais en ligne sur le site de l'Administration Numérique des Étrangers en France (ANEF)."
+      "explanation": "La demande de naturalisation par décret se fait désormais en ligne sur le site de l'Administration Numérique des Étrangers en France (ANEF).",
+      "questionEn": "Where do you submit your application for naturalization by decree?",
+      "optionsEn": [
+        "Only by postal mail to the town hall",
+        "Directly at the police station",
+        "Online on the ANEF website",
+        "By phone"
+      ],
+      "explanationEn": "The naturalization application is now done online on the ANEF website (Digital Administration for Foreigners in France)."
     },
     {
       "id": "vf-q23",
@@ -272,7 +443,15 @@
         "Attendre que la préfecture vous appelle"
       ],
       "correctAnswer": 1,
-      "explanation": "Si vous avez du mal avec l'informatique, vous pouvez aller dans un point d’accueil numérique (PAN) en préfecture ou appeler le centre de contact citoyens."
+      "explanation": "Si vous avez du mal avec l'informatique, vous pouvez aller dans un point d’accueil numérique (PAN) en préfecture ou appeler le centre de contact citoyens.",
+      "questionEn": "What can you do if you have difficulty with online procedures?",
+      "optionsEn": [
+        "Give up on the application",
+        "Go to a digital help desk (PAN) at the prefecture",
+        "Ask a neighbor to do it for you",
+        "Wait for the prefecture to call you"
+      ],
+      "explanationEn": "If you have trouble with computers, you can go to a digital help desk (PAN) at the prefecture or call the citizen contact center."
     },
     {
       "id": "vf-q24",
@@ -284,7 +463,15 @@
         "Il n'y a pas de délai limite"
       ],
       "correctAnswer": 1,
-      "explanation": "La déclaration de naissance est obligatoire et doit être réalisée dans les 5 jours qui suivent la naissance."
+      "explanation": "La déclaration de naissance est obligatoire et doit être réalisée dans les 5 jours qui suivent la naissance.",
+      "questionEn": "What is the maximum time to declare a child's birth?",
+      "optionsEn": [
+        "24 hours after the birth",
+        "5 days after the birth",
+        "1 month after the birth",
+        "There is no time limit"
+      ],
+      "explanationEn": "Declaring a birth is mandatory and must be done within 5 days after the birth."
     },
     {
       "id": "vf-q25",
@@ -296,7 +483,15 @@
         "Au commissariat de police"
       ],
       "correctAnswer": 2,
-      "explanation": "La déclaration doit être faite auprès de l'officier d'état civil à la mairie du lieu où l'enfant est né."
+      "explanation": "La déclaration doit être faite auprès de l'officier d'état civil à la mairie du lieu où l'enfant est né.",
+      "questionEn": "Where do you go to declare a birth?",
+      "optionsEn": [
+        "To the prefecture",
+        "To the hospital where the child was born",
+        "To the town hall (mairie) where the child was born",
+        "To the police station"
+      ],
+      "explanationEn": "The declaration must be made to the civil registrar at the town hall (mairie) where the child was born."
     },
     {
       "id": "vf-q26",
@@ -308,7 +503,15 @@
         "Il permet aux parents de prendre des vacances"
       ],
       "correctAnswer": 0,
-      "explanation": "L'acte de naissance est essentiel pour la vie administrative de l'enfant : droits sociaux (allocations, santé), identité et scolarité."
+      "explanation": "L'acte de naissance est essentiel pour la vie administrative de l'enfant : droits sociaux (allocations, santé), identité et scolarité.",
+      "questionEn": "Why is the birth certificate an important document?",
+      "optionsEn": [
+        "It allows you to get social benefits, identity documents, and register the child for school",
+        "It is only used to choose the child's first name",
+        "It is needed to buy a car",
+        "It allows parents to take vacation"
+      ],
+      "explanationEn": "The birth certificate is essential for the child's official life: social benefits (financial aid, healthcare), identity documents, and school registration."
     },
     {
       "id": "vf-q27",
@@ -320,7 +523,15 @@
         "La carte vitale du bébé"
       ],
       "correctAnswer": 2,
-      "explanation": "Il faut présenter le certificat médical d'accouchement, qui est généralement une attestation fournie par le médecin ou la sage-femme."
+      "explanation": "Il faut présenter le certificat médical d'accouchement, qui est généralement une attestation fournie par le médecin ou la sage-femme.",
+      "questionEn": "What medical document is required to declare a birth?",
+      "optionsEn": [
+        "The mother's health booklet",
+        "A prescription for medication",
+        "The medical certificate of delivery",
+        "The baby's Carte Vitale (health insurance card)"
+      ],
+      "explanationEn": "You must show the medical certificate of delivery, which is usually provided by the doctor or midwife."
     },
     {
       "id": "vf-q28",
@@ -332,7 +543,15 @@
         "L'union libre"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, seul le mariage civil, célébré à la mairie, a une valeur légale et est reconnu par l'État."
+      "explanation": "En France, seul le mariage civil, célébré à la mairie, a une valeur légale et est reconnu par l'État.",
+      "questionEn": "What is the only type of marriage officially recognized by the French State?",
+      "optionsEn": [
+        "Religious marriage",
+        "Civil marriage",
+        "Traditional/customary marriage",
+        "Common-law partnership"
+      ],
+      "explanationEn": "In France, only civil marriage, performed at the town hall (mairie), has legal value and is recognized by the State."
     },
     {
       "id": "vf-q29",
@@ -344,7 +563,15 @@
         "Parler couramment français"
       ],
       "correctAnswer": 2,
-      "explanation": "Il faut être majeur (avoir plus de 18 ans) pour se marier, sauf si une autorisation spéciale (accord des parents ou du procureur) est accordée."
+      "explanation": "Il faut être majeur (avoir plus de 18 ans) pour se marier, sauf si une autorisation spéciale (accord des parents ou du procureur) est accordée.",
+      "questionEn": "What is a mandatory condition to get married in France?",
+      "optionsEn": [
+        "To have French nationality",
+        "To have a stable job",
+        "To be at least 18 years old (with some exceptions)",
+        "To speak French fluently"
+      ],
+      "explanationEn": "You must be an adult (over 18) to get married, unless special permission is given (from parents or a prosecutor)."
     },
     {
       "id": "vf-q30",
@@ -356,7 +583,15 @@
         "Un certificat de nationalité"
       ],
       "correctAnswer": 0,
-      "explanation": "À la fin de la cérémonie à la mairie, l'officier d'état civil vous remet votre acte de mariage français ainsi que votre livret de famille."
+      "explanation": "À la fin de la cérémonie à la mairie, l'officier d'état civil vous remet votre acte de mariage français ainsi que votre livret de famille.",
+      "questionEn": "What official documents do you receive on the day of the civil marriage ceremony?",
+      "optionsEn": [
+        "A marriage certificate and a family booklet (livret de famille)",
+        "A passport and an ID card",
+        "A residence permit and a visa",
+        "A nationality certificate"
+      ],
+      "explanationEn": "At the end of the ceremony at the town hall, the civil registrar gives you your French marriage certificate and your family booklet (livret de famille)."
     },
     {
       "id": "vf-q31",
@@ -368,7 +603,15 @@
         "Il faut traduire l'acte de mariage soi-même sur papier libre"
       ],
       "correctAnswer": 2,
-      "explanation": "Pour qu'un mariage étranger soit reconnu, il faut demander sa transcription dans les registres de l'état civil français auprès des autorités compétentes."
+      "explanation": "Pour qu'un mariage étranger soit reconnu, il faut demander sa transcription dans les registres de l'état civil français auprès des autorités compétentes.",
+      "questionEn": "How do you get a marriage performed abroad recognized in France?",
+      "optionsEn": [
+        "It is automatic, there is nothing to do",
+        "You must redo a religious ceremony in France",
+        "You must request a transcription of the marriage from the consulate or Ministry of Foreign Affairs",
+        "You must translate the marriage certificate yourself on plain paper"
+      ],
+      "explanationEn": "For a foreign marriage to be recognized, you must request its transcription into French civil records through the proper authorities."
     },
     {
       "id": "vf-q32",
@@ -380,7 +623,15 @@
         "Un dentiste"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, on commence généralement par consulter son médecin traitant pour les problèmes courants. C'est le principe du parcours de soins coordonnés."
+      "explanation": "En France, on commence généralement par consulter son médecin traitant pour les problèmes courants. C'est le principe du parcours de soins coordonnés.",
+      "questionEn": "For a common health problem, who should you see first?",
+      "optionsEn": [
+        "A specialist doctor (like a cardiologist)",
+        "Your family doctor (médecin traitant / general practitioner)",
+        "The hospital emergency room directly",
+        "A dentist"
+      ],
+      "explanationEn": "In France, you usually see your family doctor (médecin traitant) first for common health problems. This is called the coordinated care pathway."
     },
     {
       "id": "vf-q33",
@@ -392,7 +643,15 @@
         "Pour choisir votre médecin traitant"
       ],
       "correctAnswer": 2,
-      "explanation": "L'hôpital est réservé aux urgences graves ou aux consultations spécialisées sur rendez-vous."
+      "explanation": "L'hôpital est réservé aux urgences graves ou aux consultations spécialisées sur rendez-vous.",
+      "questionEn": "In what situation should you go to the hospital?",
+      "optionsEn": [
+        "To buy medication",
+        "To ask for advice about a small pain",
+        "In case of a serious situation (accident, severe illness) or for an appointment with a specialist",
+        "To choose your family doctor"
+      ],
+      "explanationEn": "The hospital is for serious emergencies or specialist consultations by appointment."
     },
     {
       "id": "vf-q34",
@@ -404,7 +663,15 @@
         "À devenir médecin"
       ],
       "correctAnswer": 1,
-      "explanation": "La prescription médicale permet au pharmacien de vous délivrer les bons médicaments et de vous expliquer comment les utiliser."
+      "explanation": "La prescription médicale permet au pharmacien de vous délivrer les bons médicaments et de vous expliquer comment les utiliser.",
+      "questionEn": "What is a medical prescription (ordonnance) from the doctor used for?",
+      "optionsEn": [
+        "To make an appointment at the hospital",
+        "To get the prescribed medication at the pharmacy",
+        "To pay less taxes",
+        "To become a doctor"
+      ],
+      "explanationEn": "The medical prescription allows the pharmacist to give you the right medication and explain how to use it."
     },
     {
       "id": "vf-q35",
@@ -416,7 +683,15 @@
         "Il s'occupe seulement des enfants"
       ],
       "correctAnswer": 1,
-      "explanation": "Le médecin traitant est votre interlocuteur privilégié : il vous suit régulièrement, gère votre dossier médical et vous oriente vers des spécialistes si besoin."
+      "explanation": "Le médecin traitant est votre interlocuteur privilégié : il vous suit régulièrement, gère votre dossier médical et vous oriente vers des spécialistes si besoin.",
+      "questionEn": "What is the main role of the family doctor (médecin traitant)?",
+      "optionsEn": [
+        "He/she only treats serious emergencies at the hospital",
+        "He/she provides regular medical care and coordinates treatment",
+        "He/she sells medication directly to patients",
+        "He/she only takes care of children"
+      ],
+      "explanationEn": "Your family doctor is your main medical contact: he/she sees you regularly, manages your medical file, and refers you to specialists if needed."
     },
     {
       "id": "vf-q36",
@@ -427,7 +702,15 @@
         "Pour ne jamais avoir besoin de consulter un spécialiste"
       ],
       "correctAnswer": 0,
-      "explanation": "Le médecin traitant connaît votre dossier médical, vos antécédents et centralise toutes les informations (résultats, traitements) pour un meilleur suivi."
+      "explanation": "Le médecin traitant connaît votre dossier médical, vos antécédents et centralise toutes les informations (résultats, traitements) pour un meilleur suivi.",
+      "questionEn": "Why is it important to declare a family doctor?",
+      "optionsEn": [
+        "To ensure good medical follow-up and get better reimbursement",
+        "To get a Carte Vitale faster",
+        "It is required to go to the pharmacy",
+        "To get a permanent social security number"
+      ],
+      "explanationEn": "Choosing a family doctor (a general practitioner you see regularly) allows better monitoring of your health and improves your reimbursement rates."
     },
     {
       "id": "vf-q37",
@@ -439,7 +722,15 @@
         "En contactant la mairie de votre ville"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour consulter, il faut prendre rendez-vous soit par téléphone directement au cabinet, soit via des plateformes en ligne comme Doctolib ou Maiia."
+      "explanation": "Pour consulter, il faut prendre rendez-vous soit par téléphone directement au cabinet, soit via des plateformes en ligne comme Doctolib ou Maiia.",
+      "questionEn": "How can you make an appointment with a general practitioner?",
+      "optionsEn": [
+        "By sending a letter by mail",
+        "By calling the office or booking online (on Doctolib or Maiia)",
+        "By waiting outside the office without an appointment",
+        "By contacting your city's town hall"
+      ],
+      "explanationEn": "To see a doctor, you must make an appointment by calling the office directly or by booking online on platforms like Doctolib or Maiia."
     },
     {
       "id": "vf-q38",
@@ -451,7 +742,15 @@
         "Faire uniquement des prises de sang"
       ],
       "correctAnswer": 1,
-      "explanation": "Le spécialiste a une formation approfondie dans un domaine précis (comme le cœur ou la peau) pour traiter des problèmes spécifiques."
+      "explanation": "Le spécialiste a une formation approfondie dans un domaine précis (comme le cœur ou la peau) pour traiter des problèmes spécifiques.",
+      "questionEn": "What is the main role of a specialist doctor?",
+      "optionsEn": [
+        "To treat only colds and flu",
+        "To diagnose and treat specific problems in a particular field",
+        "To replace the pharmacist and give medication",
+        "To only do blood tests"
+      ],
+      "explanationEn": "A specialist has advanced training in a specific field (like the heart or skin) to treat specific problems."
     },
     {
       "id": "vf-q39",
@@ -463,7 +762,15 @@
         "La mairie"
       ],
       "correctAnswer": 2,
-      "explanation": "C'est généralement votre médecin généraliste qui vous fait une ordonnance pour aller voir un spécialiste."
+      "explanation": "C'est généralement votre médecin généraliste qui vous fait une ordonnance pour aller voir un spécialiste.",
+      "questionEn": "In the coordinated care pathway, who usually refers you to a specialist?",
+      "optionsEn": [
+        "The pharmacist",
+        "The hospital",
+        "The general practitioner (family doctor)",
+        "The town hall"
+      ],
+      "explanationEn": "It is usually your general practitioner (family doctor) who gives you a referral to see a specialist."
     },
     {
       "id": "vf-q40",
@@ -475,7 +782,15 @@
         "Aucun, il faut toujours une ordonnance"
       ],
       "correctAnswer": 1,
-      "explanation": "Vous pouvez consulter directement un ophtalmologue, un gynécologue, un pédiatre ou un psychiatre sans passer par le médecin généraliste."
+      "explanation": "Vous pouvez consulter directement un ophtalmologue, un gynécologue, un pédiatre ou un psychiatre sans passer par le médecin généraliste.",
+      "questionEn": "Which specialists can you see directly, without a referral from your family doctor?",
+      "optionsEn": [
+        "The cardiologist and the dermatologist",
+        "The eye doctor, the gynecologist, or the pediatrician",
+        "The surgeon and the anesthesiologist",
+        "None, you always need a referral"
+      ],
+      "explanationEn": "You can see an eye doctor, gynecologist, pediatrician, or psychiatrist directly without a referral from your family doctor."
     },
     {
       "id": "vf-q41",
@@ -487,7 +802,15 @@
         "En demandant à la police"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour avoir un rendez-vous, il faut téléphoner au cabinet du médecin ou utiliser une plateforme de réservation sur internet."
+      "explanation": "Pour avoir un rendez-vous, il faut téléphoner au cabinet du médecin ou utiliser une plateforme de réservation sur internet.",
+      "questionEn": "How can you make an appointment with a specialist doctor?",
+      "optionsEn": [
+        "Only by sending a letter by mail",
+        "By calling the office or booking online (on Doctolib or Maiia)",
+        "By going directly to the office without an appointment",
+        "By asking the police"
+      ],
+      "explanationEn": "To get an appointment, you must call the doctor's office or use an online booking platform."
     },
     {
       "id": "vf-q42",
@@ -499,7 +822,15 @@
         "Dans un centre de soin en addictologie (CSAPA)"
       ],
       "correctAnswer": 0,
-      "explanation": "La PMI (Protection Maternelle et Infantile) est la structure spécialisée pour le suivi des femmes enceintes et des jeunes enfants jusqu'à 6 ans."
+      "explanation": "La PMI (Protection Maternelle et Infantile) est la structure spécialisée pour le suivi des femmes enceintes et des jeunes enfants jusqu'à 6 ans.",
+      "questionEn": "Where should you go for care and advice if you are pregnant or for a child under 6 years old?",
+      "optionsEn": [
+        "To a maternal and child health center (PMI)",
+        "To a tuberculosis treatment center (CLAT)",
+        "To a sexual health center",
+        "To an addiction treatment center (CSAPA)"
+      ],
+      "explanationEn": "The PMI (Maternal and Child Protection) is the specialized center for pregnant women and young children up to 6 years old."
     },
     {
       "id": "vf-q43",
@@ -511,7 +842,15 @@
         "La mairie"
       ],
       "correctAnswer": 1,
-      "explanation": "Les PASS se trouvent dans presque tous les hôpitaux publics et permettent à tout le monde d'accéder aux soins gratuitement."
+      "explanation": "Les PASS se trouvent dans presque tous les hôpitaux publics et permettent à tout le monde d'accéder aux soins gratuitement.",
+      "questionEn": "Which service allows you to receive free hospital care, even without health insurance?",
+      "optionsEn": [
+        "The tax office",
+        "The PASS (permanent access to healthcare services)",
+        "The police station",
+        "The town hall"
+      ],
+      "explanationEn": "PASS offices are found in almost all public hospitals and allow everyone to receive free healthcare."
     },
     {
       "id": "vf-q44",
@@ -523,7 +862,15 @@
         "Dans un centre de lutte anti-tuberculose (CLAT)"
       ],
       "correctAnswer": 0,
-      "explanation": "Les centres de santé sexuelle sont dédiés à la contraception, aux conseils sur la sexualité et à l'accompagnement pour l'IVG."
+      "explanation": "Les centres de santé sexuelle sont dédiés à la contraception, aux conseils sur la sexualité et à l'accompagnement pour l'IVG.",
+      "questionEn": "Where can you go for free to get contraception or advice about sexuality?",
+      "optionsEn": [
+        "To a sexual health center",
+        "To a mental health center (CMP)",
+        "To a pharmacy (paid)",
+        "To a tuberculosis treatment center (CLAT)"
+      ],
+      "explanationEn": "Sexual health centers provide contraception, advice about sexuality, and support for abortion (IVG)."
     },
     {
       "id": "vf-q45",
@@ -535,7 +882,15 @@
         "Le CLAT"
       ],
       "correctAnswer": 2,
-      "explanation": "Les CSAPA sont les centres spécialisés pour soigner et accompagner les personnes souffrant d'addictions."
+      "explanation": "Les CSAPA sont les centres spécialisés pour soigner et accompagner les personnes souffrant d'addictions.",
+      "questionEn": "Which center specializes in helping people with addiction problems (alcohol, drugs...)?",
+      "optionsEn": [
+        "The CeGIDD",
+        "The PMI",
+        "The CSAPA (Center for Addiction Care, Support, and Prevention)",
+        "The CLAT"
+      ],
+      "explanationEn": "CSAPA centers specialize in treating and supporting people with addictions."
     },
     {
       "id": "vf-q46",
@@ -547,7 +902,15 @@
         "Pour demander des conseils sur un médicament"
       ],
       "correctAnswer": 1,
-      "explanation": "Le SAMU (15) est réservé aux urgences vitales graves. Pour les problèmes moins urgents, il faut appeler un médecin ou SOS Médecins."
+      "explanation": "Le SAMU (15) est réservé aux urgences vitales graves. Pour les problèmes moins urgents, il faut appeler un médecin ou SOS Médecins.",
+      "questionEn": "When should you call the SAMU (emergency medical service) at 15?",
+      "optionsEn": [
+        "To make a routine medical appointment",
+        "In case of immediate life-threatening danger (loss of consciousness, serious injury)",
+        "For a simple fever or cold",
+        "To ask for advice about a medication"
+      ],
+      "explanationEn": "The SAMU (15) is for serious life-threatening emergencies. For less urgent problems, call a doctor or SOS Médecins."
     },
     {
       "id": "vf-q47",
@@ -559,7 +922,15 @@
         "Le 3919"
       ],
       "correctAnswer": 2,
-      "explanation": "SOS Médecins (3624) peut envoyer un médecin chez vous 24h/24 pour des urgences médicales qui ne mettent pas votre vie en danger immédiat."
+      "explanation": "SOS Médecins (3624) peut envoyer un médecin chez vous 24h/24 pour des urgences médicales qui ne mettent pas votre vie en danger immédiat.",
+      "questionEn": "What number should you call if you need a doctor at home for a high fever, with no risk of death?",
+      "optionsEn": [
+        "15 (SAMU — emergency medical service)",
+        "119",
+        "3624 (SOS Médecins — house call doctors)",
+        "3919"
+      ],
+      "explanationEn": "SOS Médecins (3624) can send a doctor to your home 24/7 for medical emergencies that are not life-threatening."
     },
     {
       "id": "vf-q48",
@@ -571,7 +942,15 @@
         "Le 3919"
       ],
       "correctAnswer": 0,
-      "explanation": "Le 119 est le numéro national dédié à la protection de l'enfance en danger."
+      "explanation": "Le 119 est le numéro national dédié à la protection de l'enfance en danger.",
+      "questionEn": "What emergency number is specifically for reporting a child in danger?",
+      "optionsEn": [
+        "119",
+        "15",
+        "3114",
+        "3919"
+      ],
+      "explanationEn": "119 is the national number for reporting children in danger."
     },
     {
       "id": "vf-q49",
@@ -583,7 +962,15 @@
         "Délivrer des médicaments directement aux patients sans ordonnance"
       ],
       "correctAnswer": 1,
-      "explanation": "Le médecin de garde assure les consultations soirs, nuits, week-ends et jours fériés pour les urgences non vitales, afin de ne pas surcharger les hôpitaux."
+      "explanation": "Le médecin de garde assure les consultations soirs, nuits, week-ends et jours fériés pour les urgences non vitales, afin de ne pas surcharger les hôpitaux.",
+      "questionEn": "What is the main role of an on-call doctor (médecin de garde)?",
+      "optionsEn": [
+        "To see only children",
+        "To handle urgent but non-life-threatening health problems outside normal hours",
+        "To replace your family doctor for routine appointments",
+        "To give medication directly to patients without a prescription"
+      ],
+      "explanationEn": "The on-call doctor provides consultations during evenings, nights, weekends, and holidays for non-life-threatening emergencies, to avoid overcrowding hospitals."
     },
     {
       "id": "vf-q50",
@@ -595,7 +982,15 @@
         "Le 32 37"
       ],
       "correctAnswer": 2,
-      "explanation": "Pour contacter un médecin de garde, il faut appeler le 15 (SAMU) ou le numéro spécifique de votre région."
+      "explanation": "Pour contacter un médecin de garde, il faut appeler le 15 (SAMU) ou le numéro spécifique de votre région.",
+      "questionEn": "What number should you call to reach an on-call doctor?",
+      "optionsEn": [
+        "18 (Fire department)",
+        "17 (Police)",
+        "15 (SAMU — emergency medical service)",
+        "32 37"
+      ],
+      "explanationEn": "To reach an on-call doctor, call 15 (SAMU) or your region's specific number."
     },
     {
       "id": "vf-q51",
@@ -607,7 +1002,15 @@
         "En regardant sur la porte de la mairie"
       ],
       "correctAnswer": 0,
-      "explanation": "Pour connaître la pharmacie de garde, vous pouvez contacter la gendarmerie ou la police (17) ou appeler le 32 37."
+      "explanation": "Pour connaître la pharmacie de garde, vous pouvez contacter la gendarmerie ou la police (17) ou appeler le 32 37.",
+      "questionEn": "How can you find the nearest on-duty pharmacy?",
+      "optionsEn": [
+        "By calling 17 (Police) or 32 37",
+        "By waiting for pharmacies to open on Monday morning",
+        "By calling your family doctor directly",
+        "By looking at the town hall door"
+      ],
+      "explanationEn": "To find the on-duty pharmacy, you can contact the police (17) or call 32 37."
     },
     {
       "id": "vf-q52",
@@ -619,7 +1022,15 @@
         "Un système de santé réservé uniquement aux personnes qui ont un emploi"
       ],
       "correctAnswer": 1,
-      "explanation": "La PUMa est la couverture de base de l'Assurance maladie. Elle permet à toute personne travaillant ou résidant en France de manière stable d'être remboursée de ses frais de santé."
+      "explanation": "La PUMa est la couverture de base de l'Assurance maladie. Elle permet à toute personne travaillant ou résidant en France de manière stable d'être remboursée de ses frais de santé.",
+      "questionEn": "What is the PUMa (Universal Health Protection)?",
+      "optionsEn": [
+        "A mandatory private insurance for all workers",
+        "A system that covers healthcare costs for anyone living in France in a stable and regular way",
+        "Financial help only for buying medication",
+        "A health system reserved only for people who have a job"
+      ],
+      "explanationEn": "PUMa is the basic health coverage. It allows anyone working or living stably in France to be reimbursed for healthcare costs."
     },
     {
       "id": "vf-q53",
@@ -631,7 +1042,15 @@
         "Elle est obligatoire pour obtenir un titre de séjour"
       ],
       "correctAnswer": 2,
-      "explanation": "La mutuelle vient en complément de la couverture de base (PUMa). Elle rembourse la partie des frais qui n'est pas prise en charge par la Sécurité sociale."
+      "explanation": "La mutuelle vient en complément de la couverture de base (PUMa). Elle rembourse la partie des frais qui n'est pas prise en charge par la Sécurité sociale.",
+      "questionEn": "What is the role of supplementary health insurance (mutuelle)?",
+      "optionsEn": [
+        "It completely replaces PUMa",
+        "It is only for paying hospital costs",
+        "It adds to PUMa reimbursements to better cover healthcare costs",
+        "It is required to get a residence permit"
+      ],
+      "explanationEn": "The mutuelle (supplementary insurance) adds to the basic coverage (PUMa). It reimburses the part of costs not covered by Social Security."
     },
     {
       "id": "vf-q54",
@@ -643,7 +1062,15 @@
         "Seulement les personnes qui n'ont jamais travaillé en France"
       ],
       "correctAnswer": 2,
-      "explanation": "La C2S est une aide destinée aux personnes ayant des revenus modestes. Selon les ressources, elle est gratuite ou coûte moins de 1 € par jour."
+      "explanation": "La C2S est une aide destinée aux personnes ayant des revenus modestes. Selon les ressources, elle est gratuite ou coûte moins de 1 € par jour.",
+      "questionEn": "Who can benefit from the C2S (Solidarity Supplementary Health Coverage)?",
+      "optionsEn": [
+        "Only people over 65 years old",
+        "All people who work in the private sector",
+        "People with low income, under certain conditions",
+        "Only people who have never worked in France"
+      ],
+      "explanationEn": "The C2S is for people with low income. Depending on your income, it is free or costs less than 1 euro per day."
     },
     {
       "id": "vf-q55",
@@ -655,7 +1082,15 @@
         "Il n'a aucune obligation concernant votre santé"
       ],
       "correctAnswer": 0,
-      "explanation": "Tout employeur du secteur privé a l'obligation de proposer une couverture complémentaire santé (mutuelle) à ses salariés et d'en payer une partie."
+      "explanation": "Tout employeur du secteur privé a l'obligation de proposer une couverture complémentaire santé (mutuelle) à ses salariés et d'en payer une partie.",
+      "questionEn": "If you work in the private sector, what is your employer's obligation regarding health?",
+      "optionsEn": [
+        "They must offer you supplementary health insurance (mutuelle)",
+        "They must pay for all your medication",
+        "They must register you for the C2S",
+        "They have no obligation regarding your health"
+      ],
+      "explanationEn": "Every private-sector employer must offer supplementary health insurance (mutuelle) to their employees and pay part of it."
     },
     {
       "id": "vf-q56",
@@ -667,7 +1102,15 @@
         "Il n'y a plus aucune prise en charge immédiate"
       ],
       "correctAnswer": 1,
-      "explanation": "La protection universelle maladie (PUMa) continue de couvrir vos frais de santé pendant 6 mois à compter de la date de fin de validité de votre titre de séjour."
+      "explanation": "La protection universelle maladie (PUMa) continue de couvrir vos frais de santé pendant 6 mois à compter de la date de fin de validité de votre titre de séjour.",
+      "questionEn": "If your residence permit is no longer valid, how long does PUMa continue to cover your healthcare costs?",
+      "optionsEn": [
+        "For 1 month only",
+        "For 6 months",
+        "For 1 year",
+        "There is no more coverage at all"
+      ],
+      "explanationEn": "PUMa continues to cover your healthcare costs for 6 months from the date your residence permit expires."
     },
     {
       "id": "vf-q57",
@@ -679,7 +1122,15 @@
         "Elle est remplacée par une assurance privée obligatoire"
       ],
       "correctAnswer": 2,
-      "explanation": "La Complémentaire Santé Solidaire (C2S) ne se prolonge pas toute seule : elle peut être maintenue pendant 6 mois, mais il faut en faire la demande."
+      "explanation": "La Complémentaire Santé Solidaire (C2S) ne se prolonge pas toute seule : elle peut être maintenue pendant 6 mois, mais il faut en faire la demande.",
+      "questionEn": "What happens to the C2S when your residence permit expires?",
+      "optionsEn": [
+        "It stops immediately",
+        "It is automatically extended without doing anything",
+        "It can be kept for 6 months if you request it",
+        "It is replaced by mandatory private insurance"
+      ],
+      "explanationEn": "The C2S does not extend automatically: it can be kept for 6 months, but you must request it."
     },
     {
       "id": "vf-q58",
@@ -691,7 +1142,15 @@
         "Aucune des deux aides ne bénéficie de 45 jours supplémentaires"
       ],
       "correctAnswer": 0,
-      "explanation": "La PUMa accorde 45 jours supplémentaires après la réception du courrier de fin de droits, alors que la C2S ne peut pas être prolongée de ces 45 jours."
+      "explanation": "La PUMa accorde 45 jours supplémentaires après la réception du courrier de fin de droits, alors que la C2S ne peut pas être prolongée de ces 45 jours.",
+      "questionEn": "What is the difference between PUMa and C2S regarding the 45-day extension?",
+      "optionsEn": [
+        "Only PUMa gets 45 extra days after the end-of-rights notification",
+        "Only C2S gets 45 extra days",
+        "Both get 45 extra days",
+        "Neither gets 45 extra days"
+      ],
+      "explanationEn": "PUMa grants 45 extra days after you receive the end-of-rights letter, but the C2S cannot be extended by these 45 days."
     },
     {
       "id": "vf-q59",
@@ -703,7 +1162,15 @@
         "À obtenir un numéro de sécurité sociale"
       ],
       "correctAnswer": 1,
-      "explanation": "La carte Vitale est une carte personnelle qui prouve vos droits à l'Assurance Maladie et permet la télétransmission des feuilles de soins pour le remboursement."
+      "explanation": "La carte Vitale est une carte personnelle qui prouve vos droits à l'Assurance Maladie et permet la télétransmission des feuilles de soins pour le remboursement.",
+      "questionEn": "What is the Carte Vitale used for?",
+      "optionsEn": [
+        "To pay the doctor directly like a bank card",
+        "To prove that you have health insurance rights",
+        "To make an appointment with a specialist",
+        "To get a social security number"
+      ],
+      "explanationEn": "The Carte Vitale is a personal card that proves your health insurance rights and allows automatic electronic processing of reimbursements."
     },
     {
       "id": "vf-q60",
@@ -715,7 +1182,15 @@
         "L'obligation de consulter trois médecins différents"
       ],
       "correctAnswer": 2,
-      "explanation": "Le tiers-payant permet au patient de ne pas avancer les frais de santé. C'est l'Assurance Maladie qui paie directement le professionnel de santé."
+      "explanation": "Le tiers-payant permet au patient de ne pas avancer les frais de santé. C'est l'Assurance Maladie qui paie directement le professionnel de santé.",
+      "questionEn": "What is the 'tiers-payant' (third-party payment) system?",
+      "optionsEn": [
+        "Paying three times the price of the consultation",
+        "Financial help to buy medication without a prescription",
+        "A system where you do not have to pay upfront for the amount covered by health insurance",
+        "The obligation to see three different doctors"
+      ],
+      "explanationEn": "The tiers-payant system means you do not have to pay upfront for healthcare. Health insurance pays the doctor or pharmacy directly."
     },
     {
       "id": "vf-q61",
@@ -727,7 +1202,15 @@
         "Pour avoir un numéro de sécurité sociale définitif"
       ],
       "correctAnswer": 0,
-      "explanation": "Choisir un médecin traitant (un généraliste que vous consultez régulièrement) permet un meilleur suivi de votre santé et optimise vos remboursements."
+      "explanation": "Choisir un médecin traitant (un généraliste que vous consultez régulièrement) permet un meilleur suivi de votre santé et optimise vos remboursements.",
+      "questionEn": "Why is it important to declare a family doctor?",
+      "optionsEn": [
+        "To ensure good medical follow-up and get better reimbursement",
+        "To get a Carte Vitale faster",
+        "It is required to go to the pharmacy",
+        "To get a permanent social security number"
+      ],
+      "explanationEn": "Choosing a family doctor (a general practitioner you see regularly) allows better monitoring of your health and improves your reimbursement rates."
     },
     {
       "id": "vf-q62",
@@ -739,7 +1222,15 @@
         "Uniquement par courrier postal"
       ],
       "correctAnswer": 1,
-      "explanation": "Le compte Ameli est l'espace en ligne sécurisé qui permet de suivre les remboursements, télécharger des attestations et contacter l'Assurance Maladie."
+      "explanation": "Le compte Ameli est l'espace en ligne sécurisé qui permet de suivre les remboursements, télécharger des attestations et contacter l'Assurance Maladie.",
+      "questionEn": "Where can you track your reimbursements and do your health insurance procedures online?",
+      "optionsEn": [
+        "On the tax website",
+        "On your Ameli account (personal space on the health insurance website)",
+        "Directly at your pharmacist",
+        "Only by postal mail"
+      ],
+      "explanationEn": "The Ameli account is a secure online space where you can track reimbursements, download certificates, and contact health insurance."
     },
     {
       "id": "vf-q63",
@@ -751,7 +1242,15 @@
         "Il n'y a aucune condition de durée"
       ],
       "correctAnswer": 0,
-      "explanation": "Pour bénéficier de la PUMa, vous devez prouver que vous résidez en France de manière stable, c'est-à-dire depuis plus de 3 mois."
+      "explanation": "Pour bénéficier de la PUMa, vous devez prouver que vous résidez en France de manière stable, c'est-à-dire depuis plus de 3 mois.",
+      "questionEn": "How long must you have lived in France to apply for PUMa?",
+      "optionsEn": [
+        "You must have lived in France for more than 3 months",
+        "You must have lived in France for more than 1 year",
+        "You must have lived in France for 1 week",
+        "There is no residence duration requirement"
+      ],
+      "explanationEn": "To get PUMa, you must prove that you live in France in a stable way, meaning for more than 3 months."
     },
     {
       "id": "vf-q64",
@@ -763,7 +1262,15 @@
         "À Pôle emploi"
       ],
       "correctAnswer": 1,
-      "explanation": "C'est la CPAM (ou la MSA selon votre situation) qui gère l'Assurance maladie. Le dossier doit être envoyé ou déposé à la CPAM de votre département."
+      "explanation": "C'est la CPAM (ou la MSA selon votre situation) qui gère l'Assurance maladie. Le dossier doit être envoyé ou déposé à la CPAM de votre département.",
+      "questionEn": "To which organization do you send your application for health coverage?",
+      "optionsEn": [
+        "To your city’s town hall",
+        "To the CPAM (Primary Health Insurance Fund)",
+        "To the police prefecture",
+        "To the employment office (Pôle emploi)"
+      ],
+      "explanationEn": "The CPAM (or MSA depending on your situation) manages health insurance. Your application must be sent or dropped off at the CPAM in your department."
     },
     {
       "id": "vf-q65",
@@ -775,7 +1282,15 @@
         "Ne rien indiquer sur le formulaire"
       ],
       "correctAnswer": 2,
-      "explanation": "Il est obligatoire d'avoir une adresse postale stable. Si vous n'avez pas de domicile fixe, vous pouvez demander une domiciliation auprès d'une association ou d'un CCAS."
+      "explanation": "Il est obligatoire d'avoir une adresse postale stable. Si vous n'avez pas de domicile fixe, vous pouvez demander une domiciliation auprès d'une association ou d'un CCAS.",
+      "questionEn": "If you do not have a fixed home, what should you do to receive mail from the CPAM?",
+      "optionsEn": [
+        "Give a friend's address without telling them",
+        "Give the address of your home country",
+        "Request a domiciliation to have a mailing address",
+        "Leave it blank on the form"
+      ],
+      "explanationEn": "You must have a stable mailing address. If you have no fixed home, you can request a domiciliation from an association or a CCAS (community social services center)."
     },
     {
       "id": "vf-q66",
@@ -787,7 +1302,15 @@
         "Une photo de vacances en France"
       ],
       "correctAnswer": 1,
-      "explanation": "Les justificatifs doivent prouver votre présence. Ils doivent être officiels (factures, ordonnances, attestations) et mentionner obligatoirement votre nom et une date."
+      "explanation": "Les justificatifs doivent prouver votre présence. Ils doivent être officiels (factures, ordonnances, attestations) et mentionner obligatoirement votre nom et une date.",
+      "questionEn": "What types of documents can serve as proof that you live in France?",
+      "optionsEn": [
+        "Only your passport",
+        "Rent receipts, electricity bills, or medical prescriptions",
+        "A handwritten letter without a date",
+        "A vacation photo taken in France"
+      ],
+      "explanationEn": "The documents must prove you live in France. They must be official (bills, prescriptions, certificates) and must show your name and a date."
     },
     {
       "id": "vf-q67",
@@ -798,7 +1321,14 @@
         "Le Code Civil français"
       ],
       "correctAnswer": 0,
-      "explanation": "Signée en 1989 dans le cadre de l'ONU, la Convention Internationale des Droits de l'Enfant est le document qui impose aux États de protéger les enfants."
+      "explanation": "Signée en 1989 dans le cadre de l'ONU, la Convention Internationale des Droits de l'Enfant est le document qui impose aux États de protéger les enfants.",
+      "questionEn": "What international document protects children's fundamental rights?",
+      "optionsEn": [
+        "The International Convention on the Rights of the Child",
+        "The Declaration of the Rights of Man and of the Citizen",
+        "The French Civil Code"
+      ],
+      "explanationEn": "Signed in 1989 at the United Nations, the International Convention on the Rights of the Child requires countries to protect children."
     },
     {
       "id": "vf-q68",
@@ -809,7 +1339,14 @@
         "Les parents décident toujours de tout pour l'enfant"
       ],
       "correctAnswer": 1,
-      "explanation": "L'intérêt de l'enfant passe avant tout. Il a le droit de choisir son avenir, mais ses décisions ne doivent pas le mettre en danger."
+      "explanation": "L'intérêt de l'enfant passe avant tout. Il a le droit de choisir son avenir, mais ses décisions ne doivent pas le mettre en danger.",
+      "questionEn": "What does the principle of 'the best interest of the child' mean?",
+      "optionsEn": [
+        "The child must always obey their parents without question",
+        "The child can choose their future, unless it puts them in danger",
+        "Parents always decide everything for the child"
+      ],
+      "explanationEn": "The child's interest comes first. They have the right to choose their future, but their choices must not put them in danger."
     },
     {
       "id": "vf-q69",
@@ -820,7 +1357,14 @@
         "Le droit de voter aux élections présidentielles"
       ],
       "correctAnswer": 1,
-      "explanation": "Tous les enfants ont le droit à l'éducation (aller à l'école) et le droit de jouer ou d'avoir des loisirs."
+      "explanation": "Tous les enfants ont le droit à l'éducation (aller à l'école) et le droit de jouer ou d'avoir des loisirs.",
+      "questionEn": "Which of these is a right of the child?",
+      "optionsEn": [
+        "The right to work from the age of 10",
+        "The right to go to school and have leisure activities",
+        "The right to vote in presidential elections"
+      ],
+      "explanationEn": "All children have the right to education (going to school) and the right to play and have leisure activities."
     },
     {
       "id": "vf-q70",
@@ -831,7 +1375,14 @@
         "L'ambassade des États-Unis"
       ],
       "correctAnswer": 0,
-      "explanation": "En cas de problème concernant les droits d'un enfant, il faut contacter le Défenseur des droits (par téléphone ou sur internet)."
+      "explanation": "En cas de problème concernant les droits d'un enfant, il faut contacter le Défenseur des droits (par téléphone ou sur internet).",
+      "questionEn": "Who can you contact in France if a child's rights are not being respected?",
+      "optionsEn": [
+        "The Défenseur des droits (Defender of Rights)",
+        "The President of the Republic",
+        "The United States embassy"
+      ],
+      "explanationEn": "If there is a problem with a child's rights, you should contact the Défenseur des droits (Defender of Rights) by phone or online."
     },
     {
       "id": "vf-q71",
@@ -843,7 +1394,15 @@
         "La mairie de la ville"
       ],
       "correctAnswer": 2,
-      "explanation": "Un parent ne peut pas renoncer lui-même à son autorité. Seul un tribunal peut prendre la décision de retirer l'autorité parentale."
+      "explanation": "Un parent ne peut pas renoncer lui-même à son autorité. Seul un tribunal peut prendre la décision de retirer l'autorité parentale.",
+      "questionEn": "Who has the power to decide to remove parental authority?",
+      "optionsEn": [
+        "The parent themselves, if they no longer want to care for the child",
+        "The child's school principal",
+        "A court",
+        "The city's town hall"
+      ],
+      "explanationEn": "A parent cannot give up their authority on their own. Only a court can decide to remove parental authority."
     },
     {
       "id": "vf-q72",
@@ -855,7 +1414,15 @@
         "Le parent a déménagé dans une autre ville"
       ],
       "correctAnswer": 1,
-      "explanation": "La mise en danger de l'enfant, par des violences physiques ou psychologiques, est une cause grave qui peut justifier le retrait de l'autorité parentale."
+      "explanation": "La mise en danger de l'enfant, par des violences physiques ou psychologiques, est une cause grave qui peut justifier le retrait de l'autorité parentale.",
+      "questionEn": "What situation can lead to the removal of parental authority?",
+      "optionsEn": [
+        "The parent has been unemployed for more than a year",
+        "The parent put their child in danger through physical violence",
+        "The child has bad grades at school",
+        "The parent moved to another city"
+      ],
+      "explanationEn": "Putting a child in danger through physical or psychological violence is a serious reason that can justify removing parental authority."
     },
     {
       "id": "vf-q73",
@@ -866,7 +1433,14 @@
         "Seulement si l'enfant a moins de 10 ans"
       ],
       "correctAnswer": 0,
-      "explanation": "Même si le parent perd ses droits de décision, il conserve l'obligation de contribuer financièrement à l'entretien et à l'éducation de son enfant."
+      "explanation": "Même si le parent perd ses droits de décision, il conserve l'obligation de contribuer financièrement à l'entretien et à l'éducation de son enfant.",
+      "questionEn": "If parental authority is fully removed, must the parent still pay for the child's education?",
+      "optionsEn": [
+        "Yes, the obligation to support and educate the child remains",
+        "No, they have no more duties toward the child",
+        "Only if the child is under 10 years old"
+      ],
+      "explanationEn": "Even if the parent loses their decision-making rights, they must still contribute financially to the child's care and education."
     },
     {
       "id": "vf-q74",
@@ -878,7 +1452,15 @@
         "À partir de 3 ans"
       ],
       "correctAnswer": 1,
-      "explanation": "Les lieux de garde accueillent généralement les enfants à partir de 2 mois et demi, et parfois jusqu'à 6 ans."
+      "explanation": "Les lieux de garde accueillent généralement les enfants à partir de 2 mois et demi, et parfois jusqu'à 6 ans.",
+      "questionEn": "From what age can children generally be accepted in childcare facilities?",
+      "optionsEn": [
+        "From birth",
+        "From 2 and a half months old",
+        "From 1 year old",
+        "From 3 years old"
+      ],
+      "explanationEn": "Childcare facilities generally accept children from 2 and a half months old, and sometimes up to 6 years old."
     },
     {
       "id": "vf-q75",
@@ -890,7 +1472,15 @@
         "Il n'y a pas de limite"
       ],
       "correctAnswer": 1,
-      "explanation": "Une micro-crèche est une structure plus petite qu'une crèche classique et accueille au maximum 10 enfants."
+      "explanation": "Une micro-crèche est une structure plus petite qu'une crèche classique et accueille au maximum 10 enfants.",
+      "questionEn": "What is the maximum number of children in a micro-crèche (small daycare)?",
+      "optionsEn": [
+        "5 children",
+        "10 children",
+        "20 children",
+        "There is no limit"
+      ],
+      "explanationEn": "A micro-crèche is a smaller daycare than a regular one and accepts a maximum of 10 children."
     },
     {
       "id": "vf-q76",
@@ -902,7 +1492,15 @@
         "La garde à domicile"
       ],
       "correctAnswer": 2,
-      "explanation": "La halte-garderie est conçue pour une garde occasionnelle, limitée à 3 demi-journées par semaine."
+      "explanation": "La halte-garderie est conçue pour une garde occasionnelle, limitée à 3 demi-journées par semaine.",
+      "questionEn": "Which childcare option allows occasional care, no more than 3 half-days per week?",
+      "optionsEn": [
+        "A regular daycare (crèche)",
+        "A childminder (assistante maternelle)",
+        "A halte-garderie (drop-in daycare)",
+        "Home-based childcare"
+      ],
+      "explanationEn": "The halte-garderie (drop-in daycare) is designed for occasional care, limited to 3 half-days per week."
     },
     {
       "id": "vf-q77",
@@ -914,7 +1512,15 @@
         "Il n'y a aucune aide financière possible"
       ],
       "correctAnswer": 1,
-      "explanation": "La garde à domicile implique d'employer directement une personne chez soi, ce qui est généralement plus coûteux et moins encadré que les structures collectives."
+      "explanation": "La garde à domicile implique d'employer directement une personne chez soi, ce qui est généralement plus coûteux et moins encadré que les structures collectives.",
+      "questionEn": "What is the main disadvantage of home-based childcare compared to other options?",
+      "optionsEn": [
+        "The child never sees their parents",
+        "It is often more expensive and less supervised",
+        "It is not allowed for children under 3 years old",
+        "There is no financial help available"
+      ],
+      "explanationEn": "Home-based childcare means directly employing someone at your home, which is usually more expensive and less supervised than group facilities."
     },
     {
       "id": "vf-q78",
@@ -926,7 +1532,15 @@
         "Uniquement pour les enfants qui parlent déjà français"
       ],
       "correctAnswer": 1,
-      "explanation": "L'école est une obligation pour tous les enfants, français ou étrangers, âgés de 3 à 16 ans qui habitent en France."
+      "explanation": "L'école est une obligation pour tous les enfants, français ou étrangers, âgés de 3 à 16 ans qui habitent en France.",
+      "questionEn": "In France, for which children is school mandatory?",
+      "optionsEn": [
+        "Only for children born in France",
+        "For all children aged 3 to 16, even if they do not speak French",
+        "Only for children who already speak French",
+        "For children aged 6 to 18"
+      ],
+      "explanationEn": "School is mandatory for all children aged 3 to 16 on French territory, regardless of their nationality or mother tongue."
     },
     {
       "id": "vf-q79",
@@ -938,7 +1552,15 @@
         "Le certificat d'études"
       ],
       "correctAnswer": 2,
-      "explanation": "À la fin du collège (après la classe de 3e), l'enfant passe le diplôme national du brevet (DNB), aussi appelé brevet des collèges."
+      "explanation": "À la fin du collège (après la classe de 3e), l'enfant passe le diplôme national du brevet (DNB), aussi appelé brevet des collèges.",
+      "questionEn": "What exam do students take at the end of middle school (collège)?",
+      "optionsEn": [
+        "The baccalauréat (BAC — high school diploma)",
+        "A university degree",
+        "The brevet des collèges (DNB — middle school diploma)",
+        "The certificat d'études (old-style certificate)"
+      ],
+      "explanationEn": "At the end of middle school (after the 3rd year), students take the DNB (national diploma), also called the brevet des collèges."
     },
     {
       "id": "vf-q80",
@@ -950,7 +1572,15 @@
         "Préparer l'entrée à l'université"
       ],
       "correctAnswer": 2,
-      "explanation": "L'école maternelle permet aux enfants de s'intégrer, d'apprendre le français s'ils ne le parlent pas, et d'apprendre à vivre avec les autres."
+      "explanation": "L'école maternelle permet aux enfants de s'intégrer, d'apprendre le français s'ils ne le parlent pas, et d'apprendre à vivre avec les autres.",
+      "questionEn": "What is one of the main goals of preschool (école maternelle, ages 3-6)?",
+      "optionsEn": [
+        "To learn a manual trade",
+        "To get a driving license",
+        "To learn the French language and how to live together",
+        "To prepare for university"
+      ],
+      "explanationEn": "Preschool helps children integrate, learn French if they do not speak it, and learn to live with others."
     },
     {
       "id": "vf-q81",
@@ -962,7 +1592,15 @@
         "Les élèves doivent obligatoirement travailler à l'usine"
       ],
       "correctAnswer": 1,
-      "explanation": "Après 16 ans, l'instruction n'est plus obligatoire, mais les jeunes peuvent continuer au lycée, en apprentissage ou vers d'autres études supérieures."
+      "explanation": "Après 16 ans, l'instruction n'est plus obligatoire, mais les jeunes peuvent continuer au lycée, en apprentissage ou vers d'autres études supérieures.",
+      "questionEn": "What happens after the age of 16 regarding school?",
+      "optionsEn": [
+        "School is forbidden",
+        "School is no longer mandatory, but studies can continue (high school, apprenticeship...)",
+        "School becomes paid for everyone",
+        "Students must work in a factory"
+      ],
+      "explanationEn": "After 16, education is no longer mandatory, but young people can continue in high school, apprenticeships, or higher education."
     },
     {
       "id": "vf-q82",
@@ -974,7 +1612,15 @@
         "Au tribunal"
       ],
       "correctAnswer": 1,
-      "explanation": "Pour l'école publique, l'inscription se fait auprès de la mairie de votre ville ou directement à l'école du quartier."
+      "explanation": "Pour l'école publique, l'inscription se fait auprès de la mairie de votre ville ou directement à l'école du quartier.",
+      "questionEn": "Where do you go to register your child for public school?",
+      "optionsEn": [
+        "To the police station",
+        "To the town hall or the school near your home",
+        "To the prefecture",
+        "To the court"
+      ],
+      "explanationEn": "For public school, registration is done at your city's town hall or directly at the neighborhood school."
     },
     {
       "id": "vf-q83",
@@ -986,7 +1632,15 @@
         "L'école publique ne délivre pas de diplômes officiels"
       ],
       "correctAnswer": 2,
-      "explanation": "L'école publique est gratuite, alors que l'école privée peut demander aux parents de payer des frais complémentaires."
+      "explanation": "L'école publique est gratuite, alors que l'école privée peut demander aux parents de payer des frais complémentaires.",
+      "questionEn": "What is an important difference between public and private school?",
+      "optionsEn": [
+        "Private school is always free",
+        "Public school is not mandatory",
+        "Private school can charge tuition fees",
+        "Public school does not give official diplomas"
+      ],
+      "explanationEn": "Public school is free, while private school can ask parents to pay additional fees."
     },
     {
       "id": "vf-q84",
@@ -998,7 +1652,15 @@
         "C'est possible pour tout le monde sans demander d'autorisation"
       ],
       "correctAnswer": 2,
-      "explanation": "L'école à la maison est exceptionnelle. Il faut une autorisation spéciale pour des motifs précis comme la santé, un handicap ou la pratique intensive d'un sport."
+      "explanation": "L'école à la maison est exceptionnelle. Il faut une autorisation spéciale pour des motifs précis comme la santé, un handicap ou la pratique intensive d'un sport.",
+      "questionEn": "In what case can a parent homeschool their child?",
+      "optionsEn": [
+        "If the child does not like their teachers",
+        "If the parents want to go on vacation all year",
+        "If the child has a health problem or does intensive sports",
+        "Anyone can do it without requesting permission"
+      ],
+      "explanationEn": "Homeschooling is exceptional. You need special permission for specific reasons like health problems, a disability, or intensive sports practice."
     },
     {
       "id": "vf-q85",
@@ -1010,7 +1672,15 @@
         "Pour les enfants de 6 à 18 ans"
       ],
       "correctAnswer": 1,
-      "explanation": "L'école est obligatoire pour tous les enfants âgés de 3 à 16 ans présents sur le territoire français, quelle que soit leur nationalité ou leur langue maternelle."
+      "explanation": "L'école est obligatoire pour tous les enfants âgés de 3 à 16 ans présents sur le territoire français, quelle que soit leur nationalité ou leur langue maternelle.",
+      "questionEn": "In France, for which children is school mandatory?",
+      "optionsEn": [
+        "Only for children born in France",
+        "For all children aged 3 to 16, even if they do not speak French",
+        "Only for children who already speak French",
+        "For children aged 6 to 18"
+      ],
+      "explanationEn": "School is mandatory for all children aged 3 to 16 on French territory, regardless of their nationality or mother tongue."
     },
     {
       "id": "vf-q86",
@@ -1022,7 +1692,15 @@
         "Il va directement dans une classe normale sans aide"
       ],
       "correctAnswer": 2,
-      "explanation": "L'enfant passe un test de positionnement pour déterminer son niveau et être orienté vers un dispositif adapté comme l'UPE2A pour apprendre le français."
+      "explanation": "L'enfant passe un test de positionnement pour déterminer son niveau et être orienté vers un dispositif adapté comme l'UPE2A pour apprendre le français.",
+      "questionEn": "What happens when a child who does not speak French arrives at school?",
+      "optionsEn": [
+        "They must wait one year before starting school",
+        "They are sent home to learn French alone",
+        "They take a test to assess their level and are placed in an adapted class",
+        "They go directly into a regular class without help"
+      ],
+      "explanationEn": "The child takes a placement test to determine their level and is directed to a program like UPE2A to learn French."
     },
     {
       "id": "vf-q87",
@@ -1034,7 +1712,15 @@
         "Une activité sportive après l'école"
       ],
       "correctAnswer": 0,
-      "explanation": "L'UPE2A (Unités Pédagogiques pour Élèves Allophones Arrivants) est un dispositif scolaire conçu pour aider les nouveaux élèves à apprendre le français."
+      "explanation": "L'UPE2A (Unités Pédagogiques pour Élèves Allophones Arrivants) est un dispositif scolaire conçu pour aider les nouveaux élèves à apprendre le français.",
+      "questionEn": "What is the UPE2A program?",
+      "optionsEn": [
+        "A special class for newly arrived students who speak other languages",
+        "A final exam to get French nationality",
+        "A paid private school for foreigners",
+        "A sports activity after school"
+      ],
+      "explanationEn": "UPE2A (Educational Units for Newly Arrived Non-French-Speaking Students) is a school program designed to help new students learn French."
     },
     {
       "id": "vf-q88",
@@ -1046,7 +1732,15 @@
         "En affichant les notes devant l'école"
       ],
       "correctAnswer": 0,
-      "explanation": "L'école transmet régulièrement les informations via le livret scolaire (école élémentaire) ou le bulletin scolaire (collège et lycée)."
+      "explanation": "L'école transmet régulièrement les informations via le livret scolaire (école élémentaire) ou le bulletin scolaire (collège et lycée).",
+      "questionEn": "How does the school inform parents about the child's grades and behavior?",
+      "optionsEn": [
+        "Through the school report (livret scolaire or bulletin scolaire)",
+        "Only by phone",
+        "By a letter sent once a year",
+        "By posting grades in front of the school"
+      ],
+      "explanationEn": "The school regularly shares information through the school report (livret scolaire for elementary, bulletin scolaire for middle/high school)."
     },
     {
       "id": "vf-q89",
@@ -1058,7 +1752,15 @@
         "Choisir les professeurs de l'enfant"
       ],
       "correctAnswer": 1,
-      "explanation": "Les parents doivent suivre la scolarité en consultant le carnet de liaison (souvent numérique) et en échangeant avec les enseignants."
+      "explanation": "Les parents doivent suivre la scolarité en consultant le carnet de liaison (souvent numérique) et en échangeant avec les enseignants.",
+      "questionEn": "What is one of the parents' duties to support their child's schooling?",
+      "optionsEn": [
+        "Do the homework instead of the child",
+        "Check the communication booklet and communicate with teachers",
+        "Come to class every day with the child",
+        "Choose the child's teachers"
+      ],
+      "explanationEn": "Parents must follow their child's schooling by checking the communication booklet (often digital) and communicating with teachers."
     },
     {
       "id": "vf-q90",
@@ -1070,7 +1772,15 @@
         "En payant pour changer le règlement intérieur"
       ],
       "correctAnswer": 2,
-      "explanation": "Les parents peuvent être élus représentants des parents d'élèves pour participer aux décisions sur l'organisation de l'école."
+      "explanation": "Les parents peuvent être élus représentants des parents d'élèves pour participer aux décisions sur l'organisation de l'école.",
+      "questionEn": "How can parents actively participate in important school decisions?",
+      "optionsEn": [
+        "By becoming the school principal",
+        "By grading students’ papers",
+        "By running in elections for parent representatives",
+        "By paying to change the school rules"
+      ],
+      "explanationEn": "Parents can be elected as parent representatives to participate in decisions about the school’s organization."
     },
     {
       "id": "vf-q91",
@@ -1082,7 +1792,15 @@
         "Organisme d'Entraide Pour les Réfugiés et les Enfants"
       ],
       "correctAnswer": 1,
-      "explanation": "OEPRE est un dispositif officiel qui signifie « Ouvrir l’École aux Parents pour la Réussite des Enfants »."
+      "explanation": "OEPRE est un dispositif officiel qui signifie « Ouvrir l’École aux Parents pour la Réussite des Enfants ».",
+      "questionEn": "What does the acronym OEPRE stand for?",
+      "optionsEn": [
+        "Organization of Schools for Student Success",
+        "Opening Schools to Parents for Children’s Success",
+        "Offering Republican Public Education to Foreigners",
+        "Support Organization for Refugees and Children"
+      ],
+      "explanationEn": "OEPRE is an official program meaning ‘Opening Schools to Parents for Children’s Success.’"
     },
     {
       "id": "vf-q92",
@@ -1094,7 +1812,15 @@
         "Apprendre à conduire, gérer un budget et faire les devoirs des enfants"
       ],
       "correctAnswer": 1,
-      "explanation": "La formation vise spécifiquement à travailler la langue française, les valeurs de la République et le fonctionnement du système scolaire."
+      "explanation": "La formation vise spécifiquement à travailler la langue française, les valeurs de la République et le fonctionnement du système scolaire.",
+      "questionEn": "What are the three main goals of the OEPRE program for parents?",
+      "optionsEn": [
+        "Learn French cooking, find a job, and get French nationality",
+        "Learn the French language, know the values of the Republic, and understand how schools work",
+        "Learn math, French history, and geography",
+        "Learn to drive, manage a budget, and do children’s homework"
+      ],
+      "explanationEn": "The program specifically focuses on the French language, the values of the Republic, and how the school system works."
     },
     {
       "id": "vf-q93",
@@ -1106,7 +1832,15 @@
         "Au domicile des parents"
       ],
       "correctAnswer": 2,
-      "explanation": "Les ateliers ont lieu directement dans les établissements scolaires (écoles, collèges, lycées) pour rapprocher les parents de l'école."
+      "explanation": "Les ateliers ont lieu directement dans les établissements scolaires (écoles, collèges, lycées) pour rapprocher les parents de l'école.",
+      "questionEn": "Where do OEPRE workshops usually take place?",
+      "optionsEn": [
+        "At prefectures and town halls",
+        "Only in Paris",
+        "In schools (elementary, middle, and high schools)",
+        "At parents' homes"
+      ],
+      "explanationEn": "The workshops take place directly in schools (elementary, middle, and high schools) to bring parents closer to the school."
     },
     {
       "id": "vf-q94",
@@ -1118,7 +1852,15 @@
         "Non, c'est interdit aux parents qui ne parlent pas français"
       ],
       "correctAnswer": 0,
-      "explanation": "Le texte précise que c'est une démarche volontaire pour les parents qui souhaitent s'inscrire."
+      "explanation": "Le texte précise que c'est une démarche volontaire pour les parents qui souhaitent s'inscrire.",
+      "questionEn": "Is participation in OEPRE workshops mandatory?",
+      "optionsEn": [
+        "No, it is voluntary for parents who want to participate",
+        "Yes, it is mandatory for all foreign parents",
+        "Yes, but only for mothers",
+        "No, it is not allowed for parents who do not speak French"
+      ],
+      "explanationEn": "Participation is voluntary for parents who wish to sign up."
     },
     {
       "id": "vf-q95",
@@ -1130,7 +1872,15 @@
         "Le permis de conduire, l'assurance et une carte routière"
       ],
       "correctAnswer": 0,
-      "explanation": "En France, il est obligatoire d'avoir un permis valide, la carte grise du véhicule à jour et une assurance automobile pour conduire."
+      "explanation": "En France, il est obligatoire d'avoir un permis valide, la carte grise du véhicule à jour et une assurance automobile pour conduire.",
+      "questionEn": "What are the three mandatory documents to drive your own car in France?",
+      "optionsEn": [
+        "A driving license, the vehicle registration (carte grise), and car insurance",
+        "A driving license, a passport, and proof of address",
+        "An ID card, the vehicle registration, and a technical inspection",
+        "A driving license, insurance, and a road map"
+      ],
+      "explanationEn": "In France, you must have a valid driving license, an up-to-date vehicle registration (carte grise), and car insurance to drive."
     },
     {
       "id": "vf-q96",
@@ -1142,7 +1892,15 @@
         "Il n'est pas valable, il faut repasser le permis tout de suite"
       ],
       "correctAnswer": 2,
-      "explanation": "Un permis étranger non européen est valable pendant 1 an à partir de la date de début de validité du premier titre de séjour. Au-delà, il faut l'avoir échangé ou repasser le permis français."
+      "explanation": "Un permis étranger non européen est valable pendant 1 an à partir de la date de début de validité du premier titre de séjour. Au-delà, il faut l'avoir échangé ou repasser le permis français.",
+      "questionEn": "How long is a non-European foreign driving license valid in France after getting your first residence permit?",
+      "optionsEn": [
+        "It is valid forever",
+        "It is valid for 6 months",
+        "It is valid for 1 year maximum",
+        "It is not valid, you must retake the driving test immediately"
+      ],
+      "explanationEn": "A non-European foreign license is valid for 1 year from the start date of your first residence permit. After that, you must exchange it or take the French driving test."
     },
     {
       "id": "vf-q97",
@@ -1154,7 +1912,15 @@
         "Une épreuve écrite de français et une épreuve de conduite"
       ],
       "correctAnswer": 1,
-      "explanation": "Le permis se compose de deux examens : le Code de la route (théorique) et l'épreuve pratique de conduite d'environ 30 minutes."
+      "explanation": "Le permis se compose de deux examens : le Code de la route (théorique) et l'épreuve pratique de conduite d'environ 30 minutes.",
+      "questionEn": "What are the two tests you must pass to get a French driving license?",
+      "optionsEn": [
+        "A mechanics test and a driving test",
+        "The traffic code (theory) and a practical driving test",
+        "A vision test and a reflex test",
+        "A written French test and a driving test"
+      ],
+      "explanationEn": "The driving license has two exams: the traffic code (theory) and a practical driving test of about 30 minutes."
     },
     {
       "id": "vf-q98",
@@ -1166,7 +1932,15 @@
         "Vous devez demander une dérogation spéciale au maire"
       ],
       "correctAnswer": 2,
-      "explanation": "Si le permis n'est pas échangeable ou si le délai d'un an est dépassé, il est obligatoire de passer l'examen du permis de conduire français pour continuer à conduire."
+      "explanation": "Si le permis n'est pas échangeable ou si le délai d'un an est dépassé, il est obligatoire de passer l'examen du permis de conduire français pour continuer à conduire.",
+      "questionEn": "What must you do if your foreign license cannot be exchanged or if you have passed the 1-year deadline?",
+      "optionsEn": [
+        "You can continue driving with your foreign license",
+        "You must pay a fine at the prefecture",
+        "You must take the French driving test (theory and practical)",
+        "You must request a special exemption from the mayor"
+      ],
+      "explanationEn": "If your license cannot be exchanged or the 1-year deadline has passed, you must take the French driving test to continue driving."
     },
     {
       "id": "vf-q99",
@@ -1177,7 +1951,14 @@
         "Les personnes qui ont déjà un travail à temps plein"
       ],
       "correctAnswer": 1,
-      "explanation": "Les personnes étrangères en situation régulière (réfugiés, titre de séjour) qui n'ont pas d'emploi doivent s'inscrire pour être accompagnées."
+      "explanation": "Les personnes étrangères en situation régulière (réfugiés, titre de séjour) qui n'ont pas d'emploi doivent s'inscrire pour être accompagnées.",
+      "questionEn": "Who must register with France Travail (employment agency)?",
+      "optionsEn": [
+        "Tourists on vacation in France",
+        "Any foreign person with legal status who is looking for work",
+        "People who already have a full-time job"
+      ],
+      "explanationEn": "Foreign people with legal status (refugees, residence permit holders) who do not have a job must register to receive support."
     },
     {
       "id": "vf-q100",
@@ -1189,7 +1970,15 @@
         "À s'inscrire à l'école pour les enfants"
       ],
       "correctAnswer": 1,
-      "explanation": "Ce questionnaire permet de comprendre vos besoins (niveau de français, informatique, expérience) pour vous proposer les solutions adaptées."
+      "explanation": "Ce questionnaire permet de comprendre vos besoins (niveau de français, informatique, expérience) pour vous proposer les solutions adaptées.",
+      "questionEn": "What is the purpose of the orientation questionnaire?",
+      "optionsEn": [
+        "To apply for French nationality",
+        "To assess your situation, your French level, and your skills",
+        "To get social housing",
+        "To register children for school"
+      ],
+      "explanationEn": "This questionnaire helps understand your needs (French level, computer skills, experience) to offer you the right solutions."
     },
     {
       "id": "vf-q101",
@@ -1201,7 +1990,15 @@
         "Si vous avez plus de 50 ans"
       ],
       "correctAnswer": 0,
-      "explanation": "L'inscription est automatique pour les bénéficiaires du RSA (et leurs conjoints) ainsi que pour les jeunes inscrits en Mission Locale."
+      "explanation": "L'inscription est automatique pour les bénéficiaires du RSA (et leurs conjoints) ainsi que pour les jeunes inscrits en Mission Locale.",
+      "questionEn": "In what case is your registration with France Travail automatic?",
+      "optionsEn": [
+        "If you receive the RSA (basic income support)",
+        "If you have just arrived in France",
+        "If you have a university degree",
+        "If you are over 50 years old"
+      ],
+      "explanationEn": "Registration is automatic for RSA recipients (and their partners) and for young people registered with the Mission Locale."
     },
     {
       "id": "vf-q102",
@@ -1213,7 +2010,15 @@
         "Le centre des impôts"
       ],
       "correctAnswer": 2,
-      "explanation": "Les Missions locales sont les structures spécialisées pour aider les jeunes de 16 à 25 ans dans leur recherche d'emploi."
+      "explanation": "Les Missions locales sont les structures spécialisées pour aider les jeunes de 16 à 25 ans dans leur recherche d'emploi.",
+      "questionEn": "Which organization specifically helps young people aged 16 to 25 find a job?",
+      "optionsEn": [
+        "Cap emploi",
+        "OFII",
+        "The Mission locale (local youth employment center)",
+        "The tax office"
+      ],
+      "explanationEn": "Mission locales are specialized centers that help young people aged 16 to 25 find jobs."
     },
     {
       "id": "vf-q103",
@@ -1225,7 +2030,15 @@
         "Il n'y a pas de limite d'heures"
       ],
       "correctAnswer": 2,
-      "explanation": "Le salarié signataire du CIR peut suivre jusqu'à 80 heures de formation au français sur son temps de travail, avec maintien du salaire."
+      "explanation": "Le salarié signataire du CIR peut suivre jusqu'à 80 heures de formation au français sur son temps de travail, avec maintien du salaire.",
+      "questionEn": "If you are an employee who signed the CIR, how many hours of French language training can you take during work time with your employer's support?",
+      "optionsEn": [
+        "Maximum 20 hours",
+        "Maximum 50 hours",
+        "Maximum 80 hours",
+        "There is no hour limit"
+      ],
+      "explanationEn": "An employee who signed the CIR can take up to 80 hours of French training during work time, while still being paid."
     },
     {
       "id": "vf-q104",
@@ -1237,7 +2050,15 @@
         "À s'inscrire à Pôle Emploi"
       ],
       "correctAnswer": 1,
-      "explanation": "Ce document permet de comparer votre diplôme étranger au système français pour aider les écoles ou les employeurs à évaluer votre niveau."
+      "explanation": "Ce document permet de comparer votre diplôme étranger au système français pour aider les écoles ou les employeurs à évaluer votre niveau.",
+      "questionEn": "What is the comparability certificate from the Enic-Naric Center used for?",
+      "optionsEn": [
+        "To automatically get French nationality",
+        "To help an employer or school understand your foreign diploma",
+        "To replace a French diploma for all jobs",
+        "To register at the employment office"
+      ],
+      "explanationEn": "This document compares your foreign diploma to the French system to help schools or employers understand your qualification level."
     },
     {
       "id": "vf-q105",
@@ -1249,7 +2070,15 @@
         "100 €"
       ],
       "correctAnswer": 0,
-      "explanation": "La procédure est gratuite pour les demandeurs d'asile, les réfugiés et les bénéficiaires de la protection subsidiaire ou temporaire."
+      "explanation": "La procédure est gratuite pour les demandeurs d'asile, les réfugiés et les bénéficiaires de la protection subsidiaire ou temporaire.",
+      "questionEn": "How much does the diploma recognition application (Enic-Naric) cost for a refugee or asylum seeker?",
+      "optionsEn": [
+        "It is free",
+        "20 euros",
+        "70 euros",
+        "100 euros"
+      ],
+      "explanationEn": "The process is free for asylum seekers, refugees, and people with subsidiary or temporary protection."
     },
     {
       "id": "vf-q106",
@@ -1261,7 +2090,15 @@
         "Avoir déjà un diplôme universitaire"
       ],
       "correctAnswer": 2,
-      "explanation": "Pour obtenir une VAE, il faut justifier d'au moins un an d'expérience (salariée, bénévole, etc.) en rapport direct avec le diplôme que vous souhaitez obtenir."
+      "explanation": "Pour obtenir une VAE, il faut justifier d'au moins un an d'expérience (salariée, bénévole, etc.) en rapport direct avec le diplôme que vous souhaitez obtenir.",
+      "questionEn": "What is required to apply for a VAE (Validation of Prior Experience)?",
+      "optionsEn": [
+        "To have French nationality",
+        "To be under 25 years old",
+        "To have at least one year of experience related to the desired diploma",
+        "To already have a university degree"
+      ],
+      "explanationEn": "To get a VAE, you must have at least 1 year of experience (paid work, volunteer work, etc.) directly related to the diploma you want."
     },
     {
       "id": "vf-q107",
@@ -1273,7 +2110,15 @@
         "Il est réservé aux missions de quelques jours"
       ],
       "correctAnswer": 1,
-      "explanation": "Le CDI est le contrat le plus courant en France et sa caractéristique principale est qu'il ne prévoit pas de date de fin au moment de la signature."
+      "explanation": "Le CDI est le contrat le plus courant en France et sa caractéristique principale est qu'il ne prévoit pas de date de fin au moment de la signature.",
+      "questionEn": "What is the main feature of a CDI (permanent contract)?",
+      "optionsEn": [
+        "It has a specific end date set in advance",
+        "It has no end date",
+        "It lasts a maximum of 18 months",
+        "It is reserved for short missions of a few days"
+      ],
+      "explanationEn": "The CDI is the most common contract in France and its main feature is that it has no end date when you sign it."
     },
     {
       "id": "vf-q108",
@@ -1285,7 +2130,15 @@
         "Pour éviter de payer des cotisations sociales"
       ],
       "correctAnswer": 0,
-      "explanation": "Le CDD sert à une tâche précise et limitée dans le temps, comme le remplacement d'un salarié absent ou une augmentation temporaire d'activité."
+      "explanation": "Le CDD sert à une tâche précise et limitée dans le temps, comme le remplacement d'un salarié absent ou une augmentation temporaire d'activité.",
+      "questionEn": "When can an employer use a CDD (fixed-term contract)?",
+      "optionsEn": [
+        "To replace a temporarily absent employee",
+        "To hire someone permanently without an end date",
+        "To test an employee for 5 years",
+        "To avoid paying social contributions"
+      ],
+      "explanationEn": "A CDD is for a specific task limited in time, such as replacing an absent employee or handling a temporary increase in work."
     },
     {
       "id": "vf-q109",
@@ -1297,7 +2150,15 @@
         "Il est interdit d'avoir deux contrats de travail en France"
       ],
       "correctAnswer": 2,
-      "explanation": "Le cumul d'emplois est autorisé mais strictement encadré : vous ne devez pas travailler plus de 10 heures par jour ni dépasser 48 heures par semaine (tous emplois confondus)."
+      "explanation": "Le cumul d'emplois est autorisé mais strictement encadré : vous ne devez pas travailler plus de 10 heures par jour ni dépasser 48 heures par semaine (tous emplois confondus).",
+      "questionEn": "What are the conditions for holding several jobs at the same time?",
+      "optionsEn": [
+        "There is no limit, you can work as much as you want",
+        "You must ask the mayor for permission",
+        "You must not exceed the maximum legal working time (48h per week or 10h per day)",
+        "It is forbidden to have two work contracts in France"
+      ],
+      "explanationEn": "Holding multiple jobs is allowed but strictly regulated: you must not work more than 10 hours per day or 48 hours per week (all jobs combined)."
     },
     {
       "id": "vf-q110",
@@ -1309,7 +2170,15 @@
         "Un contrat réservé uniquement aux étudiants"
       ],
       "correctAnswer": 2,
-      "explanation": "Le contrat d'intérim implique trois parties : le salarié, l'agence d'intérim (entreprise de travail temporaire) et l'entreprise où la mission est réalisée."
+      "explanation": "Le contrat d'intérim implique trois parties : le salarié, l'agence d'intérim (entreprise de travail temporaire) et l'entreprise où la mission est réalisée.",
+      "questionEn": "What is a temporary work contract (contrat d'intérim)?",
+      "optionsEn": [
+        "A contract to become a government employee",
+        "A verbal contract that does not need to be signed",
+        "A contract between a worker, a temp agency, and a company for a short assignment",
+        "A contract reserved only for students"
+      ],
+      "explanationEn": "A temp contract involves three parties: the worker, the temp agency, and the company where the work is done."
     },
     {
       "id": "vf-q111",
@@ -1321,7 +2190,15 @@
         "C'est un document officiel donné par la mairie à la naissance"
       ],
       "correctAnswer": 0,
-      "explanation": "L'autorité parentale regroupe ce que les parents peuvent et doivent faire pour protéger et éduquer leur enfant jusqu'à ses 18 ans."
+      "explanation": "L'autorité parentale regroupe ce que les parents peuvent et doivent faire pour protéger et éduquer leur enfant jusqu'à ses 18 ans.",
+      "questionEn": "What is parental authority (autorité parentale)?",
+      "optionsEn": [
+        "It is all the rights and duties of parents toward their minor child",
+        "It is the parents' right to choose their child's future career",
+        "It is the obligation for children to obey all adults",
+        "It is an official document given by the town hall at birth"
+      ],
+      "explanationEn": "Parental authority covers what parents can and must do to protect and educate their child until they turn 18."
     },
     {
       "id": "vf-q112",
@@ -1333,7 +2210,15 @@
         "L'éducation ne concerne que l'apprentissage de la lecture"
       ],
       "correctAnswer": 1,
-      "explanation": "En France, l'instruction est obligatoire de 3 à 16 ans. Les parents qui ne respectent pas cette règle risquent une amende et une peine de prison."
+      "explanation": "En France, l'instruction est obligatoire de 3 à 16 ans. Les parents qui ne respectent pas cette règle risquent une amende et une peine de prison.",
+      "questionEn": "What is the parents' obligation regarding their child's education?",
+      "optionsEn": [
+        "School is optional if the parents work from home",
+        "Education is mandatory for all children between 3 and 16 years old",
+        "Parents must choose a religious education for their child",
+        "Education only involves learning to read"
+      ],
+      "explanationEn": "In France, education is mandatory from age 3 to 16. Parents who do not follow this rule risk a fine and even prison."
     },
     {
       "id": "vf-q113",
@@ -1345,7 +2230,15 @@
         "Ils doivent suivre leurs traditions culturelles même si elles sont contraires à la loi française"
       ],
       "correctAnswer": 1,
-      "explanation": "Les parents doivent agir dans l'intérêt et le respect de l'enfant. La violence (physique ou psychologique) est interdite et la loi française est toujours prioritaire sur les traditions."
+      "explanation": "Les parents doivent agir dans l'intérêt et le respect de l'enfant. La violence (physique ou psychologique) est interdite et la loi française est toujours prioritaire sur les traditions.",
+      "questionEn": "How must parents exercise their authority?",
+      "optionsEn": [
+        "They can use physical violence to make the child obey",
+        "They must respect the child's interest without using physical or psychological violence",
+        "They must decide everything without ever listening to the child's opinion",
+        "They must follow their cultural traditions even if they go against French law"
+      ],
+      "explanationEn": "Parents must act in the child's interest and with respect. Violence (physical or psychological) is forbidden, and French law always takes priority over traditions."
     },
     {
       "id": "vf-q114",
@@ -1357,7 +2250,17 @@
         "Jamais, les parents ont toujours l'autorité sur leurs enfants"
       ],
       "correctAnswer": 2,
-      "explanation": "L'autorité parentale prend fin à la majorité de l'enfant (18 ans), en cas d'émancipation, ou si un juge décide de la retirer aux parents."
+      "explanation": "L'autorité parentale prend fin à la majorité de l'enfant (18 ans), en cas d'émancipation, ou si un juge décide de la retirer aux parents.",
+      "questionEn": "When does parental authority end?",
+      "optionsEn": [
+        "When the child is 16 years old",
+        "When the child leaves home",
+        "When the child turns 18 or is legally emancipated",
+        "Never, parents always have authority over their children"
+      ],
+      "explanationEn": "Parental authority ends when the child turns 18, if the child is legally emancipated, or if a judge decides to remove it from the parents."
     }
-  ]
+  ],
+  "titleEn": "Living in French Society",
+  "descriptionEn": "Quiz – Administrative Steps • Health • Employment • Parenting. Test your knowledge with questions based on official civic education materials."
 }
