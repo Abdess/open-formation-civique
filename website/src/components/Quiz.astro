@@ -15,6 +15,11 @@ const { quizData } = Astro.props;
     <div class="quiz-progress-bar">
       <div class="quiz-progress-fill" id="quiz-progress-fill"></div>
     </div>
+    <div class="quiz-lang-toggle" id="quiz-lang-toggle">
+      <button type="button" data-lang="fr" class="quiz-lang-btn">FR</button>
+      <button type="button" data-lang="fr-en" class="quiz-lang-btn">FR + EN</button>
+      <button type="button" data-lang="en" class="quiz-lang-btn">EN</button>
+    </div>
   </div>
 
   <div class="quiz-card" id="quiz-card">
@@ -55,7 +60,17 @@ const { quizData } = Astro.props;
 </div>
 
 <script>
-  import { saveQuizResult, saveQuizProgress, getQuizProgress } from '../utils/quizStorage';
+  import { saveQuizResult, saveQuizProgress, getQuizProgress, getLanguageMode, setLanguageMode, updateSR } from '../utils/quizStorage';
+  import type { LanguageMode } from '../utils/quizStorage';
+
+  function speak(text: string, lang = 'fr-FR') {
+    if (!('speechSynthesis' in window)) return;
+    speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = lang;
+    utterance.rate = 0.85;
+    speechSynthesis.speak(utterance);
+  }
 
   function initQuiz() {
     const rootEl = document.getElementById('quiz-root');
@@ -90,6 +105,28 @@ const { quizData } = Astro.props;
     const headerEl = document.getElementById('quiz-header')!;
     const retryBtn = document.getElementById('quiz-retry') as HTMLButtonElement;
 
+    let langMode: LanguageMode = getLanguageMode();
+
+    const langToggle = document.getElementById('quiz-lang-toggle')!;
+    const langBtns = langToggle.querySelectorAll<HTMLButtonElement>('.quiz-lang-btn');
+
+    function updateLangToggle() {
+      langBtns.forEach((btn) => {
+        btn.classList.toggle('active', btn.dataset.lang === langMode);
+      });
+    }
+
+    langBtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        langMode = btn.dataset.lang as LanguageMode;
+        setLanguageMode(langMode);
+        updateLangToggle();
+        renderQuestion();
+      });
+    });
+
+    updateLangToggle();
+
     function persistProgress() {
       saveQuizProgress(quiz.id, currentIndex, answers, validated);
     }
@@ -114,7 +151,49 @@ const { quizData } = Astro.props;
       const { correct, answered } = getLiveScore();
       scoreLive.textContent = answered > 0 ? `${correct} / ${answered} correct` : '';
 
-      questionText.textContent = q.question;
+      const hasTrans = !!q.questionEn;
+      if (langMode === 'fr-en' && hasTrans) {
+        questionText.textContent = q.question;
+        const sub = document.createElement('span');
+        sub.className = 'q-translation';
+        sub.textContent = q.questionEn;
+        questionText.appendChild(sub);
+      } else if (langMode === 'en' && hasTrans) {
+        questionText.textContent = q.questionEn;
+      } else {
+        questionText.textContent = q.question;
+      }
+
+      const existingSpeakBtn = document.getElementById('quiz-speak-btn');
+      if (existingSpeakBtn) existingSpeakBtn.remove();
+
+      const speakBtn = document.createElement('button');
+      speakBtn.id = 'quiz-speak-btn';
+      speakBtn.className = 'quiz-speak-btn';
+      speakBtn.type = 'button';
+      speakBtn.setAttribute('aria-label', 'Écouter la question');
+
+      const speakSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      speakSvg.setAttribute('width', '18');
+      speakSvg.setAttribute('height', '18');
+      speakSvg.setAttribute('viewBox', '0 0 24 24');
+      speakSvg.setAttribute('fill', 'none');
+      speakSvg.setAttribute('stroke', 'currentColor');
+      speakSvg.setAttribute('stroke-width', '2');
+      speakSvg.setAttribute('stroke-linecap', 'round');
+      speakSvg.setAttribute('stroke-linejoin', 'round');
+
+      const speakerPath = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      speakerPath.setAttribute('d', 'M11 5L6 9H2v6h4l5 4V5z');
+      const waveOuter = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      waveOuter.setAttribute('d', 'M19.07 4.93a10 10 0 010 14.14');
+      const waveInner = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      waveInner.setAttribute('d', 'M15.54 8.46a5 5 0 010 7.07');
+
+      speakSvg.append(speakerPath, waveOuter, waveInner);
+      speakBtn.appendChild(speakSvg);
+      speakBtn.addEventListener('click', () => speak(q.question));
+      questionText.after(speakBtn);
 
       optionsContainer.innerHTML = '';
       
@@ -162,7 +241,18 @@ const { quizData } = Astro.props;
 
         const text = document.createElement('span');
         text.className = 'q-text';
-        text.textContent = option;
+        const optionEn = q.optionsEn?.[i];
+        if (langMode === 'fr-en' && optionEn) {
+          text.textContent = option;
+          const optSub = document.createElement('span');
+          optSub.className = 'q-option-translation';
+          optSub.textContent = optionEn;
+          text.appendChild(optSub);
+        } else if (langMode === 'en' && optionEn) {
+          text.textContent = optionEn;
+        } else {
+          text.textContent = option;
+        }
 
         label.appendChild(indicator);
         label.appendChild(text);
@@ -186,13 +276,23 @@ const { quizData } = Astro.props;
 
       if (validated[currentIndex]) {
         const isCorrect = answers[currentIndex] === q.correctAnswer;
+        const explanationText = (langMode === 'en' && q.explanationEn)
+          ? q.explanationEn
+          : q.explanation;
         feedback.innerHTML = `<div class="q-feedback ${isCorrect ? 'q-fb-correct' : 'q-fb-wrong'}">
           <span class="q-fb-icon">${isCorrect ? '\u2713' : '\u2717'}</span>
           <div>
             <strong>${isCorrect ? 'Bonne r\u00e9ponse !' : 'Mauvaise r\u00e9ponse'}</strong>
-            <p>${q.explanation}</p>
+            <p>${explanationText}</p>
           </div>
         </div>`;
+        if (langMode === 'fr-en' && q.explanationEn) {
+          const explanationDiv = feedback.querySelector('.q-feedback > div')!;
+          const transSub = document.createElement('p');
+          transSub.className = 'q-translation';
+          transSub.textContent = q.explanationEn;
+          explanationDiv.appendChild(transSub);
+        }
         validateBtn.style.display = 'none';
         nextBtn.style.display = '';
       } else {
@@ -216,6 +316,8 @@ const { quizData } = Astro.props;
         return;
       }
       validated[currentIndex] = true;
+      const isCorrect = answers[currentIndex] === questions[currentIndex].correctAnswer;
+      updateSR(questions[currentIndex].id, quiz.id, isCorrect);
       persistProgress();
       renderQuestion();
     });
@@ -370,6 +472,27 @@ const { quizData } = Astro.props;
 
   .quiz-question-text:focus:not(:focus-visible) {
     outline: none;
+  }
+
+  .quiz-speak-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 0.5rem;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--sl-color-gray-3);
+    cursor: pointer;
+    margin-top: 0.5rem;
+    transition: all 0.15s ease;
+  }
+
+  .quiz-speak-btn:hover {
+    background: rgba(99, 102, 241, 0.15);
+    color: var(--sl-color-white);
+    border-color: rgba(99, 102, 241, 0.4);
   }
 
   /* Options — using global classes for dynamic elements */
@@ -667,6 +790,52 @@ const { quizData } = Astro.props;
     gap: 0.75rem;
     justify-content: center;
     flex-wrap: wrap;
+  }
+
+  /* Language toggle */
+  .quiz-lang-toggle {
+    display: flex;
+    gap: 0.25rem;
+    margin-top: 0.5rem;
+  }
+
+  .quiz-lang-btn {
+    padding: 0.25rem 0.75rem;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 0.375rem;
+    background: transparent;
+    color: var(--sl-color-gray-3);
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .quiz-lang-btn:hover {
+    border-color: rgba(99, 102, 241, 0.4);
+    color: var(--sl-color-white);
+  }
+
+  .quiz-lang-btn.active {
+    background: rgba(99, 102, 241, 0.2);
+    border-color: rgba(99, 102, 241, 0.5);
+    color: var(--sl-color-white);
+  }
+
+  .q-translation {
+    display: block;
+    font-size: 0.85em;
+    color: var(--sl-color-gray-3);
+    margin-top: 0.35rem;
+    font-style: italic;
+  }
+
+  .q-option-translation {
+    display: block;
+    font-size: 0.8em;
+    color: var(--sl-color-gray-4);
+    margin-top: 0.15rem;
+    font-style: italic;
   }
 
   @media (max-width: 480px) {

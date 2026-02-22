@@ -1,0 +1,458 @@
+---
+interface QuizFile {
+  default: { questions: unknown[] };
+}
+
+const quizModules = import.meta.glob<QuizFile>('../data/quizzes/*.json', { eager: true });
+const allQuestions = JSON.stringify(
+  Object.values(quizModules).flatMap((mod) => mod.default.questions)
+);
+---
+
+<div class="exam-container" id="exam-root" data-questions={allQuestions}>
+  <div class="exam-start" id="exam-start">
+    <div class="exam-start-card">
+      <h2>Simulation d'examen civique</h2>
+      <ul class="exam-rules">
+        <li><strong>40 questions</strong> tirées aléatoirement</li>
+        <li><strong>45 minutes</strong> maximum</li>
+        <li><strong>Pas de feedback</strong> pendant l'examen</li>
+        <li><strong>80% requis</strong> pour réussir (32/40)</li>
+      </ul>
+      <button class="quiz-btn quiz-btn-primary exam-start-btn" id="exam-start-btn" type="button">
+        Commencer l'examen
+      </button>
+    </div>
+  </div>
+
+  <div class="exam-active" id="exam-active" style="display:none">
+    <div class="exam-header" id="exam-header">
+      <span class="exam-counter" id="exam-counter"></span>
+      <div class="quiz-progress-bar" style="flex:1">
+        <div class="quiz-progress-fill" id="exam-progress-fill"></div>
+      </div>
+      <span class="exam-timer" id="exam-timer"></span>
+    </div>
+    <div class="quiz-card" id="exam-card">
+      <h2 class="quiz-question-text" id="exam-question-text" tabindex="-1"></h2>
+      <div class="quiz-options" id="exam-options"></div>
+      <div class="quiz-nav">
+        <button class="quiz-btn quiz-btn-ghost" id="exam-prev" type="button">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M10 12L6 8l4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Précédent
+        </button>
+        <span id="exam-nav-spacer"></span>
+        <button class="quiz-btn quiz-btn-primary" id="exam-next" type="button">
+          Suivant
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M6 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="quiz-btn quiz-btn-primary" id="exam-finish" type="button" style="display:none">
+          Terminer l'examen
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="exam-result" id="exam-result" style="display:none">
+    <div class="quiz-result-card">
+      <div class="quiz-result-circle">
+        <svg viewBox="0 0 120 120" class="quiz-result-svg">
+          <circle cx="60" cy="60" r="54" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="8"/>
+          <circle cx="60" cy="60" r="54" fill="none" stroke-width="8" stroke-linecap="round" id="exam-result-arc"
+            stroke-dasharray="339.29" stroke-dashoffset="339.29" transform="rotate(-90 60 60)"/>
+        </svg>
+        <div class="quiz-result-percent" id="exam-result-percent"></div>
+      </div>
+      <h2 class="quiz-result-title" id="exam-result-title"></h2>
+      <p class="quiz-result-detail" id="exam-result-detail"></p>
+      <div id="exam-result-review"></div>
+      <div class="quiz-result-actions">
+        <button class="quiz-btn quiz-btn-primary" id="exam-retry" type="button">Recommencer</button>
+        <a class="quiz-btn quiz-btn-ghost" href="/quiz/">Tous les quiz</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  import { getLanguageMode } from '../utils/quizStorage';
+  import type { LanguageMode } from '../utils/quizStorage';
+
+  interface ExamQuestion {
+    question: string;
+    questionEn?: string;
+    options: string[];
+    optionsEn?: string[];
+    correctAnswer: number;
+    explanation: string;
+    explanationEn?: string;
+  }
+
+  const EXAM_COUNT = 40;
+  const EXAM_DURATION = 45 * 60;
+
+  function shuffle<T>(arr: T[]): T[] {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  function formatTime(seconds: number): string {
+    const m = Math.floor(seconds / 60);
+    const s = seconds % 60;
+    return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+  }
+
+  function initExam() {
+    const rootEl = document.getElementById('exam-root');
+    if (!rootEl?.dataset.questions) return;
+
+    const allQuestions: ExamQuestion[] = JSON.parse(rootEl.dataset.questions);
+    let questions: ExamQuestion[] = [];
+    let answers: (number | null)[] = [];
+    let currentIndex = 0;
+    let secondsLeft = EXAM_DURATION;
+    let timerId: ReturnType<typeof setInterval> | null = null;
+    const langMode: LanguageMode = getLanguageMode();
+
+    const startScreen = document.getElementById('exam-start')!;
+    const activeScreen = document.getElementById('exam-active')!;
+    const resultScreen = document.getElementById('exam-result')!;
+    const startBtn = document.getElementById('exam-start-btn') as HTMLButtonElement;
+
+    const counter = document.getElementById('exam-counter')!;
+    const progressFill = document.getElementById('exam-progress-fill')!;
+    const timerEl = document.getElementById('exam-timer')!;
+    const questionText = document.getElementById('exam-question-text')!;
+    const optionsContainer = document.getElementById('exam-options')!;
+    const prevBtn = document.getElementById('exam-prev') as HTMLButtonElement;
+    const nextBtn = document.getElementById('exam-next') as HTMLButtonElement;
+    const finishBtn = document.getElementById('exam-finish') as HTMLButtonElement;
+    const retryBtn = document.getElementById('exam-retry') as HTMLButtonElement;
+
+    function startExam() {
+      questions = shuffle(allQuestions).slice(0, EXAM_COUNT);
+      answers = new Array(questions.length).fill(null);
+      currentIndex = 0;
+      secondsLeft = EXAM_DURATION;
+
+      startScreen.style.display = 'none';
+      resultScreen.style.display = 'none';
+      activeScreen.style.display = '';
+
+      timerId = setInterval(() => {
+        secondsLeft--;
+        timerEl.textContent = formatTime(secondsLeft);
+        timerEl.classList.toggle('exam-timer-warning', secondsLeft < 300);
+        if (secondsLeft <= 0) finishExam();
+      }, 1000);
+
+      timerEl.textContent = formatTime(secondsLeft);
+      renderQuestion();
+    }
+
+    function renderQuestion() {
+      const q = questions[currentIndex];
+      const total = questions.length;
+      counter.textContent = `${currentIndex + 1} / ${total}`;
+      progressFill.style.width = `${((currentIndex + 1) / total) * 100}%`;
+
+      const hasTrans = !!q.questionEn;
+      if (langMode === 'fr-en' && hasTrans) {
+        questionText.textContent = q.question;
+        const sub = document.createElement('span');
+        sub.className = 'q-translation';
+        sub.textContent = q.questionEn!;
+        questionText.appendChild(sub);
+      } else if (langMode === 'en' && hasTrans) {
+        questionText.textContent = q.questionEn!;
+      } else {
+        questionText.textContent = q.question;
+      }
+
+      optionsContainer.innerHTML = '';
+      const fieldset = document.createElement('fieldset');
+      fieldset.className = 'q-fieldset';
+      const legend = document.createElement('legend');
+      legend.className = 'q-legend';
+      legend.textContent = 'Choisissez une réponse';
+      fieldset.appendChild(legend);
+
+      q.options.forEach((option, i) => {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'q-option-wrapper';
+
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = `exam-q${currentIndex}`;
+        input.id = `exam-q${currentIndex}-opt${i}`;
+        input.value = String(i);
+        input.className = 'q-radio';
+        input.checked = answers[currentIndex] === i;
+
+        const label = document.createElement('label');
+        label.htmlFor = input.id;
+        label.className = 'q-option';
+        if (answers[currentIndex] === i) label.classList.add('q-selected');
+
+        const indicator = document.createElement('span');
+        indicator.className = 'q-indicator';
+        indicator.textContent = String.fromCharCode(65 + i);
+
+        const text = document.createElement('span');
+        text.className = 'q-text';
+        const optionEn = q.optionsEn?.[i];
+        if (langMode === 'fr-en' && optionEn) {
+          text.textContent = option;
+          const optSub = document.createElement('span');
+          optSub.className = 'q-option-translation';
+          optSub.textContent = optionEn;
+          text.appendChild(optSub);
+        } else if (langMode === 'en' && optionEn) {
+          text.textContent = optionEn;
+        } else {
+          text.textContent = option;
+        }
+
+        label.appendChild(indicator);
+        label.appendChild(text);
+        wrapper.appendChild(input);
+        wrapper.appendChild(label);
+        fieldset.appendChild(wrapper);
+
+        input.addEventListener('change', () => {
+          answers[currentIndex] = i;
+          fieldset.querySelectorAll('.q-option').forEach((opt, idx) => {
+            opt.classList.toggle('q-selected', idx === i);
+          });
+        });
+      });
+
+      optionsContainer.appendChild(fieldset);
+      prevBtn.disabled = currentIndex === 0;
+
+      const isLast = currentIndex === total - 1;
+      nextBtn.style.display = isLast ? 'none' : '';
+      finishBtn.style.display = isLast ? '' : 'none';
+    }
+
+    function buildReviewItem(index: number, q: ExamQuestion, userAnswer: number | null): HTMLElement {
+      const item = document.createElement('div');
+      item.className = 'exam-review-item';
+
+      const qTitle = document.createElement('strong');
+      qTitle.textContent = `Q${index + 1}. ${q.question}`;
+      item.appendChild(qTitle);
+
+      const detail = document.createElement('div');
+      detail.className = 'exam-review-answer';
+
+      const yourLine = document.createElement('span');
+      yourLine.style.color = '#ef4444';
+      yourLine.textContent = `Votre réponse : ${userAnswer !== null ? q.options[userAnswer] : 'Aucune réponse'}`;
+      detail.appendChild(yourLine);
+
+      detail.appendChild(document.createElement('br'));
+
+      const correctLine = document.createElement('span');
+      correctLine.style.color = '#22c55e';
+      correctLine.textContent = `Bonne réponse : ${q.options[q.correctAnswer]}`;
+      detail.appendChild(correctLine);
+
+      if (q.explanation) {
+        const expl = document.createElement('p');
+        expl.style.cssText = 'margin:0.25rem 0 0;font-size:0.8rem;opacity:0.8';
+        expl.textContent = q.explanation;
+        detail.appendChild(expl);
+      }
+
+      item.appendChild(detail);
+      return item;
+    }
+
+    function finishExam() {
+      if (timerId) { clearInterval(timerId); timerId = null; }
+
+      let correct = 0;
+      const wrongItems: { index: number; q: ExamQuestion; userAnswer: number | null }[] = [];
+
+      questions.forEach((q, i) => {
+        if (answers[i] === q.correctAnswer) {
+          correct++;
+        } else {
+          wrongItems.push({ index: i, q, userAnswer: answers[i] });
+        }
+      });
+
+      const total = questions.length;
+      const percent = Math.round((correct / total) * 100);
+      const passed = percent >= 80;
+
+      activeScreen.style.display = 'none';
+      resultScreen.style.display = '';
+
+      const arc = document.getElementById('exam-result-arc')!;
+      const circumference = 339.29;
+      const offset = circumference - (circumference * percent) / 100;
+      const color = passed ? '#22c55e' : '#ef4444';
+
+      arc.style.stroke = color;
+      requestAnimationFrame(() => {
+        arc.style.transition = 'stroke-dashoffset 1s ease';
+        arc.style.strokeDashoffset = String(offset);
+      });
+
+      const percentEl = document.getElementById('exam-result-percent')!;
+      percentEl.textContent = `${percent}%`;
+      percentEl.style.color = color;
+
+      document.getElementById('exam-result-title')!.textContent =
+        passed ? 'Félicitations !' : 'Pas encore...';
+
+      const gap = 80 - percent;
+      document.getElementById('exam-result-detail')!.textContent =
+        `${correct} / ${total} — ${passed ? 'Examen réussi' : `${gap > 0 ? gap : 0}% manquants pour réussir`}`;
+
+      const reviewContainer = document.getElementById('exam-result-review')!;
+      reviewContainer.replaceChildren();
+
+      if (wrongItems.length > 0) {
+        const reviewTitle = document.createElement('h3');
+        reviewTitle.textContent = `Réponses incorrectes (${wrongItems.length})`;
+        reviewTitle.style.marginBottom = '0.75rem';
+        reviewContainer.appendChild(reviewTitle);
+
+        wrongItems.forEach(({ index, q, userAnswer }) => {
+          reviewContainer.appendChild(buildReviewItem(index, q, userAnswer));
+        });
+      }
+    }
+
+    startBtn.addEventListener('click', startExam);
+
+    nextBtn.addEventListener('click', () => {
+      if (currentIndex < questions.length - 1) {
+        currentIndex++;
+        renderQuestion();
+        questionText.focus();
+      }
+    });
+
+    prevBtn.addEventListener('click', () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        renderQuestion();
+        questionText.focus();
+      }
+    });
+
+    finishBtn.addEventListener('click', () => {
+      const unanswered = answers.filter((a) => a === null).length;
+      if (unanswered > 0 && !confirm(`${unanswered} question${unanswered > 1 ? 's' : ''} sans réponse. Terminer quand même ?`)) return;
+      finishExam();
+    });
+
+    retryBtn.addEventListener('click', () => {
+      const arc = document.getElementById('exam-result-arc')!;
+      arc.style.transition = 'none';
+      arc.style.strokeDashoffset = '339.29';
+      startExam();
+    });
+  }
+
+  initExam();
+</script>
+
+<style is:global>
+  .exam-container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .exam-start {
+    text-align: center;
+    padding: 3rem 1rem;
+  }
+
+  .exam-start-card {
+    max-width: 28rem;
+    margin: 0 auto;
+  }
+
+  .exam-rules {
+    list-style: none;
+    padding: 0;
+    margin: 1.5rem 0;
+    text-align: left;
+  }
+
+  .exam-rules li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  [data-theme='light'] .exam-rules li {
+    border-bottom-color: rgba(0, 0, 0, 0.08);
+  }
+
+  .exam-start-btn {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    padding: 0.75rem 2rem;
+  }
+
+  .exam-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    border-radius: 0.75rem;
+    background: rgba(255, 255, 255, 0.03);
+    margin-bottom: 1.5rem;
+  }
+
+  [data-theme='light'] .exam-header {
+    background: rgba(0, 0, 0, 0.03);
+  }
+
+  .exam-counter {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .exam-timer {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-weight: 700;
+    font-size: 1.1rem;
+    white-space: nowrap;
+  }
+
+  .exam-timer-warning {
+    color: #ef4444;
+  }
+
+  .exam-review-item {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  [data-theme='light'] .exam-review-item {
+    border-bottom-color: rgba(0, 0, 0, 0.06);
+  }
+
+  .exam-review-answer {
+    font-size: 0.875rem;
+    color: var(--sl-color-gray-3);
+    margin-top: 0.25rem;
+  }
+
+  #exam-result-review {
+    margin-top: 1.5rem;
+    text-align: left;
+    max-height: 20rem;
+    overflow-y: auto;
+  }
+</style>

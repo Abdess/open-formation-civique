@@ -127,6 +127,35 @@ import quizData from '../../../data/quizzes/${quizId}.json';
     writeFileSync(join(quizContentDir, `${quizId}.mdx`), quizPageContent);
     console.log(`✓ Created quiz/${quizId}.mdx`);
   });
+
+  const reviewPageContent = `---
+title: "Révision espacée"
+description: "Révisez les questions qui ont besoin d'être renforcées grâce à la répétition espacée."
+tableOfContents: false
+---
+
+import ReviewQuiz from '../../../components/ReviewQuiz.astro';
+
+<ReviewQuiz />
+`;
+
+  writeFileSync(join(quizContentDir, 'review.mdx'), reviewPageContent);
+  console.log('✓ Created quiz/review.mdx');
+
+  // Exam simulation page
+  const examPageContent = `---
+title: "Simulation d'examen civique"
+description: "Entraînez-vous en conditions réelles : 40 questions, 45 minutes, seuil de réussite à 80%."
+tableOfContents: false
+---
+
+import ExamSimulation from '../../../components/ExamSimulation.astro';
+
+<ExamSimulation />
+`;
+
+  writeFileSync(join(quizContentDir, 'exam.mdx'), examPageContent);
+  console.log('✓ Created quiz/exam.mdx');
 }
 
 function generateOfficialQuizFiles(

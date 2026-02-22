@@ -11,7 +11,8 @@
     "astro": "astro",
     "generate": "npx tsx scripts/generate-pages.ts",
     "generate:quizzes": "npx tsx --env-file=.env scripts/generate-quizzes.ts",
-    "generate:official-quizzes": "npx tsx --env-file=.env scripts/generate-official-quizzes.ts"
+    "generate:official-quizzes": "npx tsx --env-file=.env scripts/generate-official-quizzes.ts",
+    "translate:quizzes": "npx tsx --env-file=.env scripts/translate-quizzes.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.3.0",

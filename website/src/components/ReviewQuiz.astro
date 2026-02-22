@@ -1,0 +1,464 @@
+---
+interface QuizFile {
+  default: { id: string; title: string; questions: unknown[] };
+}
+
+const quizModules = import.meta.glob<QuizFile>('../data/quizzes/*.json', { eager: true });
+const allQuizData = JSON.stringify(
+  Object.fromEntries(
+    Object.values(quizModules).map((mod) => [mod.default.id, mod.default])
+  )
+);
+---
+
+<div class="review-container" id="review-root" data-quizzes={allQuizData}>
+  <div class="review-empty" id="review-empty" style="display:none">
+    <div class="review-empty-card">
+      <svg width="64" height="64" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+        <circle cx="32" cy="32" r="30" stroke="rgba(34,197,94,0.3)" stroke-width="4"/>
+        <path d="M20 33l8 8 16-16" stroke="#22c55e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <h2 class="review-empty-title">Rien à réviser !</h2>
+      <p class="review-empty-message">Toutes vos questions sont à jour. Revenez plus tard ou explorez de nouveaux quiz.</p>
+      <a class="quiz-btn quiz-btn-primary" href="/quiz/">Voir tous les quiz</a>
+    </div>
+  </div>
+
+  <div class="review-active" id="review-active" style="display:none">
+    <div class="quiz-header" id="review-header">
+      <div class="quiz-header-info">
+        <span class="quiz-counter" id="review-counter"></span>
+        <span class="quiz-score-live" id="review-score-live"></span>
+      </div>
+      <div class="quiz-progress-bar">
+        <div class="quiz-progress-fill" id="review-progress-fill"></div>
+      </div>
+      <div class="quiz-lang-toggle" id="review-lang-toggle">
+        <button type="button" data-lang="fr" class="quiz-lang-btn">FR</button>
+        <button type="button" data-lang="fr-en" class="quiz-lang-btn">FR + EN</button>
+        <button type="button" data-lang="en" class="quiz-lang-btn">EN</button>
+      </div>
+    </div>
+
+    <div class="quiz-card" id="review-card">
+      <p class="review-source" id="review-source"></p>
+      <h2 class="quiz-question-text" id="review-question-text" tabindex="-1"></h2>
+      <div class="quiz-options" id="review-options"></div>
+      <div class="quiz-feedback" id="review-feedback" aria-live="polite" aria-atomic="true"></div>
+      <div class="quiz-nav">
+        <span></span>
+        <button class="quiz-btn quiz-btn-primary" id="review-validate" type="button">Valider</button>
+        <button class="quiz-btn quiz-btn-primary" id="review-next" type="button" style="display:none">
+          Suivant
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M6 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="review-result" id="review-result" style="display:none">
+    <div class="quiz-result-card">
+      <div class="quiz-result-circle">
+        <svg viewBox="0 0 120 120" class="quiz-result-svg">
+          <circle cx="60" cy="60" r="54" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="8"/>
+          <circle cx="60" cy="60" r="54" fill="none" stroke-width="8" stroke-linecap="round" id="review-result-arc"
+            stroke-dasharray="339.29" stroke-dashoffset="339.29" transform="rotate(-90 60 60)"/>
+        </svg>
+        <div class="quiz-result-percent" id="review-result-percent"></div>
+      </div>
+      <h2 class="quiz-result-title" id="review-result-title"></h2>
+      <p class="quiz-result-detail" id="review-result-detail"></p>
+      <div class="quiz-result-actions">
+        <a class="quiz-btn quiz-btn-primary" href="/quiz/">Tous les quiz</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  import { getDueQuestions, updateSR, getLanguageMode, setLanguageMode } from '../utils/quizStorage';
+  import type { LanguageMode } from '../utils/quizStorage';
+
+  interface ReviewQuestion {
+    id: string;
+    quizId: string;
+    quizTitle: string;
+    question: string;
+    questionEn?: string;
+    options: string[];
+    optionsEn?: string[];
+    correctAnswer: number;
+    explanation: string;
+    explanationEn?: string;
+  }
+
+  function initReview() {
+    const rootEl = document.getElementById('review-root');
+    if (!rootEl?.dataset.quizzes) return;
+
+    const allQuizzes: Record<string, { id: string; title: string; questions: ReviewQuestion[] }> =
+      JSON.parse(rootEl.dataset.quizzes);
+
+    const dueItems = getDueQuestions(20);
+
+    if (dueItems.length === 0) {
+      document.getElementById('review-empty')!.style.display = '';
+      return;
+    }
+
+    const questionIndex = new Map<string, { quiz: typeof allQuizzes[string]; question: ReviewQuestion }>();
+    for (const quiz of Object.values(allQuizzes)) {
+      for (const q of quiz.questions) {
+        questionIndex.set(q.id, { quiz, question: q });
+      }
+    }
+
+    const questions: ReviewQuestion[] = [];
+    for (const item of dueItems) {
+      const entry = questionIndex.get(item.questionId);
+      if (entry) {
+        questions.push({
+          ...entry.question,
+          quizId: entry.quiz.id,
+          quizTitle: entry.quiz.title,
+        });
+      }
+    }
+
+    if (questions.length === 0) {
+      document.getElementById('review-empty')!.style.display = '';
+      return;
+    }
+
+    document.getElementById('review-active')!.style.display = '';
+
+    const totalQuestions = questions.length;
+    let currentIndex = 0;
+    let answers: (number | null)[] = new Array(totalQuestions).fill(null);
+    let validated: boolean[] = new Array(totalQuestions).fill(false);
+
+    const counter = document.getElementById('review-counter')!;
+    const scoreLive = document.getElementById('review-score-live')!;
+    const progressFill = document.getElementById('review-progress-fill')!;
+    const questionText = document.getElementById('review-question-text')!;
+    const optionsContainer = document.getElementById('review-options')!;
+    const feedback = document.getElementById('review-feedback')!;
+    const sourceLabel = document.getElementById('review-source')!;
+    const validateBtn = document.getElementById('review-validate') as HTMLButtonElement;
+    const nextBtn = document.getElementById('review-next') as HTMLButtonElement;
+    const headerEl = document.getElementById('review-header')!;
+    const cardEl = document.getElementById('review-card')!;
+    const resultArea = document.getElementById('review-result')!;
+
+    let langMode: LanguageMode = getLanguageMode();
+
+    const langToggle = document.getElementById('review-lang-toggle')!;
+    const langBtns = langToggle.querySelectorAll<HTMLButtonElement>('.quiz-lang-btn');
+
+    function updateLangToggle() {
+      langBtns.forEach((btn) => {
+        btn.classList.toggle('active', btn.dataset.lang === langMode);
+      });
+    }
+
+    langBtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        langMode = btn.dataset.lang as LanguageMode;
+        setLanguageMode(langMode);
+        updateLangToggle();
+        renderQuestion();
+      });
+    });
+
+    updateLangToggle();
+
+    function getLiveScore(): { correct: number; answered: number } {
+      let correct = 0;
+      let answered = 0;
+      for (let i = 0; i < totalQuestions; i++) {
+        if (validated[i]) {
+          answered++;
+          if (answers[i] === questions[i].correctAnswer) correct++;
+        }
+      }
+      return { correct, answered };
+    }
+
+    function buildFeedback(isCorrect: boolean, explanationText: string): HTMLDivElement {
+      const container = document.createElement('div');
+      container.className = `q-feedback ${isCorrect ? 'q-fb-correct' : 'q-fb-wrong'}`;
+
+      const icon = document.createElement('span');
+      icon.className = 'q-fb-icon';
+      icon.textContent = isCorrect ? '\u2713' : '\u2717';
+      container.appendChild(icon);
+
+      const body = document.createElement('div');
+      const strong = document.createElement('strong');
+      strong.textContent = isCorrect ? 'Bonne réponse !' : 'Mauvaise réponse';
+      body.appendChild(strong);
+
+      const p = document.createElement('p');
+      p.textContent = explanationText;
+      body.appendChild(p);
+
+      container.appendChild(body);
+      return container;
+    }
+
+    function buildCheckSvg(): string {
+      return '<svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8l3.5 3.5L13 5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    }
+
+    function buildCrossSvg(): string {
+      return '<svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>';
+    }
+
+    function buildNextSvg(): SVGSVGElement {
+      const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      svg.setAttribute('width', '16');
+      svg.setAttribute('height', '16');
+      svg.setAttribute('viewBox', '0 0 16 16');
+      svg.setAttribute('fill', 'none');
+      const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      path.setAttribute('d', 'M6 4l4 4-4 4');
+      path.setAttribute('stroke', 'currentColor');
+      path.setAttribute('stroke-width', '2');
+      path.setAttribute('stroke-linecap', 'round');
+      path.setAttribute('stroke-linejoin', 'round');
+      svg.appendChild(path);
+      return svg;
+    }
+
+    function renderQuestion() {
+      const q = questions[currentIndex];
+      counter.textContent = `Question ${currentIndex + 1} / ${totalQuestions}`;
+      progressFill.style.width = `${((currentIndex + 1) / totalQuestions) * 100}%`;
+
+      const { correct, answered } = getLiveScore();
+      scoreLive.textContent = answered > 0 ? `${correct} / ${answered} correct` : '';
+
+      sourceLabel.textContent = q.quizTitle;
+
+      const hasTrans = !!q.questionEn;
+      if (langMode === 'fr-en' && hasTrans) {
+        questionText.textContent = q.question;
+        const sub = document.createElement('span');
+        sub.className = 'q-translation';
+        sub.textContent = q.questionEn!;
+        questionText.appendChild(sub);
+      } else if (langMode === 'en' && hasTrans) {
+        questionText.textContent = q.questionEn!;
+      } else {
+        questionText.textContent = q.question;
+      }
+
+      optionsContainer.textContent = '';
+
+      const fieldset = document.createElement('fieldset');
+      fieldset.className = 'q-fieldset';
+
+      const legend = document.createElement('legend');
+      legend.className = 'q-legend';
+      legend.textContent = 'Choisissez une réponse';
+      fieldset.appendChild(legend);
+
+      q.options.forEach((option: string, i: number) => {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'q-option-wrapper';
+
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = `review-q${currentIndex}`;
+        input.id = `review-q${currentIndex}-opt${i}`;
+        input.value = String(i);
+        input.className = 'q-radio';
+        input.checked = answers[currentIndex] === i;
+        input.disabled = validated[currentIndex];
+
+        const label = document.createElement('label');
+        label.htmlFor = input.id;
+        label.className = 'q-option';
+
+        if (validated[currentIndex]) label.classList.add('q-locked');
+        if (answers[currentIndex] === i) label.classList.add('q-selected');
+
+        const indicator = document.createElement('span');
+        indicator.className = 'q-indicator';
+
+        if (validated[currentIndex] && i === q.correctAnswer) {
+          label.classList.add('q-correct');
+          indicator.innerHTML = buildCheckSvg();
+        } else if (validated[currentIndex] && i === answers[currentIndex]) {
+          label.classList.add('q-wrong');
+          indicator.innerHTML = buildCrossSvg();
+        } else {
+          indicator.textContent = String.fromCharCode(65 + i);
+        }
+
+        const text = document.createElement('span');
+        text.className = 'q-text';
+        const optionEn = q.optionsEn?.[i];
+        if (langMode === 'fr-en' && optionEn) {
+          text.textContent = option;
+          const optSub = document.createElement('span');
+          optSub.className = 'q-option-translation';
+          optSub.textContent = optionEn;
+          text.appendChild(optSub);
+        } else if (langMode === 'en' && optionEn) {
+          text.textContent = optionEn;
+        } else {
+          text.textContent = option;
+        }
+
+        label.appendChild(indicator);
+        label.appendChild(text);
+
+        wrapper.appendChild(input);
+        wrapper.appendChild(label);
+        fieldset.appendChild(wrapper);
+
+        if (!validated[currentIndex]) {
+          input.addEventListener('change', () => {
+            answers[currentIndex] = i;
+            fieldset.querySelectorAll('.q-option').forEach((opt, idx) => {
+              opt.classList.toggle('q-selected', idx === i);
+            });
+          });
+        }
+      });
+
+      optionsContainer.appendChild(fieldset);
+
+      feedback.textContent = '';
+      if (validated[currentIndex]) {
+        const isCorrect = answers[currentIndex] === q.correctAnswer;
+        const explanationText = (langMode === 'en' && q.explanationEn)
+          ? q.explanationEn
+          : q.explanation;
+        const feedbackEl = buildFeedback(isCorrect, explanationText);
+        if (langMode === 'fr-en' && q.explanationEn) {
+          const transSub = document.createElement('p');
+          transSub.className = 'q-translation';
+          transSub.textContent = q.explanationEn;
+          feedbackEl.querySelector('div')!.appendChild(transSub);
+        }
+        feedback.appendChild(feedbackEl);
+        validateBtn.style.display = 'none';
+        nextBtn.style.display = '';
+      } else {
+        validateBtn.style.display = '';
+        nextBtn.style.display = 'none';
+      }
+
+      nextBtn.textContent = '';
+      const isLast = validated[currentIndex] && currentIndex === totalQuestions - 1;
+      nextBtn.appendChild(document.createTextNode(isLast ? 'Voir le résultat ' : 'Suivant '));
+      nextBtn.appendChild(buildNextSvg());
+    }
+
+    validateBtn.addEventListener('click', () => {
+      if (answers[currentIndex] === null) {
+        feedback.textContent = '';
+        const warn = document.createElement('div');
+        warn.className = 'q-feedback q-fb-warn';
+        const warnIcon = document.createElement('span');
+        warnIcon.className = 'q-fb-icon';
+        warnIcon.textContent = '!';
+        warn.appendChild(warnIcon);
+        const warnBody = document.createElement('div');
+        warnBody.textContent = 'Veuillez sélectionner une réponse.';
+        warn.appendChild(warnBody);
+        feedback.appendChild(warn);
+        return;
+      }
+      validated[currentIndex] = true;
+      const q = questions[currentIndex];
+      const isCorrect = answers[currentIndex] === q.correctAnswer;
+      updateSR(q.id, q.quizId, isCorrect);
+      renderQuestion();
+    });
+
+    nextBtn.addEventListener('click', () => {
+      if (currentIndex < totalQuestions - 1) {
+        currentIndex++;
+        renderQuestion();
+        questionText.focus();
+      } else {
+        showScore();
+      }
+    });
+
+    function showScore() {
+      const { correct } = getLiveScore();
+      const percent = Math.round((correct / totalQuestions) * 100);
+
+      cardEl.style.display = 'none';
+      headerEl.style.display = 'none';
+      resultArea.style.display = '';
+
+      const arc = document.getElementById('review-result-arc')!;
+      const circumference = 339.29;
+      const offset = circumference - (circumference * percent) / 100;
+
+      let color: string;
+      if (percent >= 80) color = '#22c55e';
+      else if (percent >= 60) color = '#3b82f6';
+      else if (percent >= 40) color = '#eab308';
+      else color = '#ef4444';
+
+      arc.style.stroke = color;
+      requestAnimationFrame(() => {
+        arc.style.transition = 'stroke-dashoffset 1s ease';
+        arc.style.strokeDashoffset = String(offset);
+      });
+
+      const percentEl = document.getElementById('review-result-percent')!;
+      percentEl.textContent = `${percent}%`;
+      percentEl.style.color = color;
+
+      const titleEl = document.getElementById('review-result-title')!;
+      if (percent >= 80) titleEl.textContent = 'Excellent !';
+      else if (percent >= 60) titleEl.textContent = 'Bien !';
+      else if (percent >= 40) titleEl.textContent = 'Peut mieux faire';
+      else titleEl.textContent = 'Continuez vos efforts';
+
+      document.getElementById('review-result-detail')!.textContent =
+        `${correct} bonne${correct > 1 ? 's' : ''} réponse${correct > 1 ? 's' : ''} sur ${totalQuestions}`;
+    }
+
+    renderQuestion();
+  }
+
+  initReview();
+</script>
+
+<style>
+  .review-empty {
+    text-align: center;
+    padding: 3rem 1rem;
+  }
+
+  .review-empty-card {
+    max-width: 24rem;
+    margin: 0 auto;
+  }
+
+  .review-empty-title {
+    margin: 1.5rem 0 0.5rem;
+  }
+
+  .review-empty-message {
+    color: var(--sl-color-gray-3);
+    margin: 0 0 1.5rem;
+    line-height: 1.5;
+  }
+
+  .review-source {
+    font-size: 0.75rem;
+    color: var(--sl-color-gray-4);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+  }
+</style>
